@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 20:01:40 (hora de Perú)
+Actualizado: 2026-11-06 20:03:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7831**  ($443,785,539 en total)
-- Resueltas: **7759** — 4738 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Resueltas: **7760** — 4738 ganadas / 3022 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,342,809** sobre $440,287,624 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,344,809** sobre $440,348,624 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$6,387** sobre $765,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
-| surfandturf | 37 | 10 | 2 | 79% | $3,733,622 | +$512,983 |
+| surfandturf | 37 | 11 | 1 | 77% | $3,733,622 | +$510,983 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | cosmicxbt | 24 | 9 | 0 | 73% | $3,505,913 | -$328,163 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | mooseborzoi | Spread: Raptors (-3.5) | Bucks | 1.96 (51¢) | $29,447 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spurs vs. Kings | Spurs | 1.11 (90¢) | $26,108 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
-| surfandturf | Thunder vs. Grizzlies | Thunder | 1.64 (61¢) | $61,000 | — | ⏳ Pendiente |
+| surfandturf | Thunder vs. Grizzlies | Thunder | 1.64 (61¢) | $61,000 | -$2,000 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.37 (73¢) | $53,101 | — | ⏳ Pendiente |
 | mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | — | ⏳ Pendiente |
