@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 19:22:27 (hora de Perú)
+Actualizado: 2026-11-06 19:24:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7815**  ($443,035,499 en total)
+- Apuestas registradas: **7816**  ($443,094,034 en total)
 - Resueltas: **7759** — 4738 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.64 (61¢) | $61,054 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.67 (60¢) | $35,213 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.45 (69¢) | $30,430 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | +$11,060 | ✅ Ganada |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $33,600 | +$6,400 | ✅ Ganada |
 | ferrariChampions2026 | Jaguars vs. Ravens | Jaguars | 1.23 (81¢) | $179,404 | +$42,082 | ✅ Ganada |
-| Sassy-Bucket | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $794,440 | +$224,073 | ✅ Ganada |

@@ -117456,5 +117456,20 @@
     "status": "pending",
     "ultimo_fill": 1794010364,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15822,
+    "timestamp": 1794011048,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-phi-cle-2026-11-06",
+    "title": "76ers vs. Cavaliers",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 58535.022,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1794011048,
+    "fills": 1
   }
 ]
