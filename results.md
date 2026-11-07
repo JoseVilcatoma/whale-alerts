@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 02:40:30 (hora de Perú)
+Actualizado: 2026-11-07 02:42:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7847**  ($444,972,695 en total)
+- Apuestas registradas: **7848**  ($445,024,259 en total)
 - Resueltas: **7816** — 4777 ganadas / 3039 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | — | ⏳ Pendiente |
 | omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Wonju DB Promy vs. Seoul Thunders | Seoul Thunders | 1.19 (84¢) | $85,540 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $29,931 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $164,000 | +$36,000 | ✅ Ganada |
 | Lanlanlanlan | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.20 (83¢) | $49,519 | +$10,142 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $99,000 | +$51,000 | ✅ Ganada |
-| 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,515 | +$7,796 | ✅ Ganada |

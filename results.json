@@ -117938,5 +117938,20 @@
     "status": "pending",
     "ultimo_fill": 1794034579,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15889,
+    "timestamp": 1794037245,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "cs2-mglz-navi-2026-11-07-game2",
+    "title": "Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 51564.23,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1794037245,
+    "fills": 1
   }
 ]
