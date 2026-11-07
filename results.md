@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 17:06:29 (hora de Perú)
+Actualizado: 2026-11-07 17:08:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7910**  ($448,434,704 en total)
+- Apuestas registradas: **7911**  ($448,495,780 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 40
-- Apostadores distintos: 708
+- Pendientes: 41
+- Apostadores distintos: 709
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 708 en total)_
+_(mostrando los 40 de mayor monto, de 709 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| stuttig | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $61,075 | — | ⏳ Pendiente |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.41 (71¢) | $73,704 | — | ⏳ Pendiente |
 | ch27er | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Nuggets (-7.5) | Nuggets | 1.92 (52¢) | $130,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 708 en total)_
 | TAIWANNUMBERONE | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $31,555 | +$12,889 | ✅ Ganada |
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $50,000 | +$20,423 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
-| NS13 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.69 (59¢) | $29,278 | -$29,278 | ❌ Perdida |
