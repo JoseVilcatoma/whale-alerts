@@ -117968,5 +117968,35 @@
     "status": "pending",
     "ultimo_fill": 1794037476,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15891,
+    "timestamp": 1794037797,
+    "username": "VPenguin",
+    "wallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
+    "slug": "cs2-mglz-navi-2026-11-07",
+    "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 34654.9554,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1794037797,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15892,
+    "timestamp": 1794037803,
+    "username": "NS13",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "cs2-mglz-navi-2026-11-07-game2",
+    "title": "Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 29277.658499999998,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1794037803,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 02:48:32 (hora de Perú)
+Actualizado: 2026-11-07 02:50:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7849**  ($445,082,241 en total)
+- Apuestas registradas: **7851**  ($445,146,173 en total)
 - Resueltas: **7816** — 4777 ganadas / 3039 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 12
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NS13 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.69 (59¢) | $29,278 | — | ⏳ Pendiente |
+| VPenguin | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.56 (39¢) | $34,655 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | — | ⏳ Pendiente |
 | omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings | Spurs | 1.12 (89¢) | $210,947 | +$26,072 | ✅ Ganada |
 | surfandturf | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,636 | +$7,823 | ✅ Ganada |
 | MeiGuNiuBi | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $164,000 | +$36,000 | ✅ Ganada |
-| Lanlanlanlan | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.20 (83¢) | $49,519 | +$10,142 | ✅ Ganada |
