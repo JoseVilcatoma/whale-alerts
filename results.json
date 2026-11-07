@@ -117546,5 +117546,35 @@
     "status": "pending",
     "ultimo_fill": 1794012310,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15828,
+    "timestamp": 1794012630,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-tor-mil-2026-11-06-spread-away-3pt5",
+    "title": "Spread: Raptors (-3.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 29446.89,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794012630,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15829,
+    "timestamp": 1794012669,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-uta-dal-2026-11-06",
+    "title": "Jazz vs. Mavericks",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 28000.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1794012669,
+    "fills": 1
   }
 ]
