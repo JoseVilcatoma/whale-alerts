@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 09:47:27 (hora de Perú)
+Actualizado: 2026-11-07 09:49:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7864**  ($445,954,081 en total)
-- Resueltas: **7829** — 4784 ganadas / 3045 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Apuestas registradas: **7866**  ($446,061,599 en total)
+- Resueltas: **7830** — 4784 ganadas / 3046 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 703
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,320,076** sobre $444,412,611 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,218** sobre $772,300 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,357,381** sobre $444,449,915 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,318** sobre $772,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Fulham FC win on 2026-11-07? | Yes | 2.04 (49¢) | $65,985 | — | ⏳ Pendiente |
 | surfandturf | Will Arsenal FC win on 2026-11-07? | Yes | 1.15 (87¢) | $108,198 | — | ⏳ Pendiente |
 | Flaznorp | Will Frosinone Calcio win on 2026-11-07? | No | 1.32 (76¢) | $56,424 | — | ⏳ Pendiente |
 | Flaznorp | Will Leeds United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.12 (89¢) | $36,509 | +$4,512 | ✅ Ganada |
@@ -88,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | VPenguin | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.56 (39¢) | $34,655 | -$34,655 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | +$35,537 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | -$51,564 | ❌ Perdida |
-| omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | — | ⏳ Pendiente |
+| omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | -$37,305 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Wonju DB Promy vs. Seoul Thunders | Seoul Thunders | 1.19 (84¢) | $85,540 | -$85,540 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $29,931 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | -$78,448 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | jakepaulthegoat2008 | Celtics vs. Hornets | Celtics | 1.25 (80¢) | $41,824 | +$10,456 | ✅ Ganada |
 | Multicoloured-Serf | Wizards vs. Hawks | Hawks | 1.39 (72¢) | $50,209 | +$19,526 | ✅ Ganada |
 | EdZachary | Spread: SMU (-5.5) | SMU | 1.96 (51¢) | $39,527 | +$37,977 | ✅ Ganada |
-| spx11 | Raptors vs. Bucks | Bucks | 2.56 (39¢) | $30,114 | -$30,114 | ❌ Perdida |
-| CUTJALENHURTS | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.08 (93¢) | $35,491 | +$2,671 | ✅ Ganada |
