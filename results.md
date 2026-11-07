@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 15:15:14 (hora de Perú)
+Actualizado: 2026-11-07 15:17:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7883**  ($446,807,493 en total)
+- Apuestas registradas: **7885**  ($446,961,177 en total)
 - Resueltas: **7844** — 4793 ganadas / 3051 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 705
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 122 | 65 | 2 | 65% | $8,190,228 | +$494,433 |
+| ferrariChampions2026 | 122 | 65 | 3 | 65% | $8,215,672 | +$494,433 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Western Kentucky vs. Middle Tennessee | Middle Tennessee | 2.22 (45¢) | $25,445 | — | ⏳ Pendiente |
+| Mastermoney | Alabama vs. LSU | LSU | 1.49 (67¢) | $128,240 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Louisiana-Monroe vs. Arkansas State | Arkansas State | 1.19 (84¢) | $32,204 | — | ⏳ Pendiente |
 | Zzzz87 | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.15 (87¢) | $39,720 | — | ⏳ Pendiente |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $55,750 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | Sassy-Bucket | Ducks vs. Flames | Ducks | 2.27 (44¢) | $44,175 | +$56,223 | ✅ Ganada |
 | Multicoloured-Serf | Ducks vs. Flames | Flames | 1.79 (56¢) | $44,074 | -$44,074 | ❌ Perdida |
 | jakepaulthegoat2008 | Raptors vs. Bucks | Raptors | 1.69 (59¢) | $42,187 | +$29,317 | ✅ Ganada |
-| wangyou1288 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.41 (71¢) | $56,887 | +$23,236 | ✅ Ganada |
-| Donkey14 | Spread: Mavericks (-6.5) | Mavericks | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |

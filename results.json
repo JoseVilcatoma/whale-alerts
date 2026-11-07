@@ -118478,5 +118478,35 @@
     "status": "pending",
     "ultimo_fill": 1794081448,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15955,
+    "timestamp": 1794082586,
+    "username": "Mastermoney",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "cfb-ala-lsu-2026-11-07",
+    "title": "Alabama vs. LSU",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 128239.82999900001,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794082586,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 15956,
+    "timestamp": 1794082624,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-wkent-mtnst-2026-11-07",
+    "title": "Western Kentucky vs. Middle Tennessee",
+    "outcome": "Middle Tennessee",
+    "side": "BUY",
+    "usd": 25444.869999999995,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1794082624,
+    "fills": 1
   }
 ]
