@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 23:38:28 (hora de Perú)
+Actualizado: 2026-11-06 23:40:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7838**  ($444,353,213 en total)
+- Apuestas registradas: **7839**  ($444,504,423 en total)
 - Resueltas: **7806** — 4770 ganadas / 3036 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 1.11 (90¢) | $151,210 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.47 (68¢) | $41,630 | — | ⏳ Pendiente |
 | VPenguin | Spread: Thunder (-17.5) | Grizzlies | 2.08 (48¢) | $29,828 | -$29,828 | ❌ Perdida |
 | fantasy7788 | 76ers vs. Cavaliers | Cavaliers | 1.64 (61¢) | $29,500 | +$18,861 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $127,258 | +$49,489 | ✅ Ganada |
 | fantasy7788 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $74,602 | +$38,431 | ✅ Ganada |
 | SDTrading | Spread: Arizona (-6.5) | Arizona | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| 999585 | Will Wolfsberger AC win on 2026-11-06? | No | 1.06 (94¢) | $75,068 | +$4,792 | ✅ Ganada |

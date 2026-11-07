@@ -117803,5 +117803,20 @@
     "status": "pending",
     "ultimo_fill": 1794025062,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15870,
+    "timestamp": 1794026408,
+    "username": "0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604",
+    "wallet": "0x1bc2900db79077f14d294dd24552020dfbe73391",
+    "slug": "nba-sas-sac-2026-11-06-total-230pt5",
+    "title": "Spurs vs. Kings: O/U 230.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 151210.323,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794026408,
+    "fills": 1
   }
 ]
