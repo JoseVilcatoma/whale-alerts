@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 11:27:58 (hora de Perú)
+Actualizado: 2026-11-07 11:29:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7875**  ($446,509,817 en total)
+- Apuestas registradas: **7876**  ($446,550,551 en total)
 - Resueltas: **7832** — 4786 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 705
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | — | ⏳ Pendiente |
 | AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | — | ⏳ Pendiente |
 | Vladislavkh | Western Kentucky vs. Middle Tennessee | Western Kentucky | 1.75 (57¢) | $32,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | surfandturf | Thunder vs. Grizzlies | Thunder | 1.64 (61¢) | $61,000 | -$2,000 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | +$10,478 | ✅ Ganada |
 | fhiwbijd | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.37 (73¢) | $53,101 | -$53,101 | ❌ Perdida |
-| mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | +$80,834 | ✅ Ganada |

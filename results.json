@@ -118358,5 +118358,20 @@
     "status": "pending",
     "ultimo_fill": 1794068534,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15934,
+    "timestamp": 1794068909,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "sea-par-bol-2026-11-07-total-2pt5",
+    "title": "Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 40733.65,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1794068909,
+    "fills": 1
   }
 ]
