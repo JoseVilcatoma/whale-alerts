@@ -118988,5 +118988,20 @@
     "status": "pending",
     "ultimo_fill": 1794089708,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15992,
+    "timestamp": 1794090431,
+    "username": "heyjason",
+    "wallet": "0x083f99393d1f03f5716cdaabd6418c1812594869",
+    "slug": "lol-ig1-gen-2026-11-07-game2",
+    "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 30790.1736,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1794090431,
+    "fills": 1
   }
 ]
