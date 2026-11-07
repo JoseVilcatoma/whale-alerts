@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 16:58:16 (hora de Perú)
+Actualizado: 2026-11-07 17:00:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7907**  ($448,196,000 en total)
+- Apuestas registradas: **7908**  ($448,326,000 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 707
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Nuggets (-7.5) | Nuggets | 1.92 (52¢) | $130,000 | — | ⏳ Pendiente |
 | SineNooneEI | Rangers vs. Kraken | Rangers | 1.75 (57¢) | $39,203 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-1.5) vs Invictus Gaming (+1.5) | Gen.G | 1.54 (65¢) | $31,248 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 | NS13 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.69 (59¢) | $29,278 | -$29,278 | ❌ Perdida |
 | VPenguin | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.56 (39¢) | $34,655 | -$34,655 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | +$35,537 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | -$51,564 | ❌ Perdida |
