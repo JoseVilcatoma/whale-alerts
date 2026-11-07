@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 01:09:03 (hora de Perú)
+Actualizado: 2026-11-07 01:11:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7843**  ($444,741,472 en total)
+- Apuestas registradas: **7844**  ($444,819,920 en total)
 - Resueltas: **7812** — 4776 ganadas / 3036 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Trail Blazers vs. Lakers | Lakers | 1.08 (93¢) | $89,448 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 2.94 (34¢) | $68,000 | +$132,000 | ✅ Ganada |
 | Multicoloured-Serf | TCU vs. Arizona | TCU | 2.00 (50¢) | $54,125 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | 999585 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $26,936 | +$2,027 | ✅ Ganada |
 | 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.61 (62¢) | $29,408 | +$18,024 | ✅ Ganada |
-| one8tyfive | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $38,216 | +$14,862 | ✅ Ganada |
