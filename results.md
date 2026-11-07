@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 16:29:01 (hora de Perú)
+Actualizado: 2026-11-07 16:31:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7896**  ($447,723,887 en total)
+- Apuestas registradas: **7897**  ($447,749,887 en total)
 - Resueltas: **7846** — 4793 ganadas / 3053 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 707
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kkookkoo | Alabama vs. LSU | LSU | 1.64 (61¢) | $26,000 | — | ⏳ Pendiente |
 | Flaznorp | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.09 (92¢) | $45,502 | — | ⏳ Pendiente |
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.09 (92¢) | $37,621 | — | ⏳ Pendiente |
 | alohaa | Will US Sassuolo Calcio win on 2026-11-07? | Yes | 1.16 (86¢) | $42,984 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 | 1l2ihj34li12u34 | Will Nagoya Grampus win on 2026-11-07? | Yes | 1.92 (52¢) | $25,476 | -$25,476 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 1.11 (90¢) | $151,210 | +$16,801 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.47 (68¢) | $41,630 | -$41,630 | ❌ Perdida |
-| VPenguin | Spread: Thunder (-17.5) | Grizzlies | 2.08 (48¢) | $29,828 | -$29,828 | ❌ Perdida |
