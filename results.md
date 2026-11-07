@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 16:41:40 (hora de Perú)
+Actualizado: 2026-11-07 16:43:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7900**  ($447,897,297 en total)
+- Apuestas registradas: **7901**  ($447,954,777 en total)
 - Resueltas: **7846** — 4793 ganadas / 3053 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 707
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 4 | 64% | $57,165,006 | +$713,914 |
 | Sassy-Bucket | 110 | 108 | 4 | 50% | $15,035,723 | -$1,391,974 |
-| googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
+| googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 122 | 65 | 4 | 65% | $8,260,531 | +$494,433 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Nuggets vs. Pacers: O/U 229.5 | Over 229.5 | 2.00 (50¢) | $57,480 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.27 (79¢) | $72,146 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Alabama vs. LSU | LSU | 1.82 (55¢) | $26,599 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Nuggets vs. Pacers: O/U 229.5 | Under 229.5 | 2.00 (50¢) | $48,665 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | -$78,448 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Trail Blazers vs. Lakers | Lakers | 1.08 (93¢) | $89,448 | +$6,733 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 2.94 (34¢) | $68,000 | +$132,000 | ✅ Ganada |
-| Multicoloured-Serf | TCU vs. Arizona | TCU | 2.00 (50¢) | $54,125 | -$54,125 | ❌ Perdida |
