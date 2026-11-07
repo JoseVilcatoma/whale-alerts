@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 12:21:11 (hora de Perú)
+Actualizado: 2026-11-07 14:15:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7879**  ($446,627,189 en total)
-- Resueltas: **7833** — 4786 ganadas / 3047 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **7840** — 4792 ganadas / 3048 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 705
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,342,814** sobre $444,568,225 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,311** sobre $772,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,320,235** sobre $444,929,529 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,185** sobre $773,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 554 | 312 | 6 | 64% | $57,092,860 | +$684,867 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 3 | 64% | $57,092,860 | +$713,914 |
 | Sassy-Bucket | 110 | 108 | 2 | 50% | $14,889,831 | -$1,391,974 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
-| surfandturf | 38 | 11 | 1 | 78% | $3,841,819 | +$518,806 |
+| surfandturf | 39 | 11 | 0 | 78% | $3,841,819 | +$534,973 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | cosmicxbt | 24 | 9 | 0 | 73% | $3,505,913 | -$328,163 |
@@ -78,21 +78,21 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | -$28,464 | ❌ Perdida |
 | Vladislavkh | Western Kentucky vs. Middle Tennessee | Western Kentucky | 1.75 (57¢) | $32,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.35 (74¢) | $38,421 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.27 (79¢) | $30,336 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.35 (74¢) | $38,421 | +$13,499 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.27 (79¢) | $30,336 | +$8,064 | ✅ Ganada |
 | Kch-Temp | Spread: Florida (-5.5) | Oklahoma | 1.92 (52¢) | $70,923 | — | ⏳ Pendiente |
 | fantasy7788 | Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5) | Invictus Gaming | 1.54 (65¢) | $128,555 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Red Wings vs. Avalanche | Avalanche | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.16 (86¢) | $45,973 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.16 (86¢) | $45,973 | +$7,484 | ✅ Ganada |
 | EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Fulham FC win on 2026-11-07? | Yes | 2.04 (49¢) | $65,985 | — | ⏳ Pendiente |
-| surfandturf | Will Arsenal FC win on 2026-11-07? | Yes | 1.15 (87¢) | $108,198 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Fulham FC win on 2026-11-07? | Yes | 2.04 (49¢) | $65,985 | -$65,985 | ❌ Perdida |
+| surfandturf | Will Arsenal FC win on 2026-11-07? | Yes | 1.15 (87¢) | $108,198 | +$16,167 | ✅ Ganada |
 | Flaznorp | Will Frosinone Calcio win on 2026-11-07? | No | 1.32 (76¢) | $56,424 | +$17,818 | ✅ Ganada |
 | Flaznorp | Will Leeds United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.12 (89¢) | $36,509 | +$4,512 | ✅ Ganada |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Newcastle United FC win on 2026-11-07? | No | 1.37 (73¢) | $44,341 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Newcastle United FC win on 2026-11-07? | No | 1.37 (73¢) | $44,341 | +$16,400 | ✅ Ganada |
 | sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | LOLSHAQ | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.23 (81¢) | $67,530 | — | ⏳ Pendiente |
-| CornerGaming | Fulham FC vs. Newcastle United FC: O/U 10.5 Total Corners | Under 10.5 Total Corners | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
+| CornerGaming | Fulham FC vs. Newcastle United FC: O/U 10.5 Total Corners | Under 10.5 Total Corners | 1.96 (51¢) | $28,050 | +$26,950 | ✅ Ganada |
 | 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | +$25,213 | ✅ Ganada |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs BetBoom Team (+1.5) | MOUZ | 2.27 (44¢) | $31,230 | +$39,747 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.39 (72¢) | $260,000 | +$101,111 | ✅ Ganada |
