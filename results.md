@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 15:33:40 (hora de Perú)
+Actualizado: 2026-11-07 15:35:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7886**  ($447,026,377 en total)
+- Apuestas registradas: **7887**  ($447,055,596 en total)
 - Resueltas: **7844** — 4793 ganadas / 3051 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 705
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zombie77 | Will Real Madrid CF win on 2026-11-07? | Yes | 1.11 (90¢) | $29,219 | — | ⏳ Pendiente |
 | Sassy-Bucket | Charlotte vs. UAB | UAB | 1.33 (75¢) | $65,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Western Kentucky vs. Middle Tennessee | Middle Tennessee | 2.22 (45¢) | $25,445 | — | ⏳ Pendiente |
 | Mastermoney | Alabama vs. LSU | LSU | 1.49 (67¢) | $128,240 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | +$24,748 | ✅ Ganada |
 | mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | -$48,902 | ❌ Perdida |
 | Sassy-Bucket | Ducks vs. Flames | Ducks | 2.27 (44¢) | $44,175 | +$56,223 | ✅ Ganada |
-| Multicoloured-Serf | Ducks vs. Flames | Flames | 1.79 (56¢) | $44,074 | -$44,074 | ❌ Perdida |
