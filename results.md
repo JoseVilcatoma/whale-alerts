@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 16:37:27 (hora de Perú)
+Actualizado: 2026-11-07 16:39:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7899**  ($447,825,151 en total)
+- Apuestas registradas: **7900**  ($447,897,297 en total)
 - Resueltas: **7846** — 4793 ganadas / 3053 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 707
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 3 | 64% | $57,092,860 | +$713,914 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 4 | 64% | $57,165,006 | +$713,914 |
 | Sassy-Bucket | 110 | 108 | 4 | 50% | $15,035,723 | -$1,391,974 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.27 (79¢) | $72,146 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Alabama vs. LSU | LSU | 1.82 (55¢) | $26,599 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Nuggets vs. Pacers: O/U 229.5 | Under 229.5 | 2.00 (50¢) | $48,665 | — | ⏳ Pendiente |
 | kkookkoo | Alabama vs. LSU | LSU | 1.64 (61¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Trail Blazers vs. Lakers | Lakers | 1.08 (93¢) | $89,448 | +$6,733 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 2.94 (34¢) | $68,000 | +$132,000 | ✅ Ganada |
 | Multicoloured-Serf | TCU vs. Arizona | TCU | 2.00 (50¢) | $54,125 | -$54,125 | ❌ Perdida |
-| 1l2ihj34li12u34 | Will Nagoya Grampus win on 2026-11-07? | Yes | 1.92 (52¢) | $25,476 | -$25,476 | ❌ Perdida |

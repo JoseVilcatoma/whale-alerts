@@ -118718,5 +118718,20 @@
     "status": "pending",
     "ultimo_fill": 1794087195,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15973,
+    "timestamp": 1794087561,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ig1-gen-2026-11-07",
+    "title": "LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 72146.0469,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1794087561,
+    "fills": 1
   }
 ]
