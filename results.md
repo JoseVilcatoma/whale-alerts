@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 21:16:14 (hora de Perú)
+Actualizado: 2026-11-06 21:18:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7837**  ($444,311,583 en total)
-- Resueltas: **7763** — 4739 ganadas / 3024 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **7764** — 4740 ganadas / 3024 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,439,057** sobre $440,542,872 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,538** sobre $765,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,420,462** sobre $440,584,261 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,493** sobre $765,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | spx11 | Raptors vs. Bucks | Bucks | 2.56 (39¢) | $30,114 | — | ⏳ Pendiente |
 | CUTJALENHURTS | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.08 (93¢) | $35,491 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.09 (92¢) | $36,473 | — | ⏳ Pendiente |
-| KateBollinger | LoL: Karmine Corp vs T1 - Game 2 Winner | T1 | 1.45 (69¢) | $41,389 | — | ⏳ Pendiente |
+| KateBollinger | LoL: Karmine Corp vs T1 - Game 2 Winner | T1 | 1.45 (69¢) | $41,389 | +$18,595 | ✅ Ganada |
 | vtcchampion52 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 2.08 (48¢) | $30,259 | — | ⏳ Pendiente |
 | Wal1 | Wizards vs. Hawks | Hawks | 1.37 (73¢) | $31,676 | +$868 | 💰 Vendida antes |
 | ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | — | ⏳ Pendiente |
