@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 16:56:12 (hora de Perú)
+Actualizado: 2026-11-07 16:58:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7905**  ($448,121,798 en total)
+- Apuestas registradas: **7907**  ($448,196,000 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 37
 - Apostadores distintos: 707
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SineNooneEI | Rangers vs. Kraken | Rangers | 1.75 (57¢) | $39,203 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-1.5) vs Invictus Gaming (+1.5) | Gen.G | 1.54 (65¢) | $31,248 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5) | Gen.G | 2.86 (35¢) | $26,923 | — | ⏳ Pendiente |
 | nigiri99 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $82,400 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 | VPenguin | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.56 (39¢) | $34,655 | -$34,655 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | +$35,537 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | -$51,564 | ❌ Perdida |
-| omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | -$37,305 | ❌ Perdida |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Wonju DB Promy vs. Seoul Thunders | Seoul Thunders | 1.19 (84¢) | $85,540 | -$85,540 | ❌ Perdida |
