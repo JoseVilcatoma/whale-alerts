@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 07:08:59 (hora de Perú)
+Actualizado: 2026-11-07 07:10:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7856**  ($445,553,958 en total)
+- Apuestas registradas: **7857**  ($445,587,380 en total)
 - Resueltas: **7828** — 4783 ganadas / 3045 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs BetBoom Team (+1.5) | MOUZ | 2.27 (44¢) | $31,230 | +$39,747 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.39 (72¢) | $260,000 | +$101,111 | ✅ Ganada |
 | TAIWANNUMBERONE | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $31,555 | +$12,889 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | -$38,880 | ❌ Perdida |
 | juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.52 (66¢) | $34,607 | +$17,828 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 2.33 (43¢) | $28,933 | -$28,933 | ❌ Perdida |
-| juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.49 (67¢) | $56,555 | +$27,856 | ✅ Ganada |

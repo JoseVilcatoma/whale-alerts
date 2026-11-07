@@ -118073,5 +118073,20 @@
     "status": "won",
     "ultimo_fill": 1794044475,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15911,
+    "timestamp": 1794053384,
+    "username": "1l2ihj34li12u34",
+    "wallet": "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c",
+    "slug": "lal-mala-rrc-2026-11-07-total-2pt5",
+    "title": "M\u00e1laga CF vs. Real Racing Club: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 33421.42540000001,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1794053384,
+    "fills": 1
   }
 ]
