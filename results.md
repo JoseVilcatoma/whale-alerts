@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 19:26:33 (hora de Perú)
+Actualizado: 2026-11-06 19:28:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7816**  ($443,094,034 en total)
+- Apuestas registradas: **7818**  ($443,241,440 en total)
 - Resueltas: **7759** — 4738 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 36
 - Apostadores distintos: 702
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 549 | 311 | 7 | 64% | $56,857,320 | +$475,022 |
 | Sassy-Bucket | 107 | 108 | 2 | 50% | $14,750,043 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 141 | 76 | 5 | 65% | $10,725,913 | +$585,487 |
+| Lakersfan111 | 141 | 76 | 6 | 65% | $10,820,218 | +$585,487 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 121 | 65 | 1 | 65% | $8,124,979 | +$476,505 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | — | ⏳ Pendiente |
+| fhiwbijd | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.37 (73¢) | $53,101 | — | ⏳ Pendiente |
 | mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.64 (61¢) | $61,054 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.67 (60¢) | $35,213 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.89 (53¢) | $53,000 | +$47,000 | ✅ Ganada |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.92 (52¢) | $25,096 | +$23,166 | ✅ Ganada |
 | FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | +$11,060 | ✅ Ganada |
-| Anon455 | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $33,600 | +$6,400 | ✅ Ganada |
-| ferrariChampions2026 | Jaguars vs. Ravens | Jaguars | 1.23 (81¢) | $179,404 | +$42,082 | ✅ Ganada |
