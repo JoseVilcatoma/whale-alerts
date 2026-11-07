@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 11:21:49 (hora de Perú)
+Actualizado: 2026-11-07 11:23:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7874**  ($446,481,353 en total)
+- Apuestas registradas: **7875**  ($446,509,817 en total)
 - Resueltas: **7832** — 4786 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 19
-- Apostadores distintos: 704
+- Pendientes: 20
+- Apostadores distintos: 705
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 704 en total)_
+_(mostrando los 40 de mayor monto, de 705 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | — | ⏳ Pendiente |
 | Vladislavkh | Western Kentucky vs. Middle Tennessee | Western Kentucky | 1.75 (57¢) | $32,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.35 (74¢) | $38,421 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 704 en total)_
 | jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | +$10,478 | ✅ Ganada |
 | fhiwbijd | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.37 (73¢) | $53,101 | -$53,101 | ❌ Perdida |
 | mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | +$80,834 | ✅ Ganada |
-| jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.64 (61¢) | $61,054 | +$39,034 | ✅ Ganada |

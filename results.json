@@ -118343,5 +118343,20 @@
     "status": "pending",
     "ultimo_fill": 1794067633,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15933,
+    "timestamp": 1794068534,
+    "username": "AML",
+    "wallet": "0xfd22b8843ae03a33a8a4c5e39ef1e5ff33ebad91",
+    "slug": "epl-ars-hul-2026-11-07-spread-home-1pt5",
+    "title": "Spread: Arsenal FC (-1.5)",
+    "outcome": "Arsenal FC",
+    "side": "BUY",
+    "usd": 28464.317143000004,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1794068534,
+    "fills": 1
   }
 ]
