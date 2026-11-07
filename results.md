@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 14:44:31 (hora de Perú)
+Actualizado: 2026-11-07 14:46:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7882**  ($446,775,289 en total)
-- Resueltas: **7841** — 4792 ganadas / 3049 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **7844** — 4793 ganadas / 3051 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 705
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,360,969** sobre $444,970,263 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,285** sobre $773,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,377,272** sobre $445,046,823 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,352** sobre $773,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,9 +74,9 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | Zzzz87 | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.15 (87¢) | $39,720 | — | ⏳ Pendiente |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $55,750 | — | ⏳ Pendiente |
 | surfandturf | Will Real Madrid CF win on 2026-11-07? | Yes | 1.27 (79¢) | $52,630 | — | ⏳ Pendiente |
-| ch27er | Will Manchester City FC win on 2026-11-07? | Yes | 1.67 (60¢) | $25,000 | — | ⏳ Pendiente |
+| ch27er | Will Manchester City FC win on 2026-11-07? | Yes | 1.67 (60¢) | $25,000 | -$25,000 | ❌ Perdida |
 | mooseborzoi | Spread: Baylor (-8.5) | Iowa State | 2.08 (48¢) | $25,728 | — | ⏳ Pendiente |
-| MigRodr | Will Manchester City FC win on 2026-11-07? | No | 2.33 (43¢) | $25,911 | — | ⏳ Pendiente |
+| MigRodr | Will Manchester City FC win on 2026-11-07? | No | 2.33 (43¢) | $25,911 | +$34,347 | ✅ Ganada |
 | omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | -$40,734 | ❌ Perdida |
 | AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | -$28,464 | ❌ Perdida |
 | Vladislavkh | Western Kentucky vs. Middle Tennessee | Western Kentucky | 1.75 (57¢) | $32,000 | — | ⏳ Pendiente |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | Flaznorp | Will Frosinone Calcio win on 2026-11-07? | No | 1.32 (76¢) | $56,424 | +$17,818 | ✅ Ganada |
 | Flaznorp | Will Leeds United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.12 (89¢) | $36,509 | +$4,512 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Newcastle United FC win on 2026-11-07? | No | 1.37 (73¢) | $44,341 | +$16,400 | ✅ Ganada |
-| sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
+| sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | -$25,650 | ❌ Perdida |
 | LOLSHAQ | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.23 (81¢) | $67,530 | — | ⏳ Pendiente |
 | CornerGaming | Fulham FC vs. Newcastle United FC: O/U 10.5 Total Corners | Under 10.5 Total Corners | 1.96 (51¢) | $28,050 | +$26,950 | ✅ Ganada |
 | 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | +$25,213 | ✅ Ganada |
