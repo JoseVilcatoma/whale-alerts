@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 11:01:13 (hora de Perú)
+Actualizado: 2026-11-07 11:03:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7872**  ($446,408,853 en total)
+- Apuestas registradas: **7873**  ($446,449,353 en total)
 - Resueltas: **7831** — 4785 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 703
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.35 (74¢) | $38,421 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.27 (79¢) | $30,336 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Florida (-5.5) | Oklahoma | 1.92 (52¢) | $70,923 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | +$80,834 | ✅ Ganada |
 | jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.64 (61¢) | $61,054 | +$39,034 | ✅ Ganada |
 | jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.67 (60¢) | $35,213 | +$23,475 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.45 (69¢) | $30,430 | -$30,430 | ❌ Perdida |
