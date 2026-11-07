@@ -117818,5 +117818,20 @@
     "status": "pending",
     "ultimo_fill": 1794026408,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15871,
+    "timestamp": 1794026692,
+    "username": "1l2ihj34li12u34",
+    "wallet": "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c",
+    "slug": "jap-ngr-kyo-2026-11-07-ngr",
+    "title": "Will Nagoya Grampus win on 2026-11-07?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25475.5059,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794026692,
+    "fills": 1
   }
 ]
