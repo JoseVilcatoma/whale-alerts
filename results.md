@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 20:07:53 (hora de Perú)
+Actualizado: 2026-11-06 20:09:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7832**  ($444,037,815 en total)
+- Apuestas registradas: **7832**  ($444,083,946 en total)
 - Resueltas: **7763** — 4739 ganadas / 3024 perdidas (**61%** de acierto)
 - Pendientes: 46
 - Apostadores distintos: 702
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 999585 | 22 | 1 | 0 | 96% | $2,392,235 | +$105,772 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
+| Thunderous-Authoritarian-Snarl | 10 | 9 | 3 | 53% | $2,331,894 | -$951,515 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
-| beachboy4 | 26 | 11 | 0 | 70% | $2,292,517 | +$219,134 |
 
 _(mostrando los 40 de mayor monto, de 702 en total)_
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $252,276 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $298,406 | — | ⏳ Pendiente |
 | Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | — | ⏳ Pendiente |
 | mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | — | ⏳ Pendiente |
