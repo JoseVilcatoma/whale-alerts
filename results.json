@@ -119003,5 +119003,20 @@
     "status": "pending",
     "ultimo_fill": 1794090547,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15993,
+    "timestamp": 1794090624,
+    "username": "Dessssa",
+    "wallet": "0x291de54f32a3ee495ff0c624fa9bfeca23451f97",
+    "slug": "nhl-nj-nyi-2026-11-07",
+    "title": "Devils vs. Islanders",
+    "outcome": "Islanders",
+    "side": "BUY",
+    "usd": 32547.752999999997,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1794090624,
+    "fills": 1
   }
 ]
