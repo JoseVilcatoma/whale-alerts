@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 02:26:10 (hora de Perú)
+Actualizado: 2026-11-07 02:28:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7847**  ($444,972,695 en total)
-- Resueltas: **7815** — 4777 ganadas / 3038 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **7816** — 4777 ganadas / 3039 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,174,055** sobre $443,535,096 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,882** sobre $770,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,228,180** sobre $443,589,221 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,982** sobre $771,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Trail Blazers vs. Lakers | Lakers | 1.08 (93¢) | $89,448 | +$6,733 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 2.94 (34¢) | $68,000 | +$132,000 | ✅ Ganada |
-| Multicoloured-Serf | TCU vs. Arizona | TCU | 2.00 (50¢) | $54,125 | — | ⏳ Pendiente |
+| Multicoloured-Serf | TCU vs. Arizona | TCU | 2.00 (50¢) | $54,125 | -$54,125 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will Nagoya Grampus win on 2026-11-07? | Yes | 1.92 (52¢) | $25,476 | -$25,476 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 1.11 (90¢) | $151,210 | +$16,801 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.47 (68¢) | $41,630 | — | ⏳ Pendiente |
