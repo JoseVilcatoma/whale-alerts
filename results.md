@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 17:37:48 (hora de Perú)
+Actualizado: 2026-11-07 17:39:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7919**  ($448,792,434 en total)
+- Apuestas registradas: **7920**  ($448,824,146 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 709
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Spread: Hawai'i (-7.5) | Hawai'i | 2.04 (49¢) | $31,712 | — | ⏳ Pendiente |
 | Dessssa | Devils vs. Islanders | Islanders | 2.38 (42¢) | $32,548 | — | ⏳ Pendiente |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.37 (73¢) | $68,214 | — | ⏳ Pendiente |
 | thetesterguy | FC Cincinnati vs. Nashville SC: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $38,669 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | Flaznorp | Will Frosinone Calcio win on 2026-11-07? | No | 1.32 (76¢) | $56,424 | +$17,818 | ✅ Ganada |
 | Flaznorp | Will Leeds United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.12 (89¢) | $36,509 | +$4,512 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Newcastle United FC win on 2026-11-07? | No | 1.37 (73¢) | $44,341 | +$16,400 | ✅ Ganada |
-| sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | -$25,650 | ❌ Perdida |
