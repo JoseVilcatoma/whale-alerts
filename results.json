@@ -117606,5 +117606,50 @@
     "status": "pending",
     "ultimo_fill": 1794012977,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15832,
+    "timestamp": 1794013053,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-tor-mil-2026-11-06",
+    "title": "Raptors vs. Bucks",
+    "outcome": "Raptors",
+    "side": "BUY",
+    "usd": 42187.49569999999,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1794013053,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15833,
+    "timestamp": 1794013121,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nhl-ana-cal-2026-11-06",
+    "title": "Ducks vs. Flames",
+    "outcome": "Flames",
+    "side": "BUY",
+    "usd": 44073.999200000006,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1794013121,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15834,
+    "timestamp": 1794013152,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nhl-ana-cal-2026-11-06",
+    "title": "Ducks vs. Flames",
+    "outcome": "Ducks",
+    "side": "BUY",
+    "usd": 44175.12,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1794013152,
+    "fills": 1
   }
 ]

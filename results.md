@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 19:57:31 (hora de Perú)
+Actualizado: 2026-11-06 19:59:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7825**  ($443,532,882 en total)
+- Apuestas registradas: **7828**  ($443,663,319 en total)
 - Resueltas: **7759** — 4738 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 46
 - Apostadores distintos: 702
 
 ### Balance
@@ -25,9 +25,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 549 | 311 | 7 | 64% | $56,857,320 | +$475,022 |
-| Sassy-Bucket | 107 | 108 | 3 | 50% | $14,810,043 | -$1,512,945 |
+| Sassy-Bucket | 107 | 108 | 4 | 50% | $14,854,218 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 141 | 76 | 7 | 65% | $10,848,218 | +$585,487 |
+| Lakersfan111 | 141 | 76 | 8 | 65% | $10,890,405 | +$585,487 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 121 | 65 | 1 | 65% | $8,124,979 | +$476,505 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Ducks vs. Flames | Ducks | 2.27 (44¢) | $44,175 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Ducks vs. Flames | Flames | 1.79 (56¢) | $44,074 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Raptors vs. Bucks | Raptors | 1.69 (59¢) | $42,187 | — | ⏳ Pendiente |
 | wangyou1288 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.41 (71¢) | $56,887 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Mavericks (-6.5) | Mavericks | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Jazz vs. Mavericks | Mavericks | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | keeptheblueflagflyinghigh | Heat vs. Warriors | Warriors | 1.09 (92¢) | $101,633 | +$8,838 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $38,052 | +$15,542 | ✅ Ganada |
 | jakepaulthegoat2008 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.54 (65¢) | $63,254 | — | ⏳ Pendiente |
-| ethanaz | UTSA vs. Florida Atlantic | Florida Atlantic | 1.19 (84¢) | $25,205 | +$4,801 | ✅ Ganada |
-| PerpsKing | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 3.45 (29¢) | $26,625 | -$26,625 | ❌ Perdida |
-| Anon455 | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
