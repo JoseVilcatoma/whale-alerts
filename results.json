@@ -117151,7 +117151,7 @@
     "side": "BUY",
     "usd": 98315.178,
     "odds_at_bet": 33,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794003249,
     "fills": 1
   },
@@ -117166,7 +117166,7 @@
     "side": "BUY",
     "usd": 67000.0,
     "odds_at_bet": 67,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794003270,
     "fills": 1
   },
@@ -117196,7 +117196,7 @@
     "side": "BUY",
     "usd": 28932.529700000003,
     "odds_at_bet": 43,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794003774,
     "fills": 1
   },
@@ -117708,10 +117708,10 @@
     "title": "LoL: Karmine Corp vs T1 - Game 4 Winner",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "usd": 29700.0,
-    "odds_at_bet": 33,
+    "usd": 252275.8696,
+    "odds_at_bet": 39,
     "status": "pending",
-    "ultimo_fill": 1794013454,
-    "fills": 1
+    "ultimo_fill": 1794013672,
+    "fills": 5
   }
 ]

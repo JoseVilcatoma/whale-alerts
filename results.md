@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 20:05:44 (hora de Perú)
+Actualizado: 2026-11-06 20:07:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7832**  ($443,815,239 en total)
-- Resueltas: **7760** — 4738 ganadas / 3022 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Apuestas registradas: **7832**  ($444,037,815 en total)
+- Resueltas: **7763** — 4739 ganadas / 3024 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,344,809** sobre $440,348,624 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,387** sobre $765,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,439,057** sobre $440,542,872 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,538** sobre $765,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 549 | 311 | 7 | 64% | $56,857,320 | +$475,022 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 550 | 311 | 6 | 64% | $56,857,320 | +$508,022 |
 | Sassy-Bucket | 107 | 108 | 5 | 50% | $14,889,831 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 141 | 76 | 8 | 65% | $10,890,405 | +$585,487 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 3.03 (33¢) | $29,700 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $252,276 | — | ⏳ Pendiente |
 | Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | — | ⏳ Pendiente |
 | mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | — | ⏳ Pendiente |
@@ -105,10 +105,10 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | Wal1 | Wizards vs. Hawks | Hawks | 1.37 (73¢) | $31,676 | +$868 | 💰 Vendida antes |
 | ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | — | ⏳ Pendiente |
 | juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.52 (66¢) | $34,607 | +$17,828 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 2.33 (43¢) | $28,933 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 2.33 (43¢) | $28,933 | -$28,933 | ❌ Perdida |
 | juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.49 (67¢) | $56,555 | +$27,856 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 1 Winner | T1 | 1.49 (67¢) | $67,000 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 3.03 (33¢) | $98,315 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 1 Winner | T1 | 1.49 (67¢) | $67,000 | +$33,000 | ✅ Ganada |
+| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 3.03 (33¢) | $98,315 | -$98,315 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings | Spurs | 1.12 (89¢) | $210,947 | — | ⏳ Pendiente |
 | surfandturf | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,636 | — | ⏳ Pendiente |
 | MeiGuNiuBi | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
