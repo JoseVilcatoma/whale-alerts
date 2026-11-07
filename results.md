@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:09:20 (hora de Perú)
+Actualizado: 2026-11-07 18:11:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7926**  ($449,146,057 en total)
+- Apuestas registradas: **7929**  ($449,483,692 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 59
 - Apostadores distintos: 709
 
 ### Balance
@@ -53,10 +53,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
+| Thunderous-Authoritarian-Snarl | 13 | 10 | 5 | 57% | $2,904,729 | -$1,094,385 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | 999585 | 22 | 1 | 3 | 96% | $2,767,600 | +$105,772 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| Thunderous-Authoritarian-Snarl | 13 | 10 | 4 | 57% | $2,624,861 | -$1,094,385 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Spread: Tennessee (-6.5) | Kentucky | 1.96 (51¢) | $26,167 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.28 (78¢) | $279,869 | — | ⏳ Pendiente |
 | zb8 | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.30 (77¢) | $25,901 | — | ⏳ Pendiente |
 | ethanaz | Alabama vs. LSU | LSU | 1.52 (66¢) | $48,953 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.35 (74¢) | $38,421 | +$13,499 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.27 (79¢) | $30,336 | +$8,064 | ✅ Ganada |
 | Kch-Temp | Spread: Florida (-5.5) | Oklahoma | 1.92 (52¢) | $70,923 | — | ⏳ Pendiente |
-| fantasy7788 | Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5) | Invictus Gaming | 1.54 (65¢) | $128,555 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Red Wings vs. Avalanche | Avalanche | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.16 (86¢) | $45,973 | +$7,484 | ✅ Ganada |
