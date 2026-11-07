@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 19:20:22 (hora de Perú)
+Actualizado: 2026-11-06 19:22:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7815**  ($443,035,499 en total)
-- Resueltas: **7757** — 4736 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **7759** — 4738 ganadas / 3021 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,388,492** sobre $440,196,462 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,488** sobre $765,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,342,809** sobre $440,287,624 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,387** sobre $765,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| juice-fruit | 26 | 17 | 2 | 60% | $2,574,155 | +$219,112 |
+| juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 999585 | 22 | 1 | 0 | 96% | $2,392,235 | +$105,772 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
@@ -87,9 +87,9 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | vtcchampion52 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 2.08 (48¢) | $30,259 | — | ⏳ Pendiente |
 | Wal1 | Wizards vs. Hawks | Hawks | 1.37 (73¢) | $31,676 | +$868 | 💰 Vendida antes |
 | ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | — | ⏳ Pendiente |
-| juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.52 (66¢) | $34,607 | — | ⏳ Pendiente |
+| juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.52 (66¢) | $34,607 | +$17,828 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 2.33 (43¢) | $28,933 | — | ⏳ Pendiente |
-| juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.49 (67¢) | $56,555 | — | ⏳ Pendiente |
+| juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.49 (67¢) | $56,555 | +$27,856 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 1 Winner | T1 | 1.49 (67¢) | $67,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 3.03 (33¢) | $98,315 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings | Spurs | 1.12 (89¢) | $210,947 | — | ⏳ Pendiente |
