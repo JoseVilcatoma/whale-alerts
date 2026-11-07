@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:15:40 (hora de Perú)
+Actualizado: 2026-11-07 18:17:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7931**  ($449,825,712 en total)
+- Apuestas registradas: **7933**  ($449,989,969 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 63
 - Apostadores distintos: 709
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 6 | 64% | $57,355,337 | +$713,914 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 7 | 64% | $57,493,337 | +$713,914 |
 | Sassy-Bucket | 110 | 108 | 4 | 50% | $15,035,723 | -$1,391,974 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 13 | 10 | 5 | 57% | $3,026,229 | -$1,094,385 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
-| 999585 | 22 | 1 | 3 | 96% | $2,767,600 | +$105,772 |
+| 999585 | 22 | 1 | 4 | 96% | $2,793,858 | +$105,772 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Alabama vs. LSU | Alabama | 1.85 (54¢) | $26,257 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. LSU | LSU | 2.17 (46¢) | $138,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati vs. Houston | Houston | 1.18 (85¢) | $162,395 | — | ⏳ Pendiente |
 | ethanaz | Oregon vs. Ohio State | Ohio State | 4.35 (23¢) | $58,125 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Tennessee (-6.5) | Kentucky | 1.96 (51¢) | $26,167 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | -$40,734 | ❌ Perdida |
 | AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | -$28,464 | ❌ Perdida |
 | Vladislavkh | Western Kentucky vs. Middle Tennessee | Western Kentucky | 1.75 (57¢) | $32,000 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | -$40,500 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.35 (74¢) | $38,421 | +$13,499 | ✅ Ganada |

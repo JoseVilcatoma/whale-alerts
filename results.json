@@ -119198,5 +119198,35 @@
     "status": "pending",
     "ultimo_fill": 1794093291,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16006,
+    "timestamp": 1794093368,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-ala-lsu-2026-11-07",
+    "title": "Alabama vs. LSU",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 138000.0,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1794093368,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16007,
+    "timestamp": 1794093373,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-ala-lsu-2026-11-07",
+    "title": "Alabama vs. LSU",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "usd": 26257.419,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1794093373,
+    "fills": 1
   }
 ]
