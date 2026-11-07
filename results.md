@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 01:02:55 (hora de Perú)
+Actualizado: 2026-11-07 01:04:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7843**  ($444,741,472 en total)
-- Resueltas: **7808** — 4772 ganadas / 3036 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **7812** — 4776 ganadas / 3036 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,178,763** sobre $442,972,813 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,735** sobre $770,200 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$3,129,312** sobre $443,394,172 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,690** sobre $770,600 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 553 | 312 | 4 | 64% | $56,978,130 | +$658,795 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 554 | 312 | 3 | 64% | $56,978,130 | +$684,867 |
 | Sassy-Bucket | 110 | 108 | 2 | 50% | $14,889,831 | -$1,391,974 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 147 | 77 | 2 | 66% | $10,980,405 | +$693,753 |
+| Lakersfan111 | 149 | 77 | 0 | 66% | $10,980,405 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 122 | 65 | 0 | 65% | $8,124,979 | +$494,433 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | fantasy7788 | 76ers vs. Cavaliers | Cavaliers | 1.64 (61¢) | $29,500 | +$18,861 | ✅ Ganada |
 | Multicoloured-Serf | Ducks vs. Flames | Flames | 1.19 (84¢) | $25,499 | -$25,499 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 4 Winner | T1 | 1.25 (80¢) | $52,810 | +$13,203 | ✅ Ganada |
-| jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $90,000 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $90,000 | +$10,000 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $298,406 | -$298,406 | ❌ Perdida |
 | Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | +$11,263 | ✅ Ganada |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | +$24,748 | ✅ Ganada |
@@ -93,10 +93,10 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | Donkey14 | Spread: Mavericks (-6.5) | Mavericks | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | jakepaulthegoat2008 | Jazz vs. Mavericks | Mavericks | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |
 | mooseborzoi | Spread: Raptors (-3.5) | Bucks | 1.96 (51¢) | $29,447 | -$29,447 | ❌ Perdida |
-| Multicoloured-Serf | Spurs vs. Kings | Spurs | 1.11 (90¢) | $26,108 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spurs vs. Kings | Spurs | 1.11 (90¢) | $26,108 | +$2,901 | ✅ Ganada |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
 | surfandturf | Thunder vs. Grizzlies | Thunder | 1.64 (61¢) | $61,000 | -$2,000 | 💰 Vendida antes |
-| jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | — | ⏳ Pendiente |
+| jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | +$10,478 | ✅ Ganada |
 | fhiwbijd | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.37 (73¢) | $53,101 | -$53,101 | ❌ Perdida |
 | mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | +$80,834 | ✅ Ganada |
 | jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.64 (61¢) | $61,054 | +$39,034 | ✅ Ganada |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.49 (67¢) | $56,555 | +$27,856 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 1 Winner | T1 | 1.49 (67¢) | $67,000 | +$33,000 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 3.03 (33¢) | $98,315 | -$98,315 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings | Spurs | 1.12 (89¢) | $210,947 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings | Spurs | 1.12 (89¢) | $210,947 | +$26,072 | ✅ Ganada |
 | surfandturf | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,636 | +$7,823 | ✅ Ganada |
 | MeiGuNiuBi | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $164,000 | +$36,000 | ✅ Ganada |
