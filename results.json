@@ -118328,5 +118328,20 @@
     "status": "pending",
     "ultimo_fill": 1794067297,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15931,
+    "timestamp": 1794067633,
+    "username": "Vladislavkh",
+    "wallet": "0x4905285e78c4b29c6a47a731b6ebc564e0800a76",
+    "slug": "cfb-wkent-mtnst-2026-11-07",
+    "title": "Western Kentucky vs. Middle Tennessee",
+    "outcome": "Western Kentucky",
+    "side": "BUY",
+    "usd": 31999.999998999996,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1794067633,
+    "fills": 1
   }
 ]
