@@ -118373,5 +118373,20 @@
     "status": "pending",
     "ultimo_fill": 1794068909,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15935,
+    "timestamp": 1794069913,
+    "username": "MigRodr",
+    "wallet": "0x9a933a2a83188b28efaf1d07d45228ea6ee82793",
+    "slug": "epl-not-mac-2026-11-07-mac",
+    "title": "Will Manchester City FC win on 2026-11-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25910.8454,
+    "odds_at_bet": 43,
+    "status": "pending",
+    "ultimo_fill": 1794069913,
+    "fills": 1
   }
 ]
