@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 08:10:01 (hora de Perú)
+Actualizado: 2026-11-07 08:12:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7859**  ($445,682,960 en total)
+- Apuestas registradas: **7860**  ($445,708,610 en total)
 - Resueltas: **7828** — 4783 ganadas / 3045 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 703
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | LOLSHAQ | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.23 (81¢) | $67,530 | — | ⏳ Pendiente |
 | CornerGaming | Fulham FC vs. Newcastle United FC: O/U 10.5 Total Corners | Under 10.5 Total Corners | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | KateBollinger | LoL: Karmine Corp vs T1 - Game 2 Winner | T1 | 1.45 (69¢) | $41,389 | +$18,595 | ✅ Ganada |
 | vtcchampion52 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 2.08 (48¢) | $30,259 | +$32,781 | ✅ Ganada |
 | Wal1 | Wizards vs. Hawks | Hawks | 1.37 (73¢) | $31,676 | +$868 | 💰 Vendida antes |
-| ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | -$38,880 | ❌ Perdida |
