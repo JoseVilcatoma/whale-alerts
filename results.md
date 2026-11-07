@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 02:44:31 (hora de Perú)
+Actualizado: 2026-11-07 02:46:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7848**  ($445,024,259 en total)
+- Apuestas registradas: **7849**  ($445,082,241 en total)
 - Resueltas: **7816** — 4777 ganadas / 3039 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 702
 
 ### Balance
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 999585 | 22 | 1 | 0 | 96% | $2,392,235 | +$105,772 |
+| Thunderous-Authoritarian-Snarl | 12 | 10 | 1 | 55% | $2,389,876 | -$1,129,921 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
-| Thunderous-Authoritarian-Snarl | 12 | 10 | 0 | 55% | $2,331,894 | -$1,129,921 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | — | ⏳ Pendiente |
 | omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Wonju DB Promy vs. Seoul Thunders | Seoul Thunders | 1.19 (84¢) | $85,540 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | MeiGuNiuBi | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $164,000 | +$36,000 | ✅ Ganada |
 | Lanlanlanlan | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.20 (83¢) | $49,519 | +$10,142 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $99,000 | +$51,000 | ✅ Ganada |
