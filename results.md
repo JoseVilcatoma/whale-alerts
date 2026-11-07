@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 21:12:03 (hora de Perú)
+Actualizado: 2026-11-06 21:14:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7836**  ($444,281,755 en total)
+- Apuestas registradas: **7837**  ($444,311,583 en total)
 - Resueltas: **7763** — 4739 ganadas / 3024 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| VPenguin | Spread: Thunder (-17.5) | Grizzlies | 2.08 (48¢) | $29,828 | — | ⏳ Pendiente |
 | fantasy7788 | 76ers vs. Cavaliers | Cavaliers | 1.64 (61¢) | $29,500 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Ducks vs. Flames | Flames | 1.19 (84¢) | $25,499 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 4 Winner | T1 | 1.25 (80¢) | $52,810 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | SDTrading | Spread: Arizona (-6.5) | Arizona | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 999585 | Will Wolfsberger AC win on 2026-11-06? | No | 1.06 (94¢) | $75,068 | +$4,792 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | BetBoom Team | 2.38 (42¢) | $58,000 | +$80,095 | ✅ Ganada |
-| tennischamp | Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala | Alexandra Eala | 1.19 (84¢) | $30,868 | +$5,880 | ✅ Ganada |
