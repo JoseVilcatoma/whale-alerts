@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:03:03 (hora de Perú)
+Actualizado: 2026-11-07 18:05:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7923**  ($449,034,204 en total)
+- Apuestas registradas: **7924**  ($449,071,204 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 709
 
 ### Balance
@@ -56,9 +56,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | 999585 | 22 | 1 | 3 | 96% | $2,767,600 | +$105,772 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
+| Thunderous-Authoritarian-Snarl | 13 | 10 | 4 | 57% | $2,624,861 | -$1,094,385 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| Thunderous-Authoritarian-Snarl | 13 | 10 | 3 | 57% | $2,587,861 | -$1,094,385 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | fantasy7788 | 25 | 17 | 1 | 60% | $2,434,673 | +$494,205 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.39 (72¢) | $139,814 | — | ⏳ Pendiente |
 | 3648393489047 | Oregon vs. Ohio State | Oregon | 1.35 (74¢) | $36,913 | — | ⏳ Pendiente |
 | justwins | Spread: UNLV (-3.5) | UNLV | 2.08 (48¢) | $33,331 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.16 (86¢) | $45,973 | +$7,484 | ✅ Ganada |
 | EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Fulham FC win on 2026-11-07? | Yes | 2.04 (49¢) | $65,985 | -$65,985 | ❌ Perdida |
-| surfandturf | Will Arsenal FC win on 2026-11-07? | Yes | 1.15 (87¢) | $108,198 | +$16,167 | ✅ Ganada |
