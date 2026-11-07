@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 11:48:42 (hora de Perú)
+Actualizado: 2026-11-07 11:50:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7877**  ($446,576,461 en total)
+- Apuestas registradas: **7878**  ($446,602,189 en total)
 - Resueltas: **7832** — 4786 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 705
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Baylor (-8.5) | Iowa State | 2.08 (48¢) | $25,728 | — | ⏳ Pendiente |
 | MigRodr | Will Manchester City FC win on 2026-11-07? | No | 2.33 (43¢) | $25,911 | — | ⏳ Pendiente |
 | omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | — | ⏳ Pendiente |
 | AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | Multicoloured-Serf | Spurs vs. Kings | Spurs | 1.11 (90¢) | $26,108 | +$2,901 | ✅ Ganada |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
 | surfandturf | Thunder vs. Grizzlies | Thunder | 1.64 (61¢) | $61,000 | -$2,000 | 💰 Vendida antes |
-| jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | +$10,478 | ✅ Ganada |
