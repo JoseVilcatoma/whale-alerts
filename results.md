@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:00:57 (hora de Perú)
+Actualizado: 2026-11-07 18:03:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7921**  ($448,857,477 en total)
+- Apuestas registradas: **7923**  ($449,034,204 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 53
 - Apostadores distintos: 709
 
 ### Balance
@@ -58,9 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
+| Thunderous-Authoritarian-Snarl | 13 | 10 | 3 | 57% | $2,587,861 | -$1,094,385 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Thunderous-Authoritarian-Snarl | 13 | 10 | 2 | 57% | $2,448,046 | -$1,094,385 |
 | fantasy7788 | 25 | 17 | 1 | 60% | $2,434,673 | +$494,205 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.39 (72¢) | $139,814 | — | ⏳ Pendiente |
+| 3648393489047 | Oregon vs. Ohio State | Oregon | 1.35 (74¢) | $36,913 | — | ⏳ Pendiente |
 | justwins | Spread: UNLV (-3.5) | UNLV | 2.08 (48¢) | $33,331 | — | ⏳ Pendiente |
 | justwins | Spread: Hawai'i (-7.5) | Hawai'i | 2.04 (49¢) | $31,712 | — | ⏳ Pendiente |
 | Dessssa | Devils vs. Islanders | Islanders | 2.38 (42¢) | $32,548 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Fulham FC win on 2026-11-07? | Yes | 2.04 (49¢) | $65,985 | -$65,985 | ❌ Perdida |
 | surfandturf | Will Arsenal FC win on 2026-11-07? | Yes | 1.15 (87¢) | $108,198 | +$16,167 | ✅ Ganada |
-| Flaznorp | Will Frosinone Calcio win on 2026-11-07? | No | 1.32 (76¢) | $56,424 | +$17,818 | ✅ Ganada |
-| Flaznorp | Will Leeds United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.12 (89¢) | $36,509 | +$4,512 | ✅ Ganada |

@@ -119048,5 +119048,35 @@
     "status": "pending",
     "ultimo_fill": 1794092131,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15996,
+    "timestamp": 1794092507,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "cfb-ore-ohiost-2026-11-07",
+    "title": "Oregon vs. Ohio State",
+    "outcome": "Oregon",
+    "side": "BUY",
+    "usd": 36912.6652,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794092507,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15997,
+    "timestamp": 1794092514,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-ig1-gen-2026-11-07-game2",
+    "title": "LoL: Invictus Gaming vs Gen.G - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 139814.3016,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1794092514,
+    "fills": 1
   }
 ]
