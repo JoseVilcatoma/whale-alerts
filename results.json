@@ -118748,5 +118748,35 @@
     "status": "pending",
     "ultimo_fill": 1794087701,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15975,
+    "timestamp": 1794087830,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nba-hou-phx-2026-11-07",
+    "title": "Rockets vs. Suns",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 26449.949499999995,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1794087830,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15976,
+    "timestamp": 1794087899,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lol-ig1-gen-2026-11-07",
+    "title": "LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 82400.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1794087899,
+    "fills": 1
   }
 ]
