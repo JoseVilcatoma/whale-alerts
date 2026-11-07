@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:28:55 (hora de Perú)
+Actualizado: 2026-11-07 18:30:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7934**  ($450,038,871 en total)
+- Apuestas registradas: **7935**  ($450,074,302 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 709
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wal1 | Wizards vs. Thunder | Thunder | 1.22 (82¢) | $35,431 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 1.92 (52¢) | $48,902 | — | ⏳ Pendiente |
 | 999585 | Alabama vs. LSU | Alabama | 1.85 (54¢) | $26,257 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. LSU | LSU | 2.17 (46¢) | $138,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | mooseborzoi | Spread: Baylor (-8.5) | Iowa State | 2.08 (48¢) | $25,728 | -$25,728 | ❌ Perdida |
 | MigRodr | Will Manchester City FC win on 2026-11-07? | No | 2.33 (43¢) | $25,911 | +$34,347 | ✅ Ganada |
 | omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | -$40,734 | ❌ Perdida |
-| AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | -$28,464 | ❌ Perdida |
