@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 04:08:03 (hora de Perú)
+Actualizado: 2026-11-07 04:10:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7853**  ($445,231,173 en total)
-- Resueltas: **7820** — 4778 ganadas / 3042 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **7822** — 4778 ganadas / 3044 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,347,376** sobre $443,801,935 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,221** sobre $771,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,428,218** sobre $443,882,777 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,421** sobre $771,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,10 +73,10 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 |---|---|---|---|---|---|---|
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $50,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
-| NS13 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.69 (59¢) | $29,278 | — | ⏳ Pendiente |
+| NS13 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.69 (59¢) | $29,278 | -$29,278 | ❌ Perdida |
 | VPenguin | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.56 (39¢) | $34,655 | -$34,655 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | +$35,537 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | -$51,564 | ❌ Perdida |
 | omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Wonju DB Promy vs. Seoul Thunders | Seoul Thunders | 1.19 (84¢) | $85,540 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $29,931 | — | ⏳ Pendiente |
