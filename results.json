@@ -118253,5 +118253,35 @@
     "status": "pending",
     "ultimo_fill": 1794064646,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15925,
+    "timestamp": 1794064805,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "lol-ig1-gen-2026-11-07-game-handicap-home-2pt5",
+    "title": "Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5)",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 128555.3,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1794064805,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15926,
+    "timestamp": 1794064807,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "cfb-okl-fl-2026-11-07-spread-home-5pt5",
+    "title": "Spread: Florida (-5.5)",
+    "outcome": "Oklahoma",
+    "side": "BUY",
+    "usd": 70922.85040000001,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794064807,
+    "fills": 1
   }
 ]

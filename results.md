@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 10:18:10 (hora de Perú)
+Actualizado: 2026-11-07 10:20:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7868**  ($446,140,618 en total)
+- Apuestas registradas: **7870**  ($446,340,096 en total)
 - Resueltas: **7830** — 4784 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 703
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
+| Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
 | surfandturf | 38 | 11 | 1 | 78% | $3,841,819 | +$518,806 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -59,11 +59,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| fantasy7788 | 25 | 17 | 1 | 60% | $2,434,673 | +$494,205 |
 | 999585 | 22 | 1 | 0 | 96% | $2,392,235 | +$105,772 |
 | Thunderous-Authoritarian-Snarl | 13 | 10 | 0 | 57% | $2,389,876 | -$1,094,385 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
-| dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 
 _(mostrando los 40 de mayor monto, de 703 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Florida (-5.5) | Oklahoma | 1.92 (52¢) | $70,923 | — | ⏳ Pendiente |
+| fantasy7788 | Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5) | Invictus Gaming | 1.54 (65¢) | $128,555 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Red Wings vs. Avalanche | Avalanche | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.16 (86¢) | $45,973 | — | ⏳ Pendiente |
 | EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.45 (69¢) | $30,430 | -$30,430 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 3 Winner | Karmine Corp | 3.23 (31¢) | $31,000 | +$69,000 | ✅ Ganada |
 | jakepaulthegoat2008 | Thunder vs. Grizzlies | Grizzlies | 2.50 (40¢) | $40,076 | -$40,076 | ❌ Perdida |
-| zb8 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.41 (71¢) | $35,500 | -$35,500 | ❌ Perdida |
-| jakepaulthegoat2008 | Celtics vs. Hornets | Celtics | 1.25 (80¢) | $41,824 | +$10,456 | ✅ Ganada |
