@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 17:14:46 (hora de Perú)
+Actualizado: 2026-11-07 17:16:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7915**  ($448,625,403 en total)
+- Apuestas registradas: **7917**  ($448,691,672 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 709
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thetesterguy | FC Cincinnati vs. Nashville SC: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $38,669 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $27,936 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.39 (72¢) | $35,461 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | -$25,650 | ❌ Perdida |
 | LOLSHAQ | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.23 (81¢) | $67,530 | — | ⏳ Pendiente |
 | CornerGaming | Fulham FC vs. Newcastle United FC: O/U 10.5 Total Corners | Under 10.5 Total Corners | 1.96 (51¢) | $28,050 | +$26,950 | ✅ Ganada |
-| 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | +$25,213 | ✅ Ganada |
-| fantasy7788 | Map Handicap: MOUZ (-1.5) vs BetBoom Team (+1.5) | MOUZ | 2.27 (44¢) | $31,230 | +$39,747 | ✅ Ganada |
