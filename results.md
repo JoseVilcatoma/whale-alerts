@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 21:35:00 (hora de Perú)
+Actualizado: 2026-11-06 23:06:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7837**  ($444,311,583 en total)
-- Resueltas: **7764** — 4740 ganadas / 3024 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **7806** — 4770 ganadas / 3036 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,420,462** sobre $440,584,261 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,493** sobre $765,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,327,565** sobre $442,753,602 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$5,940** sobre $770,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 550 | 311 | 7 | 64% | $56,910,130 | +$508,022 |
-| Sassy-Bucket | 107 | 108 | 5 | 50% | $14,889,831 | -$1,512,945 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 552 | 312 | 4 | 64% | $56,910,130 | +$526,795 |
+| Sassy-Bucket | 110 | 108 | 2 | 50% | $14,889,831 | -$1,391,974 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 141 | 76 | 9 | 65% | $10,980,405 | +$585,487 |
+| Lakersfan111 | 147 | 77 | 2 | 66% | $10,980,405 | +$693,753 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 121 | 65 | 1 | 65% | $8,124,979 | +$476,505 |
+| ferrariChampions2026 | 122 | 65 | 0 | 65% | $8,124,979 | +$494,433 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
-| surfandturf | 37 | 11 | 1 | 77% | $3,733,622 | +$510,983 |
+| surfandturf | 38 | 11 | 0 | 78% | $3,733,622 | +$518,806 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | cosmicxbt | 24 | 9 | 0 | 73% | $3,505,913 | -$328,163 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 999585 | 22 | 1 | 0 | 96% | $2,392,235 | +$105,772 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
-| Thunderous-Authoritarian-Snarl | 10 | 9 | 3 | 53% | $2,331,894 | -$951,515 |
+| Thunderous-Authoritarian-Snarl | 12 | 10 | 0 | 55% | $2,331,894 | -$1,129,921 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 
@@ -71,63 +71,63 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| VPenguin | Spread: Thunder (-17.5) | Grizzlies | 2.08 (48¢) | $29,828 | — | ⏳ Pendiente |
-| fantasy7788 | 76ers vs. Cavaliers | Cavaliers | 1.64 (61¢) | $29,500 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Ducks vs. Flames | Flames | 1.19 (84¢) | $25,499 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 4 Winner | T1 | 1.25 (80¢) | $52,810 | — | ⏳ Pendiente |
+| VPenguin | Spread: Thunder (-17.5) | Grizzlies | 2.08 (48¢) | $29,828 | -$29,828 | ❌ Perdida |
+| fantasy7788 | 76ers vs. Cavaliers | Cavaliers | 1.64 (61¢) | $29,500 | +$18,861 | ✅ Ganada |
+| Multicoloured-Serf | Ducks vs. Flames | Flames | 1.19 (84¢) | $25,499 | -$25,499 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 4 Winner | T1 | 1.25 (80¢) | $52,810 | +$13,203 | ✅ Ganada |
 | jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $90,000 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $298,406 | — | ⏳ Pendiente |
-| Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | — | ⏳ Pendiente |
-| Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | — | ⏳ Pendiente |
-| mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | — | ⏳ Pendiente |
-| Sassy-Bucket | Ducks vs. Flames | Ducks | 2.27 (44¢) | $44,175 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Ducks vs. Flames | Flames | 1.79 (56¢) | $44,074 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Raptors vs. Bucks | Raptors | 1.69 (59¢) | $42,187 | — | ⏳ Pendiente |
-| wangyou1288 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.41 (71¢) | $56,887 | — | ⏳ Pendiente |
-| Donkey14 | Spread: Mavericks (-6.5) | Mavericks | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Jazz vs. Mavericks | Mavericks | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Raptors (-3.5) | Bucks | 1.96 (51¢) | $29,447 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $298,406 | -$298,406 | ❌ Perdida |
+| Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | +$11,263 | ✅ Ganada |
+| Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | +$24,748 | ✅ Ganada |
+| mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | -$48,902 | ❌ Perdida |
+| Sassy-Bucket | Ducks vs. Flames | Ducks | 2.27 (44¢) | $44,175 | +$56,223 | ✅ Ganada |
+| Multicoloured-Serf | Ducks vs. Flames | Flames | 1.79 (56¢) | $44,074 | -$44,074 | ❌ Perdida |
+| jakepaulthegoat2008 | Raptors vs. Bucks | Raptors | 1.69 (59¢) | $42,187 | +$29,317 | ✅ Ganada |
+| wangyou1288 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.41 (71¢) | $56,887 | +$23,236 | ✅ Ganada |
+| Donkey14 | Spread: Mavericks (-6.5) | Mavericks | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
+| jakepaulthegoat2008 | Jazz vs. Mavericks | Mavericks | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |
+| mooseborzoi | Spread: Raptors (-3.5) | Bucks | 1.96 (51¢) | $29,447 | -$29,447 | ❌ Perdida |
 | Multicoloured-Serf | Spurs vs. Kings | Spurs | 1.11 (90¢) | $26,108 | — | ⏳ Pendiente |
-| Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.67 (60¢) | $60,000 | — | ⏳ Pendiente |
+| Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
 | surfandturf | Thunder vs. Grizzlies | Thunder | 1.64 (61¢) | $61,000 | -$2,000 | 💰 Vendida antes |
 | jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | — | ⏳ Pendiente |
-| fhiwbijd | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.37 (73¢) | $53,101 | — | ⏳ Pendiente |
-| mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.64 (61¢) | $61,054 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.67 (60¢) | $35,213 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.45 (69¢) | $30,430 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 3 Winner | Karmine Corp | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Thunder vs. Grizzlies | Grizzlies | 2.50 (40¢) | $40,076 | — | ⏳ Pendiente |
-| zb8 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
-| jakepaulthegoat2008 | Celtics vs. Hornets | Celtics | 1.25 (80¢) | $41,824 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Wizards vs. Hawks | Hawks | 1.39 (72¢) | $50,209 | — | ⏳ Pendiente |
-| EdZachary | Spread: SMU (-5.5) | SMU | 1.96 (51¢) | $39,527 | — | ⏳ Pendiente |
-| spx11 | Raptors vs. Bucks | Bucks | 2.56 (39¢) | $30,114 | — | ⏳ Pendiente |
-| CUTJALENHURTS | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.08 (93¢) | $35,491 | — | ⏳ Pendiente |
-| arjennnnn | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.09 (92¢) | $36,473 | — | ⏳ Pendiente |
+| fhiwbijd | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.37 (73¢) | $53,101 | -$53,101 | ❌ Perdida |
+| mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | +$80,834 | ✅ Ganada |
+| jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.64 (61¢) | $61,054 | +$39,034 | ✅ Ganada |
+| jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.67 (60¢) | $35,213 | +$23,475 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.45 (69¢) | $30,430 | -$30,430 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 3 Winner | Karmine Corp | 3.23 (31¢) | $31,000 | +$69,000 | ✅ Ganada |
+| jakepaulthegoat2008 | Thunder vs. Grizzlies | Grizzlies | 2.50 (40¢) | $40,076 | -$40,076 | ❌ Perdida |
+| zb8 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.41 (71¢) | $35,500 | -$35,500 | ❌ Perdida |
+| jakepaulthegoat2008 | Celtics vs. Hornets | Celtics | 1.25 (80¢) | $41,824 | +$10,456 | ✅ Ganada |
+| Multicoloured-Serf | Wizards vs. Hawks | Hawks | 1.39 (72¢) | $50,209 | +$19,526 | ✅ Ganada |
+| EdZachary | Spread: SMU (-5.5) | SMU | 1.96 (51¢) | $39,527 | +$37,977 | ✅ Ganada |
+| spx11 | Raptors vs. Bucks | Bucks | 2.56 (39¢) | $30,114 | -$30,114 | ❌ Perdida |
+| CUTJALENHURTS | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.08 (93¢) | $35,491 | +$2,671 | ✅ Ganada |
+| arjennnnn | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.09 (92¢) | $36,473 | +$3,172 | ✅ Ganada |
 | KateBollinger | LoL: Karmine Corp vs T1 - Game 2 Winner | T1 | 1.45 (69¢) | $41,389 | +$18,595 | ✅ Ganada |
-| vtcchampion52 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 2.08 (48¢) | $30,259 | — | ⏳ Pendiente |
+| vtcchampion52 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 2.08 (48¢) | $30,259 | +$32,781 | ✅ Ganada |
 | Wal1 | Wizards vs. Hawks | Hawks | 1.37 (73¢) | $31,676 | +$868 | 💰 Vendida antes |
-| ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | — | ⏳ Pendiente |
+| ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | -$38,880 | ❌ Perdida |
 | juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.52 (66¢) | $34,607 | +$17,828 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 2.33 (43¢) | $28,933 | -$28,933 | ❌ Perdida |
 | juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.49 (67¢) | $56,555 | +$27,856 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 1 Winner | T1 | 1.49 (67¢) | $67,000 | +$33,000 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 1 Winner | Karmine Corp | 3.03 (33¢) | $98,315 | -$98,315 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings | Spurs | 1.12 (89¢) | $210,947 | — | ⏳ Pendiente |
-| surfandturf | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,636 | — | ⏳ Pendiente |
-| MeiGuNiuBi | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $32,800 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $164,000 | — | ⏳ Pendiente |
-| Lanlanlanlan | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.20 (83¢) | $49,519 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $99,000 | — | ⏳ Pendiente |
-| 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,515 | — | ⏳ Pendiente |
+| surfandturf | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,636 | +$7,823 | ✅ Ganada |
+| MeiGuNiuBi | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $32,800 | +$7,200 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $164,000 | +$36,000 | ✅ Ganada |
+| Lanlanlanlan | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.20 (83¢) | $49,519 | +$10,142 | ✅ Ganada |
+| Thunderous-Authoritarian-Snarl | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $99,000 | +$51,000 | ✅ Ganada |
+| 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,515 | +$7,796 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $26,936 | +$2,027 | ✅ Ganada |
-| 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $41,000 | — | ⏳ Pendiente |
+| 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.61 (62¢) | $29,408 | +$18,024 | ✅ Ganada |
 | one8tyfive | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $38,216 | +$14,862 | ✅ Ganada |
-| ferrariChampions2026 | Spread: Flames (-1.5) | Ducks | 1.54 (65¢) | $33,295 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Spread: Flames (-1.5) | Ducks | 1.54 (65¢) | $33,295 | +$17,928 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.39 (72¢) | $127,258 | +$49,489 | ✅ Ganada |
-| fantasy7788 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $74,602 | — | ⏳ Pendiente |
+| fantasy7788 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 1.52 (66¢) | $74,602 | +$38,431 | ✅ Ganada |
 | SDTrading | Spread: Arizona (-6.5) | Arizona | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 999585 | Will Wolfsberger AC win on 2026-11-06? | No | 1.06 (94¢) | $75,068 | +$4,792 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | BetBoom Team | 2.38 (42¢) | $58,000 | +$80,095 | ✅ Ganada |
