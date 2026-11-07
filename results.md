@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 01:19:11 (hora de Perú)
+Actualizado: 2026-11-07 01:21:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7844**  ($444,819,920 en total)
+- Apuestas registradas: **7845**  ($444,849,851 en total)
 - Resueltas: **7812** — 4776 ganadas / 3036 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 702
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 554 | 312 | 3 | 64% | $56,978,130 | +$684,867 |
 | Sassy-Bucket | 110 | 108 | 2 | 50% | $14,889,831 | -$1,391,974 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 149 | 77 | 0 | 66% | $10,980,405 | +$714,231 |
+| Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 122 | 65 | 0 | 65% | $8,124,979 | +$494,433 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $29,931 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Trail Blazers vs. Lakers | Lakers | 1.08 (93¢) | $89,448 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 2.94 (34¢) | $68,000 | +$132,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $35,515 | +$7,796 | ✅ Ganada |
 | 999585 | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.08 (93¢) | $26,936 | +$2,027 | ✅ Ganada |
 | 473game | LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs | T1 | 1.22 (82¢) | $41,000 | +$9,000 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Rolex Paris Masters: Taylor Fritz vs Carlos Alcaraz | Carlos Alcaraz | 1.61 (62¢) | $29,408 | +$18,024 | ✅ Ganada |
