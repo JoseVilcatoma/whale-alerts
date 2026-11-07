@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 12:17:56 (hora de Perú)
+Actualizado: 2026-11-07 12:19:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7878**  ($446,602,189 en total)
-- Resueltas: **7832** — 4786 ganadas / 3046 perdidas (**61%** de acierto)
+- Apuestas registradas: **7879**  ($446,627,189 en total)
+- Resueltas: **7833** — 4786 ganadas / 3047 perdidas (**61%** de acierto)
 - Pendientes: 23
 - Apostadores distintos: 705
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,314,350** sobre $444,539,761 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,211** sobre $772,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,342,814** sobre $444,568,225 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,311** sobre $772,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,10 +71,11 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Will Manchester City FC win on 2026-11-07? | Yes | 1.67 (60¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Baylor (-8.5) | Iowa State | 2.08 (48¢) | $25,728 | — | ⏳ Pendiente |
 | MigRodr | Will Manchester City FC win on 2026-11-07? | No | 2.33 (43¢) | $25,911 | — | ⏳ Pendiente |
 | omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | — | ⏳ Pendiente |
-| AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | — | ⏳ Pendiente |
+| AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | -$28,464 | ❌ Perdida |
 | Vladislavkh | Western Kentucky vs. Middle Tennessee | Western Kentucky | 1.75 (57¢) | $32,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.35 (74¢) | $38,421 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | mooseborzoi | Spread: Raptors (-3.5) | Bucks | 1.96 (51¢) | $29,447 | -$29,447 | ❌ Perdida |
 | Multicoloured-Serf | Spurs vs. Kings | Spurs | 1.11 (90¢) | $26,108 | +$2,901 | ✅ Ganada |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
-| surfandturf | Thunder vs. Grizzlies | Thunder | 1.64 (61¢) | $61,000 | -$2,000 | 💰 Vendida antes |
