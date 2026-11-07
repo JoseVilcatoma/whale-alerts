@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 17:00:18 (hora de Perú)
+Actualizado: 2026-11-07 17:02:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7908**  ($448,326,000 en total)
+- Apuestas registradas: **7910**  ($448,434,704 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 38
-- Apostadores distintos: 707
+- Pendientes: 40
+- Apostadores distintos: 708
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 707 en total)_
+_(mostrando los 40 de mayor monto, de 708 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| heyjason | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.41 (71¢) | $73,704 | — | ⏳ Pendiente |
+| ch27er | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Nuggets (-7.5) | Nuggets | 1.92 (52¢) | $130,000 | — | ⏳ Pendiente |
 | SineNooneEI | Rangers vs. Kraken | Rangers | 1.75 (57¢) | $39,203 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $50,000 | +$20,423 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
 | NS13 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.69 (59¢) | $29,278 | -$29,278 | ❌ Perdida |
-| VPenguin | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.56 (39¢) | $34,655 | -$34,655 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | +$35,537 | ✅ Ganada |
