@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:07:18 (hora de Perú)
+Actualizado: 2026-11-07 18:09:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7925**  ($449,120,156 en total)
+- Apuestas registradas: **7926**  ($449,146,057 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 56
 - Apostadores distintos: 709
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zb8 | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.30 (77¢) | $25,901 | — | ⏳ Pendiente |
 | ethanaz | Alabama vs. LSU | LSU | 1.52 (66¢) | $48,953 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.39 (72¢) | $139,814 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | fantasy7788 | Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5) | Invictus Gaming | 1.54 (65¢) | $128,555 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Red Wings vs. Avalanche | Avalanche | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.16 (86¢) | $45,973 | +$7,484 | ✅ Ganada |
-| EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
