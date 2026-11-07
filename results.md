@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 15:43:56 (hora de Perú)
+Actualizado: 2026-11-07 15:46:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7887**  ($447,055,596 en total)
+- Apuestas registradas: **7888**  ($447,097,702 en total)
 - Resueltas: **7844** — 4793 ganadas / 3051 perdidas (**61%** de acierto)
-- Pendientes: 20
-- Apostadores distintos: 705
+- Pendientes: 21
+- Apostadores distintos: 706
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 705 en total)_
+_(mostrando los 40 de mayor monto, de 706 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| texastechbooster | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $42,106 | — | ⏳ Pendiente |
 | Zombie77 | Will Real Madrid CF win on 2026-11-07? | Yes | 1.11 (90¢) | $29,219 | — | ⏳ Pendiente |
 | Sassy-Bucket | Charlotte vs. UAB | UAB | 1.33 (75¢) | $65,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Western Kentucky vs. Middle Tennessee | Middle Tennessee | 2.22 (45¢) | $25,445 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | +$11,263 | ✅ Ganada |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | +$24,748 | ✅ Ganada |
 | mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | -$48,902 | ❌ Perdida |
-| Sassy-Bucket | Ducks vs. Flames | Ducks | 2.27 (44¢) | $44,175 | +$56,223 | ✅ Ganada |
