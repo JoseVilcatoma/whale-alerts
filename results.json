@@ -117396,5 +117396,50 @@
     "status": "pending",
     "ultimo_fill": 1794009832,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15816,
+    "timestamp": 1794009881,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-kc-t1-2026-11-04-game3",
+    "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "usd": 31000.0,
+    "odds_at_bet": 31,
+    "status": "pending",
+    "ultimo_fill": 1794009881,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15817,
+    "timestamp": 1794009900,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-kc-t1-2026-11-04-game3",
+    "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 30429.917699999998,
+    "odds_at_bet": 69,
+    "status": "pending",
+    "ultimo_fill": 1794009900,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15818,
+    "timestamp": 1794009904,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-min-nop-2026-11-06",
+    "title": "Timberwolves vs. Pelicans",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 35213.082,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1794009904,
+    "fills": 1
   }
 ]

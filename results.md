@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 19:04:10 (hora de Perú)
+Actualizado: 2026-11-06 19:06:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7811**  ($442,877,802 en total)
+- Apuestas registradas: **7814**  ($442,974,445 en total)
 - Resueltas: **7757** — 4736 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 34
 - Apostadores distintos: 702
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 549 | 311 | 6 | 64% | $56,826,890 | +$475,022 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 549 | 311 | 7 | 64% | $56,857,320 | +$475,022 |
 | Sassy-Bucket | 107 | 108 | 2 | 50% | $14,750,043 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 141 | 76 | 3 | 65% | $10,629,646 | +$585,487 |
+| Lakersfan111 | 141 | 76 | 4 | 65% | $10,664,859 | +$585,487 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 121 | 65 | 1 | 65% | $8,124,979 | +$476,505 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Timberwolves vs. Pelicans | Timberwolves | 1.67 (60¢) | $35,213 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.45 (69¢) | $30,430 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 3 Winner | Karmine Corp | 3.23 (31¢) | $31,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Thunder vs. Grizzlies | Grizzlies | 2.50 (40¢) | $40,076 | — | ⏳ Pendiente |
 | zb8 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.41 (71¢) | $35,500 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Celtics vs. Hornets | Celtics | 1.25 (80¢) | $41,824 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | ferrariChampions2026 | Jaguars vs. Ravens | Jaguars | 1.23 (81¢) | $179,404 | +$42,082 | ✅ Ganada |
 | Sassy-Bucket | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $794,440 | +$224,073 | ✅ Ganada |
 | ch27er | Heat vs. Warriors | Warriors | 1.61 (62¢) | $25,000 | +$15,323 | ✅ Ganada |
-| mooseborzoi | Magic vs. Suns | Suns | 1.92 (52¢) | $29,477 | +$27,210 | ✅ Ganada |
-| BoggsFromShawshank | Jaguars vs. Ravens | Jaguars | 1.28 (78¢) | $53,352 | +$15,048 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Jaguars (-9.5) | Ravens | 1.92 (52¢) | $25,119 | -$25,119 | ❌ Perdida |
