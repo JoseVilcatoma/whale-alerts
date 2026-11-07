@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 19:28:36 (hora de Perú)
+Actualizado: 2026-11-06 19:30:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7818**  ($443,241,440 en total)
+- Apuestas registradas: **7819**  ($443,302,440 en total)
 - Resueltas: **7759** — 4738 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 702
 
 ### Balance
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 1 | 75% | $4,289,543 | +$1,918,198 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
+| surfandturf | 37 | 10 | 2 | 79% | $3,733,622 | +$512,983 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| surfandturf | 37 | 10 | 1 | 79% | $3,672,622 | +$512,983 |
 | cosmicxbt | 24 | 9 | 0 | 73% | $3,505,913 | -$328,163 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Thunder vs. Grizzlies | Thunder | 1.64 (61¢) | $61,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $94,304 | — | ⏳ Pendiente |
 | fhiwbijd | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.37 (73¢) | $53,101 | — | ⏳ Pendiente |
 | mooseborzoi | 76ers vs. Cavaliers | Cavaliers | 2.38 (42¢) | $58,535 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | keeptheblueflagflyinghigh | Jaguars vs. Ravens | Jaguars | 1.19 (84¢) | $35,354 | +$6,734 | ✅ Ganada |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.89 (53¢) | $53,000 | +$47,000 | ✅ Ganada |
 | jakepaulthegoat2008 | Magic vs. Suns | Suns | 1.92 (52¢) | $25,096 | +$23,166 | ✅ Ganada |
-| FlamePyro | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $67,940 | +$11,060 | ✅ Ganada |
