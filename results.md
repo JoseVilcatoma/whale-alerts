@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 04:05:54 (hora de Perú)
+Actualizado: 2026-11-07 04:08:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7853**  ($445,231,173 en total)
-- Resueltas: **7816** — 4777 ganadas / 3039 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **7820** — 4778 ganadas / 3042 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,228,180** sobre $443,589,221 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,982** sobre $771,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,347,376** sobre $443,801,935 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,221** sobre $771,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 999585 | 22 | 1 | 0 | 96% | $2,392,235 | +$105,772 |
-| Thunderous-Authoritarian-Snarl | 12 | 10 | 1 | 55% | $2,389,876 | -$1,129,921 |
+| Thunderous-Authoritarian-Snarl | 13 | 10 | 0 | 57% | $2,389,876 | -$1,094,385 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
@@ -74,19 +74,19 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $50,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | NS13 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.69 (59¢) | $29,278 | — | ⏳ Pendiente |
-| VPenguin | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.56 (39¢) | $34,655 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | — | ⏳ Pendiente |
+| VPenguin | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.56 (39¢) | $34,655 | -$34,655 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | TheMongolz | 1.61 (62¢) | $57,981 | +$35,537 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | — | ⏳ Pendiente |
 | omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Wonju DB Promy vs. Seoul Thunders | Seoul Thunders | 1.19 (84¢) | $85,540 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $29,931 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | -$78,448 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Trail Blazers vs. Lakers | Lakers | 1.08 (93¢) | $89,448 | +$6,733 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 2.94 (34¢) | $68,000 | +$132,000 | ✅ Ganada |
 | Multicoloured-Serf | TCU vs. Arizona | TCU | 2.00 (50¢) | $54,125 | -$54,125 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will Nagoya Grampus win on 2026-11-07? | Yes | 1.92 (52¢) | $25,476 | -$25,476 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 1.11 (90¢) | $151,210 | +$16,801 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.47 (68¢) | $41,630 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.47 (68¢) | $41,630 | -$41,630 | ❌ Perdida |
 | VPenguin | Spread: Thunder (-17.5) | Grizzlies | 2.08 (48¢) | $29,828 | -$29,828 | ❌ Perdida |
 | fantasy7788 | 76ers vs. Cavaliers | Cavaliers | 1.64 (61¢) | $29,500 | +$18,861 | ✅ Ganada |
 | Multicoloured-Serf | Ducks vs. Flames | Flames | 1.19 (84¢) | $25,499 | -$25,499 | ❌ Perdida |
