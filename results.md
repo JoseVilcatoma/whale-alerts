@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 15:54:17 (hora de Perú)
+Actualizado: 2026-11-07 15:56:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7889**  ($447,255,402 en total)
-- Resueltas: **7844** — 4793 ganadas / 3051 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **7846** — 4793 ganadas / 3053 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 706
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,377,272** sobre $445,046,823 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,352** sobre $773,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,443,499** sobre $445,113,051 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,552** sobre $774,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,12 +82,12 @@ _(mostrando los 40 de mayor monto, de 706 en total)_
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $55,750 | — | ⏳ Pendiente |
 | surfandturf | Will Real Madrid CF win on 2026-11-07? | Yes | 1.27 (79¢) | $52,630 | — | ⏳ Pendiente |
 | ch27er | Will Manchester City FC win on 2026-11-07? | Yes | 1.67 (60¢) | $25,000 | -$25,000 | ❌ Perdida |
-| mooseborzoi | Spread: Baylor (-8.5) | Iowa State | 2.08 (48¢) | $25,728 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Baylor (-8.5) | Iowa State | 2.08 (48¢) | $25,728 | -$25,728 | ❌ Perdida |
 | MigRodr | Will Manchester City FC win on 2026-11-07? | No | 2.33 (43¢) | $25,911 | +$34,347 | ✅ Ganada |
 | omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | -$40,734 | ❌ Perdida |
 | AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | -$28,464 | ❌ Perdida |
 | Vladislavkh | Western Kentucky vs. Middle Tennessee | Western Kentucky | 1.75 (57¢) | $32,000 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | -$40,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.35 (74¢) | $38,421 | +$13,499 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.27 (79¢) | $30,336 | +$8,064 | ✅ Ganada |
 | Kch-Temp | Spread: Florida (-5.5) | Oklahoma | 1.92 (52¢) | $70,923 | — | ⏳ Pendiente |
