@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:33:00 (hora de Perú)
+Actualizado: 2026-11-07 18:35:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7937**  ($450,148,645 en total)
-- Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Resueltas: **7848** — 4794 ganadas / 3054 perdidas (**61%** de acierto)
+- Pendientes: 66
 - Apostadores distintos: 709
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,486,483** sobre $445,156,035 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,652** sobre $774,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,478,563** sobre $445,194,704 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,632** sobre $774,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | justwins | Spread: Hawai'i (-7.5) | Hawai'i | 2.04 (49¢) | $31,712 | — | ⏳ Pendiente |
 | Dessssa | Devils vs. Islanders | Islanders | 2.38 (42¢) | $32,548 | — | ⏳ Pendiente |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.37 (73¢) | $68,214 | — | ⏳ Pendiente |
-| thetesterguy | FC Cincinnati vs. Nashville SC: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $38,669 | — | ⏳ Pendiente |
+| thetesterguy | FC Cincinnati vs. Nashville SC: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $38,669 | +$7,920 | ✅ Ganada |
 | SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $27,936 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
