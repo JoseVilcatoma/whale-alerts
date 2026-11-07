@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 10:20:11 (hora de Perú)
+Actualizado: 2026-11-07 10:22:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7870**  ($446,340,096 en total)
-- Resueltas: **7830** — 4784 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **7831** — 4785 ganadas / 3046 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 703
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,357,381** sobre $444,449,915 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,318** sobre $772,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,332,168** sobre $444,483,337 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,242** sobre $772,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
 | LOLSHAQ | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.23 (81¢) | $67,530 | — | ⏳ Pendiente |
 | CornerGaming | Fulham FC vs. Newcastle United FC: O/U 10.5 Total Corners | Under 10.5 Total Corners | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | +$25,213 | ✅ Ganada |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs BetBoom Team (+1.5) | MOUZ | 2.27 (44¢) | $31,230 | +$39,747 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.39 (72¢) | $260,000 | +$101,111 | ✅ Ganada |
 | TAIWANNUMBERONE | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $31,555 | +$12,889 | ✅ Ganada |
