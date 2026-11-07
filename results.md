@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 15:29:31 (hora de Perú)
+Actualizado: 2026-11-07 15:31:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7885**  ($446,961,177 en total)
+- Apuestas registradas: **7886**  ($447,026,377 en total)
 - Resueltas: **7844** — 4793 ganadas / 3051 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 705
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 3 | 64% | $57,092,860 | +$713,914 |
-| Sassy-Bucket | 110 | 108 | 2 | 50% | $14,889,831 | -$1,391,974 |
+| Sassy-Bucket | 110 | 108 | 3 | 50% | $14,955,031 | -$1,391,974 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Charlotte vs. UAB | UAB | 1.33 (75¢) | $65,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Western Kentucky vs. Middle Tennessee | Middle Tennessee | 2.22 (45¢) | $25,445 | — | ⏳ Pendiente |
 | Mastermoney | Alabama vs. LSU | LSU | 1.49 (67¢) | $128,240 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Louisiana-Monroe vs. Arkansas State | Arkansas State | 1.19 (84¢) | $32,204 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | -$48,902 | ❌ Perdida |
 | Sassy-Bucket | Ducks vs. Flames | Ducks | 2.27 (44¢) | $44,175 | +$56,223 | ✅ Ganada |
 | Multicoloured-Serf | Ducks vs. Flames | Flames | 1.79 (56¢) | $44,074 | -$44,074 | ❌ Perdida |
-| jakepaulthegoat2008 | Raptors vs. Bucks | Raptors | 1.69 (59¢) | $42,187 | +$29,317 | ✅ Ganada |
