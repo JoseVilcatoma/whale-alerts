@@ -117366,5 +117366,35 @@
     "status": "pending",
     "ultimo_fill": 1794009250,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15814,
+    "timestamp": 1794009766,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "lol-kc-t1-2026-11-04-game3",
+    "title": "LoL: Karmine Corp vs T1 - Game 3 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 35500.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1794009766,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15815,
+    "timestamp": 1794009832,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-okc-mem-2026-11-06",
+    "title": "Thunder vs. Grizzlies",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 40075.67600000001,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1794009832,
+    "fills": 1
   }
 ]
