@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 19:53:23 (hora de Perú)
+Actualizado: 2026-11-06 19:55:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7823**  ($443,445,995 en total)
+- Apuestas registradas: **7824**  ($443,475,995 en total)
 - Resueltas: **7759** — 4738 ganadas / 3021 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: Mavericks (-6.5) | Mavericks | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | jakepaulthegoat2008 | Jazz vs. Mavericks | Mavericks | 1.43 (70¢) | $28,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Raptors (-3.5) | Bucks | 1.96 (51¢) | $29,447 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spurs vs. Kings | Spurs | 1.11 (90¢) | $26,108 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | PerpsKing | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 3.45 (29¢) | $26,625 | -$26,625 | ❌ Perdida |
 | Anon455 | Jaguars vs. Ravens | Jaguars | 1.16 (86¢) | $34,400 | +$5,600 | ✅ Ganada |
 | CUTJALENHURTS | Magic vs. Suns: O/U 224.5 | Over 224.5 | 1.89 (53¢) | $28,603 | -$28,603 | ❌ Perdida |
-| Anon455 | Jaguars vs. Ravens | Jaguars | 1.25 (80¢) | $32,000 | +$8,000 | ✅ Ganada |
