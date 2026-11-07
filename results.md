@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 14:32:13 (hora de Perú)
+Actualizado: 2026-11-07 14:34:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7881**  ($446,735,569 en total)
+- Apuestas registradas: **7882**  ($446,775,289 en total)
 - Resueltas: **7841** — 4792 ganadas / 3049 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 705
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Zzzz87 | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.15 (87¢) | $39,720 | — | ⏳ Pendiente |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $55,750 | — | ⏳ Pendiente |
 | surfandturf | Will Real Madrid CF win on 2026-11-07? | Yes | 1.27 (79¢) | $52,630 | — | ⏳ Pendiente |
 | ch27er | Will Manchester City FC win on 2026-11-07? | Yes | 1.67 (60¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | wangyou1288 | Game Handicap: T1 (-1.5) vs Karmine Corp (+1.5) | T1 | 1.41 (71¢) | $56,887 | +$23,236 | ✅ Ganada |
 | Donkey14 | Spread: Mavericks (-6.5) | Mavericks | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | jakepaulthegoat2008 | Jazz vs. Mavericks | Mavericks | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |
-| mooseborzoi | Spread: Raptors (-3.5) | Bucks | 1.96 (51¢) | $29,447 | -$29,447 | ❌ Perdida |

@@ -118448,5 +118448,20 @@
     "status": "pending",
     "ultimo_fill": 1794079321,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15950,
+    "timestamp": 1794080038,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "fl1-psg-tro-2026-11-07-psg",
+    "title": "Will Paris Saint-Germain FC win on 2026-11-07?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 39719.85,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1794080038,
+    "fills": 1
   }
 ]
