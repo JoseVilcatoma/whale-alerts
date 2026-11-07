@@ -119258,5 +119258,35 @@
     "status": "pending",
     "ultimo_fill": 1794094205,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16011,
+    "timestamp": 1794094297,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "cfb-mia-nd-2026-11-07",
+    "title": "Miami (FL) vs. Notre Dame",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 42112.655999999995,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1794094297,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16012,
+    "timestamp": 1794094329,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "lol-ig1-gen-2026-11-07-game3",
+    "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 32230.589,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794094329,
+    "fills": 1
   }
 ]
