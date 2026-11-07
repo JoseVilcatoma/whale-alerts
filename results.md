@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 15:52:12 (hora de Perú)
+Actualizado: 2026-11-07 15:54:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7888**  ($447,097,702 en total)
+- Apuestas registradas: **7889**  ($447,255,402 en total)
 - Resueltas: **7844** — 4793 ganadas / 3051 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 706
 
 ### Balance
@@ -58,9 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
+| 999585 | 22 | 1 | 1 | 96% | $2,549,935 | +$105,772 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | fantasy7788 | 25 | 17 | 1 | 60% | $2,434,673 | +$494,205 |
-| 999585 | 22 | 1 | 0 | 96% | $2,392,235 | +$105,772 |
 | Thunderous-Authoritarian-Snarl | 13 | 10 | 0 | 57% | $2,389,876 | -$1,094,385 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 706 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Oregon vs. Ohio State | Ohio State | 1.20 (83¢) | $157,700 | — | ⏳ Pendiente |
 | texastechbooster | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $42,106 | — | ⏳ Pendiente |
 | Zombie77 | Will Real Madrid CF win on 2026-11-07? | Yes | 1.11 (90¢) | $29,219 | — | ⏳ Pendiente |
 | Sassy-Bucket | Charlotte vs. UAB | UAB | 1.33 (75¢) | $65,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 706 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $298,406 | -$298,406 | ❌ Perdida |
 | Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | +$11,263 | ✅ Ganada |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | +$24,748 | ✅ Ganada |
-| mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | -$48,902 | ❌ Perdida |
