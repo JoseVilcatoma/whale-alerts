@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 20:03:40 (hora de Perú)
+Actualizado: 2026-11-06 20:05:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7831**  ($443,785,539 en total)
+- Apuestas registradas: **7832**  ($443,815,239 en total)
 - Resueltas: **7760** — 4738 ganadas / 3022 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 702
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 3.03 (33¢) | $29,700 | — | ⏳ Pendiente |
 | Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | — | ⏳ Pendiente |
 | mooseborzoi | Thunder vs. Grizzlies | Grizzlies | 2.44 (41¢) | $48,902 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.54 (65¢) | $50,111 | -$50,111 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 1.69 (59¢) | $27,730 | -$27,730 | ❌ Perdida |
 | NS13 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.44 (41¢) | $73,660 | +$105,999 | ✅ Ganada |
-| fantasy7788 | Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5) | PARIVISION | 1.72 (58¢) | $43,603 | +$31,575 | ✅ Ganada |
