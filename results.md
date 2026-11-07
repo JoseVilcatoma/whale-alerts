@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 16:14:44 (hora de Perú)
+Actualizado: 2026-11-07 16:16:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7893**  ($447,597,781 en total)
+- Apuestas registradas: **7894**  ($447,640,765 en total)
 - Resueltas: **7846** — 4793 ganadas / 3053 perdidas (**61%** de acierto)
-- Pendientes: 24
-- Apostadores distintos: 706
+- Pendientes: 25
+- Apostadores distintos: 707
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 706 en total)_
+_(mostrando los 40 de mayor monto, de 707 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| alohaa | Will US Sassuolo Calcio win on 2026-11-07? | Yes | 1.16 (86¢) | $42,984 | — | ⏳ Pendiente |
 | thetesterguy | Inter Miami CF vs. Charlotte FC: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $36,784 | — | ⏳ Pendiente |
 | Sassy-Bucket | Vanderbilt vs. Mississippi State | Mississippi State | 1.72 (58¢) | $80,692 | — | ⏳ Pendiente |
 | 999585 | Cincinnati vs. Houston | Houston | 1.06 (94¢) | $180,044 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 706 en total)_
 | VPenguin | Spread: Thunder (-17.5) | Grizzlies | 2.08 (48¢) | $29,828 | -$29,828 | ❌ Perdida |
 | fantasy7788 | 76ers vs. Cavaliers | Cavaliers | 1.64 (61¢) | $29,500 | +$18,861 | ✅ Ganada |
 | Multicoloured-Serf | Ducks vs. Flames | Flames | 1.19 (84¢) | $25,499 | -$25,499 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 4 Winner | T1 | 1.25 (80¢) | $52,810 | +$13,203 | ✅ Ganada |
