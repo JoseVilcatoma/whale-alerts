@@ -117908,5 +117908,20 @@
     "status": "pending",
     "ultimo_fill": 1794032396,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15884,
+    "timestamp": 1794033027,
+    "username": "0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604",
+    "wallet": "0x1bc2900db79077f14d294dd24552020dfbe73391",
+    "slug": "bkkbl-won-seo2-2026-11-07",
+    "title": "Wonju DB Promy vs. Seoul Thunders",
+    "outcome": "Seoul Thunders",
+    "side": "BUY",
+    "usd": 85539.62759999999,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1794033027,
+    "fills": 1
   }
 ]
