@@ -118598,5 +118598,35 @@
     "status": "pending",
     "ultimo_fill": 1794085813,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 15965,
+    "timestamp": 1794085887,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-vand-mspst-2026-11-07",
+    "title": "Vanderbilt vs. Mississippi State",
+    "outcome": "Mississippi State",
+    "side": "BUY",
+    "usd": 80692.31439999999,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1794085887,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15966,
+    "timestamp": 1794085889,
+    "username": "thetesterguy",
+    "wallet": "0xad494094e355999ad09bd07e51861c2a1541c53e",
+    "slug": "mls-mia-clt-2026-11-07-total-1pt5",
+    "title": "Inter Miami CF vs. Charlotte FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 36783.7228,
+    "odds_at_bet": 94,
+    "status": "pending",
+    "ultimo_fill": 1794085889,
+    "fills": 1
   }
 ]

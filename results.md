@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 16:10:39 (hora de Perú)
+Actualizado: 2026-11-07 16:12:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7891**  ($447,480,305 en total)
+- Apuestas registradas: **7893**  ($447,597,781 en total)
 - Resueltas: **7846** — 4793 ganadas / 3053 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 24
 - Apostadores distintos: 706
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 3 | 64% | $57,092,860 | +$713,914 |
-| Sassy-Bucket | 110 | 108 | 3 | 50% | $14,955,031 | -$1,391,974 |
+| Sassy-Bucket | 110 | 108 | 4 | 50% | $15,035,723 | -$1,391,974 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 706 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thetesterguy | Inter Miami CF vs. Charlotte FC: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $36,784 | — | ⏳ Pendiente |
+| Sassy-Bucket | Vanderbilt vs. Mississippi State | Mississippi State | 1.72 (58¢) | $80,692 | — | ⏳ Pendiente |
 | 999585 | Cincinnati vs. Houston | Houston | 1.06 (94¢) | $180,044 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Alabama vs. LSU | LSU | 1.52 (66¢) | $44,858 | — | ⏳ Pendiente |
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.20 (83¢) | $157,700 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 706 en total)_
 | fantasy7788 | 76ers vs. Cavaliers | Cavaliers | 1.64 (61¢) | $29,500 | +$18,861 | ✅ Ganada |
 | Multicoloured-Serf | Ducks vs. Flames | Flames | 1.19 (84¢) | $25,499 | -$25,499 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Karmine Corp vs T1 - Game 4 Winner | T1 | 1.25 (80¢) | $52,810 | +$13,203 | ✅ Ganada |
-| jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $90,000 | +$10,000 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $298,406 | -$298,406 | ❌ Perdida |
