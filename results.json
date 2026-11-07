@@ -118643,5 +118643,20 @@
     "status": "pending",
     "ultimo_fill": 1794086153,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15968,
+    "timestamp": 1794086360,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-ore-ohiost-2026-11-07",
+    "title": "Oregon vs. Ohio State",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 37621.1736,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1794086360,
+    "fills": 1
   }
 ]
