@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 17:10:38 (hora de Perú)
+Actualizado: 2026-11-07 17:12:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7911**  ($448,495,780 en total)
+- Apuestas registradas: **7915**  ($448,625,403 en total)
 - Resueltas: **7847** — 4793 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 45
 - Apostadores distintos: 709
 
 ### Balance
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 4 | 64% | $57,165,006 | +$713,914 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 5 | 64% | $57,192,942 | +$713,914 |
 | Sassy-Bucket | 110 | 108 | 4 | 50% | $15,035,723 | -$1,391,974 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 122 | 65 | 4 | 65% | $8,260,531 | +$494,433 |
+| ferrariChampions2026 | 122 | 65 | 6 | 65% | $8,326,757 | +$494,433 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $27,936 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.39 (72¢) | $35,461 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Sharks vs. Stars | Stars | 1.37 (73¢) | $33,181 | — | ⏳ Pendiente |
 | stuttig | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $61,075 | — | ⏳ Pendiente |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.41 (71¢) | $73,704 | — | ⏳ Pendiente |
 | ch27er | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | CornerGaming | Fulham FC vs. Newcastle United FC: O/U 10.5 Total Corners | Under 10.5 Total Corners | 1.96 (51¢) | $28,050 | +$26,950 | ✅ Ganada |
 | 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | +$25,213 | ✅ Ganada |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs BetBoom Team (+1.5) | MOUZ | 2.27 (44¢) | $31,230 | +$39,747 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.39 (72¢) | $260,000 | +$101,111 | ✅ Ganada |
-| TAIWANNUMBERONE | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $31,555 | +$12,889 | ✅ Ganada |
-| kjhgkltivtvriur | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.41 (71¢) | $50,000 | +$20,423 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: MOUZ vs BetBoom Team (BO3) - IEM Beijing Playoffs | MOUZ | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
