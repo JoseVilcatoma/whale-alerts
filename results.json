@@ -117833,5 +117833,20 @@
     "status": "pending",
     "ultimo_fill": 1794026692,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15872,
+    "timestamp": 1794028473,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "cfb-tcu-arz-2026-11-06",
+    "title": "TCU vs. Arizona",
+    "outcome": "TCU",
+    "side": "BUY",
+    "usd": 54125.3,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794028473,
+    "fills": 1
   }
 ]
