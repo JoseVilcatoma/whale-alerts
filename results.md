@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 07:55:44 (hora de Perú)
+Actualizado: 2026-11-07 07:57:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7858**  ($445,615,430 en total)
+- Apuestas registradas: **7859**  ($445,682,960 en total)
 - Resueltas: **7828** — 4783 ganadas / 3045 perdidas (**61%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 702
+- Pendientes: 8
+- Apostadores distintos: 703
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 | dhgreg | 8 | 20 | 0 | 29% | $2,308,411 | -$1,138,375 |
 
-_(mostrando los 40 de mayor monto, de 702 en total)_
+_(mostrando los 40 de mayor monto, de 703 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LOLSHAQ | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.23 (81¢) | $67,530 | — | ⏳ Pendiente |
 | CornerGaming | Fulham FC vs. Newcastle United FC: O/U 10.5 Total Corners | Under 10.5 Total Corners | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Málaga CF vs. Real Racing Club: O/U 2.5 | Over 2.5 | 1.75 (57¢) | $33,421 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs BetBoom Team (+1.5) | MOUZ | 2.27 (44¢) | $31,230 | +$39,747 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | vtcchampion52 | Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5) | Karmine Corp | 2.08 (48¢) | $30,259 | +$32,781 | ✅ Ganada |
 | Wal1 | Wizards vs. Hawks | Hawks | 1.37 (73¢) | $31,676 | +$868 | 💰 Vendida antes |
 | ropetard | Spread: Hawks (-8.5) | Hawks | 2.08 (48¢) | $38,880 | -$38,880 | ❌ Perdida |
-| juice-fruit | Rolex Paris Masters: Casper Ruud vs Nuno Borges | Casper Ruud | 1.52 (66¢) | $34,607 | +$17,828 | ✅ Ganada |
