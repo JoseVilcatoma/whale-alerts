@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-06 20:22:18 (hora de Perú)
+Actualizado: 2026-11-06 20:24:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7832**  ($444,083,946 en total)
+- Apuestas registradas: **7833**  ($444,173,946 en total)
 - Resueltas: **7763** — 4739 ganadas / 3024 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 702
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 550 | 311 | 6 | 64% | $56,857,320 | +$508,022 |
 | Sassy-Bucket | 107 | 108 | 5 | 50% | $14,889,831 | -$1,512,945 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
-| Lakersfan111 | 141 | 76 | 8 | 65% | $10,890,405 | +$585,487 |
+| Lakersfan111 | 141 | 76 | 9 | 65% | $10,980,405 | +$585,487 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 121 | 65 | 1 | 65% | $8,124,979 | +$476,505 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| jakepaulthegoat2008 | Spurs vs. Kings | Spurs | 1.11 (90¢) | $90,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Karmine Corp vs T1 - Game 4 Winner | Karmine Corp | 2.56 (39¢) | $298,406 | — | ⏳ Pendiente |
 | Dessssa | Blue Jackets vs. Sabres | Sabres | 1.30 (77¢) | $37,706 | — | ⏳ Pendiente |
 | Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.69 (59¢) | $35,612 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 | fantasy7788 | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.52 (66¢) | $28,803 | -$28,803 | ❌ Perdida |
 | lllllllIlll | Counter-Strike: FURIA vs BetBoom Team (BO3) - IEM Beijing Playoffs | FURIA | 1.54 (65¢) | $50,111 | -$50,111 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | PARIVISION | 1.69 (59¢) | $27,730 | -$27,730 | ❌ Perdida |
-| NS13 | Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 2.44 (41¢) | $73,660 | +$105,999 | ✅ Ganada |

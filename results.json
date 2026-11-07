@@ -117713,5 +117713,20 @@
     "status": "pending",
     "ultimo_fill": 1794013727,
     "fills": 6
+  },
+  {
+    "telegram_msg_id": 15843,
+    "timestamp": 1794014655,
+    "username": "jakepaulthegoat2008",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-sas-sac-2026-11-06",
+    "title": "Spurs vs. Kings",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 90000.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794014655,
+    "fills": 1
   }
 ]
