@@ -118238,5 +118238,20 @@
     "status": "pending",
     "ultimo_fill": 1794063674,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15924,
+    "timestamp": 1794064646,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nhl-det-col-2026-11-07",
+    "title": "Red Wings vs. Avalanche",
+    "outcome": "Avalanche",
+    "side": "BUY",
+    "usd": 33045.55,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1794064646,
+    "fills": 1
   }
 ]

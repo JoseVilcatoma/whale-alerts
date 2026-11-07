@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 10:16:08 (hora de Perú)
+Actualizado: 2026-11-07 10:18:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7867**  ($446,107,572 en total)
+- Apuestas registradas: **7868**  ($446,140,618 en total)
 - Resueltas: **7830** — 4784 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 703
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 122 | 65 | 0 | 65% | $8,124,979 | +$494,433 |
+| ferrariChampions2026 | 122 | 65 | 1 | 65% | $8,158,024 | +$494,433 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Red Wings vs. Avalanche | Avalanche | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.16 (86¢) | $45,973 | — | ⏳ Pendiente |
 | EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Fulham FC win on 2026-11-07? | Yes | 2.04 (49¢) | $65,985 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | jakepaulthegoat2008 | Thunder vs. Grizzlies | Grizzlies | 2.50 (40¢) | $40,076 | -$40,076 | ❌ Perdida |
 | zb8 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.41 (71¢) | $35,500 | -$35,500 | ❌ Perdida |
 | jakepaulthegoat2008 | Celtics vs. Hornets | Celtics | 1.25 (80¢) | $41,824 | +$10,456 | ✅ Ganada |
-| Multicoloured-Serf | Wizards vs. Hawks | Hawks | 1.39 (72¢) | $50,209 | +$19,526 | ✅ Ganada |
