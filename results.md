@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 11:11:28 (hora de Perú)
+Actualizado: 2026-11-07 11:13:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7874**  ($446,481,353 en total)
-- Resueltas: **7831** — 4785 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **7832** — 4786 ganadas / 3046 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 704
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,332,168** sobre $444,483,337 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,242** sobre $772,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,314,350** sobre $444,539,761 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,211** sobre $772,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 704 en total)_
 | EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Fulham FC win on 2026-11-07? | Yes | 2.04 (49¢) | $65,985 | — | ⏳ Pendiente |
 | surfandturf | Will Arsenal FC win on 2026-11-07? | Yes | 1.15 (87¢) | $108,198 | — | ⏳ Pendiente |
-| Flaznorp | Will Frosinone Calcio win on 2026-11-07? | No | 1.32 (76¢) | $56,424 | — | ⏳ Pendiente |
+| Flaznorp | Will Frosinone Calcio win on 2026-11-07? | No | 1.32 (76¢) | $56,424 | +$17,818 | ✅ Ganada |
 | Flaznorp | Will Leeds United FC vs. Tottenham Hotspur FC end in a draw? | No | 1.12 (89¢) | $36,509 | +$4,512 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Newcastle United FC win on 2026-11-07? | No | 1.37 (73¢) | $44,341 | — | ⏳ Pendiente |
 | sinasinner | Will Manchester City FC win on 2026-11-07? | Yes | 1.75 (57¢) | $25,650 | — | ⏳ Pendiente |
