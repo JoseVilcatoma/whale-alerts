@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 14:19:54 (hora de Perú)
+Actualizado: 2026-11-07 14:21:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7879**  ($446,627,189 en total)
-- Resueltas: **7840** — 4792 ganadas / 3048 perdidas (**61%** de acierto)
+- Apuestas registradas: **7880**  ($446,679,819 en total)
+- Resueltas: **7841** — 4792 ganadas / 3049 perdidas (**61%** de acierto)
 - Pendientes: 16
 - Apostadores distintos: 705
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,320,235** sobre $444,929,529 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,185** sobre $773,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,360,969** sobre $444,970,263 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,285** sobre $773,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 0 | 61% | $4,724,372 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
-| surfandturf | 39 | 11 | 0 | 78% | $3,841,819 | +$534,973 |
+| surfandturf | 39 | 11 | 1 | 78% | $3,894,449 | +$534,973 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | cosmicxbt | 24 | 9 | 0 | 73% | $3,505,913 | -$328,163 |
@@ -71,10 +71,11 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Will Real Madrid CF win on 2026-11-07? | Yes | 1.27 (79¢) | $52,630 | — | ⏳ Pendiente |
 | ch27er | Will Manchester City FC win on 2026-11-07? | Yes | 1.67 (60¢) | $25,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Baylor (-8.5) | Iowa State | 2.08 (48¢) | $25,728 | — | ⏳ Pendiente |
 | MigRodr | Will Manchester City FC win on 2026-11-07? | No | 2.33 (43¢) | $25,911 | — | ⏳ Pendiente |
-| omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | — | ⏳ Pendiente |
+| omnibus-076daa | Parma Calcio 1913 vs. Bologna FC 1909: O/U 2.5 | Under 2.5 | 1.75 (57¢) | $40,734 | -$40,734 | ❌ Perdida |
 | AML | Spread: Arsenal FC (-1.5) | Arsenal FC | 3.33 (30¢) | $28,464 | -$28,464 | ❌ Perdida |
 | Vladislavkh | Western Kentucky vs. Middle Tennessee | Western Kentucky | 1.75 (57¢) | $32,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Baylor (-10.5) | Iowa State | 1.85 (54¢) | $40,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 705 en total)_
 | jakepaulthegoat2008 | Jazz vs. Mavericks | Mavericks | 1.43 (70¢) | $28,000 | +$12,000 | ✅ Ganada |
 | mooseborzoi | Spread: Raptors (-3.5) | Bucks | 1.96 (51¢) | $29,447 | -$29,447 | ❌ Perdida |
 | Multicoloured-Serf | Spurs vs. Kings | Spurs | 1.11 (90¢) | $26,108 | +$2,901 | ✅ Ganada |
-| Sassy-Bucket | Thunder vs. Grizzlies | Thunder | 1.67 (60¢) | $60,000 | +$40,000 | ✅ Ganada |
