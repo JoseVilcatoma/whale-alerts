@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 09:59:44 (hora de Perú)
+Actualizado: 2026-11-07 10:01:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7866**  ($446,061,599 en total)
+- Apuestas registradas: **7867**  ($446,107,572 en total)
 - Resueltas: **7830** — 4784 ganadas / 3046 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 703
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 554 | 312 | 3 | 64% | $56,978,130 | +$684,867 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 554 | 312 | 4 | 64% | $57,024,103 | +$684,867 |
 | Sassy-Bucket | 110 | 108 | 2 | 50% | $14,889,831 | -$1,391,974 |
 | googleplay | 58 | 47 | 0 | 55% | $12,159,271 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Arsenal FC win on 2026-11-07? | Yes | 1.16 (86¢) | $45,973 | — | ⏳ Pendiente |
 | EdZachary | Spread: LSU (-6.5) | LSU | 2.08 (48¢) | $41,533 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Will Fulham FC win on 2026-11-07? | Yes | 2.04 (49¢) | $65,985 | — | ⏳ Pendiente |
 | surfandturf | Will Arsenal FC win on 2026-11-07? | Yes | 1.15 (87¢) | $108,198 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 703 en total)_
 | zb8 | LoL: Karmine Corp vs T1 - Game 3 Winner | T1 | 1.41 (71¢) | $35,500 | -$35,500 | ❌ Perdida |
 | jakepaulthegoat2008 | Celtics vs. Hornets | Celtics | 1.25 (80¢) | $41,824 | +$10,456 | ✅ Ganada |
 | Multicoloured-Serf | Wizards vs. Hawks | Hawks | 1.39 (72¢) | $50,209 | +$19,526 | ✅ Ganada |
-| EdZachary | Spread: SMU (-5.5) | SMU | 1.96 (51¢) | $39,527 | +$37,977 | ✅ Ganada |
