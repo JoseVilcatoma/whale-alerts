@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:37:05 (hora de Perú)
+Actualizado: 2026-11-07 18:39:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7937**  ($450,148,645 en total)
-- Resueltas: **7848** — 4794 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Resueltas: **7849** — 4795 ganadas / 3054 perdidas (**61%** de acierto)
+- Pendientes: 65
 - Apostadores distintos: 709
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,478,563** sobre $445,194,704 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,632** sobre $774,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,476,215** sobre $445,231,487 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,625** sobre $774,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -115,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | Flaznorp | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.09 (92¢) | $45,502 | — | ⏳ Pendiente |
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.09 (92¢) | $37,621 | — | ⏳ Pendiente |
 | alohaa | Will US Sassuolo Calcio win on 2026-11-07? | Yes | 1.16 (86¢) | $42,984 | -$42,984 | ❌ Perdida |
-| thetesterguy | Inter Miami CF vs. Charlotte FC: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $36,784 | — | ⏳ Pendiente |
+| thetesterguy | Inter Miami CF vs. Charlotte FC: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $36,784 | +$2,348 | ✅ Ganada |
 | Sassy-Bucket | Vanderbilt vs. Mississippi State | Mississippi State | 1.72 (58¢) | $80,692 | — | ⏳ Pendiente |
 | 999585 | Cincinnati vs. Houston | Houston | 1.06 (94¢) | $180,044 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Alabama vs. LSU | LSU | 1.52 (66¢) | $44,858 | — | ⏳ Pendiente |
