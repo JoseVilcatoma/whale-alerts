@@ -118778,5 +118778,35 @@
     "status": "pending",
     "ultimo_fill": 1794087899,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15977,
+    "timestamp": 1794088264,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-ig1-gen-2026-11-07-game-handicap-home-2pt5",
+    "title": "Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5)",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 26923.076923,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1794088264,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15978,
+    "timestamp": 1794088284,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-ig1-gen-2026-11-07-game-handicap-home-1pt5",
+    "title": "Game Handicap: GEN (-1.5) vs Invictus Gaming (+1.5)",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 31247.610643,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1794088284,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 16:49:59 (hora de Perú)
+Actualizado: 2026-11-07 16:52:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7903**  ($448,063,627 en total)
+- Apuestas registradas: **7905**  ($448,121,798 en total)
 - Resueltas: **7846** — 4793 ganadas / 3053 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 36
 - Apostadores distintos: 707
 
 ### Balance
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| Thunderous-Authoritarian-Snarl | 13 | 10 | 2 | 57% | $2,448,046 | -$1,094,385 |
 | fantasy7788 | 25 | 17 | 1 | 60% | $2,434,673 | +$494,205 |
-| Thunderous-Authoritarian-Snarl | 13 | 10 | 0 | 57% | $2,389,876 | -$1,094,385 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-1.5) vs Invictus Gaming (+1.5) | Gen.G | 1.54 (65¢) | $31,248 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5) | Gen.G | 2.86 (35¢) | $26,923 | — | ⏳ Pendiente |
 | nigiri99 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $82,400 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $26,450 | — | ⏳ Pendiente |
 | googleplay | Nuggets vs. Pacers: O/U 229.5 | Over 229.5 | 2.00 (50¢) | $57,480 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 707 en total)_
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere - Map 2 Winner | Natus Vincere | 1.67 (60¢) | $51,564 | -$51,564 | ❌ Perdida |
 | omnibus-076daa | Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5 | Over 2.5 | 2.04 (49¢) | $37,305 | -$37,305 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Wonju DB Promy vs. Seoul Thunders | Seoul Thunders | 1.19 (84¢) | $85,540 | -$85,540 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $29,931 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | -$78,448 | ❌ Perdida |
