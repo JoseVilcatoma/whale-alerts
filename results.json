@@ -117516,5 +117516,35 @@
     "status": "pending",
     "ultimo_fill": 1794011405,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15826,
+    "timestamp": 1794012306,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-okc-mem-2026-11-06",
+    "title": "Thunder vs. Grizzlies",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 60000.0,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1794012306,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 15827,
+    "timestamp": 1794012310,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-sas-sac-2026-11-06",
+    "title": "Spurs vs. Kings",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 26107.992000000002,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794012310,
+    "fills": 1
   }
 ]
