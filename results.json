@@ -117788,5 +117788,20 @@
     "status": "lost",
     "ultimo_fill": 1794017574,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 15869,
+    "timestamp": 1794025062,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-mglz-navi-2026-11-07",
+    "title": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "usd": 41630.2324,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1794025062,
+    "fills": 1
   }
 ]
