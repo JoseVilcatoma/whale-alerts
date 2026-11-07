@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 01:23:22 (hora de Perú)
+Actualizado: 2026-11-07 01:25:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7845**  ($444,849,851 en total)
-- Resueltas: **7812** — 4776 ganadas / 3036 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **7813** — 4777 ganadas / 3036 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 702
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,129,312** sobre $443,394,172 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,690** sobre $770,600 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$3,122,579** sobre $443,483,620 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,682** sobre $770,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 702 en total)_
 |---|---|---|---|---|---|---|
 | robloxgamblemaster-2008-10-18 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $29,931 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.41 (71¢) | $78,448 | — | ⏳ Pendiente |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Trail Blazers vs. Lakers | Lakers | 1.08 (93¢) | $89,448 | — | ⏳ Pendiente |
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Trail Blazers vs. Lakers | Lakers | 1.08 (93¢) | $89,448 | +$6,733 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Kings: O/U 230.5 | Over 230.5 | 2.94 (34¢) | $68,000 | +$132,000 | ✅ Ganada |
 | Multicoloured-Serf | TCU vs. Arizona | TCU | 2.00 (50¢) | $54,125 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Nagoya Grampus win on 2026-11-07? | Yes | 1.92 (52¢) | $25,476 | — | ⏳ Pendiente |
