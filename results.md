@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:43:17 (hora de Perú)
+Actualizado: 2026-11-07 20:45:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7975**  ($451,872,124 en total)
-- Resueltas: **7883** — 4815 ganadas / 3068 perdidas (**61%** de acierto)
-- Pendientes: 69
+- Resueltas: **7898** — 4827 ganadas / 3071 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 711
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,922,967** sobre $447,322,754 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,161** sobre $777,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,938,580** sobre $448,092,452 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,875** sobre $779,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 558 | 313 | 8 | 64% | $57,619,906 | +$604,572 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 560 | 313 | 6 | 64% | $57,619,906 | +$638,750 |
 | Sassy-Bucket | 111 | 109 | 7 | 50% | $15,189,947 | -$1,450,933 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
-| Lakersfan111 | 149 | 77 | 4 | 66% | $11,137,550 | +$714,231 |
+| Lakersfan111 | 150 | 77 | 3 | 66% | $11,137,550 | +$721,714 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 123 | 67 | 4 | 65% | $8,391,565 | +$448,471 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 1 | 59% | $3,255,336 | -$683,016 |
-| Thunderous-Authoritarian-Snarl | 13 | 10 | 6 | 57% | $3,108,686 | -$1,094,385 |
+| Thunderous-Authoritarian-Snarl | 15 | 11 | 3 | 58% | $3,108,686 | -$1,110,015 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
 | 999585 | 24 | 3 | 2 | 89% | $2,936,949 | -$55,690 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| fantasy7788 | 25 | 17 | 1 | 60% | $2,434,673 | +$494,205 |
+| fantasy7788 | 25 | 18 | 0 | 58% | $2,434,673 | +$365,649 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
@@ -100,14 +100,14 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | Sassy-Bucket | Air Force vs. Army | Air Force | 2.56 (39¢) | $30,682 | — | ⏳ Pendiente |
 | COMEONDUDE | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $47,740 | — | ⏳ Pendiente |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $33,495 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.03 (33¢) | $82,457 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
-| vtcchampion52 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.33 (30¢) | $25,143 | — | ⏳ Pendiente |
-| SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $30,022 | — | ⏳ Pendiente |
-| dromedaryy | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.03 (33¢) | $82,457 | -$82,457 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
+| vtcchampion52 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.33 (30¢) | $25,143 | -$25,143 | ❌ Perdida |
+| SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $30,022 | +$12,867 | ✅ Ganada |
+| dromedaryy | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $31,067 | — | ⏳ Pendiente |
-| zb8 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $47,237 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
+| zb8 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $47,237 | +$21,223 | ✅ Ganada |
+| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $32,070 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.35 (74¢) | $32,231 | +$4,791 | 💰 Vendida antes |
 | gmpm2 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,113 | — | ⏳ Pendiente |
