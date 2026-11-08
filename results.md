@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 22:09:00 (hora de Perú)
+Actualizado: 2026-11-07 22:11:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7996**  ($453,072,897 en total)
+- Apuestas registradas: **7997**  ($453,100,052 en total)
 - Resueltas: **7909** — 4836 ganadas / 3073 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 712
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 313 | 5 | 64% | $57,652,868 | +$665,333 |
-| Sassy-Bucket | 111 | 109 | 10 | 50% | $15,363,734 | -$1,450,933 |
+| Sassy-Bucket | 111 | 109 | 11 | 50% | $15,390,889 | -$1,450,933 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
 | Lakersfan111 | 150 | 77 | 6 | 66% | $11,348,378 | +$721,714 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.49 (67¢) | $27,155 | — | ⏳ Pendiente |
 | surfandturf | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.94 (34¢) | $33,767 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.52 (66¢) | $90,158 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | West Virginia vs. Texas Tech | Texas Tech | 1.37 (73¢) | $34,188 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | zb8 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $47,237 | +$21,223 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $32,070 | — | ⏳ Pendiente |
-| 3648393489047 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.35 (74¢) | $32,231 | +$4,791 | 💰 Vendida antes |

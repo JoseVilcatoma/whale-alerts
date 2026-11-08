@@ -120175,5 +120175,20 @@
     "status": "pending",
     "ultimo_fill": 1794107152,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16134,
+    "timestamp": 1794107449,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-tat-vir-2026-11-07",
+    "title": "UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card)",
+    "outcome": "Tatiana Suarez",
+    "side": "BUY",
+    "usd": 27154.798500000004,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794107449,
+    "fills": 1
   }
 ]
