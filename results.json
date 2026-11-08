@@ -119498,5 +119498,20 @@
     "status": "pending",
     "ultimo_fill": 1794097792,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16043,
+    "timestamp": 1794097963,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "cfb-iowa-nw-2026-11-07",
+    "title": "Iowa vs. Northwestern",
+    "outcome": "Iowa",
+    "side": "BUY",
+    "usd": 45750.121999999996,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1794097963,
+    "fills": 1
   }
 ]
