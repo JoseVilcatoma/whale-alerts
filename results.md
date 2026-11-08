@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 02:26:44 (hora de Perú)
+Actualizado: 2026-11-08 02:28:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8017**  ($453,865,972 en total)
-- Resueltas: **7974** — 4880 ganadas / 3094 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **7979** — 4883 ganadas / 3096 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,374,460** sobre $452,172,446 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,545** sobre $786,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,382,373** sobre $452,334,319 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,561** sobre $787,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 315 | 3 | 64% | $57,754,868 | +$621,763 |
-| Sassy-Bucket | 116 | 113 | 3 | 51% | $15,424,446 | -$1,336,434 |
+| Sassy-Bucket | 116 | 114 | 2 | 50% | $15,424,446 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 153 | 79 | 2 | 66% | $11,374,398 | +$757,164 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 74 | 32 | 1 | 70% | $6,436,320 | -$191,325 |
+| ethanaz | 75 | 32 | 0 | 70% | $6,436,320 | -$155,896 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 18 | 12 | 0 | 60% | $3,255,336 | -$653,016 |
 | Thunderous-Authoritarian-Snarl | 18 | 11 | 1 | 62% | $3,147,263 | -$935,950 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
-| TAIWANNUMBERONE | 57 | 24 | 1 | 70% | $3,066,059 | -$131,760 |
+| TAIWANNUMBERONE | 58 | 24 | 0 | 71% | $3,066,059 | -$120,114 |
 | 999585 | 27 | 3 | 0 | 90% | $2,962,302 | -$37,586 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | fantasy7788 | 30 | 19 | 0 | 61% | $2,767,534 | +$505,637 |
@@ -78,11 +78,11 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | hovistomaradona | Will Bayer 04 Leverkusen win on 2026-11-08? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $37,225 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | — | ⏳ Pendiente |
-| Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | +$11,646 | ✅ Ganada |
+| Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | +$11,900 | ✅ Ganada |
 | krdlox | Spurs vs. Trail Blazers: O/U 224.5 | Under 224.5 | 1.89 (53¢) | $31,929 | -$31,929 | ❌ Perdida |
 | omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $27,002 | — | ⏳ Pendiente |
-| ethanaz | Wyoming vs. UNLV | Wyoming | 2.08 (48¢) | $32,704 | — | ⏳ Pendiente |
+| ethanaz | Wyoming vs. UNLV | Wyoming | 2.08 (48¢) | $32,704 | +$35,429 | ✅ Ganada |
 | CUTJALENHURTS | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $26,399 | +$3,600 | ✅ Ganada |
 | User1244322 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $29,333 | +$4,000 | ✅ Ganada |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $63,000 | +$8,591 | ✅ Ganada |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | +$20,864 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | +$31,967 | ✅ Ganada |
 | fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | +$58,235 | ✅ Ganada |
-| Sassy-Bucket | Wyoming vs. UNLV | UNLV | 1.64 (61¢) | $33,557 | — | ⏳ Pendiente |
+| Sassy-Bucket | Wyoming vs. UNLV | UNLV | 1.64 (61¢) | $33,557 | -$33,557 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.49 (67¢) | $27,155 | +$13,375 | ✅ Ganada |
 | surfandturf | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.94 (34¢) | $33,767 | -$33,767 | ❌ Perdida |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.52 (66¢) | $90,158 | +$46,445 | ✅ Ganada |
