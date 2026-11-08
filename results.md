@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 21:12:19 (hora de Perú)
+Actualizado: 2026-11-07 21:14:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7979**  ($452,103,454 en total)
+- Apuestas registradas: **7980**  ($452,169,894 en total)
 - Resueltas: **7905** — 4833 ganadas / 3072 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 711
 
 ### Balance
@@ -57,10 +57,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 999585 | 24 | 3 | 2 | 89% | $2,936,949 | -$55,690 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
+| fantasy7788 | 25 | 18 | 2 | 58% | $2,621,113 | +$365,649 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
-| fantasy7788 | 25 | 18 | 1 | 58% | $2,554,673 | +$365,649 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Rockets vs. Suns | Rockets | 1.33 (75¢) | $66,440 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.52 (66¢) | $39,928 | — | ⏳ Pendiente |
 | FlamePyro | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $26,789 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.39 (72¢) | $139,814 | +$54,372 | ✅ Ganada |
 | 3648393489047 | Oregon vs. Ohio State | Oregon | 1.35 (74¢) | $36,913 | +$12,969 | ✅ Ganada |
 | justwins | Spread: UNLV (-3.5) | UNLV | 2.08 (48¢) | $33,331 | — | ⏳ Pendiente |
-| justwins | Spread: Hawai'i (-7.5) | Hawai'i | 2.04 (49¢) | $31,712 | — | ⏳ Pendiente |
