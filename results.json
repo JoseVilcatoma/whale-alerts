@@ -120670,5 +120670,35 @@
     "status": "pending",
     "ultimo_fill": 1794142025,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16245,
+    "timestamp": 1794142334,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "nfl-cle-no-2026-11-08-spread-home-3pt5",
+    "title": "Spread: Saints (-3.5)",
+    "outcome": "Saints",
+    "side": "BUY",
+    "usd": 51206.74990000001,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794142334,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16246,
+    "timestamp": 1794142403,
+    "username": "SebastianAde1996",
+    "wallet": "0x4b4071d1456249cd8d7272d533a3efe191aa2f6a",
+    "slug": "lal-elc-bet-2026-11-08-bet",
+    "title": "Will Real Betis Balompi\u00e9 win on 2026-11-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 40000.00000000001,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1794142403,
+    "fills": 1
   }
 ]

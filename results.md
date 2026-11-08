@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 07:51:43 (hora de Perú)
+Actualizado: 2026-11-08 07:53:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8029**  ($454,689,141 en total)
+- Apuestas registradas: **8031**  ($454,780,347 en total)
 - Resueltas: **7985** — 4888 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 23
 - Apostadores distintos: 713
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 43 | 27 | 0 | 61% | $4,766,485 | +$609,345 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| Kch-Temp | 47 | 15 | 2 | 76% | $4,489,052 | +$1,983,665 |
+| Kch-Temp | 47 | 15 | 3 | 76% | $4,540,259 | +$1,983,665 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SebastianAde1996 | Will Real Betis Balompié win on 2026-11-08? | Yes | 1.82 (55¢) | $40,000 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Saints (-3.5) | Saints | 2.00 (50¢) | $51,207 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Chelsea FC win on 2026-11-08? | No | 1.96 (51¢) | $89,852 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $28,150 | — | ⏳ Pendiente |
 | juice-fruit | Will SSC Napoli win on 2026-11-08? | No | 1.52 (66¢) | $29,931 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | +$8,654 | ✅ Ganada |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.37 (73¢) | $32,818 | +$12,138 | ✅ Ganada |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.25 (80¢) | $64,808 | +$16,202 | ✅ Ganada |
-| googleplay | Spread: Warriors (-7.5) | Warriors | 1.96 (51¢) | $49,348 | -$49,348 | ❌ Perdida |
-| omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $54,161 | — | ⏳ Pendiente |
