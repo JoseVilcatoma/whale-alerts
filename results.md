@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 09:33:55 (hora de Perú)
+Actualizado: 2026-11-08 09:35:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8048**  ($455,726,923 en total)
+- Apuestas registradas: **8049**  ($455,759,118 en total)
 - Resueltas: **7986** — 4889 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 714
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
 | Zzzz87 | 76ers vs. Bulls | 76ers | 1.28 (78¢) | $35,116 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.49 (67¢) | $132,398 | +$65,211 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.54 (65¢) | $39,016 | +$21,009 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | -$35,508 | ❌ Perdida |
-| krdlox | UFC Fight Night: Davey Grant vs. Elijah Smith (Bantamweight, Main Card) | Elijah Smith | 1.32 (76¢) | $28,971 | +$9,149 | ✅ Ganada |
