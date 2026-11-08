@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:20:33 (hora de Perú)
+Actualizado: 2026-11-08 16:22:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8104**  ($459,612,332 en total)
+- Apuestas registradas: **8105**  ($459,712,740 en total)
 - Resueltas: **8031** — 4916 ganadas / 3115 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 716
 
 ### Balance
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 565 | 317 | 6 | 64% | $58,523,400 | +$305,577 |
-| Sassy-Bucket | 116 | 114 | 3 | 50% | $15,607,208 | -$1,369,991 |
+| Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 128 | 67 | 6 | 66% | $8,633,029 | +$519,583 |
+| ferrariChampions2026 | 128 | 67 | 7 | 66% | $8,663,275 | +$519,583 |
 | totoro3miyazaki | 38 | 29 | 2 | 57% | $8,597,784 | -$831,864 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Sassy-Bucket | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $182,762 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $30,245 | — | ⏳ Pendiente |
+| Sassy-Bucket | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $252,925 | — | ⏳ Pendiente |
 | Donkey14 | Packers vs. Patriots | Patriots | 1.64 (61¢) | $66,426 | — | ⏳ Pendiente |
 | EdZachary | Spread: Patriots (-3.5) | Patriots | 2.13 (47¢) | $30,216 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Patriots: O/U 44.5 | Under 44.5 | 2.04 (49¢) | $48,495 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | +$4,820 | ✅ Ganada |
 | Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | -$52,041 | ❌ Perdida |
 | Zzzz87 | 76ers vs. Bulls | 76ers | 1.28 (78¢) | $35,116 | — | ⏳ Pendiente |
-| big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | +$8,240 | ✅ Ganada |

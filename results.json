@@ -121794,10 +121794,25 @@
     "title": "Raiders vs. 49ers",
     "outcome": "49ers",
     "side": "BUY",
-    "usd": 182762.40000000002,
+    "usd": 252924.96000000002,
     "odds_at_bet": 80,
     "status": "pending",
-    "ultimo_fill": 1794172825,
+    "ultimo_fill": 1794172916,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 16368,
+    "timestamp": 1794172870,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-ari-sea-2026-11-08",
+    "title": "Cardinals vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 30245.259998,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1794172870,
     "fills": 1
   }
 ]
