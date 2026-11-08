@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:22:29 (hora de Perú)
+Actualizado: 2026-11-08 11:24:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8068**  ($456,867,733 en total)
-- Resueltas: **7997** — 4894 ganadas / 3103 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Resueltas: **7999** — 4896 ganadas / 3103 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 714
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,738,640** sobre $453,266,269 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,753** sobre $789,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,727,753** sobre $453,375,033 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,732** sobre $789,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,11 +87,11 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | 1l2ihj34li12u34 | Will Manchester United FC win on 2026-11-08? | Yes | 2.13 (47¢) | $48,757 | — | ⏳ Pendiente |
 | JambonMogettes | Giants vs. Eagles: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $49,211 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Patriots | Patriots | 1.61 (62¢) | $25,780 | — | ⏳ Pendiente |
-| thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.09 (92¢) | $69,764 | — | ⏳ Pendiente |
+| thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.09 (92¢) | $69,764 | +$6,066 | ✅ Ganada |
 | ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | — | ⏳ Pendiente |
-| thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | — | ⏳ Pendiente |
+| thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | +$4,820 | ✅ Ganada |
 | Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
 | Zzzz87 | 76ers vs. Bulls | 76ers | 1.28 (78¢) | $35,116 | — | ⏳ Pendiente |
 | big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | — | ⏳ Pendiente |
