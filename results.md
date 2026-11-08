@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 22:36:34 (hora de Perú)
+Actualizado: 2026-11-07 22:38:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8001**  ($453,242,421 en total)
-- Resueltas: **7915** — 4839 ganadas / 3076 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Resueltas: **7917** — 4839 ganadas / 3078 perdidas (**61%** de acierto)
+- Pendientes: 61
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,854,708** sobre $449,188,443 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,967** sobre $780,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,923,820** sobre $449,257,555 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,167** sobre $781,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 3 | 64% | $57,652,868 | +$573,763 |
 | Sassy-Bucket | 111 | 109 | 12 | 50% | $15,424,446 | -$1,450,933 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
-| Lakersfan111 | 150 | 77 | 6 | 66% | $11,348,378 | +$721,714 |
+| Lakersfan111 | 150 | 78 | 5 | 66% | $11,348,378 | +$688,110 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 124 | 67 | 3 | 65% | $8,391,565 | +$465,494 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | krdlox | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.78 (36¢) | $25,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.49 (67¢) | $132,398 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.54 (65¢) | $39,016 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | -$35,508 | ❌ Perdida |
 | krdlox | UFC Fight Night: Davey Grant vs. Elijah Smith (Bantamweight, Main Card) | Elijah Smith | 1.32 (76¢) | $28,971 | +$9,149 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Michigan State vs. Michigan | Michigan | 1.69 (59¢) | $28,319 | — | ⏳ Pendiente |
 | fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | — | ⏳ Pendiente |
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | -$33,604 | ❌ Perdida |
 | surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | — | ⏳ Pendiente |
 | milkteaboba | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
