@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 15:18:17 (hora de Perú)
+Actualizado: 2026-11-08 15:20:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8092**  ($458,576,703 en total)
+- Apuestas registradas: **8093**  ($458,606,703 en total)
 - Resueltas: **8028** — 4915 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 41
-- Apostadores distintos: 715
+- Pendientes: 42
+- Apostadores distintos: 716
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 715 en total)_
+_(mostrando los 40 de mayor monto, de 716 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
 | big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | JambonMogettes | Giants vs. Eagles | Giants | 1.69 (59¢) | $155,247 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Texans vs. Chargers | Texans | 1.47 (68¢) | $28,292 | — | ⏳ Pendiente |
 | hajlask | Texans vs. Chargers | Texans | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: Texans (-5.5) | Chargers | 2.00 (50¢) | $136,059 | — | ⏳ Pendiente |
