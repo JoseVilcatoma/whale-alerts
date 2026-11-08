@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:05:27 (hora de Perú)
+Actualizado: 2026-11-08 11:07:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8061**  ($456,490,656 en total)
+- Apuestas registradas: **8064**  ($456,637,199 en total)
 - Resueltas: **7987** — 4890 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 54
 - Apostadores distintos: 714
 
 ### Balance
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 128 | 67 | 5 | 66% | $8,601,476 | +$519,583 |
 | 3edmond.dantes | 34 | 24 | 1 | 59% | $8,037,570 | -$1,850,423 |
-| totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
+| totoro3miyazaki | 38 | 25 | 2 | 60% | $8,004,561 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -49,8 +49,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
+| milkteaboba | 18 | 12 | 1 | 60% | $3,292,538 | -$653,016 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| milkteaboba | 18 | 12 | 0 | 60% | $3,255,336 | -$653,016 |
 | Thunderous-Authoritarian-Snarl | 19 | 11 | 0 | 63% | $3,147,263 | -$926,306 |
 | 999585 | 27 | 3 | 1 | 90% | $3,141,763 | -$37,586 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $37,202 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.08 (48¢) | $58,667 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Manchester United FC vs. Aston Villa FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $50,675 | — | ⏳ Pendiente |
 | gmpm2 | Lions vs. Dolphins | Lions | 1.35 (74¢) | $174,270 | — | ⏳ Pendiente |
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: O/U 3.5 | Over 3.5 | 1.06 (94¢) | $30,000 | — | ⏳ Pendiente |
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: Both Teams to Score | Yes | 1.12 (89¢) | $30,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $27,002 | — | ⏳ Pendiente |
 | ethanaz | Wyoming vs. UNLV | Wyoming | 2.08 (48¢) | $32,704 | +$35,429 | ✅ Ganada |
 | CUTJALENHURTS | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $26,399 | +$3,600 | ✅ Ganada |
-| User1244322 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $29,333 | +$4,000 | ✅ Ganada |
-| ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $63,000 | +$8,591 | ✅ Ganada |
-| surfandturf | UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.54 (65¢) | $58,364 | -$58,364 | ❌ Perdida |
