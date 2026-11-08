@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:16:19 (hora de Perú)
+Actualizado: 2026-11-08 18:18:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8146**  ($462,369,710 en total)
+- Apuestas registradas: **8147**  ($462,408,558 en total)
 - Resueltas: **8065** — 4939 ganadas / 3126 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 59
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | -$52,145 | ❌ Perdida |
 | totoro3miyazaki | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $272,003 | -$272,003 | ❌ Perdida |
 | 999585 | Jets vs. Chiefs | Chiefs | 1.14 (88¢) | $226,861 | +$5,156 | 💰 Vendida antes |
-| Multicoloured-Serf | Giants vs. Eagles | Eagles | 1.89 (53¢) | $65,021 | -$65,021 | ❌ Perdida |
