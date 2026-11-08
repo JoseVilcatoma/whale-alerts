@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 14:59:28 (hora de Perú)
+Actualizado: 2026-11-08 15:01:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8089**  ($458,468,005 en total)
-- Resueltas: **8026** — 4913 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Resueltas: **8027** — 4914 ganadas / 3113 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 715
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,724,271** sobre $455,028,143 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,323** sobre $791,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,700,957** sobre $455,060,337 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,250** sobre $792,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.09 (92¢) | $69,764 | +$6,066 | ✅ Ganada |
 | ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | +$23,313 | ✅ Ganada |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | +$4,820 | ✅ Ganada |
 | Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | -$52,041 | ❌ Perdida |
 | Zzzz87 | 76ers vs. Bulls | 76ers | 1.28 (78¢) | $35,116 | — | ⏳ Pendiente |
