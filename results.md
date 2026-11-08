@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:29:22 (hora de Perú)
+Actualizado: 2026-11-07 19:31:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7950**  ($450,655,158 en total)
+- Apuestas registradas: **7951**  ($450,725,158 en total)
 - Resueltas: **7863** — 4801 ganadas / 3062 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Pendientes: 65
 - Apostadores distintos: 709
 
 ### Balance
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 24 | 9 | 1 | 73% | $3,561,663 | -$328,163 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
+| milkteaboba | 17 | 12 | 1 | 59% | $3,255,336 | -$683,016 |
 | Thunderous-Authoritarian-Snarl | 13 | 10 | 6 | 57% | $3,108,686 | -$1,094,385 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
 | Sassy-Bucket | Air Force vs. Army | Air Force | 2.56 (39¢) | $30,682 | — | ⏳ Pendiente |
 | COMEONDUDE | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $47,740 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | alohaa | Will US Sassuolo Calcio win on 2026-11-07? | Yes | 1.16 (86¢) | $42,984 | -$42,984 | ❌ Perdida |
 | thetesterguy | Inter Miami CF vs. Charlotte FC: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $36,784 | +$2,348 | ✅ Ganada |
 | Sassy-Bucket | Vanderbilt vs. Mississippi State | Mississippi State | 1.72 (58¢) | $80,692 | — | ⏳ Pendiente |
-| 999585 | Cincinnati vs. Houston | Houston | 1.06 (94¢) | $180,044 | — | ⏳ Pendiente |
