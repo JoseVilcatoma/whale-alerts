@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:18:19 (hora de Perú)
+Actualizado: 2026-11-08 17:20:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8125**  ($461,034,202 en total)
-- Resueltas: **8061** — 4937 ganadas / 3124 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Resueltas: **8062** — 4937 ganadas / 3125 perdidas (**61%** de acierto)
+- Pendientes: 40
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,746,262** sobre $457,544,804 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,083** sobre $795,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,771,262** sobre $457,569,804 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,183** sobre $795,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
 | bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | +$7,500 | ✅ Ganada |
 | ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
-| big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
+| big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | -$52,145 | ❌ Perdida |
 | totoro3miyazaki | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $272,003 | -$272,003 | ❌ Perdida |
 | 999585 | Jets vs. Chiefs | Chiefs | 1.14 (88¢) | $226,861 | +$5,156 | 💰 Vendida antes |
