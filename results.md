@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:36:58 (hora de Perú)
+Actualizado: 2026-11-07 20:39:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7973**  ($451,729,033 en total)
+- Apuestas registradas: **7974**  ($451,762,156 en total)
 - Resueltas: **7883** — 4815 ganadas / 3068 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Pendientes: 68
 - Apostadores distintos: 711
 
 ### Balance
@@ -54,8 +54,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 13 | 10 | 6 | 57% | $3,108,686 | -$1,094,385 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
+| 999585 | 24 | 3 | 1 | 89% | $2,826,981 | -$55,690 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
-| 999585 | 24 | 3 | 0 | 89% | $2,793,858 | -$55,690 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $33,123 | — | ⏳ Pendiente |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.37 (73¢) | $32,818 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.25 (80¢) | $64,808 | — | ⏳ Pendiente |
 | googleplay | Spread: Warriors (-7.5) | Warriors | 1.96 (51¢) | $49,348 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | thetesterguy | FC Cincinnati vs. Nashville SC: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $38,669 | +$7,920 | ✅ Ganada |
 | SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $27,936 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
