@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 21:41:32 (hora de Perú)
+Actualizado: 2026-11-07 21:43:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7987**  ($452,625,571 en total)
+- Apuestas registradas: **7988**  ($452,653,891 en total)
 - Resueltas: **7905** — 4833 ganadas / 3072 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 711
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Michigan State vs. Michigan | Michigan | 1.69 (59¢) | $28,319 | — | ⏳ Pendiente |
 | fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,502 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati vs. Houston | Houston | 1.18 (85¢) | $162,395 | +$28,658 | ✅ Ganada |
 | ethanaz | Oregon vs. Ohio State | Ohio State | 4.35 (23¢) | $58,125 | -$58,125 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Tennessee (-6.5) | Kentucky | 1.96 (51¢) | $26,167 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
