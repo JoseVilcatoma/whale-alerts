@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 12:04:18 (hora de Perú)
+Actualizado: 2026-11-08 12:06:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8077**  ($457,463,949 en total)
+- Apuestas registradas: **8078**  ($457,506,950 en total)
 - Resueltas: **8007** — 4903 ganadas / 3104 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 715
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Browns vs. Saints | Saints | 1.56 (64¢) | $43,001 | — | ⏳ Pendiente |
 | nigiri99 | Spread: Chiefs (-3.5) | Chiefs | 1.41 (71¢) | $43,148 | — | ⏳ Pendiente |
 | thegreatjeff | Spread: FC Internazionale Milano (-1.5) | Como 1907 | 1.23 (81¢) | $100,000 | — | ⏳ Pendiente |
 | taylorsversion | Cowboys vs. Colts | Cowboys | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ - Map 2 Winner | MOUZ | 1.52 (66¢) | $25,147 | +$12,954 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $60,509 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Shandong Taishan FC win on 2026-11-08? | No | 1.64 (61¢) | $270,308 | -$270,308 | ❌ Perdida |
