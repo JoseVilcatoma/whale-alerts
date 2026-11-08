@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 10:15:08 (hora de Perú)
+Actualizado: 2026-11-08 10:17:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8054**  ($455,956,375 en total)
-- Resueltas: **7986** — 4889 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Resueltas: **7987** — 4890 ganadas / 3097 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 714
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,574,009** sobre $452,810,409 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,431** sobre $787,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,541,282** sobre $452,850,409 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,349** sobre $788,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | hajlask | Texans vs. Chargers | Texans | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Texans (-5.5) | Chargers | 2.00 (50¢) | $136,059 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Giants vs. Eagles | Giants | 1.67 (60¢) | $26,415 | — | ⏳ Pendiente |
-| SebastianAde1996 | Will Real Betis Balompié win on 2026-11-08? | Yes | 1.82 (55¢) | $40,000 | — | ⏳ Pendiente |
+| SebastianAde1996 | Will Real Betis Balompié win on 2026-11-08? | Yes | 1.82 (55¢) | $40,000 | +$32,727 | ✅ Ganada |
 | Kch-Temp | Spread: Saints (-3.5) | Saints | 2.00 (50¢) | $51,207 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Chelsea FC win on 2026-11-08? | No | 1.96 (51¢) | $89,852 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $28,150 | — | ⏳ Pendiente |
