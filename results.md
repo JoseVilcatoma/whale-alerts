@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:37:11 (hora de Perú)
+Actualizado: 2026-11-08 16:39:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8106**  ($459,819,209 en total)
+- Apuestas registradas: **8108**  ($459,919,689 en total)
 - Resueltas: **8045** — 4925 ganadas / 3120 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 40
 - Apostadores distintos: 716
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 565 | 317 | 6 | 64% | $58,523,400 | +$305,577 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 565 | 317 | 7 | 64% | $58,598,400 | +$305,577 |
 | Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Chargers | Texans | 1.33 (75¢) | $75,000 | — | ⏳ Pendiente |
+| vtcchampion52 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.79 (56¢) | $25,480 | — | ⏳ Pendiente |
 | gmpm2 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $106,469 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $30,245 | — | ⏳ Pendiente |
 | Sassy-Bucket | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $252,925 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | +$23,313 | ✅ Ganada |
-| thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | +$4,820 | ✅ Ganada |
-| Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | -$52,041 | ❌ Perdida |
