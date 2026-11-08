@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 08:02:00 (hora de Perú)
+Actualizado: 2026-11-08 08:04:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8034**  ($454,991,121 en total)
+- Apuestas registradas: **8035**  ($455,019,413 en total)
 - Resueltas: **7985** — 4888 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 714
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Texans vs. Chargers | Texans | 1.47 (68¢) | $28,292 | — | ⏳ Pendiente |
 | hajlask | Texans vs. Chargers | Texans | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Texans (-5.5) | Chargers | 2.00 (50¢) | $136,059 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Giants vs. Eagles | Giants | 1.67 (60¢) | $26,415 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | FlamePyro | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $26,789 | +$3,311 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | +$80,000 | ✅ Ganada |
 | Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | +$109,224 | ✅ Ganada |
-| 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | +$7,245 | ✅ Ganada |
