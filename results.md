@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 22:00:31 (hora de Perú)
+Actualizado: 2026-11-07 22:02:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7994**  ($452,948,972 en total)
+- Apuestas registradas: **7995**  ($453,039,130 en total)
 - Resueltas: **7909** — 4836 ganadas / 3073 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 63
 - Apostadores distintos: 712
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 313 | 5 | 64% | $57,652,868 | +$665,333 |
-| Sassy-Bucket | 111 | 109 | 9 | 50% | $15,273,576 | -$1,450,933 |
+| Sassy-Bucket | 111 | 109 | 10 | 50% | $15,363,734 | -$1,450,933 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
 | Lakersfan111 | 150 | 77 | 6 | 66% | $11,348,378 | +$721,714 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.52 (66¢) | $90,158 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | West Virginia vs. Texas Tech | Texas Tech | 1.37 (73¢) | $34,188 | — | ⏳ Pendiente |
 | krdlox | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.78 (36¢) | $25,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.49 (67¢) | $132,398 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $32,070 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.35 (74¢) | $32,231 | +$4,791 | 💰 Vendida antes |
 | gmpm2 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,113 | — | ⏳ Pendiente |
-| Wal1 | Wizards vs. Thunder | Thunder | 1.22 (82¢) | $35,431 | — | ⏳ Pendiente |
