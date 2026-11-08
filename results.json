@@ -119725,5 +119725,50 @@
     "status": "pending",
     "ultimo_fill": 1794100151,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1794100324,
+    "username": "betmixpromax",
+    "wallet": "0x0b099e55ca6cc2878d7a4cbdc6ae5f069fda7ce7",
+    "slug": "epl-bri-bre-2026-11-08-bri",
+    "title": "Will Brighton & Hove Albion FC win on 2026-11-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25762.622399999997,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794100324,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1794100361,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "nba-orl-gsw-2026-11-07-spread-home-7pt5",
+    "title": "Spread: Warriors (-7.5)",
+    "outcome": "Warriors",
+    "side": "BUY",
+    "usd": 41025.34,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794100361,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": null,
+    "timestamp": 1794100386,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-orl-gsw-2026-11-07-spread-home-7pt5",
+    "title": "Spread: Warriors (-7.5)",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794100386,
+    "fills": 1
   }
 ]

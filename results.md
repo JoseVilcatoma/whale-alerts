@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:11:35 (hora de Perú)
+Actualizado: 2026-11-07 20:13:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7966**  ($451,431,110 en total)
+- Apuestas registradas: **7969**  ($451,527,898 en total)
 - Resueltas: **7883** — 4815 ganadas / 3068 perdidas (**61%** de acierto)
-- Pendientes: 60
-- Apostadores distintos: 710
+- Pendientes: 63
+- Apostadores distintos: 711
 
 ### Balance
 
@@ -65,12 +65,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 710 en total)_
+_(mostrando los 40 de mayor monto, de 711 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: Warriors (-7.5) | Magic | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
+| RJW1 | Spread: Warriors (-7.5) | Warriors | 2.00 (50¢) | $41,025 | — | ⏳ Pendiente |
+| betmixpromax | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $25,763 | — | ⏳ Pendiente |
 | Sassy-Bucket | Magic vs. Warriors | Magic | 3.70 (27¢) | $26,911 | — | ⏳ Pendiente |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.28 (78¢) | $78,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 | ferrariChampions2026 | Sharks vs. Stars | Stars | 1.37 (73¢) | $33,181 | — | ⏳ Pendiente |
 | stuttig | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $61,075 | +$22,590 | ✅ Ganada |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.41 (71¢) | $73,704 | +$30,104 | ✅ Ganada |
-| ch27er | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | +$12,945 | ✅ Ganada |
-| mooseborzoi | Spread: Nuggets (-7.5) | Nuggets | 1.92 (52¢) | $130,000 | +$120,000 | ✅ Ganada |
-| SineNooneEI | Rangers vs. Kraken | Rangers | 1.75 (57¢) | $39,203 | +$29,574 | ✅ Ganada |
