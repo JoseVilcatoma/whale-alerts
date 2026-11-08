@@ -121629,7 +121629,7 @@
     "side": "BUY",
     "usd": 29999.999998999996,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794169197,
     "fills": 1
   },
@@ -122100,6 +122100,21 @@
     "odds_at_bet": 43,
     "status": "pending",
     "ultimo_fill": 1794176150,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16417,
+    "timestamp": 1794176247,
+    "username": "dromedaryy",
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "slug": "lol-blg-t1-2026-11-08-game1",
+    "title": "LoL: Bilibili Gaming vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 26500.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794176247,
     "fills": 1
   }
 ]

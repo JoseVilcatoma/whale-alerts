@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:16:14 (hora de Perú)
+Actualizado: 2026-11-08 17:18:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8124**  ($461,007,702 en total)
-- Resueltas: **8060** — 4936 ganadas / 3124 perdidas (**61%** de acierto)
+- Apuestas registradas: **8125**  ($461,034,202 en total)
+- Resueltas: **8061** — 4937 ganadas / 3124 perdidas (**61%** de acierto)
 - Pendientes: 41
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,753,762** sobre $457,514,804 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,108** sobre $795,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,746,262** sobre $457,544,804 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,083** sobre $795,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dromedaryy | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.33 (43¢) | $32,045 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.27 (44¢) | $32,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.75 (57¢) | $369,066 | — | ⏳ Pendiente |
@@ -102,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | TAIWANNUMBERONE | Browns vs. Saints | Saints | 1.39 (72¢) | $32,271 | +$12,550 | ✅ Ganada |
 | purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | — | ⏳ Pendiente |
 | SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
-| bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | — | ⏳ Pendiente |
+| bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | +$7,500 | ✅ Ganada |
 | ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
 | big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | -$52,145 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | -$38,111 | ❌ Perdida |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | -$87,111 | ❌ Perdida |
 | yabanci | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $56,100 | +$53,900 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.16 (86¢) | $49,212 | +$8,011 | ✅ Ganada |
