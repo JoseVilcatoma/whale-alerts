@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:42:04 (hora de Perú)
+Actualizado: 2026-11-07 19:44:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7956**  ($450,933,043 en total)
+- Apuestas registradas: **7958**  ($451,015,222 en total)
 - Resueltas: **7868** — 4805 ganadas / 3063 perdidas (**61%** de acierto)
-- Pendientes: 65
-- Apostadores distintos: 709
+- Pendientes: 67
+- Apostadores distintos: 710
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 709 en total)_
+_(mostrando los 40 de mayor monto, de 710 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | — | ⏳ Pendiente |
+| randomrandomrandom | Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5) | MOUZ | 1.52 (66¢) | $47,605 | — | ⏳ Pendiente |
 | Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | googleplay | Nuggets vs. Pacers: O/U 229.5 | Over 229.5 | 2.00 (50¢) | $57,480 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.27 (79¢) | $72,146 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Alabama vs. LSU | LSU | 1.82 (55¢) | $26,599 | -$26,599 | ❌ Perdida |
-| Multicoloured-Serf | Nuggets vs. Pacers: O/U 229.5 | Under 229.5 | 2.00 (50¢) | $48,665 | — | ⏳ Pendiente |
-| kkookkoo | Alabama vs. LSU | LSU | 1.64 (61¢) | $26,000 | -$26,000 | ❌ Perdida |

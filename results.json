@@ -119575,5 +119575,35 @@
     "status": "pending",
     "ultimo_fill": 1794098493,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16053,
+    "timestamp": 1794098609,
+    "username": "randomrandomrandom",
+    "wallet": "0x9bad4efb6ef620206318b540931759f472a8861f",
+    "slug": "cs2-mglz-mouz-2026-11-08-map-handicap-home-1pt5",
+    "title": "Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5)",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 47605.049,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1794098609,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16054,
+    "timestamp": 1794098621,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "nba-was-okc-2026-11-07",
+    "title": "Wizards vs. Thunder",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 34574.4053,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1794098621,
+    "fills": 1
   }
 ]
