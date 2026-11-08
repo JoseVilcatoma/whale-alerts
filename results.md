@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:36:25 (hora de Perú)
+Actualizado: 2026-11-07 23:38:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8009**  ($453,540,285 en total)
+- Apuestas registradas: **8010**  ($453,573,432 en total)
 - Resueltas: **7951** — 4866 ganadas / 3085 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 712
 
 ### Balance
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 18 | 12 | 0 | 60% | $3,255,336 | -$653,016 |
 | Thunderous-Authoritarian-Snarl | 18 | 11 | 0 | 62% | $3,108,686 | -$935,950 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
-| TAIWANNUMBERONE | 56 | 24 | 1 | 70% | $3,032,912 | -$144,405 |
+| TAIWANNUMBERONE | 56 | 24 | 2 | 70% | $3,066,059 | -$144,405 |
 | 999585 | 27 | 3 | 0 | 90% | $2,962,302 | -$37,586 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | fantasy7788 | 25 | 18 | 6 | 58% | $2,767,534 | +$365,649 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | — | ⏳ Pendiente |
 | Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | — | ⏳ Pendiente |
 | krdlox | Spurs vs. Trail Blazers: O/U 224.5 | Under 224.5 | 1.89 (53¢) | $31,929 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $27,002 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | -$33,604 | ❌ Perdida |
 | surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | +$46,107 | ✅ Ganada |
 | milkteaboba | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $70,000 | +$30,000 | ✅ Ganada |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,600 | +$17,400 | ✅ Ganada |
