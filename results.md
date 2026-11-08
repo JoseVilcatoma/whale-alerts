@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 04:27:06 (hora de Perú)
+Actualizado: 2026-11-08 04:29:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8021**  ($454,247,935 en total)
-- Resueltas: **7979** — 4883 ganadas / 3096 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **7980** — 4884 ganadas / 3096 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 713
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,382,373** sobre $452,334,319 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$6,561** sobre $787,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,369,419** sobre $452,359,466 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$6,509** sobre $787,300 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| lllllllIlll | Counter-Strike: TheMongolz vs MOUZ - Map 2 Winner | MOUZ | 1.52 (66¢) | $25,147 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: TheMongolz vs MOUZ - Map 2 Winner | MOUZ | 1.52 (66¢) | $25,147 | +$12,954 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $60,509 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Shandong Taishan FC win on 2026-11-08? | No | 1.64 (61¢) | $270,308 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,578 | — | ⏳ Pendiente |
