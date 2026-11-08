@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:58:00 (hora de Perú)
+Actualizado: 2026-11-08 12:00:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8075**  ($457,320,800 en total)
+- Apuestas registradas: **8076**  ($457,420,800 en total)
 - Resueltas: **8007** — 4903 ganadas / 3104 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 715
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| thegreatjeff | Spread: FC Internazionale Milano (-1.5) | Como 1907 | 1.23 (81¢) | $100,000 | — | ⏳ Pendiente |
 | taylorsversion | Cowboys vs. Colts | Cowboys | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | SuitableName | Spread: Rams (-4.5) | Rams | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | milkteaboba | Browns vs. Saints | Saints | 1.59 (63¢) | $52,602 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $60,509 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Shandong Taishan FC win on 2026-11-08? | No | 1.64 (61¢) | $270,308 | -$270,308 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,578 | +$9,644 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $26,020 | +$6,505 | ✅ Ganada |
