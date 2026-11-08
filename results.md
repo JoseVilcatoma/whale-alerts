@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:28:07 (hora de Perú)
+Actualizado: 2026-11-07 23:30:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8008**  ($453,511,151 en total)
+- Apuestas registradas: **8009**  ($453,540,285 en total)
 - Resueltas: **7950** — 4866 ganadas / 3084 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 712
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | — | ⏳ Pendiente |
 | krdlox | Spurs vs. Trail Blazers: O/U 224.5 | Under 224.5 | 1.89 (53¢) | $31,929 | — | ⏳ Pendiente |
 | omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $27,002 | — | ⏳ Pendiente |
 | ethanaz | Wyoming vs. UNLV | Wyoming | 2.08 (48¢) | $32,704 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | +$46,107 | ✅ Ganada |
 | milkteaboba | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $70,000 | +$30,000 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,600 | +$17,400 | ✅ Ganada |
-| Sassy-Bucket | Air Force vs. Army | Air Force | 2.56 (39¢) | $30,682 | +$47,989 | ✅ Ganada |

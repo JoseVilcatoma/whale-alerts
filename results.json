@@ -120355,5 +120355,20 @@
     "status": "pending",
     "ultimo_fill": 1794111998,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16188,
+    "timestamp": 1794112170,
+    "username": "Sausesantana",
+    "wallet": "0x561e3d3da1b48d675a83f6c9637c538ae3275c0c",
+    "slug": "cfb-wyom-unlv-2026-11-07",
+    "title": "Wyoming vs. UNLV",
+    "outcome": "Wyoming",
+    "side": "BUY",
+    "usd": 29134.5005,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1794112170,
+    "fills": 1
   }
 ]
