@@ -121587,5 +121587,35 @@
     "status": "pending",
     "ultimo_fill": 1794168217,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16351,
+    "timestamp": 1794168897,
+    "username": "big8betz",
+    "wallet": "0xbfd40a4fcb43d80eb4fb425f75d4fa090c61526f",
+    "slug": "lal-mad-bar-2026-11-08-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-11-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794168897,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16352,
+    "timestamp": 1794168913,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-hou-lac-2026-11-08",
+    "title": "Texans vs. Chargers",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 31553.309998999994,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794168913,
+    "fills": 1
   }
 ]
