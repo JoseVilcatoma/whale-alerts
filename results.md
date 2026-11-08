@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:07:39 (hora de Perú)
+Actualizado: 2026-11-07 23:09:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8006**  ($453,452,220 en total)
-- Resueltas: **7926** — 4846 ganadas / 3080 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Resueltas: **7933** — 4850 ganadas / 3083 perdidas (**61%** de acierto)
+- Pendientes: 50
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,766,355** sobre $449,668,387 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,904** sobre $781,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,798,776** sobre $450,005,580 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,110** sobre $782,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 3 | 64% | $57,652,868 | +$573,763 |
-| Sassy-Bucket | 115 | 109 | 8 | 51% | $15,424,446 | -$1,322,115 |
+| Sassy-Bucket | 115 | 112 | 5 | 51% | $15,424,446 | -$1,418,748 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
 | Lakersfan111 | 150 | 78 | 5 | 66% | $11,348,378 | +$688,110 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 1 | 61% | $4,766,485 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
-| surfandturf | 40 | 12 | 2 | 77% | $4,058,695 | +$515,197 |
+| surfandturf | 41 | 12 | 1 | 77% | $4,058,695 | +$561,304 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 24 | 9 | 2 | 73% | $3,725,481 | -$328,163 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 18 | 11 | 0 | 62% | $3,108,686 | -$935,950 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 1 | 70% | $3,032,912 | -$144,405 |
-| 999585 | 24 | 3 | 3 | 89% | $2,962,302 | -$55,690 |
+| 999585 | 27 | 3 | 0 | 90% | $2,962,302 | -$37,586 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | fantasy7788 | 25 | 18 | 6 | 58% | $2,767,534 | +$365,649 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Michigan State vs. Michigan | Michigan | 1.69 (59¢) | $28,319 | — | ⏳ Pendiente |
 | fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,502 | — | ⏳ Pendiente |
-| 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | — | ⏳ Pendiente |
+| 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | +$2,205 | ✅ Ganada |
 | justwins | Fresno State vs. Utah State | Fresno State | 2.00 (50¢) | $28,190 | — | ⏳ Pendiente |
 | ethanaz | Miami (FL) vs. Notre Dame | Notre Dame | 1.11 (90¢) | $129,244 | — | ⏳ Pendiente |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $163,818 | — | ⏳ Pendiente |
@@ -102,8 +102,8 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | FlamePyro | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $26,789 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | — | ⏳ Pendiente |
-| 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | — | ⏳ Pendiente |
-| 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | — | ⏳ Pendiente |
+| 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | +$7,245 | ✅ Ganada |
+| 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | +$8,654 | ✅ Ganada |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.37 (73¢) | $32,818 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.25 (80¢) | $64,808 | — | ⏳ Pendiente |
 | googleplay | Spread: Warriors (-7.5) | Warriors | 1.96 (51¢) | $49,348 | — | ⏳ Pendiente |
@@ -125,9 +125,9 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | -$33,604 | ❌ Perdida |
-| surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | — | ⏳ Pendiente |
+| surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | +$46,107 | ✅ Ganada |
 | milkteaboba | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
 | Sassy-Bucket | Air Force vs. Army | Air Force | 2.56 (39¢) | $30,682 | +$47,989 | ✅ Ganada |
 | COMEONDUDE | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $47,740 | — | ⏳ Pendiente |
-| Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $33,495 | — | ⏳ Pendiente |
+| Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $33,495 | -$33,495 | ❌ Perdida |
