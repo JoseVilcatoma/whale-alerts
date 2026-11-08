@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:59:53 (hora de Perú)
+Actualizado: 2026-11-07 21:01:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7977**  ($452,036,737 en total)
+- Apuestas registradas: **7979**  ($452,103,454 en total)
 - Resueltas: **7905** — 4833 ganadas / 3072 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Pendientes: 51
 - Apostadores distintos: 711
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 560 | 313 | 6 | 64% | $57,619,906 | +$638,750 |
 | Sassy-Bucket | 111 | 109 | 8 | 50% | $15,234,560 | -$1,450,933 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
-| Lakersfan111 | 150 | 77 | 3 | 66% | $11,137,550 | +$721,714 |
+| Lakersfan111 | 150 | 77 | 4 | 66% | $11,177,478 | +$721,714 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 123 | 67 | 4 | 65% | $8,391,565 | +$448,471 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.52 (66¢) | $39,928 | — | ⏳ Pendiente |
+| FlamePyro | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $26,789 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | 3648393489047 | Oregon vs. Ohio State | Oregon | 1.35 (74¢) | $36,913 | +$12,969 | ✅ Ganada |
 | justwins | Spread: UNLV (-3.5) | UNLV | 2.08 (48¢) | $33,331 | — | ⏳ Pendiente |
 | justwins | Spread: Hawai'i (-7.5) | Hawai'i | 2.04 (49¢) | $31,712 | — | ⏳ Pendiente |
-| Dessssa | Devils vs. Islanders | Islanders | 2.38 (42¢) | $32,548 | — | ⏳ Pendiente |
-| heyjason | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.37 (73¢) | $68,214 | +$25,230 | ✅ Ganada |

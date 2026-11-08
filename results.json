@@ -119890,5 +119890,35 @@
     "status": "pending",
     "ultimo_fill": 1794103071,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16111,
+    "timestamp": 1794103251,
+    "username": "FlamePyro",
+    "wallet": "0x613bfbb81d9e5398bff208da4ae848e7a73e823a",
+    "slug": "cfb-mia-nd-2026-11-07",
+    "title": "Miami (FL) vs. Notre Dame",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 26789.0,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1794103251,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16112,
+    "timestamp": 1794103305,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-sas-por-2026-11-07",
+    "title": "Spurs vs. Trail Blazers",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 39928.3764,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1794103305,
+    "fills": 1
   }
 ]
