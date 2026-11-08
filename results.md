@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 02:10:12 (hora de Perú)
+Actualizado: 2026-11-08 02:12:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8016**  ($453,827,394 en total)
+- Apuestas registradas: **8017**  ($453,865,972 en total)
 - Resueltas: **7974** — 4880 ganadas / 3094 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 712
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 18 | 12 | 0 | 60% | $3,255,336 | -$653,016 |
-| Thunderous-Authoritarian-Snarl | 18 | 11 | 0 | 62% | $3,108,686 | -$935,950 |
+| Thunderous-Authoritarian-Snarl | 18 | 11 | 1 | 62% | $3,147,263 | -$935,950 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 57 | 24 | 1 | 70% | $3,066,059 | -$131,760 |
 | 999585 | 27 | 3 | 0 | 90% | $2,962,302 | -$37,586 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,578 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $26,020 | — | ⏳ Pendiente |
 | hovistomaradona | Will Chelsea FC win on 2026-11-08? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | West Virginia vs. Texas Tech | Texas Tech | 1.47 (68¢) | $102,000 | +$48,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | justwins | Spread: Liberty (-14.5) | Liberty | 2.00 (50¢) | $32,738 | +$32,738 | ✅ Ganada |
 | SineNooneEI | Knicks vs. Cavaliers | Knicks | 1.56 (64¢) | $93,072 | +$52,353 | ✅ Ganada |
 | nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | +$7,082 | ✅ Ganada |
-| randomrandomrandom | Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5) | MOUZ | 1.52 (66¢) | $47,605 | — | ⏳ Pendiente |
