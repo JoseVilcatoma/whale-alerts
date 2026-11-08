@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:13:43 (hora de Perú)
+Actualizado: 2026-11-07 20:15:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7969**  ($451,527,898 en total)
+- Apuestas registradas: **7971**  ($451,631,407 en total)
 - Resueltas: **7883** — 4815 ganadas / 3068 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 65
 - Apostadores distintos: 711
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 558 | 313 | 8 | 64% | $57,619,906 | +$604,572 |
 | Sassy-Bucket | 111 | 109 | 7 | 50% | $15,189,947 | -$1,450,933 |
-| googleplay | 58 | 48 | 0 | 55% | $12,216,750 | -$87,700 |
+| googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
 | Lakersfan111 | 149 | 77 | 4 | 66% | $11,137,550 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 123 | 67 | 3 | 65% | $8,326,757 | +$448,471 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Warriors (-7.5) | Warriors | 1.96 (51¢) | $49,348 | — | ⏳ Pendiente |
+| omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $54,161 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Warriors (-7.5) | Magic | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Warriors (-7.5) | Warriors | 2.00 (50¢) | $41,025 | — | ⏳ Pendiente |
 | betmixpromax | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $25,763 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | ferrariChampions2026 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.39 (72¢) | $35,461 | +$13,790 | ✅ Ganada |
 | ferrariChampions2026 | Sharks vs. Stars | Stars | 1.37 (73¢) | $33,181 | — | ⏳ Pendiente |
-| stuttig | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $61,075 | +$22,590 | ✅ Ganada |
-| heyjason | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.41 (71¢) | $73,704 | +$30,104 | ✅ Ganada |
