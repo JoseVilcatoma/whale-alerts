@@ -121060,5 +121060,35 @@
     "status": "pending",
     "ultimo_fill": 1794152043,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16273,
+    "timestamp": 1794152845,
+    "username": "SebastianAde1996",
+    "wallet": "0x4b4071d1456249cd8d7272d533a3efe191aa2f6a",
+    "slug": "sea-int-com-2026-11-08-int",
+    "title": "Will FC Internazionale Milano win on 2026-11-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 36944.6708,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794152845,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16274,
+    "timestamp": 1794152872,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-mun-ast-2026-11-08-mun",
+    "title": "Will Manchester United FC win on 2026-11-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 34848.2632,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794152872,
+    "fills": 1
   }
 ]

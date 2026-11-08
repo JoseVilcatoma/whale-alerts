@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 10:46:29 (hora de Perú)
+Actualizado: 2026-11-08 10:48:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8055**  ($456,005,133 en total)
+- Apuestas registradas: **8057**  ($456,076,925 en total)
 - Resueltas: **7987** — 4890 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 714
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jsram | Will Manchester United FC win on 2026-11-08? | No | 1.89 (53¢) | $34,848 | — | ⏳ Pendiente |
+| SebastianAde1996 | Will FC Internazionale Milano win on 2026-11-08? | No | 1.89 (53¢) | $36,945 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Manchester United FC win on 2026-11-08? | Yes | 2.13 (47¢) | $48,757 | — | ⏳ Pendiente |
 | JambonMogettes | Giants vs. Eagles: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $49,211 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Patriots | Patriots | 1.61 (62¢) | $25,780 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | +$31,967 | ✅ Ganada |
 | fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | +$58,235 | ✅ Ganada |
 | Sassy-Bucket | Wyoming vs. UNLV | UNLV | 1.64 (61¢) | $33,557 | -$33,557 | ❌ Perdida |
-| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.49 (67¢) | $27,155 | +$13,375 | ✅ Ganada |
-| surfandturf | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.94 (34¢) | $33,767 | -$33,767 | ❌ Perdida |
