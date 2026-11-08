@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:10:04 (hora de Perú)
+Actualizado: 2026-11-08 17:12:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8115**  ($460,312,720 en total)
+- Apuestas registradas: **8116**  ($460,352,720 en total)
 - Resueltas: **8057** — 4935 ganadas / 3122 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $49,972 | — | ⏳ Pendiente |
 | 999585 | Raiders vs. 49ers | 49ers | 1.06 (94¢) | $186,757 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: Both Teams to Score | Yes | 1.12 (89¢) | $30,000 | +$3,708 | ✅ Ganada |
 | 999585 | Bengals vs. Falcons | Bengals | 1.11 (90¢) | $179,461 | +$19,940 | ✅ Ganada |
 | Jsram | Will Manchester United FC win on 2026-11-08? | No | 1.89 (53¢) | $34,848 | +$30,903 | ✅ Ganada |
-| SebastianAde1996 | Will FC Internazionale Milano win on 2026-11-08? | No | 1.89 (53¢) | $36,945 | -$36,945 | ❌ Perdida |
