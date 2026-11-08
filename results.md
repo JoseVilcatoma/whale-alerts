@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:57:30 (hora de Perú)
+Actualizado: 2026-11-08 17:59:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8135**  ($461,473,713 en total)
+- Apuestas registradas: **8136**  ($461,502,113 en total)
 - Resueltas: **8062** — 4937 ganadas / 3125 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dsasdaas | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.92 (52¢) | $39,792 | — | ⏳ Pendiente |
 | mooseborzoi | Lightning vs. Jets | Lightning | 1.64 (61¢) | $42,208 | — | ⏳ Pendiente |
 | takeormake | Raiders vs. 49ers | 49ers | 1.08 (93¢) | $35,289 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | 999585 | Browns vs. Saints | Saints | 1.49 (67¢) | $137,062 | +$67,508 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Browns vs. Saints | Saints | 1.56 (64¢) | $43,001 | +$24,188 | ✅ Ganada |
 | nigiri99 | Spread: Chiefs (-3.5) | Chiefs | 1.41 (71¢) | $43,148 | +$17,624 | ✅ Ganada |
-| thegreatjeff | Spread: FC Internazionale Milano (-1.5) | Como 1907 | 1.23 (81¢) | $100,000 | -$100,000 | ❌ Perdida |
