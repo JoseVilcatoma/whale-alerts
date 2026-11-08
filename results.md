@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:07:58 (hora de Perú)
+Actualizado: 2026-11-08 18:09:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8142**  ($462,226,501 en total)
+- Apuestas registradas: **8143**  ($462,251,501 en total)
 - Resueltas: **8065** — 4939 ganadas / 3126 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Spread: Pistons (-6.5) | Pistons | 1.75 (57¢) | $25,000 | — | ⏳ Pendiente |
 | winner877 | Lakers vs. Pistons | Pistons | 1.41 (71¢) | $164,456 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.69 (59¢) | $325,672 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | EdZachary | Jets vs. Chiefs | Jets | 2.13 (47¢) | $34,300 | -$34,300 | ❌ Perdida |
 | LinkE5 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.75 (57¢) | $44,333 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.33 (43¢) | $27,505 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-4.5) | Eagles | 1.69 (59¢) | $58,999 | -$58,999 | ❌ Perdida |

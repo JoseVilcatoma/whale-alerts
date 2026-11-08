@@ -122371,5 +122371,20 @@
     "status": "pending",
     "ultimo_fill": 1794179222,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 16440,
+    "timestamp": 1794179353,
+    "username": "ch27er",
+    "wallet": "0x61a3f1ef9c9618f532eb49f0cb260486c168e508",
+    "slug": "nba-lal-det-2026-11-08-spread-home-6pt5",
+    "title": "Spread: Pistons (-6.5)",
+    "outcome": "Pistons",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1794179353,
+    "fills": 1
   }
 ]
