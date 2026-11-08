@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 02:37:05 (hora de Perú)
+Actualizado: 2026-11-08 02:39:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8017**  ($453,865,972 en total)
+- Apuestas registradas: **8018**  ($454,048,972 en total)
 - Resueltas: **7979** — 4883 ganadas / 3096 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 712
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 315 | 3 | 64% | $57,754,868 | +$621,763 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 315 | 4 | 64% | $57,937,868 | +$621,763 |
 | Sassy-Bucket | 116 | 114 | 2 | 50% | $15,424,446 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 153 | 79 | 2 | 66% | $11,374,398 | +$757,164 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Shandong Taishan FC win on 2026-11-08? | No | 1.64 (61¢) | $183,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,578 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $26,020 | — | ⏳ Pendiente |
 | hovistomaradona | Will Chelsea FC win on 2026-11-08? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | SineNooneEI | UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims) | Marcos Degli | 1.43 (70¢) | $48,889 | -$48,889 | ❌ Perdida |
 | justwins | Spread: Liberty (-14.5) | Liberty | 2.00 (50¢) | $32,738 | +$32,738 | ✅ Ganada |
 | SineNooneEI | Knicks vs. Cavaliers | Knicks | 1.56 (64¢) | $93,072 | +$52,353 | ✅ Ganada |
-| nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | +$7,082 | ✅ Ganada |
