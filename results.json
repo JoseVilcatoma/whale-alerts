@@ -121435,5 +121435,35 @@
     "status": "pending",
     "ultimo_fill": 1794158534,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16318,
+    "timestamp": 1794158609,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "nfl-dal-ind-2026-11-08-spread-away-3pt5",
+    "title": "Spread: Cowboys (-3.5)",
+    "outcome": "Cowboys",
+    "side": "BUY",
+    "usd": 25000.04,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794158609,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16319,
+    "timestamp": 1794158627,
+    "username": "SuitableName",
+    "wallet": "0x9e8fffbbe21f392ebc0d35c73255147e67c280c6",
+    "slug": "nfl-det-mia-2026-11-08-spread-away-6pt5",
+    "title": "Spread: Lions (-6.5)",
+    "outcome": "Dolphins",
+    "side": "BUY",
+    "usd": 39370.27,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794158627,
+    "fills": 1
   }
 ]
