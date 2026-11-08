@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:01:31 (hora de Perú)
+Actualizado: 2026-11-07 23:03:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8005**  ($453,419,516 en total)
-- Resueltas: **7924** — 4844 ganadas / 3080 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Resueltas: **7926** — 4846 ganadas / 3080 perdidas (**61%** de acierto)
+- Pendientes: 56
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,826,616** sobre $449,604,525 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,098** sobre $781,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,766,355** sobre $449,668,387 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,904** sobre $781,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 3 | 64% | $57,652,868 | +$573,763 |
-| Sassy-Bucket | 114 | 109 | 9 | 51% | $15,424,446 | -$1,370,105 |
+| Sassy-Bucket | 115 | 109 | 8 | 51% | $15,424,446 | -$1,322,115 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
 | Lakersfan111 | 150 | 78 | 5 | 66% | $11,348,378 | +$688,110 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 124 | 67 | 4 | 65% | $8,454,565 | +$465,494 |
+| ferrariChampions2026 | 125 | 67 | 3 | 65% | $8,454,565 | +$477,767 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -127,7 +127,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | — | ⏳ Pendiente |
 | milkteaboba | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
-| Sassy-Bucket | Air Force vs. Army | Air Force | 2.56 (39¢) | $30,682 | — | ⏳ Pendiente |
+| Sassy-Bucket | Air Force vs. Army | Air Force | 2.56 (39¢) | $30,682 | +$47,989 | ✅ Ganada |
 | COMEONDUDE | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $47,740 | — | ⏳ Pendiente |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $33,495 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.03 (33¢) | $82,457 | -$82,457 | ❌ Perdida |
