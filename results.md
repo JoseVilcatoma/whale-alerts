@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 08:48:45 (hora de Perú)
+Actualizado: 2026-11-08 08:50:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8042**  ($455,423,995 en total)
+- Apuestas registradas: **8043**  ($455,515,995 en total)
 - Resueltas: **7986** — 4889 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 714
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 316 | 3 | 64% | $58,025,175 | +$351,455 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 316 | 4 | 64% | $58,117,175 | +$351,455 |
 | Sassy-Bucket | 116 | 114 | 2 | 50% | $15,424,446 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 1 | 66% | $11,434,907 | +$773,295 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.17 (46¢) | $92,000 | — | ⏳ Pendiente |
 | nb1985 | Will Chelsea FC win on 2026-11-08? | No | 1.75 (57¢) | $50,000 | — | ⏳ Pendiente |
 | TheOpportunist | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $37,920 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Giants (-2.5) | Eagles | 2.17 (46¢) | $38,475 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,502 | +$9,625 | ✅ Ganada |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | +$2,205 | ✅ Ganada |
 | justwins | Fresno State vs. Utah State | Fresno State | 2.00 (50¢) | $28,190 | -$28,190 | ❌ Perdida |
-| ethanaz | Miami (FL) vs. Notre Dame | Notre Dame | 1.11 (90¢) | $129,244 | +$14,360 | ✅ Ganada |
