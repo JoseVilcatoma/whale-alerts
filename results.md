@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:07:23 (hora de Perú)
+Actualizado: 2026-11-07 20:09:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7964**  ($451,326,199 en total)
+- Apuestas registradas: **7966**  ($451,431,110 en total)
 - Resueltas: **7883** — 4815 ganadas / 3068 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 60
 - Apostadores distintos: 710
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 558 | 313 | 8 | 64% | $57,619,906 | +$604,572 |
-| Sassy-Bucket | 111 | 109 | 6 | 50% | $15,163,037 | -$1,450,933 |
+| Sassy-Bucket | 111 | 109 | 7 | 50% | $15,189,947 | -$1,450,933 |
 | googleplay | 58 | 48 | 0 | 55% | $12,216,750 | -$87,700 |
 | Lakersfan111 | 149 | 77 | 4 | 66% | $11,137,550 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Magic vs. Warriors | Magic | 3.70 (27¢) | $26,911 | — | ⏳ Pendiente |
+| EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.28 (78¢) | $78,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $37,484 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 2.17 (46¢) | $42,668 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 | ch27er | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | +$12,945 | ✅ Ganada |
 | mooseborzoi | Spread: Nuggets (-7.5) | Nuggets | 1.92 (52¢) | $130,000 | +$120,000 | ✅ Ganada |
 | SineNooneEI | Rangers vs. Kraken | Rangers | 1.75 (57¢) | $39,203 | +$29,574 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | +$12,945 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-1.5) vs Invictus Gaming (+1.5) | Gen.G | 1.54 (65¢) | $31,248 | — | ⏳ Pendiente |

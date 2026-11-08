@@ -119695,5 +119695,35 @@
     "status": "pending",
     "ultimo_fill": 1794099883,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16076,
+    "timestamp": 1794100065,
+    "username": "EdZachary",
+    "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+    "slug": "cfb-mia-nd-2026-11-07",
+    "title": "Miami (FL) vs. Notre Dame",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 78000.0,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1794100065,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16077,
+    "timestamp": 1794100151,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-orl-gsw-2026-11-07",
+    "title": "Magic vs. Warriors",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 26910.657000000003,
+    "odds_at_bet": 27,
+    "status": "pending",
+    "ultimo_fill": 1794100151,
+    "fills": 1
   }
 ]
