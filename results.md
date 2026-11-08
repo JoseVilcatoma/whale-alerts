@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:54:49 (hora de Perú)
+Actualizado: 2026-11-07 19:57:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7961**  ($451,189,922 en total)
-- Resueltas: **7872** — 4806 ganadas / 3066 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Resueltas: **7880** — 4812 ganadas / 3068 perdidas (**61%** de acierto)
+- Pendientes: 58
 - Apostadores distintos: 710
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,087,808** sobre $446,698,874 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,464** sobre $776,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$3,979,262** sobre $447,185,990 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,285** sobre $777,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 558 | 313 | 7 | 64% | $57,577,238 | +$604,572 |
-| Sassy-Bucket | 111 | 108 | 7 | 51% | $15,163,037 | -$1,370,241 |
-| googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
+| Sassy-Bucket | 111 | 109 | 6 | 50% | $15,163,037 | -$1,450,933 |
+| googleplay | 58 | 48 | 0 | 55% | $12,216,750 | -$87,700 |
 | Lakersfan111 | 149 | 77 | 2 | 66% | $11,043,940 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 123 | 67 | 3 | 65% | $8,326,757 | +$448,471 |
@@ -121,12 +121,12 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 | ferrariChampions2026 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.39 (72¢) | $35,461 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Sharks vs. Stars | Stars | 1.37 (73¢) | $33,181 | — | ⏳ Pendiente |
-| stuttig | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $61,075 | — | ⏳ Pendiente |
+| stuttig | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $61,075 | +$22,590 | ✅ Ganada |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.41 (71¢) | $73,704 | — | ⏳ Pendiente |
-| ch27er | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Nuggets (-7.5) | Nuggets | 1.92 (52¢) | $130,000 | — | ⏳ Pendiente |
-| SineNooneEI | Rangers vs. Kraken | Rangers | 1.75 (57¢) | $39,203 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | — | ⏳ Pendiente |
+| ch27er | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | +$12,945 | ✅ Ganada |
+| mooseborzoi | Spread: Nuggets (-7.5) | Nuggets | 1.92 (52¢) | $130,000 | +$120,000 | ✅ Ganada |
+| SineNooneEI | Rangers vs. Kraken | Rangers | 1.75 (57¢) | $39,203 | +$29,574 | ✅ Ganada |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | +$12,945 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-1.5) vs Invictus Gaming (+1.5) | Gen.G | 1.54 (65¢) | $31,248 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5) | Gen.G | 2.86 (35¢) | $26,923 | — | ⏳ Pendiente |
 | nigiri99 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $82,400 | — | ⏳ Pendiente |
