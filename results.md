@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 21:39:25 (hora de Perú)
+Actualizado: 2026-11-07 21:41:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7986**  ($452,587,962 en total)
+- Apuestas registradas: **7987**  ($452,625,571 en total)
 - Resueltas: **7905** — 4833 ganadas / 3072 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 59
 - Apostadores distintos: 711
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 999585 | 24 | 3 | 3 | 89% | $2,962,302 | -$55,690 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| fantasy7788 | 25 | 18 | 2 | 58% | $2,621,113 | +$365,649 |
+| fantasy7788 | 25 | 18 | 3 | 58% | $2,658,722 | +$365,649 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,502 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | — | ⏳ Pendiente |
 | justwins | Fresno State vs. Utah State | Fresno State | 2.00 (50¢) | $28,190 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | ethanaz | Oregon vs. Ohio State | Ohio State | 4.35 (23¢) | $58,125 | -$58,125 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Tennessee (-6.5) | Kentucky | 1.96 (51¢) | $26,167 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $401,369 | +$106,693 | ✅ Ganada |
