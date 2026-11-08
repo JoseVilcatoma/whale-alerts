@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:03:34 (hora de Perú)
+Actualizado: 2026-11-07 23:05:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8005**  ($453,419,516 en total)
+- Apuestas registradas: **8006**  ($453,452,220 en total)
 - Resueltas: **7926** — 4846 ganadas / 3080 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 712
 
 ### Balance
@@ -35,8 +35,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
+| ethanaz | 73 | 32 | 2 | 70% | $6,436,320 | -$205,686 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ethanaz | 73 | 32 | 1 | 70% | $6,403,616 | -$205,686 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Wyoming vs. UNLV | Wyoming | 2.08 (48¢) | $32,704 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $26,399 | — | ⏳ Pendiente |
 | User1244322 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $29,333 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $63,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | Sassy-Bucket | Air Force vs. Army | Air Force | 2.56 (39¢) | $30,682 | +$47,989 | ✅ Ganada |
 | COMEONDUDE | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $47,740 | — | ⏳ Pendiente |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $33,495 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.03 (33¢) | $82,457 | -$82,457 | ❌ Perdida |
