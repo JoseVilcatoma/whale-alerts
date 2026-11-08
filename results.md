@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 08:16:06 (hora de Perú)
+Actualizado: 2026-11-08 08:18:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8035**  ($455,019,413 en total)
+- Apuestas registradas: **8040**  ($455,336,075 en total)
 - Resueltas: **7985** — 4888 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 32
 - Apostadores distintos: 714
 
 ### Balance
@@ -42,8 +42,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 43 | 27 | 0 | 61% | $4,766,485 | +$609,345 |
+| Kch-Temp | 47 | 15 | 6 | 76% | $4,753,015 | +$1,983,665 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| Kch-Temp | 47 | 15 | 4 | 76% | $4,676,318 | +$1,983,665 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Giants (-2.5) | Eagles | 2.17 (46¢) | $38,475 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Giants (-2.5) | Giants | 1.89 (53¢) | $55,025 | — | ⏳ Pendiente |
+| AnonymousUsername | Giants vs. Eagles | Giants | 1.67 (60¢) | $29,693 | — | ⏳ Pendiente |
+| Kch-Temp | Giants vs. Eagles | Eagles | 2.44 (41¢) | $38,222 | — | ⏳ Pendiente |
+| JambonMogettes | Giants vs. Eagles | Giants | 1.69 (59¢) | $155,247 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Texans vs. Chargers | Texans | 1.47 (68¢) | $28,292 | — | ⏳ Pendiente |
 | hajlask | Texans vs. Chargers | Texans | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Texans (-5.5) | Chargers | 2.00 (50¢) | $136,059 | — | ⏳ Pendiente |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | ethanaz | Miami (FL) vs. Notre Dame | Notre Dame | 1.11 (90¢) | $129,244 | +$14,360 | ✅ Ganada |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $163,818 | +$20,247 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Billy Elekana vs. Lucas Fernando (Light Heavyweight, Main Card) | Lucas Fernando | 1.37 (73¢) | $32,961 | +$12,191 | ✅ Ganada |
-| fantasy7788 | Rockets vs. Suns | Rockets | 1.33 (75¢) | $66,440 | -$66,440 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.52 (66¢) | $39,928 | +$20,569 | ✅ Ganada |
-| FlamePyro | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $26,789 | +$3,311 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | +$80,000 | ✅ Ganada |
-| Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | +$109,224 | ✅ Ganada |
