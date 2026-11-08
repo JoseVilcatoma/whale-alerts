@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 15:41:00 (hora de Perú)
+Actualizado: 2026-11-08 15:43:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8096**  ($458,776,474 en total)
+- Apuestas registradas: **8098**  ($459,041,531 en total)
 - Resueltas: **8028** — 4915 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 716
 
 ### Balance
@@ -46,14 +46,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
+| 999585 | 29 | 3 | 3 | 91% | $3,754,031 | -$12,490 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| 999585 | 29 | 3 | 2 | 91% | $3,536,286 | -$12,490 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 19 | 12 | 1 | 61% | $3,345,140 | -$618,676 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| 0F62 | 36 | 8 | 1 | 82% | $3,155,658 | -$349,180 |
 | Thunderous-Authoritarian-Snarl | 19 | 11 | 0 | 63% | $3,147,263 | -$926,306 |
-| 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 58 | 24 | 1 | 71% | $3,098,330 | -$120,114 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | fantasy7788 | 30 | 19 | 0 | 61% | $2,767,534 | +$505,637 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Rams vs. Commanders | Rams | 1.08 (93¢) | $47,312 | — | ⏳ Pendiente |
+| 999585 | Rams vs. Commanders | Rams | 1.10 (91¢) | $217,744 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Browns vs. Saints | Saints | 1.39 (72¢) | $32,271 | — | ⏳ Pendiente |
 | purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | — | ⏳ Pendiente |
 | SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | TheOpportunist | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $37,920 | -$37,920 | ❌ Perdida |
 | Kch-Temp | Spread: Giants (-2.5) | Eagles | 2.17 (46¢) | $38,475 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Giants (-2.5) | Giants | 1.89 (53¢) | $55,025 | — | ⏳ Pendiente |
-| AnonymousUsername | Giants vs. Eagles | Giants | 1.67 (60¢) | $29,693 | — | ⏳ Pendiente |
-| Kch-Temp | Giants vs. Eagles | Eagles | 2.44 (41¢) | $38,222 | — | ⏳ Pendiente |
