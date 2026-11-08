@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:32:14 (hora de Perú)
+Actualizado: 2026-11-07 23:34:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8009**  ($453,540,285 en total)
-- Resueltas: **7950** — 4866 ganadas / 3084 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **7951** — 4866 ganadas / 3085 perdidas (**61%** de acierto)
+- Pendientes: 35
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,569,251** sobre $451,033,181 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,701** sobre $784,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,597,570** sobre $451,061,500 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,801** sobre $784,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.54 (65¢) | $39,016 | +$21,009 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | -$35,508 | ❌ Perdida |
 | krdlox | UFC Fight Night: Davey Grant vs. Elijah Smith (Bantamweight, Main Card) | Elijah Smith | 1.32 (76¢) | $28,971 | +$9,149 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Michigan State vs. Michigan | Michigan | 1.69 (59¢) | $28,319 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Michigan State vs. Michigan | Michigan | 1.69 (59¢) | $28,319 | -$28,319 | ❌ Perdida |
 | fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,502 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | +$2,205 | ✅ Ganada |
