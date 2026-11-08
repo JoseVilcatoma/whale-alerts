@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 09:48:23 (hora de Perú)
+Actualizado: 2026-11-08 09:50:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8049**  ($455,759,118 en total)
+- Apuestas registradas: **8051**  ($455,811,620 en total)
 - Resueltas: **7986** — 4889 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 42
 - Apostadores distintos: 714
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
+| Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | TAIWANNUMBERONE | West Virginia vs. Texas Tech | Texas Tech | 1.37 (73¢) | $34,188 | +$12,645 | ✅ Ganada |
 | krdlox | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.78 (36¢) | $25,000 | -$25,000 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.49 (67¢) | $132,398 | +$65,211 | ✅ Ganada |
-| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.54 (65¢) | $39,016 | +$21,009 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | -$35,508 | ❌ Perdida |
