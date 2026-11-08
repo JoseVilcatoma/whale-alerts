@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:35:44 (hora de Perú)
+Actualizado: 2026-11-07 19:37:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7954**  ($450,868,338 en total)
-- Resueltas: **7864** — 4802 ganadas / 3062 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Resueltas: **7868** — 4805 ganadas / 3063 perdidas (**61%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 709
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,886,581** sobre $446,008,632 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,245** sobre $775,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,847,332** sobre $446,408,516 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,199** sobre $776,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 313 | 8 | 64% | $57,577,238 | +$575,914 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 558 | 313 | 7 | 64% | $57,577,238 | +$604,572 |
 | Sassy-Bucket | 111 | 108 | 7 | 51% | $15,163,037 | -$1,370,241 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 2 | 66% | $11,043,940 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 122 | 67 | 4 | 65% | $8,326,757 | +$417,371 |
+| ferrariChampions2026 | 123 | 67 | 3 | 65% | $8,326,757 | +$448,471 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
-| 999585 | 23 | 1 | 3 | 96% | $2,793,858 | +$128,139 |
+| 999585 | 24 | 1 | 2 | 96% | $2,793,858 | +$139,632 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 1.92 (52¢) | $48,902 | — | ⏳ Pendiente |
 | 999585 | Alabama vs. LSU | Alabama | 1.85 (54¢) | $26,257 | +$22,367 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. LSU | LSU | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati vs. Houston | Houston | 1.18 (85¢) | $162,395 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati vs. Houston | Houston | 1.18 (85¢) | $162,395 | +$28,658 | ✅ Ganada |
 | ethanaz | Oregon vs. Ohio State | Ohio State | 4.35 (23¢) | $58,125 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Tennessee (-6.5) | Kentucky | 1.96 (51¢) | $26,167 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
