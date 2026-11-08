@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 01:05:55 (hora de Perú)
+Actualizado: 2026-11-08 01:07:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8014**  ($453,774,374 en total)
-- Resueltas: **7968** — 4876 ganadas / 3092 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **7970** — 4876 ganadas / 3094 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,487,171** sobre $451,806,356 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,560** sobre $786,100 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,547,073** sobre $451,866,257 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,760** sobre $786,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | +$15,361 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,502 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | +$2,205 | ✅ Ganada |
-| justwins | Fresno State vs. Utah State | Fresno State | 2.00 (50¢) | $28,190 | — | ⏳ Pendiente |
+| justwins | Fresno State vs. Utah State | Fresno State | 2.00 (50¢) | $28,190 | -$28,190 | ❌ Perdida |
 | ethanaz | Miami (FL) vs. Notre Dame | Notre Dame | 1.11 (90¢) | $129,244 | +$14,360 | ✅ Ganada |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $163,818 | +$20,247 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Billy Elekana vs. Lucas Fernando (Light Heavyweight, Main Card) | Lucas Fernando | 1.37 (73¢) | $32,961 | +$12,191 | ✅ Ganada |
