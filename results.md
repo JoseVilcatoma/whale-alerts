@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:40:51 (hora de Perú)
+Actualizado: 2026-11-08 18:42:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8148**  ($462,733,475 en total)
+- Apuestas registradas: **8149**  ($462,813,525 en total)
 - Resueltas: **8066** — 4940 ganadas / 3126 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 716
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 131 | 67 | 4 | 66% | $8,663,275 | +$561,376 |
+| ferrariChampions2026 | 131 | 67 | 5 | 66% | $8,743,325 | +$561,376 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | — | ⏳ Pendiente |
 | robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
 | big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | -$52,145 | ❌ Perdida |
-| totoro3miyazaki | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $272,003 | -$272,003 | ❌ Perdida |
