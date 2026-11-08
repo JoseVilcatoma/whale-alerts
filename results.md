@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:08:04 (hora de Perú)
+Actualizado: 2026-11-08 16:10:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8101**  ($459,332,928 en total)
-- Resueltas: **8029** — 4915 ganadas / 3114 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Resueltas: **8031** — 4916 ganadas / 3115 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,698,194** sobre $455,504,943 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,250** sobre $792,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,676,334** sobre $455,718,583 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,315** sobre $792,200 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 43 | 27 | 2 | 61% | $4,989,250 | +$609,345 |
+| maz26 | 44 | 27 | 1 | 62% | $4,989,250 | +$670,575 |
 | Kch-Temp | 48 | 15 | 5 | 76% | $4,753,015 | +$2,122,966 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | LinkE5 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.75 (57¢) | $44,333 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.33 (43¢) | $27,505 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-4.5) | Eagles | 1.69 (59¢) | $58,999 | — | ⏳ Pendiente |
-| SuitableName | Spread: Lions (-6.5) | Dolphins | 2.00 (50¢) | $39,370 | — | ⏳ Pendiente |
+| SuitableName | Spread: Lions (-6.5) | Dolphins | 2.00 (50¢) | $39,370 | -$39,370 | ❌ Perdida |
 | takeormake | Spread: Cowboys (-3.5) | Cowboys | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | 999585 | Browns vs. Saints | Saints | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
 | 999585 | Browns vs. Saints | Saints | 1.49 (67¢) | $137,062 | — | ⏳ Pendiente |
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | milkteaboba | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $37,202 | +$34,340 | ✅ Ganada |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.08 (48¢) | $58,667 | -$58,667 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Manchester United FC vs. Aston Villa FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $50,675 | +$69,979 | ✅ Ganada |
-| gmpm2 | Lions vs. Dolphins | Lions | 1.35 (74¢) | $174,270 | — | ⏳ Pendiente |
+| gmpm2 | Lions vs. Dolphins | Lions | 1.35 (74¢) | $174,270 | +$61,230 | ✅ Ganada |
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: O/U 3.5 | Over 3.5 | 1.06 (94¢) | $30,000 | +$1,915 | ✅ Ganada |
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: Both Teams to Score | Yes | 1.12 (89¢) | $30,000 | +$3,708 | ✅ Ganada |
 | 999585 | Bengals vs. Falcons | Bengals | 1.11 (90¢) | $179,461 | +$19,940 | ✅ Ganada |
