@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 07:29:11 (hora de Perú)
+Actualizado: 2026-11-08 07:31:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8023**  ($454,444,084 en total)
+- Apuestas registradas: **8025**  ($454,507,859 en total)
 - Resueltas: **7984** — 4888 ganadas / 3096 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 713
 
 ### Balance
@@ -29,8 +29,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 1 | 66% | $11,434,907 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 128 | 67 | 0 | 66% | $8,454,565 | +$519,583 |
-| 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
+| ferrariChampions2026 | 128 | 67 | 1 | 66% | $8,487,782 | +$519,583 |
+| 3edmond.dantes | 34 | 24 | 1 | 59% | $8,037,570 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Rams vs. Commanders | Rams | 1.49 (67¢) | $33,217 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Chelsea FC win on 2026-11-08? | No | 2.00 (50¢) | $30,558 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bengals vs. Falcons | Falcons | 2.63 (38¢) | $67,563 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Bengals (-3.5) | Bengals | 2.08 (48¢) | $128,586 | — | ⏳ Pendiente |
 | yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 | RJW1 | Spread: Warriors (-7.5) | Warriors | 2.00 (50¢) | $41,025 | -$41,025 | ❌ Perdida |
 | betmixpromax | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $25,763 | — | ⏳ Pendiente |
 | Sassy-Bucket | Magic vs. Warriors | Magic | 3.70 (27¢) | $26,911 | -$26,911 | ❌ Perdida |
-| EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.28 (78¢) | $78,000 | +$22,000 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | +$20,759 | ✅ Ganada |
