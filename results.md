@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:20:12 (hora de Perú)
+Actualizado: 2026-11-08 11:22:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8067**  ($456,829,622 en total)
-- Resueltas: **7989** — 4892 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Apuestas registradas: **8068**  ($456,867,733 en total)
+- Resueltas: **7997** — 4894 ganadas / 3103 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 714
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,535,659** sobre $452,910,409 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,331** sobre $788,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,738,640** sobre $453,266,269 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,753** sobre $789,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 316 | 5 | 64% | $58,166,387 | +$351,455 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 317 | 4 | 64% | $58,166,387 | +$259,455 |
 | Sassy-Bucket | 116 | 114 | 2 | 50% | $15,424,446 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 1 | 66% | $11,434,907 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 128 | 67 | 5 | 66% | $8,601,476 | +$519,583 |
-| totoro3miyazaki | 38 | 25 | 3 | 60% | $8,091,672 | -$451,978 |
+| totoro3miyazaki | 38 | 25 | 4 | 60% | $8,129,782 | -$451,978 |
 | 3edmond.dantes | 34 | 24 | 1 | 59% | $8,037,570 | -$1,850,423 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | — | ⏳ Pendiente |
 | yabanci | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $56,100 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.16 (86¢) | $49,212 | — | ⏳ Pendiente |
@@ -94,10 +95,10 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
 | Zzzz87 | 76ers vs. Bulls | 76ers | 1.28 (78¢) | $35,116 | — | ⏳ Pendiente |
 | big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | — | ⏳ Pendiente |
-| MigRodr | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.85 (54¢) | $55,555 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.17 (46¢) | $92,000 | — | ⏳ Pendiente |
+| MigRodr | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.85 (54¢) | $55,555 | +$47,325 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.17 (46¢) | $92,000 | -$92,000 | ❌ Perdida |
 | nb1985 | Will Chelsea FC win on 2026-11-08? | No | 1.75 (57¢) | $50,000 | — | ⏳ Pendiente |
-| TheOpportunist | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $37,920 | — | ⏳ Pendiente |
+| TheOpportunist | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $37,920 | -$37,920 | ❌ Perdida |
 | Kch-Temp | Spread: Giants (-2.5) | Eagles | 2.17 (46¢) | $38,475 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Giants (-2.5) | Giants | 1.89 (53¢) | $55,025 | — | ⏳ Pendiente |
 | AnonymousUsername | Giants vs. Eagles | Giants | 1.67 (60¢) | $29,693 | — | ⏳ Pendiente |
@@ -117,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | 3edmond.dantes | Will Chelsea FC win on 2026-11-08? | No | 2.00 (50¢) | $30,558 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bengals vs. Falcons | Falcons | 2.63 (38¢) | $67,563 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Bengals (-3.5) | Bengals | 2.08 (48¢) | $128,586 | — | ⏳ Pendiente |
-| yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ - Map 2 Winner | MOUZ | 1.52 (66¢) | $25,147 | +$12,954 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $60,509 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Shandong Taishan FC win on 2026-11-08? | No | 1.64 (61¢) | $270,308 | -$270,308 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | +$11,646 | ✅ Ganada |
 | Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | +$11,900 | ✅ Ganada |
-| krdlox | Spurs vs. Trail Blazers: O/U 224.5 | Under 224.5 | 1.89 (53¢) | $31,929 | -$31,929 | ❌ Perdida |

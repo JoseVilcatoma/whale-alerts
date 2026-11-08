@@ -119542,7 +119542,7 @@
     "side": "BUY",
     "usd": 37459.36193000001,
     "odds_at_bet": 37,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794098076,
     "fills": 1
   },
@@ -119737,7 +119737,7 @@
     "side": "BUY",
     "usd": 25762.622399999997,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794100324,
     "fills": 1
   },
@@ -119782,7 +119782,7 @@
     "side": "BUY",
     "usd": 54161.36,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794100514,
     "fills": 1
   },
@@ -120337,7 +120337,7 @@
     "side": "BUY",
     "usd": 27001.95,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794111782,
     "fills": 1
   },
@@ -120547,7 +120547,7 @@
     "side": "BUY",
     "usd": 26000.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794126375,
     "fills": 1
   },
@@ -120847,7 +120847,7 @@
     "side": "BUY",
     "usd": 37920.0,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794144395,
     "fills": 1
   },
@@ -120877,7 +120877,7 @@
     "side": "BUY",
     "usd": 92000.0,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794145740,
     "fills": 1
   },
@@ -120892,7 +120892,7 @@
     "side": "BUY",
     "usd": 55555.0,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794145973,
     "fills": 1
   },
@@ -121239,6 +121239,21 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1794154643,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16287,
+    "timestamp": 1794154919,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "epl-mun-ast-2026-11-08-mun",
+    "title": "Will Manchester United FC win on 2026-11-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 38110.729999999996,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794154919,
     "fills": 1
   }
 ]
