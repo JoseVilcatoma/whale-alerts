@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:53:45 (hora de Perú)
+Actualizado: 2026-11-08 11:55:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8075**  ($457,320,800 en total)
-- Resueltas: **8004** — 4900 ganadas / 3104 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Resueltas: **8006** — 4902 ganadas / 3104 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 715
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,575,148** sobre $453,597,443 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,475** sobre $789,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,558,896** sobre $453,675,871 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,431** sobre $789,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 317 | 5 | 64% | $58,206,054 | +$259,455 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 564 | 317 | 4 | 64% | $58,206,054 | +$267,466 |
 | Sassy-Bucket | 116 | 114 | 2 | 50% | $15,424,446 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 1 | 66% | $11,434,907 | +$773,295 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | — | ⏳ Pendiente |
 | yabanci | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $56,100 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.16 (86¢) | $49,212 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.16 (86¢) | $49,212 | +$8,011 | ✅ Ganada |
 | milkteaboba | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $37,202 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.08 (48¢) | $58,667 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Manchester United FC vs. Aston Villa FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $50,675 | — | ⏳ Pendiente |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | +$4,820 | ✅ Ganada |
 | Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
 | Zzzz87 | 76ers vs. Bulls | 76ers | 1.28 (78¢) | $35,116 | — | ⏳ Pendiente |
-| big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | — | ⏳ Pendiente |
+| big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | +$8,240 | ✅ Ganada |
 | MigRodr | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.85 (54¢) | $55,555 | +$47,325 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.17 (46¢) | $92,000 | -$92,000 | ❌ Perdida |
 | nb1985 | Will Chelsea FC win on 2026-11-08? | No | 1.75 (57¢) | $50,000 | +$37,719 | ✅ Ganada |
