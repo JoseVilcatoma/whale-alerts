@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:24:30 (hora de Perú)
+Actualizado: 2026-11-08 17:26:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8126**  ($461,065,293 en total)
+- Apuestas registradas: **8127**  ($461,147,100 en total)
 - Resueltas: **8062** — 4937 ganadas / 3125 perdidas (**61%** de acierto)
-- Pendientes: 41
+- Pendientes: 42
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Golden Knights vs. Sabres | Golden Knights | 1.12 (89¢) | $81,807 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Cardinals vs. Seahawks | Seahawks | 1.25 (80¢) | $31,091 | — | ⏳ Pendiente |
 | dromedaryy | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.33 (43¢) | $32,045 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | Siddhartha1 | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $41,600 | +$38,400 | ✅ Ganada |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $195,998 | -$195,998 | ❌ Perdida |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | -$38,111 | ❌ Perdida |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | -$87,111 | ❌ Perdida |
