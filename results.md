@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:05:52 (hora de Perú)
+Actualizado: 2026-11-08 18:07:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8142**  ($461,979,707 en total)
-- Resueltas: **8062** — 4937 ganadas / 3125 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Apuestas registradas: **8142**  ($462,226,501 en total)
+- Resueltas: **8065** — 4939 ganadas / 3126 perdidas (**61%** de acierto)
+- Pendientes: 54
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,771,262** sobre $457,569,804 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,183** sobre $795,200 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,848,857** sobre $457,742,420 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,229** sobre $795,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,8 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | 999585 | 31 | 4 | 1 | 89% | $3,940,787 | +$67,025 |
+| Thunderous-Authoritarian-Snarl | 19 | 11 | 3 | 63% | $3,936,074 | -$926,306 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
-| Thunderous-Authoritarian-Snarl | 19 | 11 | 3 | 63% | $3,805,102 | -$926,306 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,9 +71,9 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| winner877 | Lakers vs. Pistons | Pistons | 1.43 (70¢) | $48,635 | — | ⏳ Pendiente |
+| winner877 | Lakers vs. Pistons | Pistons | 1.41 (71¢) | $164,456 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.69 (59¢) | $194,700 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.69 (59¢) | $325,672 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.72 (58¢) | $57,398 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.39 (72¢) | $26,755 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flyers vs. Flames | Flyers | 1.89 (53¢) | $109,107 | — | ⏳ Pendiente |
@@ -118,8 +118,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | 0F62 | Rams vs. Commanders | Rams | 1.08 (93¢) | $47,312 | +$3,561 | ✅ Ganada |
 | 999585 | Rams vs. Commanders | Rams | 1.10 (91¢) | $217,744 | -$2,393 | 💰 Vendida antes |
 | TAIWANNUMBERONE | Browns vs. Saints | Saints | 1.39 (72¢) | $32,271 | +$12,550 | ✅ Ganada |
-| purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | — | ⏳ Pendiente |
-| SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
+| purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | +$10,500 | ✅ Ganada |
+| SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | -$98,000 | ❌ Perdida |
 | bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | +$7,500 | ✅ Ganada |
 | ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
 | big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |

@@ -120922,7 +120922,7 @@
     "side": "BUY",
     "usd": 35116.380000000005,
     "odds_at_bet": 78,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794147455,
     "fills": 1
   },
@@ -121644,7 +121644,7 @@
     "side": "BUY",
     "usd": 98000.0,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794169488,
     "fills": 1
   },
@@ -121659,7 +121659,7 @@
     "side": "BUY",
     "usd": 39500.0,
     "odds_at_bet": 79,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794169533,
     "fills": 1
   },
@@ -122321,11 +122321,11 @@
     "title": "LoL: Bilibili Gaming vs T1 - Game 2 Winner",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "usd": 194700.0,
+    "usd": 325672.4548,
     "odds_at_bet": 59,
     "status": "pending",
-    "ultimo_fill": 1794179148,
-    "fills": 3
+    "ultimo_fill": 1794179219,
+    "fills": 5
   },
   {
     "telegram_msg_id": 16434,
@@ -122366,10 +122366,10 @@
     "title": "Lakers vs. Pistons",
     "outcome": "Pistons",
     "side": "BUY",
-    "usd": 48635.01299999999,
-    "odds_at_bet": 70,
+    "usd": 164456.17190000002,
+    "odds_at_bet": 71,
     "status": "pending",
-    "ultimo_fill": 1794179143,
-    "fills": 1
+    "ultimo_fill": 1794179222,
+    "fills": 3
   }
 ]
