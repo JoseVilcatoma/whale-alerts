@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:57:12 (hora de Perú)
+Actualizado: 2026-11-07 23:59:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8010**  ($453,573,432 en total)
-- Resueltas: **7963** — 4872 ganadas / 3091 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **7964** — 4873 ganadas / 3091 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,578,910** sobre $451,540,243 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,684** sobre $785,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,561,886** sobre $451,573,289 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,633** sobre $785,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 151 | 79 | 3 | 66% | $11,348,378 | +$671,384 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 127 | 67 | 1 | 65% | $8,454,565 | +$502,560 |
+| ferrariChampions2026 | 128 | 67 | 0 | 66% | $8,454,565 | +$519,583 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
