@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:10:23 (hora de Perú)
+Actualizado: 2026-11-07 19:12:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7947**  ($450,534,137 en total)
-- Resueltas: **7850** — 4795 ganadas / 3055 perdidas (**61%** de acierto)
-- Pendientes: 74
+- Resueltas: **7851** — 4796 ganadas / 3055 perdidas (**61%** de acierto)
+- Pendientes: 73
 - Apostadores distintos: 709
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,508,419** sobre $445,263,691 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,725** sobre $774,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,486,686** sobre $445,328,891 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,692** sobre $774,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 9 | 64% | $57,577,238 | +$713,914 |
-| Sassy-Bucket | 110 | 108 | 7 | 50% | $15,132,355 | -$1,391,974 |
+| Sassy-Bucket | 111 | 108 | 6 | 51% | $15,132,355 | -$1,370,241 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
