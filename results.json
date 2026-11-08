@@ -118445,7 +118445,7 @@
     "side": "BUY",
     "usd": 55750.3857,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794079321,
     "fills": 1
   },
@@ -119270,7 +119270,7 @@
     "side": "BUY",
     "usd": 42112.655999999995,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794094297,
     "fills": 1
   },
@@ -119452,7 +119452,7 @@
     "side": "BUY",
     "usd": 47739.51959999999,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794097433,
     "fills": 1
   },
@@ -119482,7 +119482,7 @@
     "side": "BUY",
     "usd": 42600.0,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794097582,
     "fills": 1
   },
@@ -119497,7 +119497,7 @@
     "side": "BUY",
     "usd": 70000.0,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794097792,
     "fills": 1
   },
@@ -119557,7 +119557,7 @@
     "side": "BUY",
     "usd": 25902.331,
     "odds_at_bet": 70,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794098436,
     "fills": 1
   },
@@ -119707,7 +119707,7 @@
     "side": "BUY",
     "usd": 78000.0,
     "odds_at_bet": 78,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794100065,
     "fills": 1
   },
@@ -119812,7 +119812,7 @@
     "side": "BUY",
     "usd": 64808.0,
     "odds_at_bet": 80,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794100581,
     "fills": 1
   },
@@ -119827,7 +119827,7 @@
     "side": "BUY",
     "usd": 32817.9165,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794101255,
     "fills": 1
   },
@@ -119902,7 +119902,7 @@
     "side": "BUY",
     "usd": 26789.0,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794103251,
     "fills": 1
   },
@@ -119962,7 +119962,7 @@
     "side": "BUY",
     "usd": 163817.939,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794104574,
     "fills": 2
   },
@@ -119977,7 +119977,7 @@
     "side": "BUY",
     "usd": 129244.23000000001,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794104655,
     "fills": 1
   },
@@ -120262,7 +120262,7 @@
     "side": "BUY",
     "usd": 58363.5,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794109520,
     "fills": 1
   },
@@ -120277,7 +120277,7 @@
     "side": "BUY",
     "usd": 62999.999999999985,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794110313,
     "fills": 1
   },
@@ -120292,7 +120292,7 @@
     "side": "BUY",
     "usd": 29333.04,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794110345,
     "fills": 1
   },
@@ -120307,7 +120307,7 @@
     "side": "BUY",
     "usd": 26399.0,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794110349,
     "fills": 1
   },
@@ -120339,6 +120339,21 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1794111782,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16171,
+    "timestamp": 1794111998,
+    "username": "krdlox",
+    "wallet": "0x710b37bd7a3172de02c0b0aba26c60ec45fb30a6",
+    "slug": "nba-sas-por-2026-11-07-total-224pt5",
+    "title": "Spurs vs. Trail Blazers: O/U 224.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 31928.659998999996,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794111998,
     "fills": 1
   }
 ]
