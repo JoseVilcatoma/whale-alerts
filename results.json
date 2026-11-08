@@ -122143,7 +122143,7 @@
     "side": "BUY",
     "usd": 81806.52160000001,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794176768,
     "fills": 2
   },
@@ -122446,5 +122446,20 @@
     "status": "pending",
     "ultimo_fill": 1794179851,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16447,
+    "timestamp": 1794180229,
+    "username": "0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604",
+    "wallet": "0x1bc2900db79077f14d294dd24552020dfbe73391",
+    "slug": "nba-lal-det-2026-11-08",
+    "title": "Lakers vs. Pistons",
+    "outcome": "Pistons",
+    "side": "BUY",
+    "usd": 324916.86,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794180229,
+    "fills": 2
   }
 ]
