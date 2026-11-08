@@ -122506,5 +122506,35 @@
     "status": "pending",
     "ultimo_fill": 1794182050,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16452,
+    "timestamp": 1794182252,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-uta-min-2026-11-08",
+    "title": "Jazz vs. Timberwolves",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 38619.8394,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1794182252,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16453,
+    "timestamp": 1794182291,
+    "username": "zb8",
+    "wallet": "0x0224bb9eb0a5c9fd261ac9123a72cbdd5748292a",
+    "slug": "lol-blg-t1-2026-11-08-game3",
+    "title": "LoL: Bilibili Gaming vs T1 - Game 3 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "usd": 41620.5244,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794182291,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:57:10 (hora de Perú)
+Actualizado: 2026-11-08 18:59:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8151**  ($462,890,350 en total)
+- Apuestas registradas: **8153**  ($462,970,590 en total)
 - Resueltas: **8067** — 4940 ganadas / 3127 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 63
 - Apostadores distintos: 716
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 319 | 11 | 64% | $58,886,254 | +$222,552 |
 | Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 155 | 79 | 3 | 66% | $11,491,236 | +$773,295 |
+| Lakersfan111 | 155 | 79 | 4 | 66% | $11,529,856 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 131 | 67 | 5 | 66% | $8,743,325 | +$561,376 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| zb8 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 1.92 (52¢) | $41,621 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | TAIWANNUMBERONE | Browns vs. Saints | Saints | 1.39 (72¢) | $32,271 | +$12,550 | ✅ Ganada |
 | purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | +$10,500 | ✅ Ganada |
 | SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | -$98,000 | ❌ Perdida |
-| bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | +$7,500 | ✅ Ganada |
-| ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
