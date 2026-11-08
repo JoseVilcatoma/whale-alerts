@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:01:14 (hora de Perú)
+Actualizado: 2026-11-08 11:03:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8060**  ($456,316,386 en total)
+- Apuestas registradas: **8061**  ($456,490,656 en total)
 - Resueltas: **7987** — 4890 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 714
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 43 | 27 | 0 | 61% | $4,766,485 | +$609,345 |
+| maz26 | 43 | 27 | 1 | 61% | $4,940,755 | +$609,345 |
 | Kch-Temp | 47 | 15 | 6 | 76% | $4,753,015 | +$1,983,665 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Lions vs. Dolphins | Lions | 1.35 (74¢) | $174,270 | — | ⏳ Pendiente |
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: O/U 3.5 | Over 3.5 | 1.06 (94¢) | $30,000 | — | ⏳ Pendiente |
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: Both Teams to Score | Yes | 1.12 (89¢) | $30,000 | — | ⏳ Pendiente |
 | 999585 | Bengals vs. Falcons | Bengals | 1.11 (90¢) | $179,461 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | User1244322 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $29,333 | +$4,000 | ✅ Ganada |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $63,000 | +$8,591 | ✅ Ganada |
 | surfandturf | UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.54 (65¢) | $58,364 | -$58,364 | ❌ Perdida |
-| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | +$20,864 | ✅ Ganada |

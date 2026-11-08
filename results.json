@@ -121135,5 +121135,20 @@
     "status": "pending",
     "ultimo_fill": 1794153318,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16278,
+    "timestamp": 1794153685,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-det-mia-2026-11-08",
+    "title": "Lions vs. Dolphins",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 174270.0,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794153685,
+    "fills": 1
   }
 ]
