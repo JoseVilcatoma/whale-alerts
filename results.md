@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:03:58 (hora de Perú)
+Actualizado: 2026-11-08 17:06:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8114**  ($460,272,720 en total)
-- Resueltas: **8056** — 4935 ganadas / 3121 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **8057** — 4935 ganadas / 3122 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,386,965** sobre $457,103,661 apostados (ROI **-0.7%**)
-- Copiando $100 fijo en cada una: **-$5,808** sobre $794,700 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$3,438,172** sobre $457,154,868 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$5,908** sobre $794,800 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 44 | 27 | 2 | 62% | $5,095,719 | +$670,575 |
-| Kch-Temp | 48 | 17 | 3 | 74% | $4,753,015 | +$2,046,269 |
+| Kch-Temp | 48 | 18 | 2 | 73% | $4,753,015 | +$1,995,062 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | 999585 | 31 | 4 | 1 | 89% | $3,940,787 | +$67,025 |
