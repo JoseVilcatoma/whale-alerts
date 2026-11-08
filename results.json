@@ -122236,5 +122236,35 @@
     "status": "pending",
     "ultimo_fill": 1794178259,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16428,
+    "timestamp": 1794178628,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nhl-tb-wpg-2026-11-08",
+    "title": "Lightning vs. Jets",
+    "outcome": "Lightning",
+    "side": "BUY",
+    "usd": 42208.1265,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1794178628,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16429,
+    "timestamp": 1794178631,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-blg-t1-2026-11-08-game2",
+    "title": "LoL: Bilibili Gaming vs T1 - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 39791.838125,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794178631,
+    "fills": 1
   }
 ]
