@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 18:59:57 (hora de Perú)
+Actualizado: 2026-11-07 19:01:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7938**  ($450,180,715 en total)
+- Apuestas registradas: **7944**  ($450,383,185 en total)
 - Resueltas: **7849** — 4795 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 72
 - Apostadores distintos: 709
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 8 | 64% | $57,542,238 | +$713,914 |
-| Sassy-Bucket | 110 | 108 | 5 | 50% | $15,067,793 | -$1,391,974 |
+| Sassy-Bucket | 110 | 108 | 6 | 50% | $15,098,860 | -$1,391,974 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,12 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vtcchampion52 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.33 (30¢) | $25,143 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $30,022 | — | ⏳ Pendiente |
+| dromedaryy | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
+| Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $31,067 | — | ⏳ Pendiente |
+| zb8 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $47,237 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $32,070 | — | ⏳ Pendiente |
 | 3648393489047 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.35 (74¢) | $32,231 | — | ⏳ Pendiente |
 | gmpm2 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,113 | — | ⏳ Pendiente |
@@ -125,9 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | Zombie77 | Will Real Madrid CF win on 2026-11-07? | Yes | 1.11 (90¢) | $29,219 | — | ⏳ Pendiente |
 | Sassy-Bucket | Charlotte vs. UAB | UAB | 1.33 (75¢) | $65,200 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Western Kentucky vs. Middle Tennessee | Middle Tennessee | 2.22 (45¢) | $25,445 | — | ⏳ Pendiente |
-| Mastermoney | Alabama vs. LSU | LSU | 1.49 (67¢) | $128,240 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Louisiana-Monroe vs. Arkansas State | Arkansas State | 1.19 (84¢) | $32,204 | — | ⏳ Pendiente |
-| Zzzz87 | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.15 (87¢) | $39,720 | — | ⏳ Pendiente |
-| cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $55,750 | — | ⏳ Pendiente |
-| surfandturf | Will Real Madrid CF win on 2026-11-07? | Yes | 1.27 (79¢) | $52,630 | — | ⏳ Pendiente |
-| ch27er | Will Manchester City FC win on 2026-11-07? | Yes | 1.67 (60¢) | $25,000 | -$25,000 | ❌ Perdida |
