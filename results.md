@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:51:31 (hora de Perú)
+Actualizado: 2026-11-08 16:53:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8110**  ($459,974,225 en total)
-- Resueltas: **8047** — 4926 ganadas / 3121 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Apuestas registradas: **8112**  ($460,035,991 en total)
+- Resueltas: **8056** — 4935 ganadas / 3121 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,655,090** sobre $456,493,721 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,310** sobre $793,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,386,965** sobre $457,103,661 apostados (ROI **-0.7%**)
+- Copiando $100 fijo en cada una: **-$5,808** sobre $794,700 (ROI **-0.7%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 565 | 318 | 6 | 64% | $58,598,400 | +$246,578 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 318 | 5 | 64% | $58,598,400 | +$274,696 |
 | Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
@@ -46,15 +46,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
-| 999585 | 29 | 4 | 2 | 88% | $3,754,031 | -$14,883 |
+| 999585 | 31 | 4 | 0 | 89% | $3,754,031 | +$67,025 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
-| milkteaboba | 19 | 12 | 2 | 61% | $3,381,840 | -$618,676 |
+| milkteaboba | 20 | 12 | 1 | 62% | $3,381,840 | -$587,782 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 37 | 8 | 0 | 82% | $3,155,658 | -$345,619 |
 | Thunderous-Authoritarian-Snarl | 19 | 11 | 0 | 63% | $3,147,263 | -$926,306 |
-| TAIWANNUMBERONE | 58 | 24 | 1 | 71% | $3,098,330 | -$120,114 |
+| TAIWANNUMBERONE | 59 | 24 | 0 | 71% | $3,098,330 | -$107,564 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | fantasy7788 | 30 | 19 | 0 | 61% | $2,767,534 | +$505,637 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Jittz | Cardinals vs. Seahawks | Seahawks | 1.39 (72¢) | $25,820 | — | ⏳ Pendiente |
+| vtcchampion52 | Game Handicap: BLG (-1.5) vs T1 (+1.5) | Bilibili Gaming | 2.78 (36¢) | $35,946 | — | ⏳ Pendiente |
 | ethanaz | Cardinals vs. Seahawks | Seahawks | 1.41 (71¢) | $27,036 | — | ⏳ Pendiente |
 | Zzzz87 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Chargers | Texans | 1.33 (75¢) | $75,000 | — | ⏳ Pendiente |
@@ -82,10 +84,10 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | EdZachary | Spread: Patriots (-3.5) | Patriots | 2.13 (47¢) | $30,216 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Patriots: O/U 44.5 | Under 44.5 | 2.04 (49¢) | $48,495 | — | ⏳ Pendiente |
 | milkteaboba | Texans vs. Chargers | Texans | 1.52 (66¢) | $36,700 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Saints | Saints | 1.14 (88¢) | $206,202 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Saints | Saints | 1.14 (88¢) | $206,202 | +$28,119 | ✅ Ganada |
 | 0F62 | Rams vs. Commanders | Rams | 1.08 (93¢) | $47,312 | +$3,561 | ✅ Ganada |
 | 999585 | Rams vs. Commanders | Rams | 1.10 (91¢) | $217,744 | -$2,393 | 💰 Vendida antes |
-| TAIWANNUMBERONE | Browns vs. Saints | Saints | 1.39 (72¢) | $32,271 | — | ⏳ Pendiente |
+| TAIWANNUMBERONE | Browns vs. Saints | Saints | 1.39 (72¢) | $32,271 | +$12,550 | ✅ Ganada |
 | purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | — | ⏳ Pendiente |
 | SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
 | bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | — | ⏳ Pendiente |
@@ -100,16 +102,16 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.33 (43¢) | $27,505 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-4.5) | Eagles | 1.69 (59¢) | $58,999 | -$58,999 | ❌ Perdida |
 | SuitableName | Spread: Lions (-6.5) | Dolphins | 2.00 (50¢) | $39,370 | -$39,370 | ❌ Perdida |
-| takeormake | Spread: Cowboys (-3.5) | Cowboys | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
-| 999585 | Browns vs. Saints | Saints | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
-| 999585 | Browns vs. Saints | Saints | 1.49 (67¢) | $137,062 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Browns vs. Saints | Saints | 1.56 (64¢) | $43,001 | — | ⏳ Pendiente |
+| takeormake | Spread: Cowboys (-3.5) | Cowboys | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
+| 999585 | Browns vs. Saints | Saints | 1.47 (68¢) | $30,600 | +$14,400 | ✅ Ganada |
+| 999585 | Browns vs. Saints | Saints | 1.49 (67¢) | $137,062 | +$67,508 | ✅ Ganada |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Browns vs. Saints | Saints | 1.56 (64¢) | $43,001 | +$24,188 | ✅ Ganada |
 | nigiri99 | Spread: Chiefs (-3.5) | Chiefs | 1.41 (71¢) | $43,148 | +$17,624 | ✅ Ganada |
 | thegreatjeff | Spread: FC Internazionale Milano (-1.5) | Como 1907 | 1.23 (81¢) | $100,000 | -$100,000 | ❌ Perdida |
-| taylorsversion | Cowboys vs. Colts | Cowboys | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
+| taylorsversion | Cowboys vs. Colts | Cowboys | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | SuitableName | Spread: Rams (-4.5) | Rams | 2.04 (49¢) | $40,000 | +$41,633 | ✅ Ganada |
-| milkteaboba | Browns vs. Saints | Saints | 1.59 (63¢) | $52,602 | — | ⏳ Pendiente |
-| justwins | Spread: Cowboys (-4.5) | Colts | 1.96 (51¢) | $56,401 | — | ⏳ Pendiente |
+| milkteaboba | Browns vs. Saints | Saints | 1.59 (63¢) | $52,602 | +$30,893 | ✅ Ganada |
+| justwins | Spread: Cowboys (-4.5) | Colts | 1.96 (51¢) | $56,401 | +$54,189 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $39,666 | +$38,111 | ✅ Ganada |
 | Siddhartha1 | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $41,600 | +$38,400 | ✅ Ganada |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $195,998 | -$195,998 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | 1l2ihj34li12u34 | Will Manchester United FC win on 2026-11-08? | Yes | 2.13 (47¢) | $48,757 | -$48,757 | ❌ Perdida |
 | JambonMogettes | Giants vs. Eagles: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $49,211 | -$49,211 | ❌ Perdida |
 | ferrariChampions2026 | Packers vs. Patriots | Patriots | 1.61 (62¢) | $25,780 | — | ⏳ Pendiente |
-| thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.09 (92¢) | $69,764 | +$6,066 | ✅ Ganada |
-| ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
