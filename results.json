@@ -121784,5 +121784,20 @@
     "status": "pending",
     "ultimo_fill": 1794172598,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16367,
+    "timestamp": 1794172825,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-lv-sf-2026-11-08",
+    "title": "Raiders vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 182762.40000000002,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1794172825,
+    "fills": 1
   }
 ]
