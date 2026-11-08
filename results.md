@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:57:48 (hora de Perú)
+Actualizado: 2026-11-07 20:59:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7976**  ($451,916,737 en total)
-- Resueltas: **7904** — 4833 ganadas / 3071 perdidas (**61%** de acierto)
+- Apuestas registradas: **7977**  ($452,036,737 en total)
+- Resueltas: **7905** — 4833 ganadas / 3072 perdidas (**61%** de acierto)
 - Pendientes: 49
 - Apostadores distintos: 711
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,723,148** sobre $448,796,350 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,681** sobre $779,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,772,037** sobre $448,845,239 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,781** sobre $779,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
+| fantasy7788 | 25 | 18 | 1 | 58% | $2,554,673 | +$365,649 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| fantasy7788 | 25 | 18 | 0 | 58% | $2,434,673 | +$365,649 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | — | ⏳ Pendiente |
@@ -86,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $37,484 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 2.17 (46¢) | $42,668 | — | ⏳ Pendiente |
-| SineNooneEI | UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims) | Marcos Degli | 1.43 (70¢) | $48,889 | — | ⏳ Pendiente |
+| SineNooneEI | UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims) | Marcos Degli | 1.43 (70¢) | $48,889 | -$48,889 | ❌ Perdida |
 | justwins | Spread: Liberty (-14.5) | Liberty | 2.00 (50¢) | $32,738 | — | ⏳ Pendiente |
 | SineNooneEI | Knicks vs. Cavaliers | Knicks | 1.56 (64¢) | $93,072 | — | ⏳ Pendiente |
 | nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | justwins | Spread: Hawai'i (-7.5) | Hawai'i | 2.04 (49¢) | $31,712 | — | ⏳ Pendiente |
 | Dessssa | Devils vs. Islanders | Islanders | 2.38 (42¢) | $32,548 | — | ⏳ Pendiente |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.37 (73¢) | $68,214 | +$25,230 | ✅ Ganada |
-| thetesterguy | FC Cincinnati vs. Nashville SC: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $38,669 | +$7,920 | ✅ Ganada |
