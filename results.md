@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 15:24:29 (hora de Perú)
+Actualizado: 2026-11-08 15:26:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8093**  ($458,606,703 en total)
+- Apuestas registradas: **8095**  ($458,744,203 en total)
 - Resueltas: **8028** — 4915 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 44
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | — | ⏳ Pendiente |
+| SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
 | bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
 | big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | AnonymousUsername | Giants vs. Eagles | Giants | 1.67 (60¢) | $29,693 | — | ⏳ Pendiente |
 | Kch-Temp | Giants vs. Eagles | Eagles | 2.44 (41¢) | $38,222 | — | ⏳ Pendiente |
 | JambonMogettes | Giants vs. Eagles | Giants | 1.69 (59¢) | $155,247 | — | ⏳ Pendiente |
-| monkeymashingkeyboard | Texans vs. Chargers | Texans | 1.47 (68¢) | $28,292 | — | ⏳ Pendiente |
-| hajlask | Texans vs. Chargers | Texans | 1.45 (69¢) | $48,300 | — | ⏳ Pendiente |
