@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:39:56 (hora de Perú)
+Actualizado: 2026-11-07 19:42:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7954**  ($450,868,338 en total)
+- Apuestas registradas: **7956**  ($450,933,043 en total)
 - Resueltas: **7868** — 4805 ganadas / 3063 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 65
 - Apostadores distintos: 709
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | — | ⏳ Pendiente |
 | surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | Multicoloured-Serf | Alabama vs. LSU | LSU | 1.82 (55¢) | $26,599 | -$26,599 | ❌ Perdida |
 | Multicoloured-Serf | Nuggets vs. Pacers: O/U 229.5 | Under 229.5 | 2.00 (50¢) | $48,665 | — | ⏳ Pendiente |
 | kkookkoo | Alabama vs. LSU | LSU | 1.64 (61¢) | $26,000 | -$26,000 | ❌ Perdida |
-| Flaznorp | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.09 (92¢) | $45,502 | +$3,957 | ✅ Ganada |
-| 999585 | Oregon vs. Ohio State | Ohio State | 1.09 (92¢) | $37,621 | — | ⏳ Pendiente |
