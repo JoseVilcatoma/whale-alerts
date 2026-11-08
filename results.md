@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:49:12 (hora de Perú)
+Actualizado: 2026-11-08 17:51:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8132**  ($461,356,423 en total)
+- Apuestas registradas: **8133**  ($461,391,713 en total)
 - Resueltas: **8062** — 4937 ganadas / 3125 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Raiders vs. 49ers | 49ers | 1.08 (93¢) | $35,289 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.08 (48¢) | $58,420 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Seahawks | Seahawks | 1.23 (81¢) | $40,864 | — | ⏳ Pendiente |
 | ropetard | Spread: Mavericks (-9.5) | Mavericks | 2.33 (43¢) | $25,632 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | thegreatjeff | Spread: FC Internazionale Milano (-1.5) | Como 1907 | 1.23 (81¢) | $100,000 | -$100,000 | ❌ Perdida |
 | taylorsversion | Cowboys vs. Colts | Cowboys | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | SuitableName | Spread: Rams (-4.5) | Rams | 2.04 (49¢) | $40,000 | +$41,633 | ✅ Ganada |
-| milkteaboba | Browns vs. Saints | Saints | 1.59 (63¢) | $52,602 | +$30,893 | ✅ Ganada |

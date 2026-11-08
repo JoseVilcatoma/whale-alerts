@@ -122221,5 +122221,20 @@
     "status": "pending",
     "ultimo_fill": 1794177968,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16427,
+    "timestamp": 1794178259,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "nfl-lv-sf-2026-11-08",
+    "title": "Raiders vs. 49ers",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 35289.4359,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1794178259,
+    "fills": 1
   }
 ]
