@@ -120895,5 +120895,20 @@
     "status": "pending",
     "ultimo_fill": 1794145973,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16261,
+    "timestamp": 1794146326,
+    "username": "big8betz",
+    "wallet": "0xbfd40a4fcb43d80eb4fb425f75d4fa090c61526f",
+    "slug": "atp-shelton-alcaraz-2026-11-08",
+    "title": "Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 29216.041,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1794146326,
+    "fills": 1
   }
 ]

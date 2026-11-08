@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 08:56:56 (hora de Perú)
+Actualizado: 2026-11-08 08:58:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8044**  ($455,571,550 en total)
+- Apuestas registradas: **8045**  ($455,600,766 en total)
 - Resueltas: **7986** — 4889 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 714
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | — | ⏳ Pendiente |
 | MigRodr | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.85 (54¢) | $55,555 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.17 (46¢) | $92,000 | — | ⏳ Pendiente |
 | nb1985 | Will Chelsea FC win on 2026-11-08? | No | 1.75 (57¢) | $50,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Michigan State vs. Michigan | Michigan | 1.69 (59¢) | $28,319 | -$28,319 | ❌ Perdida |
 | fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | +$15,361 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,502 | +$9,625 | ✅ Ganada |
-| 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | +$2,205 | ✅ Ganada |
