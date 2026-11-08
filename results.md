@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:03:47 (hora de Perú)
+Actualizado: 2026-11-08 18:05:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8138**  ($461,637,974 en total)
+- Apuestas registradas: **8142**  ($461,979,707 en total)
 - Resueltas: **8062** — 4937 ganadas / 3125 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 57
 - Apostadores distintos: 716
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 319 | 9 | 64% | $58,787,856 | +$222,552 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 319 | 11 | 64% | $58,886,254 | +$222,552 |
 | Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
@@ -47,9 +47,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | 999585 | 31 | 4 | 1 | 89% | $3,940,787 | +$67,025 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
+| Thunderous-Authoritarian-Snarl | 19 | 11 | 3 | 63% | $3,805,102 | -$926,306 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| Thunderous-Authoritarian-Snarl | 19 | 11 | 2 | 63% | $3,610,402 | -$926,306 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 20 | 12 | 1 | 62% | $3,381,840 | -$587,782 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winner877 | Lakers vs. Pistons | Pistons | 1.43 (70¢) | $48,635 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.69 (59¢) | $194,700 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.72 (58¢) | $57,398 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.39 (72¢) | $26,755 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flyers vs. Flames | Flyers | 1.89 (53¢) | $109,107 | — | ⏳ Pendiente |
 | dsasdaas | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | LinkE5 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.75 (57¢) | $44,333 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.33 (43¢) | $27,505 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-4.5) | Eagles | 1.69 (59¢) | $58,999 | -$58,999 | ❌ Perdida |
-| SuitableName | Spread: Lions (-6.5) | Dolphins | 2.00 (50¢) | $39,370 | -$39,370 | ❌ Perdida |
-| takeormake | Spread: Cowboys (-3.5) | Cowboys | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
-| 999585 | Browns vs. Saints | Saints | 1.47 (68¢) | $30,600 | +$14,400 | ✅ Ganada |
-| 999585 | Browns vs. Saints | Saints | 1.49 (67¢) | $137,062 | +$67,508 | ✅ Ganada |
