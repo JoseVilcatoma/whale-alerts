@@ -119980,5 +119980,20 @@
     "status": "pending",
     "ultimo_fill": 1794104655,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16117,
+    "timestamp": 1794104898,
+    "username": "justwins",
+    "wallet": "0xa2cced8bfae7d645f7f437fb76becf2fcbb70cbc",
+    "slug": "cfb-frest-utahst-2026-11-07",
+    "title": "Fresno State vs. Utah State",
+    "outcome": "Fresno State",
+    "side": "BUY",
+    "usd": 28189.5,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794104898,
+    "fills": 1
   }
 ]
