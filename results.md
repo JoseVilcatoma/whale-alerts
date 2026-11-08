@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:49:30 (hora de Perú)
+Actualizado: 2026-11-08 16:51:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8109**  ($459,947,189 en total)
+- Apuestas registradas: **8110**  ($459,974,225 en total)
 - Resueltas: **8047** — 4926 ganadas / 3121 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 716
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 75 | 32 | 0 | 70% | $6,436,320 | -$155,896 |
+| ethanaz | 75 | 32 | 1 | 70% | $6,463,356 | -$155,896 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Cardinals vs. Seahawks | Seahawks | 1.41 (71¢) | $27,036 | — | ⏳ Pendiente |
 | Zzzz87 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Chargers | Texans | 1.33 (75¢) | $75,000 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.79 (56¢) | $25,480 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | ferrariChampions2026 | Packers vs. Patriots | Patriots | 1.61 (62¢) | $25,780 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.09 (92¢) | $69,764 | +$6,066 | ✅ Ganada |
 | ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | +$24,389 | ✅ Ganada |
