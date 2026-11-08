@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 22:30:09 (hora de Perú)
+Actualizado: 2026-11-07 22:32:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8000**  ($453,213,609 en total)
+- Apuestas registradas: **8001**  ($453,242,421 en total)
 - Resueltas: **7911** — 4837 ganadas / 3074 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Pendientes: 67
 - Apostadores distintos: 712
 
 ### Balance
@@ -56,8 +56,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 56 | 24 | 1 | 70% | $3,032,912 | -$144,405 |
 | 999585 | 24 | 3 | 3 | 89% | $2,962,302 | -$55,690 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
+| fantasy7788 | 25 | 18 | 6 | 58% | $2,767,534 | +$365,649 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| fantasy7788 | 25 | 18 | 5 | 58% | $2,738,722 | +$365,649 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
 | fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wyoming vs. UNLV | UNLV | 1.64 (61¢) | $33,557 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | vtcchampion52 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.33 (30¢) | $25,143 | -$25,143 | ❌ Perdida |
 | SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $30,022 | +$12,867 | ✅ Ganada |
 | dromedaryy | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
-| Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $31,067 | — | ⏳ Pendiente |
