@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:33:35 (hora de Perú)
+Actualizado: 2026-11-07 19:35:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7952**  ($450,770,908 en total)
-- Resueltas: **7863** — 4801 ganadas / 3062 perdidas (**61%** de acierto)
-- Pendientes: 66
+- Apuestas registradas: **7954**  ($450,868,338 en total)
+- Resueltas: **7864** — 4802 ganadas / 3062 perdidas (**61%** de acierto)
+- Pendientes: 67
 - Apostadores distintos: 709
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,891,372** sobre $445,976,401 apostados (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,886,581** sobre $446,008,632 apostados (ROI **-0.9%**)
 - Copiando $100 fijo en cada una: **-$7,245** sobre $775,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 313 | 8 | 64% | $57,577,238 | +$575,914 |
 | Sassy-Bucket | 111 | 108 | 7 | 51% | $15,163,037 | -$1,370,241 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
-| Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
+| Lakersfan111 | 149 | 77 | 2 | 66% | $11,043,940 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 122 | 67 | 4 | 65% | $8,326,757 | +$417,371 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 1 | 61% | $4,766,485 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
-| surfandturf | 40 | 11 | 1 | 78% | $3,940,199 | +$548,963 |
+| surfandturf | 40 | 11 | 1 | 78% | $3,966,565 | +$548,963 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | cosmicxbt | 24 | 9 | 1 | 73% | $3,561,663 | -$328,163 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $45,750 | — | ⏳ Pendiente |
+| yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | — | ⏳ Pendiente |
+| surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | — | ⏳ Pendiente |
 | milkteaboba | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $70,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,600 | — | ⏳ Pendiente |
 | Sassy-Bucket | Air Force vs. Army | Air Force | 2.56 (39¢) | $30,682 | — | ⏳ Pendiente |
@@ -86,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | zb8 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $47,237 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $32,070 | — | ⏳ Pendiente |
-| 3648393489047 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.35 (74¢) | $32,231 | — | ⏳ Pendiente |
+| 3648393489047 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.35 (74¢) | $32,231 | +$4,791 | 💰 Vendida antes |
 | gmpm2 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,113 | — | ⏳ Pendiente |
 | Wal1 | Wizards vs. Thunder | Thunder | 1.22 (82¢) | $35,431 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 1.92 (52¢) | $48,902 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | kkookkoo | Alabama vs. LSU | LSU | 1.64 (61¢) | $26,000 | -$26,000 | ❌ Perdida |
 | Flaznorp | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.09 (92¢) | $45,502 | +$3,957 | ✅ Ganada |
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.09 (92¢) | $37,621 | — | ⏳ Pendiente |
-| alohaa | Will US Sassuolo Calcio win on 2026-11-07? | Yes | 1.16 (86¢) | $42,984 | -$42,984 | ❌ Perdida |
-| thetesterguy | Inter Miami CF vs. Charlotte FC: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $36,784 | +$2,348 | ✅ Ganada |
