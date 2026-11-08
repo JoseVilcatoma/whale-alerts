@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 22:34:25 (hora de Perú)
+Actualizado: 2026-11-07 22:36:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8001**  ($453,242,421 en total)
-- Resueltas: **7911** — 4837 ganadas / 3074 perdidas (**61%** de acierto)
-- Pendientes: 67
+- Resueltas: **7915** — 4839 ganadas / 3076 perdidas (**61%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,777,997** sobre $449,026,868 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,810** sobre $780,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,854,708** sobre $449,188,443 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,967** sobre $780,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 313 | 5 | 64% | $57,652,868 | +$665,333 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 3 | 64% | $57,652,868 | +$573,763 |
 | Sassy-Bucket | 111 | 109 | 12 | 50% | $15,424,446 | -$1,450,933 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
 | Lakersfan111 | 150 | 77 | 6 | 66% | $11,348,378 | +$721,714 |
@@ -110,11 +110,11 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.28 (78¢) | $78,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $37,484 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 2.17 (46¢) | $42,668 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 2.17 (46¢) | $42,668 | -$42,668 | ❌ Perdida |
 | SineNooneEI | UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims) | Marcos Degli | 1.43 (70¢) | $48,889 | -$48,889 | ❌ Perdida |
 | justwins | Spread: Liberty (-14.5) | Liberty | 2.00 (50¢) | $32,738 | — | ⏳ Pendiente |
 | SineNooneEI | Knicks vs. Cavaliers | Knicks | 1.56 (64¢) | $93,072 | — | ⏳ Pendiente |
-| nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | — | ⏳ Pendiente |
+| nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | +$7,082 | ✅ Ganada |
 | randomrandomrandom | Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5) | MOUZ | 1.52 (66¢) | $47,605 | — | ⏳ Pendiente |
 | Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | — | ⏳ Pendiente |
