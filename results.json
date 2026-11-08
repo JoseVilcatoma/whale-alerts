@@ -119960,10 +119960,25 @@
     "title": "Miami (FL) vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "usd": 50546.579900000004,
+    "usd": 163817.939,
     "odds_at_bet": 89,
     "status": "pending",
-    "ultimo_fill": 1794104543,
+    "ultimo_fill": 1794104574,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 16116,
+    "timestamp": 1794104655,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "cfb-mia-nd-2026-11-07",
+    "title": "Miami (FL) vs. Notre Dame",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 129244.23000000001,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794104655,
     "fills": 1
   }
 ]

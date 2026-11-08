@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 21:22:42 (hora de Perú)
+Actualizado: 2026-11-07 21:24:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7982**  ($452,253,402 en total)
+- Apuestas registradas: **7983**  ($452,495,917 en total)
 - Resueltas: **7905** — 4833 ganadas / 3072 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 55
 - Apostadores distintos: 711
 
 ### Balance
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ethanaz | 73 | 32 | 0 | 70% | $6,274,371 | -$205,686 |
+| ethanaz | 73 | 32 | 1 | 70% | $6,403,616 | -$205,686 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -46,8 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
 | surfandturf | 40 | 11 | 1 | 78% | $3,966,565 | +$548,963 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
+| cosmicxbt | 24 | 9 | 2 | 73% | $3,725,481 | -$328,163 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| cosmicxbt | 24 | 9 | 2 | 73% | $3,612,210 | -$328,163 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 1 | 59% | $3,255,336 | -$683,016 |
@@ -71,7 +71,8 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $50,547 | — | ⏳ Pendiente |
+| ethanaz | Miami (FL) vs. Notre Dame | Notre Dame | 1.11 (90¢) | $129,244 | — | ⏳ Pendiente |
+| cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $163,818 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Billy Elekana vs. Lucas Fernando (Light Heavyweight, Main Card) | Lucas Fernando | 1.37 (73¢) | $32,961 | — | ⏳ Pendiente |
 | fantasy7788 | Rockets vs. Suns | Rockets | 1.33 (75¢) | $66,440 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.52 (66¢) | $39,928 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | zb8 | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.30 (77¢) | $25,901 | +$7,737 | ✅ Ganada |
 | ethanaz | Alabama vs. LSU | LSU | 1.52 (66¢) | $48,953 | -$48,953 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.35 (74¢) | $37,000 | +$13,000 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.39 (72¢) | $139,814 | +$54,372 | ✅ Ganada |
