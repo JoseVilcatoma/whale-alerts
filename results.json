@@ -119453,5 +119453,35 @@
     "status": "pending",
     "ultimo_fill": 1794097433,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16040,
+    "timestamp": 1794097569,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-airf-army-2026-11-07",
+    "title": "Air Force vs. Army",
+    "outcome": "Air Force",
+    "side": "BUY",
+    "usd": 30681.643200000002,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1794097569,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16041,
+    "timestamp": 1794097582,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "cfb-mia-nd-2026-11-07",
+    "title": "Miami (FL) vs. Notre Dame",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 42600.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1794097582,
+    "fills": 1
   }
 ]
