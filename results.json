@@ -119438,5 +119438,20 @@
     "status": "pending",
     "ultimo_fill": 1794096377,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16039,
+    "timestamp": 1794097433,
+    "username": "COMEONDUDE",
+    "wallet": "0x054964a95e2cb3fc2105a62a1edf3da44979c052",
+    "slug": "cfb-mia-nd-2026-11-07",
+    "title": "Miami (FL) vs. Notre Dame",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "usd": 47739.51959999999,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1794097433,
+    "fills": 1
   }
 ]

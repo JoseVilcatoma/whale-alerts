@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:23:01 (hora de Perú)
+Actualizado: 2026-11-07 19:25:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7947**  ($450,534,137 en total)
+- Apuestas registradas: **7948**  ($450,581,877 en total)
 - Resueltas: **7863** — 4801 ganadas / 3062 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 62
 - Apostadores distintos: 709
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| COMEONDUDE | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $47,740 | — | ⏳ Pendiente |
 | Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $33,495 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.03 (33¢) | $82,457 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | 999585 | Cincinnati vs. Houston | Houston | 1.06 (94¢) | $180,044 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Alabama vs. LSU | LSU | 1.52 (66¢) | $44,858 | -$44,858 | ❌ Perdida |
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.20 (83¢) | $157,700 | — | ⏳ Pendiente |
-| texastechbooster | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $42,106 | — | ⏳ Pendiente |
