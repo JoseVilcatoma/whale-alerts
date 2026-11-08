@@ -120445,5 +120445,20 @@
     "status": "pending",
     "ultimo_fill": 1794117355,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16216,
+    "timestamp": 1794118977,
+    "username": "hovistomaradona",
+    "wallet": "0x0e555ed11bc172565f9466e81c558f1e88e0ef17",
+    "slug": "epl-sun-che-2026-11-08-che",
+    "title": "Will Chelsea FC win on 2026-11-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1794118977,
+    "fills": 1
   }
 ]

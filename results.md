@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 01:22:27 (hora de Perú)
+Actualizado: 2026-11-08 01:24:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8014**  ($453,774,374 en total)
+- Apuestas registradas: **8015**  ($453,801,374 en total)
 - Resueltas: **7972** — 4878 ganadas / 3094 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 712
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hovistomaradona | Will Chelsea FC win on 2026-11-08? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | West Virginia vs. Texas Tech | Texas Tech | 1.47 (68¢) | $102,000 | — | ⏳ Pendiente |
 | hovistomaradona | Will Bayer 04 Leverkusen win on 2026-11-08? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $37,225 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | +$7,082 | ✅ Ganada |
 | randomrandomrandom | Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5) | MOUZ | 1.52 (66¢) | $47,605 | — | ⏳ Pendiente |
 | Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | +$22,789 | ✅ Ganada |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | +$11,101 | ✅ Ganada |
