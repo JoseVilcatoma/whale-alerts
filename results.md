@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 22:44:58 (hora de Perú)
+Actualizado: 2026-11-07 22:47:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8001**  ($453,242,421 en total)
+- Apuestas registradas: **8002**  ($453,300,784 en total)
 - Resueltas: **7919** — 4841 ganadas / 3078 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 712
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 1 | 61% | $4,766,485 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
-| surfandturf | 40 | 11 | 2 | 78% | $4,000,332 | +$548,963 |
+| surfandturf | 40 | 11 | 3 | 78% | $4,058,695 | +$548,963 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 24 | 9 | 2 | 73% | $3,725,481 | -$328,163 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.54 (65¢) | $58,364 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
 | fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $35,000 | +$15,000 | ✅ Ganada |
 | vtcchampion52 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.33 (30¢) | $25,143 | -$25,143 | ❌ Perdida |
 | SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $30,022 | +$12,867 | ✅ Ganada |
-| dromedaryy | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | +$15,500 | ✅ Ganada |
