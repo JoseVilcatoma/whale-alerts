@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 03:24:28 (hora de Perú)
+Actualizado: 2026-11-08 03:26:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8020**  ($454,221,935 en total)
+- Apuestas registradas: **8021**  ($454,247,935 en total)
 - Resueltas: **7979** — 4883 ganadas / 3096 perdidas (**61%** de acierto)
-- Pendientes: 18
-- Apostadores distintos: 712
+- Pendientes: 19
+- Apostadores distintos: 713
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 712 en total)_
+_(mostrando los 40 de mayor monto, de 713 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ - Map 2 Winner | MOUZ | 1.52 (66¢) | $25,147 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $60,509 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Shandong Taishan FC win on 2026-11-08? | No | 1.64 (61¢) | $270,308 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | +$20,759 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $37,484 | -$37,484 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 2.17 (46¢) | $42,668 | -$42,668 | ❌ Perdida |
-| SineNooneEI | UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims) | Marcos Degli | 1.43 (70¢) | $48,889 | -$48,889 | ❌ Perdida |
