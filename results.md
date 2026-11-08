@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:36:57 (hora de Perú)
+Actualizado: 2026-11-08 11:39:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8073**  ($457,254,000 en total)
+- Apuestas registradas: **8074**  ($457,294,000 en total)
 - Resueltas: **8004** — 4900 ganadas / 3104 perdidas (**61%** de acierto)
-- Pendientes: 46
-- Apostadores distintos: 714
+- Pendientes: 47
+- Apostadores distintos: 715
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 714 en total)_
+_(mostrando los 40 de mayor monto, de 715 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SuitableName | Spread: Rams (-4.5) | Rams | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | milkteaboba | Browns vs. Saints | Saints | 1.59 (63¢) | $52,602 | — | ⏳ Pendiente |
 | justwins | Spread: Cowboys (-4.5) | Colts | 1.96 (51¢) | $56,401 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $39,666 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,578 | +$9,644 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $26,020 | +$6,505 | ✅ Ganada |
 | hovistomaradona | Will Chelsea FC win on 2026-11-08? | No | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | West Virginia vs. Texas Tech | Texas Tech | 1.47 (68¢) | $102,000 | +$48,000 | ✅ Ganada |
