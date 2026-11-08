@@ -120460,5 +120460,20 @@
     "status": "pending",
     "ultimo_fill": 1794118977,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16219,
+    "timestamp": 1794121726,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-mglz-mouz-2026-11-08",
+    "title": "Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 26019.664000000004,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1794121726,
+    "fills": 1
   }
 ]
