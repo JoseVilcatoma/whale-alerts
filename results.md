@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 21:31:03 (hora de Perú)
+Actualizado: 2026-11-07 21:33:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7984**  ($452,524,107 en total)
+- Apuestas registradas: **7985**  ($452,549,460 en total)
 - Resueltas: **7905** — 4833 ganadas / 3072 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 711
 
 ### Balance
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 18 | 11 | 0 | 62% | $3,108,686 | -$935,950 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
-| 999585 | 24 | 3 | 2 | 89% | $2,936,949 | -$55,690 |
+| 999585 | 24 | 3 | 3 | 89% | $2,962,302 | -$55,690 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | fantasy7788 | 25 | 18 | 2 | 58% | $2,621,113 | +$365,649 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | — | ⏳ Pendiente |
 | justwins | Fresno State vs. Utah State | Fresno State | 2.00 (50¢) | $28,190 | — | ⏳ Pendiente |
 | ethanaz | Miami (FL) vs. Notre Dame | Notre Dame | 1.11 (90¢) | $129,244 | — | ⏳ Pendiente |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $163,818 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $31,600 | +$8,400 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $401,369 | +$106,693 | ✅ Ganada |
 | zb8 | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.30 (77¢) | $25,901 | +$7,737 | ✅ Ganada |
-| ethanaz | Alabama vs. LSU | LSU | 1.52 (66¢) | $48,953 | -$48,953 | ❌ Perdida |
