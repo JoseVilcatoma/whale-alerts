@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:09:59 (hora de Perú)
+Actualizado: 2026-11-08 18:12:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8143**  ($462,251,501 en total)
+- Apuestas registradas: **8145**  ($462,329,710 en total)
 - Resueltas: **8065** — 4939 ganadas / 3126 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 57
 - Apostadores distintos: 716
 
 ### Balance
@@ -45,8 +45,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 18 | 2 | 73% | $4,753,015 | +$1,995,062 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
+| Thunderous-Authoritarian-Snarl | 19 | 11 | 4 | 63% | $3,968,886 | -$926,306 |
 | 999585 | 31 | 4 | 1 | 89% | $3,940,787 | +$67,025 |
-| Thunderous-Authoritarian-Snarl | 19 | 11 | 3 | 63% | $3,936,074 | -$926,306 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | — | ⏳ Pendiente |
 | ch27er | Spread: Pistons (-6.5) | Pistons | 1.75 (57¢) | $25,000 | — | ⏳ Pendiente |
 | winner877 | Lakers vs. Pistons | Pistons | 1.41 (71¢) | $164,456 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | 999585 | Jets vs. Chiefs | Chiefs | 1.14 (88¢) | $226,861 | +$5,156 | 💰 Vendida antes |
 | Multicoloured-Serf | Giants vs. Eagles | Eagles | 1.89 (53¢) | $65,021 | -$65,021 | ❌ Perdida |
 | EdZachary | Jets vs. Chiefs | Jets | 2.13 (47¢) | $34,300 | -$34,300 | ❌ Perdida |
-| LinkE5 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.75 (57¢) | $44,333 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.33 (43¢) | $27,505 | — | ⏳ Pendiente |

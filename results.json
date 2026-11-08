@@ -122386,5 +122386,35 @@
     "status": "pending",
     "ultimo_fill": 1794179353,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16441,
+    "timestamp": 1794179429,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nba-bkn-dal-2026-11-08",
+    "title": "Nets vs. Mavericks",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 45398.1379,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1794179429,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16442,
+    "timestamp": 1794179459,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-blg-t1-2026-11-08-game2",
+    "title": "LoL: Bilibili Gaming vs T1 - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 32811.065500000004,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1794179459,
+    "fills": 1
   }
 ]
