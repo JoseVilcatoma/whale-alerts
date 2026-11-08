@@ -121405,5 +121405,20 @@
     "status": "pending",
     "ultimo_fill": 1794157516,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16316,
+    "timestamp": 1794158115,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "nfl-cle-no-2026-11-08",
+    "title": "Browns vs. Saints",
+    "outcome": "Saints",
+    "side": "BUY",
+    "usd": 137062.03399999999,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794158119,
+    "fills": 2
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 12:14:49 (hora de Perú)
+Actualizado: 2026-11-08 12:16:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8078**  ($457,506,950 en total)
+- Apuestas registradas: **8079**  ($457,644,012 en total)
 - Resueltas: **8007** — 4903 ganadas / 3104 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 715
 
 ### Balance
@@ -51,8 +51,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 18 | 12 | 2 | 60% | $3,345,140 | -$653,016 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| 999585 | 27 | 3 | 2 | 90% | $3,278,825 | -$37,586 |
 | Thunderous-Authoritarian-Snarl | 19 | 11 | 0 | 63% | $3,147,263 | -$926,306 |
-| 999585 | 27 | 3 | 1 | 90% | $3,141,763 | -$37,586 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 58 | 24 | 0 | 71% | $3,066,059 | -$120,114 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Browns vs. Saints | Saints | 1.49 (67¢) | $137,062 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Browns vs. Saints | Saints | 1.56 (64¢) | $43,001 | — | ⏳ Pendiente |
 | nigiri99 | Spread: Chiefs (-3.5) | Chiefs | 1.41 (71¢) | $43,148 | — | ⏳ Pendiente |
 | thegreatjeff | Spread: FC Internazionale Milano (-1.5) | Como 1907 | 1.23 (81¢) | $100,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | Kch-Temp | Spread: Bengals (-3.5) | Bengals | 2.08 (48¢) | $128,586 | — | ⏳ Pendiente |
 | yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ - Map 2 Winner | MOUZ | 1.52 (66¢) | $25,147 | +$12,954 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $60,509 | — | ⏳ Pendiente |
