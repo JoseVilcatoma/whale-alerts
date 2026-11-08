@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 15:07:50 (hora de Perú)
+Actualizado: 2026-11-08 15:09:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8090**  ($458,520,150 en total)
-- Resueltas: **8027** — 4914 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Resueltas: **8028** — 4915 ganadas / 3113 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 715
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,700,957** sobre $455,060,337 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,695,801** sobre $455,287,198 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$6,250** sobre $792,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| 999585 | 28 | 3 | 3 | 90% | $3,536,286 | -$17,646 |
+| 999585 | 29 | 3 | 2 | 91% | $3,536,286 | -$12,490 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 19 | 12 | 1 | 61% | $3,345,140 | -$618,676 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $272,003 | — | ⏳ Pendiente |
-| 999585 | Jets vs. Chiefs | Chiefs | 1.14 (88¢) | $226,861 | — | ⏳ Pendiente |
+| 999585 | Jets vs. Chiefs | Chiefs | 1.14 (88¢) | $226,861 | +$5,156 | 💰 Vendida antes |
 | Multicoloured-Serf | Giants vs. Eagles | Eagles | 1.89 (53¢) | $65,021 | — | ⏳ Pendiente |
 | EdZachary | Jets vs. Chiefs | Jets | 2.13 (47¢) | $34,300 | — | ⏳ Pendiente |
 | LinkE5 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.75 (57¢) | $44,333 | — | ⏳ Pendiente |
