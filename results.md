@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 07:04:33 (hora de Perú)
+Actualizado: 2026-11-08 07:06:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8021**  ($454,247,935 en total)
+- Apuestas registradas: **8023**  ($454,444,084 en total)
 - Resueltas: **7984** — 4888 ganadas / 3096 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 16
 - Apostadores distintos: 713
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 43 | 27 | 0 | 61% | $4,766,485 | +$609,345 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| Kch-Temp | 47 | 15 | 1 | 76% | $4,360,466 | +$1,983,665 |
+| Kch-Temp | 47 | 15 | 2 | 76% | $4,489,052 | +$1,983,665 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bengals vs. Falcons | Falcons | 2.63 (38¢) | $67,563 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Bengals (-3.5) | Bengals | 2.08 (48¢) | $128,586 | — | ⏳ Pendiente |
 | yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: TheMongolz vs MOUZ - Map 2 Winner | MOUZ | 1.52 (66¢) | $25,147 | +$12,954 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $60,509 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 | Sassy-Bucket | Magic vs. Warriors | Magic | 3.70 (27¢) | $26,911 | -$26,911 | ❌ Perdida |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.28 (78¢) | $78,000 | +$22,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | +$20,759 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $37,484 | -$37,484 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 2.17 (46¢) | $42,668 | -$42,668 | ❌ Perdida |
