@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 22:47:05 (hora de Perú)
+Actualizado: 2026-11-07 22:51:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8002**  ($453,300,784 en total)
-- Resueltas: **7919** — 4841 ganadas / 3078 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Resueltas: **7924** — 4844 ganadas / 3080 perdidas (**61%** de acierto)
+- Pendientes: 55
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,848,678** sobre $449,389,429 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,052** sobre $781,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,826,616** sobre $449,604,525 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,098** sobre $781,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 3 | 64% | $57,652,868 | +$573,763 |
-| Sassy-Bucket | 111 | 109 | 12 | 50% | $15,424,446 | -$1,450,933 |
+| Sassy-Bucket | 114 | 109 | 9 | 51% | $15,424,446 | -$1,370,105 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
 | Lakersfan111 | 150 | 78 | 5 | 66% | $11,348,378 | +$688,110 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 1 | 61% | $4,766,485 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
-| surfandturf | 40 | 11 | 3 | 78% | $4,058,695 | +$548,963 |
+| surfandturf | 40 | 12 | 2 | 77% | $4,058,695 | +$515,197 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 24 | 9 | 2 | 73% | $3,725,481 | -$328,163 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -76,13 +76,13 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
 | fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wyoming vs. UNLV | UNLV | 1.64 (61¢) | $33,557 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.49 (67¢) | $27,155 | — | ⏳ Pendiente |
-| surfandturf | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.94 (34¢) | $33,767 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.52 (66¢) | $90,158 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.49 (67¢) | $27,155 | +$13,375 | ✅ Ganada |
+| surfandturf | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.94 (34¢) | $33,767 | -$33,767 | ❌ Perdida |
+| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.52 (66¢) | $90,158 | +$46,445 | ✅ Ganada |
 | TAIWANNUMBERONE | West Virginia vs. Texas Tech | Texas Tech | 1.37 (73¢) | $34,188 | — | ⏳ Pendiente |
-| krdlox | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.78 (36¢) | $25,000 | — | ⏳ Pendiente |
+| krdlox | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.78 (36¢) | $25,000 | -$25,000 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.49 (67¢) | $132,398 | — | ⏳ Pendiente |
-| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.54 (65¢) | $39,016 | — | ⏳ Pendiente |
+| Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.54 (65¢) | $39,016 | +$21,009 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | -$35,508 | ❌ Perdida |
 | krdlox | UFC Fight Night: Davey Grant vs. Elijah Smith (Bantamweight, Main Card) | Elijah Smith | 1.32 (76¢) | $28,971 | +$9,149 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Michigan State vs. Michigan | Michigan | 1.69 (59¢) | $28,319 | — | ⏳ Pendiente |
