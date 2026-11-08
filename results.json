@@ -121117,7 +121117,7 @@
     "side": "BUY",
     "usd": 29999.969913,
     "odds_at_bet": 94,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794153318,
     "fills": 1
   },
@@ -121132,7 +121132,7 @@
     "side": "BUY",
     "usd": 29999.969967,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794153318,
     "fills": 1
   },
@@ -121194,6 +121194,36 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1794154014,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16284,
+    "timestamp": 1794154497,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-shelton-alcaraz-2026-11-08",
+    "title": "Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 49212.0294,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1794154497,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16285,
+    "timestamp": 1794154529,
+    "username": "yabanci",
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "slug": "epl-mun-ast-2026-11-08-mun",
+    "title": "Will Manchester United FC win on 2026-11-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 56100.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794154529,
     "fills": 1
   }
 ]
