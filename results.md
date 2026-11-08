@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 21:49:58 (hora de Perú)
+Actualizado: 2026-11-07 21:52:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7991**  ($452,757,386 en total)
+- Apuestas registradas: **7992**  ($452,889,784 en total)
 - Resueltas: **7905** — 4833 ganadas / 3072 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 64
 - Apostadores distintos: 712
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 560 | 313 | 7 | 64% | $57,652,868 | +$638,750 |
 | Sassy-Bucket | 111 | 109 | 9 | 50% | $15,273,576 | -$1,450,933 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
-| Lakersfan111 | 150 | 77 | 5 | 66% | $11,215,980 | +$721,714 |
+| Lakersfan111 | 150 | 77 | 6 | 66% | $11,348,378 | +$721,714 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 123 | 67 | 4 | 65% | $8,391,565 | +$448,471 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.49 (67¢) | $132,398 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.54 (65¢) | $39,016 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | — | ⏳ Pendiente |
 | krdlox | UFC Fight Night: Davey Grant vs. Elijah Smith (Bantamweight, Main Card) | Elijah Smith | 1.32 (76¢) | $28,971 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | Wal1 | Wizards vs. Thunder | Thunder | 1.22 (82¢) | $35,431 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 1.92 (52¢) | $48,902 | — | ⏳ Pendiente |
 | 999585 | Alabama vs. LSU | Alabama | 1.85 (54¢) | $26,257 | +$22,367 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. LSU | LSU | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
