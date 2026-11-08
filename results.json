@@ -121525,5 +121525,20 @@
     "status": "pending",
     "ultimo_fill": 1794165827,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16343,
+    "timestamp": 1794166722,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nfl-nyg-phi-2026-11-08",
+    "title": "Giants vs. Eagles",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "usd": 65020.998900000006,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794166722,
+    "fills": 1
   }
 ]
