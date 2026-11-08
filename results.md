@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:20:54 (hora de Perú)
+Actualizado: 2026-11-07 19:23:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7947**  ($450,534,137 en total)
-- Resueltas: **7851** — 4796 ganadas / 3055 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Resueltas: **7863** — 4801 ganadas / 3062 perdidas (**61%** de acierto)
+- Pendientes: 61
 - Apostadores distintos: 709
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,486,686** sobre $445,328,891 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,692** sobre $774,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,891,372** sobre $445,976,401 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,245** sobre $775,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,19 +24,19 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 9 | 64% | $57,577,238 | +$713,914 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 313 | 8 | 64% | $57,577,238 | +$575,914 |
 | Sassy-Bucket | 111 | 108 | 6 | 51% | $15,132,355 | -$1,370,241 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 122 | 66 | 5 | 65% | $8,326,757 | +$462,230 |
+| ferrariChampions2026 | 122 | 67 | 4 | 65% | $8,326,757 | +$417,371 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ethanaz | 73 | 30 | 2 | 71% | $6,274,371 | -$98,608 |
+| ethanaz | 73 | 31 | 1 | 70% | $6,274,371 | -$147,561 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 42 | 27 | 1 | 61% | $4,766,485 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
-| surfandturf | 39 | 11 | 1 | 78% | $3,894,449 | +$534,973 |
+| surfandturf | 40 | 11 | 0 | 78% | $3,894,449 | +$548,963 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | cosmicxbt | 24 | 9 | 1 | 73% | $3,561,663 | -$328,163 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
-| 999585 | 22 | 1 | 4 | 96% | $2,793,858 | +$105,772 |
+| 999585 | 23 | 1 | 3 | 96% | $2,793,858 | +$128,139 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -85,15 +85,15 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | gmpm2 | Miami (FL) vs. Notre Dame | Notre Dame | 1.41 (71¢) | $42,113 | — | ⏳ Pendiente |
 | Wal1 | Wizards vs. Thunder | Thunder | 1.22 (82¢) | $35,431 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 1.92 (52¢) | $48,902 | — | ⏳ Pendiente |
-| 999585 | Alabama vs. LSU | Alabama | 1.85 (54¢) | $26,257 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. LSU | LSU | 2.17 (46¢) | $138,000 | — | ⏳ Pendiente |
+| 999585 | Alabama vs. LSU | Alabama | 1.85 (54¢) | $26,257 | +$22,367 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. LSU | LSU | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati vs. Houston | Houston | 1.18 (85¢) | $162,395 | — | ⏳ Pendiente |
 | ethanaz | Oregon vs. Ohio State | Ohio State | 4.35 (23¢) | $58,125 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Tennessee (-6.5) | Kentucky | 1.96 (51¢) | $26,167 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $401,369 | — | ⏳ Pendiente |
 | zb8 | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.30 (77¢) | $25,901 | — | ⏳ Pendiente |
-| ethanaz | Alabama vs. LSU | LSU | 1.52 (66¢) | $48,953 | — | ⏳ Pendiente |
+| ethanaz | Alabama vs. LSU | LSU | 1.52 (66¢) | $48,953 | -$48,953 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.39 (72¢) | $139,814 | — | ⏳ Pendiente |
 | 3648393489047 | Oregon vs. Ohio State | Oregon | 1.35 (74¢) | $36,913 | — | ⏳ Pendiente |
@@ -119,15 +119,15 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $26,450 | — | ⏳ Pendiente |
 | googleplay | Nuggets vs. Pacers: O/U 229.5 | Over 229.5 | 2.00 (50¢) | $57,480 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.27 (79¢) | $72,146 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Alabama vs. LSU | LSU | 1.82 (55¢) | $26,599 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Alabama vs. LSU | LSU | 1.82 (55¢) | $26,599 | -$26,599 | ❌ Perdida |
 | Multicoloured-Serf | Nuggets vs. Pacers: O/U 229.5 | Under 229.5 | 2.00 (50¢) | $48,665 | — | ⏳ Pendiente |
-| kkookkoo | Alabama vs. LSU | LSU | 1.64 (61¢) | $26,000 | — | ⏳ Pendiente |
-| Flaznorp | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.09 (92¢) | $45,502 | — | ⏳ Pendiente |
+| kkookkoo | Alabama vs. LSU | LSU | 1.64 (61¢) | $26,000 | -$26,000 | ❌ Perdida |
+| Flaznorp | Will Paris Saint-Germain FC win on 2026-11-07? | Yes | 1.09 (92¢) | $45,502 | +$3,957 | ✅ Ganada |
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.09 (92¢) | $37,621 | — | ⏳ Pendiente |
 | alohaa | Will US Sassuolo Calcio win on 2026-11-07? | Yes | 1.16 (86¢) | $42,984 | -$42,984 | ❌ Perdida |
 | thetesterguy | Inter Miami CF vs. Charlotte FC: O/U 1.5 | Over 1.5 | 1.06 (94¢) | $36,784 | +$2,348 | ✅ Ganada |
 | Sassy-Bucket | Vanderbilt vs. Mississippi State | Mississippi State | 1.72 (58¢) | $80,692 | — | ⏳ Pendiente |
 | 999585 | Cincinnati vs. Houston | Houston | 1.06 (94¢) | $180,044 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Alabama vs. LSU | LSU | 1.52 (66¢) | $44,858 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Alabama vs. LSU | LSU | 1.52 (66¢) | $44,858 | -$44,858 | ❌ Perdida |
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.20 (83¢) | $157,700 | — | ⏳ Pendiente |
 | texastechbooster | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $42,106 | — | ⏳ Pendiente |
