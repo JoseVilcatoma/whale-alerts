@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:06:15 (hora de Perú)
+Actualizado: 2026-11-07 19:08:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7946**  ($450,500,642 en total)
+- Apuestas registradas: **7947**  ($450,534,137 en total)
 - Resueltas: **7850** — 4795 ganadas / 3055 perdidas (**61%** de acierto)
-- Pendientes: 73
+- Pendientes: 74
 - Apostadores distintos: 709
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 9 | 64% | $57,577,238 | +$713,914 |
-| Sassy-Bucket | 110 | 108 | 6 | 50% | $15,098,860 | -$1,391,974 |
+| Sassy-Bucket | 110 | 108 | 7 | 50% | $15,132,355 | -$1,391,974 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Iowa vs. Northwestern | Northwestern | 2.38 (42¢) | $33,495 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.03 (33¢) | $82,457 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.33 (30¢) | $25,143 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | ferrariChampions2026 | Alabama vs. LSU | LSU | 1.52 (66¢) | $44,858 | — | ⏳ Pendiente |
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.20 (83¢) | $157,700 | — | ⏳ Pendiente |
 | texastechbooster | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $42,106 | — | ⏳ Pendiente |
-| Zombie77 | Will Real Madrid CF win on 2026-11-07? | Yes | 1.11 (90¢) | $29,219 | — | ⏳ Pendiente |

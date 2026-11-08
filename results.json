@@ -119423,5 +119423,20 @@
     "status": "pending",
     "ultimo_fill": 1794096207,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16025,
+    "timestamp": 1794096377,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-iowa-nw-2026-11-07",
+    "title": "Iowa vs. Northwestern",
+    "outcome": "Northwestern",
+    "side": "BUY",
+    "usd": 33495.2604,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1794096377,
+    "fills": 1
   }
 ]
