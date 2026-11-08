@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:03:56 (hora de Perú)
+Actualizado: 2026-11-08 16:06:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8100**  ($459,284,433 en total)
+- Apuestas registradas: **8101**  ($459,332,928 en total)
 - Resueltas: **8028** — 4915 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Pendientes: 50
 - Apostadores distintos: 716
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 43 | 27 | 1 | 61% | $4,940,755 | +$609,345 |
+| maz26 | 43 | 27 | 2 | 61% | $4,989,250 | +$609,345 |
 | Kch-Temp | 48 | 15 | 5 | 76% | $4,753,015 | +$2,122,966 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Packers vs. Patriots: O/U 44.5 | Under 44.5 | 2.04 (49¢) | $48,495 | — | ⏳ Pendiente |
 | milkteaboba | Texans vs. Chargers | Texans | 1.52 (66¢) | $36,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Saints | Saints | 1.14 (88¢) | $206,202 | — | ⏳ Pendiente |
 | 0F62 | Rams vs. Commanders | Rams | 1.08 (93¢) | $47,312 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | MigRodr | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.85 (54¢) | $55,555 | +$47,325 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.17 (46¢) | $92,000 | -$92,000 | ❌ Perdida |
 | nb1985 | Will Chelsea FC win on 2026-11-08? | No | 1.75 (57¢) | $50,000 | +$37,719 | ✅ Ganada |
-| TheOpportunist | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $37,920 | -$37,920 | ❌ Perdida |
