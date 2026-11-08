@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:05:19 (hora de Perú)
+Actualizado: 2026-11-07 20:07:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **7964**  ($451,326,199 en total)
-- Resueltas: **7880** — 4812 ganadas / 3068 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Resueltas: **7883** — 4815 ganadas / 3068 perdidas (**61%** de acierto)
+- Pendientes: 58
 - Apostadores distintos: 710
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,979,262** sobre $447,185,990 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,285** sobre $777,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,922,967** sobre $447,322,754 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,161** sobre $777,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -119,13 +119,13 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 | Dessssa | Devils vs. Islanders | Islanders | 2.38 (42¢) | $32,548 | — | ⏳ Pendiente |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.37 (73¢) | $68,214 | — | ⏳ Pendiente |
 | thetesterguy | FC Cincinnati vs. Nashville SC: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $38,669 | +$7,920 | ✅ Ganada |
-| SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.45 (69¢) | $27,600 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $27,936 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Kentucky vs. Tennessee | Tennessee | 1.52 (66¢) | $33,046 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.39 (72¢) | $35,461 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.39 (72¢) | $35,461 | +$13,790 | ✅ Ganada |
 | ferrariChampions2026 | Sharks vs. Stars | Stars | 1.37 (73¢) | $33,181 | — | ⏳ Pendiente |
 | stuttig | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $61,075 | +$22,590 | ✅ Ganada |
-| heyjason | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.41 (71¢) | $73,704 | — | ⏳ Pendiente |
+| heyjason | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.41 (71¢) | $73,704 | +$30,104 | ✅ Ganada |
 | ch27er | Nuggets vs. Pacers | Nuggets | 1.37 (73¢) | $35,000 | +$12,945 | ✅ Ganada |
 | mooseborzoi | Spread: Nuggets (-7.5) | Nuggets | 1.92 (52¢) | $130,000 | +$120,000 | ✅ Ganada |
 | SineNooneEI | Rangers vs. Kraken | Rangers | 1.75 (57¢) | $39,203 | +$29,574 | ✅ Ganada |
