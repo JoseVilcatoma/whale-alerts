@@ -121555,5 +121555,20 @@
     "status": "pending",
     "ultimo_fill": 1794167510,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16347,
+    "timestamp": 1794167827,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "lal-mad-bar-2026-11-08-bar",
+    "title": "Will FC Barcelona win on 2026-11-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 182144.8972,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794167827,
+    "fills": 1
   }
 ]

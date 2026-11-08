@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 14:55:14 (hora de Perú)
+Actualizado: 2026-11-08 14:57:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8088**  ($458,196,002 en total)
+- Apuestas registradas: **8089**  ($458,378,147 en total)
 - Resueltas: **8026** — 4913 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 715
 
 ### Balance
@@ -30,7 +30,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 128 | 67 | 5 | 66% | $8,601,476 | +$519,583 |
-| totoro3miyazaki | 38 | 29 | 1 | 57% | $8,325,780 | -$831,864 |
+| totoro3miyazaki | 38 | 29 | 2 | 57% | $8,507,925 | -$831,864 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| totoro3miyazaki | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $182,145 | — | ⏳ Pendiente |
 | 999585 | Jets vs. Chiefs | Chiefs | 1.14 (88¢) | $226,861 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Giants vs. Eagles | Eagles | 1.89 (53¢) | $65,021 | — | ⏳ Pendiente |
 | EdZachary | Jets vs. Chiefs | Jets | 2.13 (47¢) | $34,300 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | ferrariChampions2026 | Giants vs. Eagles | Giants | 1.67 (60¢) | $26,415 | — | ⏳ Pendiente |
 | SebastianAde1996 | Will Real Betis Balompié win on 2026-11-08? | Yes | 1.82 (55¢) | $40,000 | +$32,727 | ✅ Ganada |
 | Kch-Temp | Spread: Saints (-3.5) | Saints | 2.00 (50¢) | $51,207 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will Chelsea FC win on 2026-11-08? | No | 1.96 (51¢) | $89,852 | +$86,328 | ✅ Ganada |
