@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:44:41 (hora de Perú)
+Actualizado: 2026-11-07 23:46:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8010**  ($453,573,432 en total)
-- Resueltas: **7951** — 4866 ganadas / 3085 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **7963** — 4872 ganadas / 3091 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,597,570** sobre $451,061,500 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,801** sobre $784,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,578,910** sobre $451,540,243 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,684** sobre $785,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,9 +25,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 3 | 64% | $57,652,868 | +$573,763 |
-| Sassy-Bucket | 115 | 112 | 5 | 51% | $15,424,446 | -$1,418,748 |
-| googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
-| Lakersfan111 | 150 | 78 | 5 | 66% | $11,348,378 | +$688,110 |
+| Sassy-Bucket | 116 | 113 | 3 | 51% | $15,424,446 | -$1,336,434 |
+| googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
+| Lakersfan111 | 151 | 79 | 3 | 66% | $11,348,378 | +$671,384 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 127 | 67 | 1 | 65% | $8,454,565 | +$502,560 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 56 | 24 | 2 | 70% | $3,066,059 | -$144,405 |
 | 999585 | 27 | 3 | 0 | 90% | $2,962,302 | -$37,586 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
-| fantasy7788 | 25 | 18 | 6 | 58% | $2,767,534 | +$365,649 |
+| fantasy7788 | 27 | 19 | 3 | 59% | $2,767,534 | +$372,806 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | surfandturf | UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.54 (65¢) | $58,364 | -$58,364 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
-| fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | — | ⏳ Pendiente |
+| fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | +$58,235 | ✅ Ganada |
 | Sassy-Bucket | Wyoming vs. UNLV | UNLV | 1.64 (61¢) | $33,557 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.49 (67¢) | $27,155 | +$13,375 | ✅ Ganada |
 | surfandturf | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.94 (34¢) | $33,767 | -$33,767 | ❌ Perdida |
@@ -94,34 +94,34 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | -$35,508 | ❌ Perdida |
 | krdlox | UFC Fight Night: Davey Grant vs. Elijah Smith (Bantamweight, Main Card) | Elijah Smith | 1.32 (76¢) | $28,971 | +$9,149 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Michigan State vs. Michigan | Michigan | 1.69 (59¢) | $28,319 | -$28,319 | ❌ Perdida |
-| fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | — | ⏳ Pendiente |
+| fantasy7788 | Rockets vs. Suns | Suns | 1.41 (71¢) | $37,609 | +$15,361 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,502 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.09 (92¢) | $25,354 | +$2,205 | ✅ Ganada |
 | justwins | Fresno State vs. Utah State | Fresno State | 2.00 (50¢) | $28,190 | — | ⏳ Pendiente |
 | ethanaz | Miami (FL) vs. Notre Dame | Notre Dame | 1.11 (90¢) | $129,244 | +$14,360 | ✅ Ganada |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $163,818 | +$20,247 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Billy Elekana vs. Lucas Fernando (Light Heavyweight, Main Card) | Lucas Fernando | 1.37 (73¢) | $32,961 | +$12,191 | ✅ Ganada |
-| fantasy7788 | Rockets vs. Suns | Rockets | 1.33 (75¢) | $66,440 | — | ⏳ Pendiente |
+| fantasy7788 | Rockets vs. Suns | Rockets | 1.33 (75¢) | $66,440 | -$66,440 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.52 (66¢) | $39,928 | — | ⏳ Pendiente |
 | FlamePyro | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $26,789 | +$3,311 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | — | ⏳ Pendiente |
-| Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | — | ⏳ Pendiente |
+| Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | +$109,224 | ✅ Ganada |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | +$7,245 | ✅ Ganada |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | +$8,654 | ✅ Ganada |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.37 (73¢) | $32,818 | +$12,138 | ✅ Ganada |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.25 (80¢) | $64,808 | +$16,202 | ✅ Ganada |
-| googleplay | Spread: Warriors (-7.5) | Warriors | 1.96 (51¢) | $49,348 | — | ⏳ Pendiente |
+| googleplay | Spread: Warriors (-7.5) | Warriors | 1.96 (51¢) | $49,348 | -$49,348 | ❌ Perdida |
 | omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $54,161 | — | ⏳ Pendiente |
-| Donkey14 | Spread: Warriors (-7.5) | Magic | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
-| RJW1 | Spread: Warriors (-7.5) | Warriors | 2.00 (50¢) | $41,025 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Warriors (-7.5) | Magic | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
+| RJW1 | Spread: Warriors (-7.5) | Warriors | 2.00 (50¢) | $41,025 | -$41,025 | ❌ Perdida |
 | betmixpromax | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $25,763 | — | ⏳ Pendiente |
-| Sassy-Bucket | Magic vs. Warriors | Magic | 3.70 (27¢) | $26,911 | — | ⏳ Pendiente |
+| Sassy-Bucket | Magic vs. Warriors | Magic | 3.70 (27¢) | $26,911 | -$26,911 | ❌ Perdida |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.28 (78¢) | $78,000 | +$22,000 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $37,484 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Magic vs. Warriors | Warriors | 1.37 (73¢) | $56,125 | +$20,759 | ✅ Ganada |
+| robloxgamblemaster-2008-10-18 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $37,484 | -$37,484 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 2.17 (46¢) | $42,668 | -$42,668 | ❌ Perdida |
 | SineNooneEI | UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims) | Marcos Degli | 1.43 (70¢) | $48,889 | -$48,889 | ❌ Perdida |
-| justwins | Spread: Liberty (-14.5) | Liberty | 2.00 (50¢) | $32,738 | — | ⏳ Pendiente |
+| justwins | Spread: Liberty (-14.5) | Liberty | 2.00 (50¢) | $32,738 | +$32,738 | ✅ Ganada |
 | SineNooneEI | Knicks vs. Cavaliers | Knicks | 1.56 (64¢) | $93,072 | +$52,353 | ✅ Ganada |
 | nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | +$7,082 | ✅ Ganada |
 | randomrandomrandom | Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5) | MOUZ | 1.52 (66¢) | $47,605 | — | ⏳ Pendiente |
