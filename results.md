@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 07:43:30 (hora de Perú)
+Actualizado: 2026-11-08 07:45:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8026**  ($454,541,207 en total)
+- Apuestas registradas: **8027**  ($454,571,138 en total)
 - Resueltas: **7984** — 4888 ganadas / 3096 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 713
 
 ### Balance
@@ -58,9 +58,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | fantasy7788 | 30 | 19 | 0 | 61% | $2,767,534 | +$505,637 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
+| juice-fruit | 28 | 17 | 1 | 62% | $2,604,086 | +$264,795 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| juice-fruit | 28 | 17 | 0 | 62% | $2,574,155 | +$264,795 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Will SSC Napoli win on 2026-11-08? | No | 1.52 (66¢) | $29,931 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Jets vs. Chiefs | Chiefs | 1.23 (81¢) | $33,348 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Commanders | Rams | 1.49 (67¢) | $33,217 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Chelsea FC win on 2026-11-08? | No | 2.00 (50¢) | $30,558 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 | omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $54,161 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Warriors (-7.5) | Magic | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | RJW1 | Spread: Warriors (-7.5) | Warriors | 2.00 (50¢) | $41,025 | -$41,025 | ❌ Perdida |
-| betmixpromax | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $25,763 | — | ⏳ Pendiente |
