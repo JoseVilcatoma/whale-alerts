@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:14:17 (hora de Perú)
+Actualizado: 2026-11-08 16:16:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8101**  ($459,332,928 en total)
+- Apuestas registradas: **8102**  ($459,363,143 en total)
 - Resueltas: **8031** — 4916 ganadas / 3115 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| EdZachary | Spread: Patriots (-3.5) | Patriots | 2.13 (47¢) | $30,216 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Patriots: O/U 44.5 | Under 44.5 | 2.04 (49¢) | $48,495 | — | ⏳ Pendiente |
 | milkteaboba | Texans vs. Chargers | Texans | 1.52 (66¢) | $36,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Saints | Saints | 1.14 (88¢) | $206,202 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | +$8,240 | ✅ Ganada |
 | MigRodr | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.85 (54¢) | $55,555 | +$47,325 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.17 (46¢) | $92,000 | -$92,000 | ❌ Perdida |
-| nb1985 | Will Chelsea FC win on 2026-11-08? | No | 1.75 (57¢) | $50,000 | +$37,719 | ✅ Ganada |
