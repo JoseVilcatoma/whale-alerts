@@ -118940,7 +118940,7 @@
     "side": "BUY",
     "usd": 33045.55,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794089498,
     "fills": 1
   },
@@ -118955,7 +118955,7 @@
     "side": "BUY",
     "usd": 27936.0246,
     "odds_at_bet": 66,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794089501,
     "fills": 1
   },
@@ -119165,7 +119165,7 @@
     "side": "BUY",
     "usd": 26166.9984,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794093035,
     "fills": 1
   },
@@ -119947,7 +119947,7 @@
     "side": "BUY",
     "usd": 32961.3396,
     "odds_at_bet": 73,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794104453,
     "fills": 1
   },
@@ -120129,6 +120129,21 @@
     "odds_at_bet": 36,
     "status": "pending",
     "ultimo_fill": 1794106700,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16131,
+    "timestamp": 1794106789,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-wvir-txtech-2026-11-07",
+    "title": "West Virginia vs. Texas Tech",
+    "outcome": "Texas Tech",
+    "side": "BUY",
+    "usd": 34188.462999999996,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1794106789,
     "fills": 1
   }
 ]
