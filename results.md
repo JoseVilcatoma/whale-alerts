@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:48:28 (hora de Perú)
+Actualizado: 2026-11-07 19:50:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7959**  ($451,108,294 en total)
-- Resueltas: **7868** — 4805 ganadas / 3063 perdidas (**61%** de acierto)
-- Pendientes: 68
+- Apuestas registradas: **7961**  ($451,189,922 en total)
+- Resueltas: **7872** — 4806 ganadas / 3066 perdidas (**61%** de acierto)
+- Pendientes: 66
 - Apostadores distintos: 710
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,847,332** sobre $446,408,516 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,199** sobre $776,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,087,808** sobre $446,698,874 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,464** sobre $776,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -36,7 +36,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| ethanaz | 73 | 31 | 1 | 70% | $6,274,371 | -$147,561 |
+| ethanaz | 73 | 32 | 0 | 70% | $6,274,371 | -$205,686 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
-| 999585 | 24 | 1 | 2 | 96% | $2,793,858 | +$139,632 |
+| 999585 | 24 | 3 | 0 | 89% | $2,793,858 | -$55,690 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SineNooneEI | UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims) | Marcos Degli | 1.43 (70¢) | $48,889 | — | ⏳ Pendiente |
+| justwins | Spread: Liberty (-14.5) | Liberty | 2.00 (50¢) | $32,738 | — | ⏳ Pendiente |
 | SineNooneEI | Knicks vs. Cavaliers | Knicks | 1.56 (64¢) | $93,072 | — | ⏳ Pendiente |
 | nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | — | ⏳ Pendiente |
 | randomrandomrandom | Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5) | MOUZ | 1.52 (66¢) | $47,605 | — | ⏳ Pendiente |
@@ -100,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 | 999585 | Alabama vs. LSU | Alabama | 1.85 (54¢) | $26,257 | +$22,367 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Alabama vs. LSU | LSU | 2.17 (46¢) | $138,000 | -$138,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cincinnati vs. Houston | Houston | 1.18 (85¢) | $162,395 | +$28,658 | ✅ Ganada |
-| ethanaz | Oregon vs. Ohio State | Ohio State | 4.35 (23¢) | $58,125 | — | ⏳ Pendiente |
+| ethanaz | Oregon vs. Ohio State | Ohio State | 4.35 (23¢) | $58,125 | -$58,125 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Tennessee (-6.5) | Kentucky | 1.96 (51¢) | $26,167 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $31,600 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.27 (79¢) | $401,369 | — | ⏳ Pendiente |
@@ -108,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 | ethanaz | Alabama vs. LSU | LSU | 1.52 (66¢) | $48,953 | -$48,953 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.39 (72¢) | $139,814 | — | ⏳ Pendiente |
-| 3648393489047 | Oregon vs. Ohio State | Oregon | 1.35 (74¢) | $36,913 | — | ⏳ Pendiente |
+| 3648393489047 | Oregon vs. Ohio State | Oregon | 1.35 (74¢) | $36,913 | +$12,969 | ✅ Ganada |
 | justwins | Spread: UNLV (-3.5) | UNLV | 2.08 (48¢) | $33,331 | — | ⏳ Pendiente |
 | justwins | Spread: Hawai'i (-7.5) | Hawai'i | 2.04 (49¢) | $31,712 | — | ⏳ Pendiente |
 | Dessssa | Devils vs. Islanders | Islanders | 2.38 (42¢) | $32,548 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 710 en total)_
 | Thunderous-Authoritarian-Snarl | Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5) | Gen.G | 2.86 (35¢) | $26,923 | — | ⏳ Pendiente |
 | nigiri99 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $82,400 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Rockets vs. Suns | Rockets | 1.41 (71¢) | $26,450 | — | ⏳ Pendiente |
-| googleplay | Nuggets vs. Pacers: O/U 229.5 | Over 229.5 | 2.00 (50¢) | $57,480 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.27 (79¢) | $72,146 | — | ⏳ Pendiente |
