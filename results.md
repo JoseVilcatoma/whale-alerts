@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 07:55:48 (hora de Perú)
+Actualizado: 2026-11-08 07:57:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8031**  ($454,780,347 en total)
+- Apuestas registradas: **8032**  ($454,806,763 en total)
 - Resueltas: **7985** — 4888 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 713
 
 ### Balance
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 1 | 66% | $11,434,907 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 128 | 67 | 3 | 66% | $8,549,281 | +$519,583 |
+| ferrariChampions2026 | 128 | 67 | 4 | 66% | $8,575,696 | +$519,583 |
 | 3edmond.dantes | 34 | 24 | 1 | 59% | $8,037,570 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ferrariChampions2026 | Giants vs. Eagles | Giants | 1.67 (60¢) | $26,415 | — | ⏳ Pendiente |
 | SebastianAde1996 | Will Real Betis Balompié win on 2026-11-08? | Yes | 1.82 (55¢) | $40,000 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Saints (-3.5) | Saints | 2.00 (50¢) | $51,207 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Chelsea FC win on 2026-11-08? | No | 1.96 (51¢) | $89,852 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 713 en total)_
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | +$7,245 | ✅ Ganada |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | +$8,654 | ✅ Ganada |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.37 (73¢) | $32,818 | +$12,138 | ✅ Ganada |
-| ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.25 (80¢) | $64,808 | +$16,202 | ✅ Ganada |
