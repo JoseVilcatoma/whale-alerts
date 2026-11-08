@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:28:40 (hora de Perú)
+Actualizado: 2026-11-08 11:30:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8070**  ($457,007,332 en total)
-- Resueltas: **8003** — 4900 ganadas / 3103 perdidas (**61%** de acierto)
+- Apuestas registradas: **8071**  ($457,144,997 en total)
+- Resueltas: **8004** — 4900 ganadas / 3104 perdidas (**61%** de acierto)
 - Pendientes: 44
 - Apostadores distintos: 714
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,550,148** sobre $453,572,443 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,375** sobre $789,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,575,148** sobre $453,597,443 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,475** sobre $789,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 317 | 4 | 64% | $58,166,387 | +$259,455 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 563 | 317 | 5 | 64% | $58,206,054 | +$259,455 |
 | Sassy-Bucket | 116 | 114 | 2 | 50% | $15,424,446 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 1 | 66% | $11,434,907 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 128 | 67 | 5 | 66% | $8,601,476 | +$519,583 |
-| totoro3miyazaki | 38 | 25 | 5 | 60% | $8,227,781 | -$451,978 |
+| totoro3miyazaki | 38 | 25 | 5 | 60% | $8,325,780 | -$451,978 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $39,666 | — | ⏳ Pendiente |
 | Siddhartha1 | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $97,999 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $195,998 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | — | ⏳ Pendiente |
 | yabanci | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $56,100 | — | ⏳ Pendiente |
@@ -90,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | JambonMogettes | Giants vs. Eagles: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $49,211 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Patriots | Patriots | 1.61 (62¢) | $25,780 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.09 (92¢) | $69,764 | +$6,066 | ✅ Ganada |
-| ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
+| ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
 | Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | +$4,820 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | West Virginia vs. Texas Tech | Texas Tech | 1.47 (68¢) | $102,000 | +$48,000 | ✅ Ganada |
 | hovistomaradona | Will Bayer 04 Leverkusen win on 2026-11-08? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $37,225 | — | ⏳ Pendiente |
-| Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
