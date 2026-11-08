@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 08:26:17 (hora de Perú)
+Actualizado: 2026-11-08 08:28:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8040**  ($455,336,075 en total)
+- Apuestas registradas: **8041**  ($455,373,995 en total)
 - Resueltas: **7985** — 4888 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 714
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TheOpportunist | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $37,920 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Giants (-2.5) | Eagles | 2.17 (46¢) | $38,475 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Giants (-2.5) | Giants | 1.89 (53¢) | $55,025 | — | ⏳ Pendiente |
 | AnonymousUsername | Giants vs. Eagles | Giants | 1.67 (60¢) | $29,693 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | justwins | Fresno State vs. Utah State | Fresno State | 2.00 (50¢) | $28,190 | -$28,190 | ❌ Perdida |
 | ethanaz | Miami (FL) vs. Notre Dame | Notre Dame | 1.11 (90¢) | $129,244 | +$14,360 | ✅ Ganada |
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $163,818 | +$20,247 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Billy Elekana vs. Lucas Fernando (Light Heavyweight, Main Card) | Lucas Fernando | 1.37 (73¢) | $32,961 | +$12,191 | ✅ Ganada |
