@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 22:42:50 (hora de Perú)
+Actualizado: 2026-11-07 22:44:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8001**  ($453,242,421 en total)
-- Resueltas: **7917** — 4839 ganadas / 3078 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Resueltas: **7919** — 4841 ganadas / 3078 perdidas (**61%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,923,820** sobre $449,257,555 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$7,167** sobre $781,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,848,678** sobre $449,389,429 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$7,052** sobre $781,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -113,10 +113,10 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Thunder (-11.5) | Wizards | 2.17 (46¢) | $42,668 | -$42,668 | ❌ Perdida |
 | SineNooneEI | UFC Fight Night: Mitch Raposo vs. Marcos Degli (Flyweight, Prelims) | Marcos Degli | 1.43 (70¢) | $48,889 | -$48,889 | ❌ Perdida |
 | justwins | Spread: Liberty (-14.5) | Liberty | 2.00 (50¢) | $32,738 | — | ⏳ Pendiente |
-| SineNooneEI | Knicks vs. Cavaliers | Knicks | 1.56 (64¢) | $93,072 | — | ⏳ Pendiente |
+| SineNooneEI | Knicks vs. Cavaliers | Knicks | 1.56 (64¢) | $93,072 | +$52,353 | ✅ Ganada |
 | nigiri99 | Wizards vs. Thunder | Thunder | 1.20 (83¢) | $34,574 | +$7,082 | ✅ Ganada |
 | randomrandomrandom | Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5) | MOUZ | 1.52 (66¢) | $47,605 | — | ⏳ Pendiente |
-| Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | — | ⏳ Pendiente |
+| Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | +$22,789 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | — | ⏳ Pendiente |
 | yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | -$33,604 | ❌ Perdida |
