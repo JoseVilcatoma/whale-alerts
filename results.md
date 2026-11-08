@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:46:56 (hora de Perú)
+Actualizado: 2026-11-08 18:49:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8149**  ($462,813,525 en total)
-- Resueltas: **8066** — 4940 ganadas / 3126 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Resueltas: **8067** — 4940 ganadas / 3127 perdidas (**61%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,838,746** sobre $457,824,227 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,216** sobre $795,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,887,242** sobre $457,872,722 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,316** sobre $795,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 44 | 27 | 2 | 62% | $5,095,719 | +$670,575 |
+| maz26 | 44 | 28 | 1 | 61% | $5,095,719 | +$622,080 |
 | Kch-Temp | 48 | 18 | 2 | 73% | $4,753,015 | +$1,995,062 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | Sassy-Bucket | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $252,925 | — | ⏳ Pendiente |
 | Donkey14 | Packers vs. Patriots | Patriots | 1.64 (61¢) | $66,426 | — | ⏳ Pendiente |
 | EdZachary | Spread: Patriots (-3.5) | Patriots | 2.13 (47¢) | $30,216 | — | ⏳ Pendiente |
-| gmpm2 | Packers vs. Patriots: O/U 44.5 | Under 44.5 | 2.04 (49¢) | $48,495 | — | ⏳ Pendiente |
+| gmpm2 | Packers vs. Patriots: O/U 44.5 | Under 44.5 | 2.04 (49¢) | $48,495 | -$48,495 | ❌ Perdida |
 | milkteaboba | Texans vs. Chargers | Texans | 1.52 (66¢) | $36,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Saints | Saints | 1.14 (88¢) | $206,202 | +$28,119 | ✅ Ganada |
 | 0F62 | Rams vs. Commanders | Rams | 1.08 (93¢) | $47,312 | +$3,561 | ✅ Ganada |
