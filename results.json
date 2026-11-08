@@ -120067,7 +120067,7 @@
     "side": "BUY",
     "usd": 28971.269999000004,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794105964,
     "fills": 1
   },
@@ -120189,6 +120189,21 @@
     "odds_at_bet": 67,
     "status": "pending",
     "ultimo_fill": 1794107449,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16135,
+    "timestamp": 1794107654,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-wyom-unlv-2026-11-07",
+    "title": "Wyoming vs. UNLV",
+    "outcome": "UNLV",
+    "side": "BUY",
+    "usd": 33556.960100000004,
+    "odds_at_bet": 61,
+    "status": "pending",
+    "ultimo_fill": 1794107654,
     "fills": 1
   }
 ]
