@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:39:06 (hora de Perú)
+Actualizado: 2026-11-07 20:41:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7974**  ($451,762,156 en total)
+- Apuestas registradas: **7974**  ($451,806,919 en total)
 - Resueltas: **7883** — 4815 ganadas / 3068 perdidas (**61%** de acierto)
 - Pendientes: 68
 - Apostadores distintos: 711
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 13 | 10 | 6 | 57% | $3,108,686 | -$1,094,385 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
-| 999585 | 24 | 3 | 1 | 89% | $2,826,981 | -$55,690 |
+| 999585 | 24 | 3 | 1 | 89% | $2,871,744 | -$55,690 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $33,123 | — | ⏳ Pendiente |
+| 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | — | ⏳ Pendiente |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.37 (73¢) | $32,818 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.25 (80¢) | $64,808 | — | ⏳ Pendiente |
 | googleplay | Spread: Warriors (-7.5) | Warriors | 1.96 (51¢) | $49,348 | — | ⏳ Pendiente |
