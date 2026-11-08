@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:14:10 (hora de Perú)
+Actualizado: 2026-11-08 17:16:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8120**  ($460,542,648 en total)
-- Resueltas: **8057** — 4935 ganadas / 3122 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Apuestas registradas: **8124**  ($461,007,702 en total)
+- Resueltas: **8060** — 4936 ganadas / 3124 perdidas (**61%** de acierto)
+- Pendientes: 41
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,438,172** sobre $457,154,868 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$5,908** sobre $794,800 (ROI **-0.7%**)
+- **Resultado de los apostadores: -$3,753,762** sobre $457,514,804 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,108** sobre $795,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 318 | 5 | 64% | $58,598,400 | +$274,696 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 319 | 5 | 64% | $58,630,446 | +$222,552 |
 | Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 131 | 67 | 4 | 66% | $8,663,275 | +$561,376 |
-| totoro3miyazaki | 38 | 29 | 2 | 57% | $8,597,784 | -$831,864 |
+| totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
@@ -49,10 +49,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
+| Thunderous-Authoritarian-Snarl | 19 | 11 | 2 | 63% | $3,610,402 | -$926,306 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 20 | 12 | 1 | 62% | $3,381,840 | -$587,782 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Thunderous-Authoritarian-Snarl | 19 | 11 | 1 | 63% | $3,241,336 | -$926,306 |
 | 0F62 | 37 | 8 | 0 | 82% | $3,155,658 | -$345,619 |
 | TAIWANNUMBERONE | 59 | 24 | 0 | 71% | $3,098,330 | -$107,564 |
 | fantasy7788 | 30 | 19 | 1 | 61% | $2,807,534 | +$505,637 |
@@ -71,10 +71,14 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.33 (43¢) | $32,045 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.27 (44¢) | $32,000 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.75 (57¢) | $369,066 | — | ⏳ Pendiente |
+| PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.79 (56¢) | $31,942 | — | ⏳ Pendiente |
 | zb8 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $29,636 | — | ⏳ Pendiente |
 | VPenguin | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.13 (47¢) | $30,431 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $94,072 | — | ⏳ Pendiente |
-| KateBollinger | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.17 (46¢) | $35,788 | — | ⏳ Pendiente |
+| KateBollinger | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.17 (46¢) | $35,788 | +$8,558 | 💰 Vendida antes |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $49,972 | — | ⏳ Pendiente |
@@ -101,8 +105,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
 | big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $272,003 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | -$52,145 | ❌ Perdida |
+| totoro3miyazaki | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $272,003 | -$272,003 | ❌ Perdida |
 | 999585 | Jets vs. Chiefs | Chiefs | 1.14 (88¢) | $226,861 | +$5,156 | 💰 Vendida antes |
 | Multicoloured-Serf | Giants vs. Eagles | Eagles | 1.89 (53¢) | $65,021 | -$65,021 | ❌ Perdida |
 | EdZachary | Jets vs. Chiefs | Jets | 2.13 (47¢) | $34,300 | -$34,300 | ❌ Perdida |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | -$87,111 | ❌ Perdida |
 | yabanci | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $56,100 | +$53,900 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.16 (86¢) | $49,212 | +$8,011 | ✅ Ganada |
-| milkteaboba | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $37,202 | +$34,340 | ✅ Ganada |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.08 (48¢) | $58,667 | -$58,667 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Manchester United FC vs. Aston Villa FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $50,675 | +$69,979 | ✅ Ganada |
-| gmpm2 | Lions vs. Dolphins | Lions | 1.35 (74¢) | $174,270 | +$61,230 | ✅ Ganada |
