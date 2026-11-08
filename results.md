@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 00:32:38 (hora de Perú)
+Actualizado: 2026-11-08 00:34:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8012**  ($453,645,374 en total)
+- Apuestas registradas: **8013**  ($453,672,374 en total)
 - Resueltas: **7965** — 4874 ganadas / 3091 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 712
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hovistomaradona | Will Bayer 04 Leverkusen win on 2026-11-08? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $37,225 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | +$22,789 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | +$11,101 | ✅ Ganada |
 | yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | -$33,604 | ❌ Perdida |
