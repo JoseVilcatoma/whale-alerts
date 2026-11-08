@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:06:00 (hora de Perú)
+Actualizado: 2026-11-08 16:08:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8101**  ($459,332,928 en total)
-- Resueltas: **8028** — 4915 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **8029** — 4915 ganadas / 3114 perdidas (**61%** de acierto)
+- Pendientes: 49
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,695,801** sobre $455,287,198 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,698,194** sobre $455,504,943 apostados (ROI **-0.8%**)
 - Copiando $100 fijo en cada una: **-$6,250** sobre $792,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
-| 999585 | 29 | 3 | 3 | 91% | $3,754,031 | -$12,490 |
+| 999585 | 29 | 4 | 2 | 88% | $3,754,031 | -$14,883 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | milkteaboba | Texans vs. Chargers | Texans | 1.52 (66¢) | $36,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Saints | Saints | 1.14 (88¢) | $206,202 | — | ⏳ Pendiente |
 | 0F62 | Rams vs. Commanders | Rams | 1.08 (93¢) | $47,312 | — | ⏳ Pendiente |
-| 999585 | Rams vs. Commanders | Rams | 1.10 (91¢) | $217,744 | — | ⏳ Pendiente |
+| 999585 | Rams vs. Commanders | Rams | 1.10 (91¢) | $217,744 | -$2,393 | 💰 Vendida antes |
 | TAIWANNUMBERONE | Browns vs. Saints | Saints | 1.39 (72¢) | $32,271 | — | ⏳ Pendiente |
 | purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | — | ⏳ Pendiente |
 | SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
