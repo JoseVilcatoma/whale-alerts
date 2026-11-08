@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:39:13 (hora de Perú)
+Actualizado: 2026-11-08 16:41:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8108**  ($459,919,689 en total)
-- Resueltas: **8045** — 4925 ganadas / 3120 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Resueltas: **8047** — 4926 ganadas / 3121 perdidas (**61%** de acierto)
+- Pendientes: 38
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,620,479** sobre $456,407,219 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,299** sobre $793,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,655,090** sobre $456,493,721 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,310** sobre $793,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 565 | 317 | 7 | 64% | $58,598,400 | +$305,577 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 565 | 318 | 6 | 64% | $58,598,400 | +$246,578 |
 | Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | EdZachary | Jets vs. Chiefs | Jets | 2.13 (47¢) | $34,300 | -$34,300 | ❌ Perdida |
 | LinkE5 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.75 (57¢) | $44,333 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.33 (43¢) | $27,505 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-4.5) | Eagles | 1.69 (59¢) | $58,999 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-4.5) | Eagles | 1.69 (59¢) | $58,999 | -$58,999 | ❌ Perdida |
 | SuitableName | Spread: Lions (-6.5) | Dolphins | 2.00 (50¢) | $39,370 | -$39,370 | ❌ Perdida |
 | takeormake | Spread: Cowboys (-3.5) | Cowboys | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | 999585 | Browns vs. Saints | Saints | 1.47 (68¢) | $30,600 | — | ⏳ Pendiente |
@@ -129,5 +129,5 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | ferrariChampions2026 | Packers vs. Patriots | Patriots | 1.61 (62¢) | $25,780 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.09 (92¢) | $69,764 | +$6,066 | ✅ Ganada |
 | ch27er | Will Sunderland AFC win on 2026-11-08? | No | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
-| Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | — | ⏳ Pendiente |
+| Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | +$24,389 | ✅ Ganada |
 | 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | +$23,313 | ✅ Ganada |
