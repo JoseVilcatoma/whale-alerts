@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 00:09:43 (hora de Perú)
+Actualizado: 2026-11-08 00:11:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8011**  ($453,608,149 en total)
-- Resueltas: **7964** — 4873 ganadas / 3091 perdidas (**61%** de acierto)
+- Apuestas registradas: **8012**  ($453,645,374 en total)
+- Resueltas: **7965** — 4874 ganadas / 3091 perdidas (**61%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,561,886** sobre $451,573,289 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,633** sobre $785,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,541,023** sobre $451,602,101 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,561** sobre $785,800 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 56 | 24 | 2 | 70% | $3,066,059 | -$144,405 |
 | 999585 | 27 | 3 | 0 | 90% | $2,962,302 | -$37,586 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
-| fantasy7788 | 27 | 19 | 3 | 59% | $2,767,534 | +$372,806 |
+| fantasy7788 | 28 | 19 | 2 | 60% | $2,767,534 | +$393,670 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $37,225 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | — | ⏳ Pendiente |
 | Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | — | ⏳ Pendiente |
@@ -81,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | User1244322 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $29,333 | +$4,000 | ✅ Ganada |
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $63,000 | +$8,591 | ✅ Ganada |
 | surfandturf | UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.54 (65¢) | $58,364 | -$58,364 | ❌ Perdida |
-| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | +$20,864 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
 | fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | +$58,235 | ✅ Ganada |
 | Sassy-Bucket | Wyoming vs. UNLV | UNLV | 1.64 (61¢) | $33,557 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | +$11,101 | ✅ Ganada |
 | yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | -$33,604 | ❌ Perdida |
-| surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | +$46,107 | ✅ Ganada |
