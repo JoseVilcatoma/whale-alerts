@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 11:26:37 (hora de Perú)
+Actualizado: 2026-11-08 11:28:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8068**  ($456,867,733 en total)
-- Resueltas: **7999** — 4896 ganadas / 3103 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Apuestas registradas: **8070**  ($457,007,332 en total)
+- Resueltas: **8003** — 4900 ganadas / 3103 perdidas (**61%** de acierto)
+- Pendientes: 44
 - Apostadores distintos: 714
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,727,753** sobre $453,375,033 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,732** sobre $789,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,550,148** sobre $453,572,443 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,375** sobre $789,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -30,8 +30,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Lakersfan111 | 155 | 79 | 1 | 66% | $11,434,907 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 128 | 67 | 5 | 66% | $8,601,476 | +$519,583 |
-| totoro3miyazaki | 38 | 25 | 4 | 60% | $8,129,782 | -$451,978 |
-| 3edmond.dantes | 34 | 24 | 1 | 59% | $8,037,570 | -$1,850,423 |
+| totoro3miyazaki | 38 | 25 | 5 | 60% | $8,227,781 | -$451,978 |
+| 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Siddhartha1 | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
+| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $97,999 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | — | ⏳ Pendiente |
 | totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | — | ⏳ Pendiente |
 | yabanci | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $56,100 | — | ⏳ Pendiente |
@@ -97,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | — | ⏳ Pendiente |
 | MigRodr | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.85 (54¢) | $55,555 | +$47,325 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.17 (46¢) | $92,000 | -$92,000 | ❌ Perdida |
-| nb1985 | Will Chelsea FC win on 2026-11-08? | No | 1.75 (57¢) | $50,000 | — | ⏳ Pendiente |
+| nb1985 | Will Chelsea FC win on 2026-11-08? | No | 1.75 (57¢) | $50,000 | +$37,719 | ✅ Ganada |
 | TheOpportunist | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $37,920 | -$37,920 | ❌ Perdida |
 | Kch-Temp | Spread: Giants (-2.5) | Eagles | 2.17 (46¢) | $38,475 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Giants (-2.5) | Giants | 1.89 (53¢) | $55,025 | — | ⏳ Pendiente |
@@ -110,12 +112,12 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | ferrariChampions2026 | Giants vs. Eagles | Giants | 1.67 (60¢) | $26,415 | — | ⏳ Pendiente |
 | SebastianAde1996 | Will Real Betis Balompié win on 2026-11-08? | Yes | 1.82 (55¢) | $40,000 | +$32,727 | ✅ Ganada |
 | Kch-Temp | Spread: Saints (-3.5) | Saints | 2.00 (50¢) | $51,207 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will Chelsea FC win on 2026-11-08? | No | 1.96 (51¢) | $89,852 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Will Chelsea FC win on 2026-11-08? | No | 1.96 (51¢) | $89,852 | +$86,328 | ✅ Ganada |
 | ferrariChampions2026 | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $28,150 | — | ⏳ Pendiente |
 | juice-fruit | Will SSC Napoli win on 2026-11-08? | No | 1.52 (66¢) | $29,931 | +$15,419 | ✅ Ganada |
 | ferrariChampions2026 | Jets vs. Chiefs | Chiefs | 1.23 (81¢) | $33,348 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Commanders | Rams | 1.49 (67¢) | $33,217 | — | ⏳ Pendiente |
-| 3edmond.dantes | Will Chelsea FC win on 2026-11-08? | No | 2.00 (50¢) | $30,558 | — | ⏳ Pendiente |
+| 3edmond.dantes | Will Chelsea FC win on 2026-11-08? | No | 2.00 (50¢) | $30,558 | +$30,558 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bengals vs. Falcons | Falcons | 2.63 (38¢) | $67,563 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Bengals (-3.5) | Bengals | 2.08 (48¢) | $128,586 | — | ⏳ Pendiente |
 | yalibb | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.92 (52¢) | $26,000 | +$24,000 | ✅ Ganada |
@@ -124,10 +126,8 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Shandong Taishan FC win on 2026-11-08? | No | 1.64 (61¢) | $270,308 | -$270,308 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $38,578 | +$9,644 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: TheMongolz vs MOUZ (BO5) - IEM Beijing Playoffs | MOUZ | 1.25 (80¢) | $26,020 | +$6,505 | ✅ Ganada |
-| hovistomaradona | Will Chelsea FC win on 2026-11-08? | No | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
+| hovistomaradona | Will Chelsea FC win on 2026-11-08? | No | 1.85 (54¢) | $27,000 | +$23,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | West Virginia vs. Texas Tech | Texas Tech | 1.47 (68¢) | $102,000 | +$48,000 | ✅ Ganada |
 | hovistomaradona | Will Bayer 04 Leverkusen win on 2026-11-08? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $37,225 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
-| TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | +$11,646 | ✅ Ganada |
-| Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | +$11,900 | ✅ Ganada |
