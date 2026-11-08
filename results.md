@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:51:00 (hora de Perú)
+Actualizado: 2026-11-08 18:53:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8149**  ($462,813,525 en total)
+- Apuestas registradas: **8150**  ($462,861,525 en total)
 - Resueltas: **8067** — 4940 ganadas / 3127 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | — | ⏳ Pendiente |
 | robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | bigbeliever | Club Atlético de Madrid vs. FC Barcelona: O/U 5.5 | Under 5.5 | 1.25 (80¢) | $30,000 | +$7,500 | ✅ Ganada |
 | ferrariChampions2026 | Texans vs. Chargers | Texans | 1.49 (67¢) | $31,553 | — | ⏳ Pendiente |
 | big8betz | Will Club Atlético de Madrid win on 2026-11-08? | Yes | 2.08 (48¢) | $25,000 | -$25,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will FC Barcelona win on 2026-11-08? | No | 2.04 (49¢) | $52,145 | -$52,145 | ❌ Perdida |
