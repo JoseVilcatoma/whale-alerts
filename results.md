@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 10:54:53 (hora de Perú)
+Actualizado: 2026-11-08 10:56:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8058**  ($456,256,386 en total)
+- Apuestas registradas: **8060**  ($456,316,386 en total)
 - Resueltas: **7987** — 4890 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 714
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: O/U 3.5 | Over 3.5 | 1.06 (94¢) | $30,000 | — | ⏳ Pendiente |
+| LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: Both Teams to Score | Yes | 1.12 (89¢) | $30,000 | — | ⏳ Pendiente |
 | 999585 | Bengals vs. Falcons | Bengals | 1.11 (90¢) | $179,461 | — | ⏳ Pendiente |
 | Jsram | Will Manchester United FC win on 2026-11-08? | No | 1.89 (53¢) | $34,848 | — | ⏳ Pendiente |
 | SebastianAde1996 | Will FC Internazionale Milano win on 2026-11-08? | No | 1.89 (53¢) | $36,945 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $63,000 | +$8,591 | ✅ Ganada |
 | surfandturf | UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.54 (65¢) | $58,364 | -$58,364 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | +$20,864 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | +$31,967 | ✅ Ganada |
-| fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | +$58,235 | ✅ Ganada |
