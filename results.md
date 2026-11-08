@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:59:17 (hora de Perú)
+Actualizado: 2026-11-08 00:01:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8010**  ($453,573,432 en total)
+- Apuestas registradas: **8011**  ($453,608,149 en total)
 - Resueltas: **7964** — 4873 ganadas / 3091 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 712
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | — | ⏳ Pendiente |
 | Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | — | ⏳ Pendiente |
 | krdlox | Spurs vs. Trail Blazers: O/U 224.5 | Under 224.5 | 1.89 (53¢) | $31,929 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Hawks | Nets | 3.23 (31¢) | $33,604 | -$33,604 | ❌ Perdida |
 | surfandturf | Iowa vs. Northwestern | Iowa | 1.64 (61¢) | $72,116 | +$46,107 | ✅ Ganada |
-| milkteaboba | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $70,000 | +$30,000 | ✅ Ganada |
