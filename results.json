@@ -121934,5 +121934,20 @@
     "status": "pending",
     "ultimo_fill": 1794174923,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16402,
+    "timestamp": 1794175213,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "nba-bkn-dal-2026-11-08-spread-home-7pt5",
+    "title": "Spread: Mavericks (-7.5)",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 49972.5,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794175213,
+    "fills": 1
   }
 ]

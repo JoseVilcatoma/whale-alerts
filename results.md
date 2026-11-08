@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:59:50 (hora de Perú)
+Actualizado: 2026-11-08 17:01:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8113**  ($460,222,747 en total)
+- Apuestas registradas: **8114**  ($460,272,720 en total)
 - Resueltas: **8056** — 4935 ganadas / 3121 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $49,972 | — | ⏳ Pendiente |
 | 999585 | Raiders vs. 49ers | 49ers | 1.06 (94¢) | $186,757 | — | ⏳ Pendiente |
 | Jittz | Cardinals vs. Seahawks | Seahawks | 1.39 (72¢) | $25,820 | — | ⏳ Pendiente |
 | vtcchampion52 | Game Handicap: BLG (-1.5) vs T1 (+1.5) | Bilibili Gaming | 2.78 (36¢) | $35,946 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | Jsram | Will Manchester United FC win on 2026-11-08? | No | 1.89 (53¢) | $34,848 | +$30,903 | ✅ Ganada |
 | SebastianAde1996 | Will FC Internazionale Milano win on 2026-11-08? | No | 1.89 (53¢) | $36,945 | -$36,945 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will Manchester United FC win on 2026-11-08? | Yes | 2.13 (47¢) | $48,757 | -$48,757 | ❌ Perdida |
-| JambonMogettes | Giants vs. Eagles: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $49,211 | -$49,211 | ❌ Perdida |
