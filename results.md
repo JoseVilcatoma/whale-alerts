@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 19:01:59 (hora de Perú)
+Actualizado: 2026-11-07 19:04:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7944**  ($450,383,185 en total)
-- Resueltas: **7849** — 4795 ganadas / 3054 perdidas (**61%** de acierto)
-- Pendientes: 72
+- Apuestas registradas: **7946**  ($450,500,642 en total)
+- Resueltas: **7850** — 4795 ganadas / 3055 perdidas (**61%** de acierto)
+- Pendientes: 73
 - Apostadores distintos: 709
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,476,215** sobre $445,231,487 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,625** sobre $774,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,508,419** sobre $445,263,691 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,725** sobre $774,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 8 | 64% | $57,542,238 | +$713,914 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 557 | 312 | 9 | 64% | $57,577,238 | +$713,914 |
 | Sassy-Bucket | 110 | 108 | 6 | 50% | $15,098,860 | -$1,391,974 |
 | googleplay | 58 | 47 | 1 | 55% | $12,216,750 | -$30,220 |
 | Lakersfan111 | 149 | 77 | 1 | 66% | $11,010,336 | +$714,231 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 122 | 65 | 6 | 65% | $8,326,757 | +$494,433 |
+| ferrariChampions2026 | 122 | 66 | 5 | 65% | $8,326,757 | +$462,230 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
 | totoro3miyazaki | 38 | 25 | 1 | 60% | $7,945,894 | -$451,978 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -51,8 +51,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | milkteaboba | 17 | 12 | 0 | 59% | $3,185,336 | -$683,016 |
+| Thunderous-Authoritarian-Snarl | 13 | 10 | 6 | 57% | $3,108,686 | -$1,094,385 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
-| Thunderous-Authoritarian-Snarl | 13 | 10 | 5 | 57% | $3,026,229 | -$1,094,385 |
 | TAIWANNUMBERONE | 56 | 24 | 0 | 70% | $2,998,724 | -$144,405 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | 999585 | 22 | 1 | 4 | 96% | $2,793,858 | +$105,772 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.03 (33¢) | $82,457 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $35,000 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Invictus Gaming | 3.33 (30¢) | $25,143 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.43 (70¢) | $30,022 | — | ⏳ Pendiente |
 | dromedaryy | LoL: Invictus Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.45 (69¢) | $34,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 709 en total)_
 | 999585 | Oregon vs. Ohio State | Ohio State | 1.20 (83¢) | $157,700 | — | ⏳ Pendiente |
 | texastechbooster | LoL: Invictus Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.25 (80¢) | $42,106 | — | ⏳ Pendiente |
 | Zombie77 | Will Real Madrid CF win on 2026-11-07? | Yes | 1.11 (90¢) | $29,219 | — | ⏳ Pendiente |
-| Sassy-Bucket | Charlotte vs. UAB | UAB | 1.33 (75¢) | $65,200 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Western Kentucky vs. Middle Tennessee | Middle Tennessee | 2.22 (45¢) | $25,445 | — | ⏳ Pendiente |

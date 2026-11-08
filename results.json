@@ -118475,7 +118475,7 @@
     "side": "BUY",
     "usd": 32203.539998999997,
     "odds_at_bet": 84,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794081448,
     "fills": 1
   },
@@ -119392,6 +119392,36 @@
     "odds_at_bet": 30,
     "status": "pending",
     "ultimo_fill": 1794096088,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16022,
+    "timestamp": 1794096129,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "lol-ig1-gen-2026-11-07-game3",
+    "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 35000.0,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1794096129,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16024,
+    "timestamp": 1794096207,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "lol-ig1-gen-2026-11-07-game3",
+    "title": "LoL: Invictus Gaming vs Gen.G - Game 3 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "usd": 82456.5913,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1794096207,
     "fills": 1
   }
 ]
