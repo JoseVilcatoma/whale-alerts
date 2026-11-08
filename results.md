@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 16:22:42 (hora de Perú)
+Actualizado: 2026-11-08 16:24:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8105**  ($459,712,740 en total)
+- Apuestas registradas: **8106**  ($459,819,209 en total)
 - Resueltas: **8031** — 4916 ganadas / 3115 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 716
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 44 | 27 | 1 | 62% | $4,989,250 | +$670,575 |
+| maz26 | 44 | 27 | 2 | 62% | $5,095,719 | +$670,575 |
 | Kch-Temp | 48 | 15 | 5 | 76% | $4,753,015 | +$2,122,966 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $106,469 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $30,245 | — | ⏳ Pendiente |
 | Sassy-Bucket | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $252,925 | — | ⏳ Pendiente |
 | Donkey14 | Packers vs. Patriots | Patriots | 1.64 (61¢) | $66,426 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | +$23,313 | ✅ Ganada |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | +$4,820 | ✅ Ganada |
 | Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | -$52,041 | ❌ Perdida |
-| Zzzz87 | 76ers vs. Bulls | 76ers | 1.28 (78¢) | $35,116 | — | ⏳ Pendiente |

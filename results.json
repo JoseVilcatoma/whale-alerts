@@ -121814,5 +121814,20 @@
     "status": "pending",
     "ultimo_fill": 1794172870,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16369,
+    "timestamp": 1794172996,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-ari-sea-2026-11-08",
+    "title": "Cardinals vs. Seahawks",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 106468.95569999999,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1794172996,
+    "fills": 1
   }
 ]
