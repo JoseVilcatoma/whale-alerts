@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 14:20:24 (hora de Perú)
+Actualizado: 2026-11-08 14:22:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8084**  ($457,825,486 en total)
+- Apuestas registradas: **8085**  ($457,869,819 en total)
 - Resueltas: **8024** — 4911 ganadas / 3113 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 715
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| LinkE5 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.75 (57¢) | $44,333 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.33 (43¢) | $27,505 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-4.5) | Eagles | 1.69 (59¢) | $58,999 | — | ⏳ Pendiente |
 | SuitableName | Spread: Lions (-6.5) | Dolphins | 2.00 (50¢) | $39,370 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | ferrariChampions2026 | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $28,150 | — | ⏳ Pendiente |
 | juice-fruit | Will SSC Napoli win on 2026-11-08? | No | 1.52 (66¢) | $29,931 | +$15,419 | ✅ Ganada |
 | ferrariChampions2026 | Jets vs. Chiefs | Chiefs | 1.23 (81¢) | $33,348 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Rams vs. Commanders | Rams | 1.49 (67¢) | $33,217 | — | ⏳ Pendiente |
