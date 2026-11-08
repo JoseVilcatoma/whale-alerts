@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 08:40:34 (hora de Perú)
+Actualizado: 2026-11-08 08:42:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8042**  ($455,423,995 en total)
-- Resueltas: **7985** — 4888 ganadas / 3097 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **7986** — 4889 ganadas / 3097 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 714
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,589,428** sobre $452,780,478 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,483** sobre $787,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,574,009** sobre $452,810,409 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,431** sobre $787,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
 | fantasy7788 | 30 | 19 | 0 | 61% | $2,767,534 | +$505,637 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| juice-fruit | 28 | 17 | 1 | 62% | $2,604,086 | +$264,795 |
+| juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 714 en total)_
 | Kch-Temp | Spread: Saints (-3.5) | Saints | 2.00 (50¢) | $51,207 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Chelsea FC win on 2026-11-08? | No | 1.96 (51¢) | $89,852 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $28,150 | — | ⏳ Pendiente |
-| juice-fruit | Will SSC Napoli win on 2026-11-08? | No | 1.52 (66¢) | $29,931 | — | ⏳ Pendiente |
+| juice-fruit | Will SSC Napoli win on 2026-11-08? | No | 1.52 (66¢) | $29,931 | +$15,419 | ✅ Ganada |
 | ferrariChampions2026 | Jets vs. Chiefs | Chiefs | 1.23 (81¢) | $33,348 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Rams vs. Commanders | Rams | 1.49 (67¢) | $33,217 | — | ⏳ Pendiente |
 | 3edmond.dantes | Will Chelsea FC win on 2026-11-08? | No | 2.00 (50¢) | $30,558 | — | ⏳ Pendiente |
