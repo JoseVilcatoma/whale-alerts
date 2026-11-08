@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 01:12:09 (hora de Perú)
+Actualizado: 2026-11-08 01:14:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8014**  ($453,774,374 en total)
-- Resueltas: **7970** — 4876 ganadas / 3094 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **7972** — 4878 ganadas / 3094 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,547,073** sobre $451,866,257 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,760** sobre $786,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,435,105** sobre $452,036,257 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,629** sobre $786,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 56 | 24 | 2 | 70% | $3,066,059 | -$144,405 |
 | 999585 | 27 | 3 | 0 | 90% | $2,962,302 | -$37,586 |
 | S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
-| fantasy7788 | 28 | 19 | 2 | 60% | $2,767,534 | +$393,670 |
+| fantasy7788 | 30 | 19 | 0 | 61% | $2,767,534 | +$505,637 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | ferrariChampions2026 | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $63,000 | +$8,591 | ✅ Ganada |
 | surfandturf | UFC Fight Night: Johnny Walker vs. Waldo Cortes Acosta (Heavyweight, Main Card) | Waldo Cortes Acosta | 1.54 (65¢) | $58,364 | -$58,364 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team - Map 1 Winner | Natus Vincere | 1.72 (58¢) | $28,812 | +$20,864 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.64 (61¢) | $50,000 | +$31,967 | ✅ Ganada |
 | fantasy7788 | Rockets vs. Suns | Suns | 2.94 (34¢) | $30,000 | +$58,235 | ✅ Ganada |
 | Sassy-Bucket | Wyoming vs. UNLV | UNLV | 1.64 (61¢) | $33,557 | — | ⏳ Pendiente |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.49 (67¢) | $27,155 | +$13,375 | ✅ Ganada |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | fantasy7788 | Rockets vs. Suns | Rockets | 1.33 (75¢) | $66,440 | -$66,440 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.52 (66¢) | $39,928 | +$20,569 | ✅ Ganada |
 | FlamePyro | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $26,789 | +$3,311 | ✅ Ganada |
-| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | +$80,000 | ✅ Ganada |
 | Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | +$109,224 | ✅ Ganada |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | +$7,245 | ✅ Ganada |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | +$8,654 | ✅ Ganada |
