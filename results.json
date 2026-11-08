@@ -119680,5 +119680,20 @@
     "status": "pending",
     "ultimo_fill": 1794099673,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16072,
+    "timestamp": 1794099883,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-orl-gsw-2026-11-07",
+    "title": "Magic vs. Warriors",
+    "outcome": "Warriors",
+    "side": "BUY",
+    "usd": 56125.203199999996,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1794099883,
+    "fills": 1
   }
 ]
