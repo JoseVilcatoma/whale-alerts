@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 00:47:10 (hora de Perú)
+Actualizado: 2026-11-08 00:49:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8013**  ($453,672,374 en total)
-- Resueltas: **7965** — 4874 ganadas / 3091 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **7966** — 4874 ganadas / 3092 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,541,023** sobre $451,602,101 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,561** sobre $785,800 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,572,951** sobre $451,634,029 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,661** sobre $785,900 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
 | TAIWANNUMBERONE | Wyoming vs. UNLV | Wyoming | 1.35 (74¢) | $33,147 | — | ⏳ Pendiente |
 | Sausesantana | Wyoming vs. UNLV | Wyoming | 1.41 (71¢) | $29,135 | — | ⏳ Pendiente |
-| krdlox | Spurs vs. Trail Blazers: O/U 224.5 | Under 224.5 | 1.89 (53¢) | $31,929 | — | ⏳ Pendiente |
+| krdlox | Spurs vs. Trail Blazers: O/U 224.5 | Under 224.5 | 1.89 (53¢) | $31,929 | -$31,929 | ❌ Perdida |
 | omnibus-076daa | Will Brighton & Hove Albion FC win on 2026-11-08? | No | 2.08 (48¢) | $27,002 | — | ⏳ Pendiente |
 | ethanaz | Wyoming vs. UNLV | Wyoming | 2.08 (48¢) | $32,704 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Miami (FL) vs. Notre Dame | Notre Dame | 1.14 (88¢) | $26,399 | +$3,600 | ✅ Ganada |
