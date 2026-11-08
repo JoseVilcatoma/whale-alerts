@@ -121030,5 +121030,20 @@
     "status": "pending",
     "ultimo_fill": 1794150236,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16270,
+    "timestamp": 1794150422,
+    "username": "JambonMogettes",
+    "wallet": "0x7923d4ff806b231b3276592391de5d0953356c0b",
+    "slug": "nfl-nyg-phi-2026-11-08-total-38pt5",
+    "title": "Giants vs. Eagles: O/U 38.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 49211.35,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1794150422,
+    "fills": 1
   }
 ]
