@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 00:55:30 (hora de Perú)
+Actualizado: 2026-11-08 00:57:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8013**  ($453,672,374 en total)
+- Apuestas registradas: **8014**  ($453,774,374 en total)
 - Resueltas: **7968** — 4876 ganadas / 3092 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 712
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 3 | 64% | $57,652,868 | +$573,763 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 4 | 64% | $57,754,868 | +$573,763 |
 | Sassy-Bucket | 116 | 113 | 3 | 51% | $15,424,446 | -$1,336,434 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 153 | 79 | 1 | 66% | $11,348,378 | +$757,164 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | West Virginia vs. Texas Tech | Texas Tech | 1.47 (68¢) | $102,000 | — | ⏳ Pendiente |
 | hovistomaradona | Will Bayer 04 Leverkusen win on 2026-11-08? | Yes | 1.85 (54¢) | $27,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $37,225 | — | ⏳ Pendiente |
 | Multicoloured-Serf | RC Celta de Vigo vs. Levante UD: O/U 2.5 | Under 2.5 | 2.00 (50¢) | $34,717 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | randomrandomrandom | Map Handicap: MOUZ (-1.5) vs TheMongolz (+1.5) | MOUZ | 1.52 (66¢) | $47,605 | — | ⏳ Pendiente |
 | Donkey14 | Knicks vs. Cavaliers | Knicks | 1.59 (63¢) | $38,802 | +$22,789 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Miami (FL) vs. Notre Dame | Notre Dame | 1.43 (70¢) | $25,902 | +$11,101 | ✅ Ganada |
-| yupiiiiiiiii | Will Liverpool FC win on 2026-11-08? | No | 2.70 (37¢) | $37,459 | — | ⏳ Pendiente |
