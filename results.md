@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 12:31:43 (hora de Perú)
+Actualizado: 2026-11-08 14:18:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8083**  ($457,797,982 en total)
-- Resueltas: **8007** — 4903 ganadas / 3104 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Resueltas: **8024** — 4911 ganadas / 3113 perdidas (**61%** de acierto)
+- Pendientes: 36
 - Apostadores distintos: 715
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,535,896** sobre $453,702,871 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,346** sobre $790,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,796,213** sobre $454,956,201 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,523** sobre $791,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,13 +24,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 564 | 317 | 5 | 64% | $58,265,053 | +$267,466 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 565 | 317 | 4 | 64% | $58,265,053 | +$305,577 |
 | Sassy-Bucket | 116 | 114 | 2 | 50% | $15,424,446 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 1 | 66% | $11,434,907 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 128 | 67 | 5 | 66% | $8,601,476 | +$519,583 |
-| totoro3miyazaki | 38 | 25 | 5 | 60% | $8,325,780 | -$451,978 |
+| totoro3miyazaki | 38 | 29 | 1 | 57% | $8,325,780 | -$831,864 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
@@ -42,15 +42,15 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 43 | 27 | 1 | 61% | $4,940,755 | +$609,345 |
-| Kch-Temp | 47 | 15 | 6 | 76% | $4,753,015 | +$1,983,665 |
+| Kch-Temp | 48 | 15 | 5 | 76% | $4,753,015 | +$2,122,966 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
-| milkteaboba | 18 | 12 | 2 | 60% | $3,345,140 | -$653,016 |
-| 999585 | 27 | 3 | 3 | 90% | $3,309,425 | -$37,586 |
+| milkteaboba | 19 | 12 | 1 | 61% | $3,345,140 | -$618,676 |
+| 999585 | 28 | 3 | 2 | 90% | $3,309,425 | -$17,646 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Thunderous-Authoritarian-Snarl | 19 | 11 | 0 | 63% | $3,147,263 | -$926,306 |
 | 0F62 | 36 | 8 | 0 | 82% | $3,108,346 | -$349,180 |
@@ -78,28 +78,28 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | 999585 | Browns vs. Saints | Saints | 1.49 (67¢) | $137,062 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Browns vs. Saints | Saints | 1.56 (64¢) | $43,001 | — | ⏳ Pendiente |
 | nigiri99 | Spread: Chiefs (-3.5) | Chiefs | 1.41 (71¢) | $43,148 | — | ⏳ Pendiente |
-| thegreatjeff | Spread: FC Internazionale Milano (-1.5) | Como 1907 | 1.23 (81¢) | $100,000 | — | ⏳ Pendiente |
+| thegreatjeff | Spread: FC Internazionale Milano (-1.5) | Como 1907 | 1.23 (81¢) | $100,000 | -$100,000 | ❌ Perdida |
 | taylorsversion | Cowboys vs. Colts | Cowboys | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | SuitableName | Spread: Rams (-4.5) | Rams | 2.04 (49¢) | $40,000 | — | ⏳ Pendiente |
 | milkteaboba | Browns vs. Saints | Saints | 1.59 (63¢) | $52,602 | — | ⏳ Pendiente |
 | justwins | Spread: Cowboys (-4.5) | Colts | 1.96 (51¢) | $56,401 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $39,666 | — | ⏳ Pendiente |
-| Siddhartha1 | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $41,600 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $195,998 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | — | ⏳ Pendiente |
-| yabanci | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $56,100 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $39,666 | +$38,111 | ✅ Ganada |
+| Siddhartha1 | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $41,600 | +$38,400 | ✅ Ganada |
+| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $195,998 | -$195,998 | ❌ Perdida |
+| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | -$38,111 | ❌ Perdida |
+| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $87,111 | -$87,111 | ❌ Perdida |
+| yabanci | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $56,100 | +$53,900 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.16 (86¢) | $49,212 | +$8,011 | ✅ Ganada |
-| milkteaboba | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $37,202 | — | ⏳ Pendiente |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.08 (48¢) | $58,667 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Manchester United FC vs. Aston Villa FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $50,675 | — | ⏳ Pendiente |
+| milkteaboba | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $37,202 | +$34,340 | ✅ Ganada |
+| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.08 (48¢) | $58,667 | -$58,667 | ❌ Perdida |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Manchester United FC vs. Aston Villa FC: O/U 3.5 | Over 3.5 | 2.38 (42¢) | $50,675 | +$69,979 | ✅ Ganada |
 | gmpm2 | Lions vs. Dolphins | Lions | 1.35 (74¢) | $174,270 | — | ⏳ Pendiente |
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: O/U 3.5 | Over 3.5 | 1.06 (94¢) | $30,000 | +$1,915 | ✅ Ganada |
 | LonnieHawkinss | Crystal Palace FC vs. Liverpool FC: Both Teams to Score | Yes | 1.12 (89¢) | $30,000 | +$3,708 | ✅ Ganada |
-| 999585 | Bengals vs. Falcons | Bengals | 1.11 (90¢) | $179,461 | — | ⏳ Pendiente |
-| Jsram | Will Manchester United FC win on 2026-11-08? | No | 1.89 (53¢) | $34,848 | — | ⏳ Pendiente |
-| SebastianAde1996 | Will FC Internazionale Milano win on 2026-11-08? | No | 1.89 (53¢) | $36,945 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will Manchester United FC win on 2026-11-08? | Yes | 2.13 (47¢) | $48,757 | — | ⏳ Pendiente |
+| 999585 | Bengals vs. Falcons | Bengals | 1.11 (90¢) | $179,461 | +$19,940 | ✅ Ganada |
+| Jsram | Will Manchester United FC win on 2026-11-08? | No | 1.89 (53¢) | $34,848 | +$30,903 | ✅ Ganada |
+| SebastianAde1996 | Will FC Internazionale Milano win on 2026-11-08? | No | 1.89 (53¢) | $36,945 | -$36,945 | ❌ Perdida |
+| 1l2ihj34li12u34 | Will Manchester United FC win on 2026-11-08? | Yes | 2.13 (47¢) | $48,757 | -$48,757 | ❌ Perdida |
 | JambonMogettes | Giants vs. Eagles: O/U 38.5 | Over 38.5 | 2.13 (47¢) | $49,211 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Patriots | Patriots | 1.61 (62¢) | $25,780 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.09 (92¢) | $69,764 | +$6,066 | ✅ Ganada |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 715 en total)_
 | Pwaddler | Spread: Broncos (-2.5) | Broncos | 1.89 (53¢) | $27,502 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Spread: Viking FK (-1.5) | Viking FK | 1.72 (58¢) | $32,195 | — | ⏳ Pendiente |
 | thegreatjeff | Will AC Milan win on 2026-11-08? | Yes | 1.12 (89¢) | $39,000 | +$4,820 | ✅ Ganada |
-| Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Bengals (-3.5) | Falcons | 1.96 (51¢) | $52,041 | -$52,041 | ❌ Perdida |
 | Zzzz87 | 76ers vs. Bulls | 76ers | 1.28 (78¢) | $35,116 | — | ⏳ Pendiente |
 | big8betz | Rolex Paris Masters: Ben Shelton vs Carlos Alcaraz | Carlos Alcaraz | 1.28 (78¢) | $29,216 | +$8,240 | ✅ Ganada |
 | MigRodr | Will Brighton & Hove Albion FC win on 2026-11-08? | Yes | 1.85 (54¢) | $55,555 | +$47,325 | ✅ Ganada |
