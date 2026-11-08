@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 17:43:00 (hora de Perú)
+Actualizado: 2026-11-08 17:45:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8127**  ($461,147,100 en total)
+- Apuestas registradas: **8129**  ($461,222,732 en total)
 - Resueltas: **8062** — 4937 ganadas / 3125 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 44
 - Apostadores distintos: 716
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 319 | 5 | 64% | $58,630,446 | +$222,552 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 319 | 6 | 64% | $58,680,446 | +$222,552 |
 | Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 2 | 66% | $11,462,412 | +$773,295 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ropetard | Spread: Mavericks (-9.5) | Mavericks | 2.33 (43¢) | $25,632 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Mavericks (-7.5) | Nets | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Golden Knights vs. Sabres | Golden Knights | 1.12 (89¢) | $81,807 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Cardinals vs. Seahawks | Seahawks | 1.25 (80¢) | $31,091 | — | ⏳ Pendiente |
 | dromedaryy | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | justwins | Spread: Cowboys (-4.5) | Colts | 1.96 (51¢) | $56,401 | +$54,189 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Manchester United FC win on 2026-11-08? | No | 1.96 (51¢) | $39,666 | +$38,111 | ✅ Ganada |
 | Siddhartha1 | Will Manchester United FC win on 2026-11-08? | No | 1.92 (52¢) | $41,600 | +$38,400 | ✅ Ganada |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $195,998 | -$195,998 | ❌ Perdida |
-| totoro3miyazaki | Will Manchester United FC win on 2026-11-08? | Yes | 2.04 (49¢) | $38,111 | -$38,111 | ❌ Perdida |
