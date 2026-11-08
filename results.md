@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 00:53:26 (hora de Perú)
+Actualizado: 2026-11-08 00:55:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8013**  ($453,672,374 en total)
-- Resueltas: **7966** — 4874 ganadas / 3092 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **7968** — 4876 ganadas / 3092 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,572,951** sobre $451,634,029 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,661** sobre $785,900 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,487,171** sobre $451,806,356 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,560** sobre $786,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 562 | 315 | 3 | 64% | $57,652,868 | +$573,763 |
 | Sassy-Bucket | 116 | 113 | 3 | 51% | $15,424,446 | -$1,336,434 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 151 | 79 | 3 | 66% | $11,348,378 | +$671,384 |
+| Lakersfan111 | 153 | 79 | 1 | 66% | $11,348,378 | +$757,164 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 128 | 67 | 0 | 66% | $8,454,565 | +$519,583 |
 | 3edmond.dantes | 34 | 24 | 0 | 59% | $8,007,013 | -$1,850,423 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.52 (66¢) | $90,158 | +$46,445 | ✅ Ganada |
 | TAIWANNUMBERONE | West Virginia vs. Texas Tech | Texas Tech | 1.37 (73¢) | $34,188 | — | ⏳ Pendiente |
 | krdlox | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Virna Jandiroba | 2.78 (36¢) | $25,000 | -$25,000 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.49 (67¢) | $132,398 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.49 (67¢) | $132,398 | +$65,211 | ✅ Ganada |
 | Sassy-Bucket | UFC Fight Night: Tatiana Suarez vs. Virna Jandiroba (Women's Strawweight, Main Card) | Tatiana Suarez | 1.54 (65¢) | $39,016 | +$21,009 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Nets vs. Hawks | Nets | 1.52 (66¢) | $35,508 | -$35,508 | ❌ Perdida |
 | krdlox | UFC Fight Night: Davey Grant vs. Elijah Smith (Bantamweight, Main Card) | Elijah Smith | 1.32 (76¢) | $28,971 | +$9,149 | ✅ Ganada |
@@ -105,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 712 en total)_
 | cosmicxbt | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $163,818 | +$20,247 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Billy Elekana vs. Lucas Fernando (Light Heavyweight, Main Card) | Lucas Fernando | 1.37 (73¢) | $32,961 | +$12,191 | ✅ Ganada |
 | fantasy7788 | Rockets vs. Suns | Rockets | 1.33 (75¢) | $66,440 | -$66,440 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.52 (66¢) | $39,928 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Spurs vs. Trail Blazers | Spurs | 1.52 (66¢) | $39,928 | +$20,569 | ✅ Ganada |
 | FlamePyro | Miami (FL) vs. Notre Dame | Notre Dame | 1.12 (89¢) | $26,789 | +$3,311 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: Natus Vincere vs BetBoom Team (BO3) - IEM Beijing Playoffs | Natus Vincere | 1.67 (60¢) | $120,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | +$109,224 | ✅ Ganada |
