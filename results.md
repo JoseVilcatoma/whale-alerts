@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 20:55:43 (hora de Perú)
+Actualizado: 2026-11-07 20:57:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **7975**  ($451,872,124 en total)
+- Apuestas registradas: **7976**  ($451,916,737 en total)
 - Resueltas: **7904** — 4833 ganadas / 3071 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 711
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 560 | 313 | 6 | 64% | $57,619,906 | +$638,750 |
-| Sassy-Bucket | 111 | 109 | 7 | 50% | $15,189,947 | -$1,450,933 |
+| Sassy-Bucket | 111 | 109 | 8 | 50% | $15,234,560 | -$1,450,933 |
 | googleplay | 58 | 48 | 1 | 55% | $12,266,098 | -$87,700 |
 | Lakersfan111 | 150 | 77 | 3 | 66% | $11,137,550 | +$721,714 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Rockets vs. Suns | Suns | 3.45 (29¢) | $44,613 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $65,205 | — | ⏳ Pendiente |
 | 999585 | Iowa vs. Northwestern | Iowa | 1.11 (90¢) | $77,886 | — | ⏳ Pendiente |
 | EdZachary | Miami (FL) vs. Notre Dame | Notre Dame | 1.37 (73¢) | $32,818 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 711 en total)_
 | Dessssa | Devils vs. Islanders | Islanders | 2.38 (42¢) | $32,548 | — | ⏳ Pendiente |
 | heyjason | LoL: Invictus Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.37 (73¢) | $68,214 | +$25,230 | ✅ Ganada |
 | thetesterguy | FC Cincinnati vs. Nashville SC: O/U 0.5 | Over 0.5 | 1.20 (83¢) | $38,669 | +$7,920 | ✅ Ganada |
-| SineNooneEI | LoL: Invictus Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.45 (69¢) | $27,600 | +$12,400 | ✅ Ganada |

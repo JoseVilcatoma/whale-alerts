@@ -119860,5 +119860,20 @@
     "status": "pending",
     "ultimo_fill": 1794102136,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16108,
+    "timestamp": 1794103056,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-hou-phx-2026-11-07",
+    "title": "Rockets vs. Suns",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 44612.729999999996,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "ultimo_fill": 1794103056,
+    "fills": 1
   }
 ]
