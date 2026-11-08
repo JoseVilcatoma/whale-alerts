@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-07 23:20:02 (hora de Perú)
+Actualizado: 2026-11-07 23:22:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8006**  ($453,452,220 en total)
-- Resueltas: **7933** — 4850 ganadas / 3083 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **7934** — 4851 ganadas / 3083 perdidas (**61%** de acierto)
+- Pendientes: 49
 - Apostadores distintos: 712
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,798,776** sobre $450,005,580 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$7,110** sobre $782,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$3,733,309** sobre $450,076,503 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$7,017** sobre $782,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 42 | 27 | 1 | 61% | $4,766,485 | +$592,144 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| Kch-Temp | 46 | 15 | 2 | 75% | $4,360,466 | +$1,918,198 |
+| Kch-Temp | 47 | 15 | 1 | 76% | $4,360,466 | +$1,983,665 |
 | surfandturf | 41 | 12 | 1 | 77% | $4,058,695 | +$561,304 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 24 | 9 | 2 | 73% | $3,725,481 | -$328,163 |
