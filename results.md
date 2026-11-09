@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 21:49:40 (hora de Perú)
+Actualizado: 2026-11-08 21:51:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8180**  ($464,252,058 en total)
-- Resueltas: **8123** — 4971 ganadas / 3152 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **8124** — 4971 ganadas / 3153 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,224,034** sobre $461,764,623 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$6,885** sobre $801,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,280,434** sobre $461,821,023 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$6,985** sobre $801,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 37 | 8 | 1 | 82% | $3,191,090 | -$345,619 |
 | TAIWANNUMBERONE | 59 | 24 | 0 | 71% | $3,098,330 | -$107,564 |
 | fantasy7788 | 31 | 20 | 1 | 61% | $2,922,148 | +$528,926 |
-| S-Works | 21 | 7 | 2 | 75% | $2,855,799 | -$135,969 |
+| S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.89 (53¢) | $51,470 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Nets vs. Mavericks | Mavericks | 1.39 (72¢) | $31,851 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.85 (54¢) | $31,985 | — | ⏳ Pendiente |
-| S-Works | Jazz vs. Timberwolves: O/U 222.5 | Over 222.5 | 2.13 (47¢) | $56,400 | — | ⏳ Pendiente |
+| S-Works | Jazz vs. Timberwolves: O/U 222.5 | Over 222.5 | 2.13 (47¢) | $56,400 | -$56,400 | ❌ Perdida |
 | zb8 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 1.89 (53¢) | $94,127 | -$94,127 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | — | ⏳ Pendiente |
