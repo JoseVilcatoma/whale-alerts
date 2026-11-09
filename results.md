@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 22:31:02 (hora de Perú)
+Actualizado: 2026-11-08 22:33:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8184**  ($464,402,474 en total)
-- Resueltas: **8135** — 4980 ganadas / 3155 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **8136** — 4980 ganadas / 3156 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,228,562** sobre $462,322,355 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$6,613** sobre $802,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$5,262,795** sobre $462,356,589 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$6,713** sobre $802,500 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 323 | 5 | 64% | $59,153,400 | +$233,659 |
-| Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
+| Sassy-Bucket | 117 | 115 | 4 | 50% | $15,829,406 | -$1,340,993 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 157 | 81 | 4 | 66% | $11,677,315 | +$696,260 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | NOO-Yes | Jazz vs. Timberwolves | Timberwolves | 1.14 (88¢) | $47,520 | +$6,480 | ✅ Ganada |
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $69,849 | — | ⏳ Pendiente |
 | lonmi2511 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.15 (87¢) | $43,245 | +$6,462 | ✅ Ganada |
-| Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | — | ⏳ Pendiente |
+| Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | -$34,233 | ❌ Perdida |
 | solo88888 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $50,484 | +$50,484 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.13 (47¢) | $39,477 | -$39,477 | ❌ Perdida |
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $47,953 | — | ⏳ Pendiente |
