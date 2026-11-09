@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 22:55:41 (hora de Perú)
+Actualizado: 2026-11-08 22:57:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8185**  ($464,429,676 en total)
+- Apuestas registradas: **8186**  ($464,468,710 en total)
 - Resueltas: **8137** — 4981 ganadas / 3156 perdidas (**61%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 717
+- Pendientes: 26
+- Apostadores distintos: 718
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 717 en total)_
+_(mostrando los 40 de mayor monto, de 718 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| analdesutructor | Buccaneers vs. Bears | Bears | 1.14 (88¢) | $39,033 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Buccaneers vs. Bears | Bears | 1.12 (89¢) | $27,203 | — | ⏳ Pendiente |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.32 (76¢) | $36,821 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.25 (80¢) | $40,746 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | ropetard | Spread: Mavericks (-8.5) | Mavericks | 2.17 (46¢) | $34,407 | +$40,391 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Mavericks (-7.5) | Nets | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Golden Knights vs. Sabres | Golden Knights | 1.12 (89¢) | $81,807 | +$10,111 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Cardinals vs. Seahawks | Seahawks | 1.25 (80¢) | $31,091 | +$7,773 | ✅ Ganada |
