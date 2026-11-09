@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 23:05:49 (hora de Perú)
+Actualizado: 2026-11-08 23:07:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8187**  ($464,497,479 en total)
+- Apuestas registradas: **8188**  ($464,596,783 en total)
 - Resueltas: **8137** — 4981 ganadas / 3156 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 718
 
 ### Balance
@@ -62,8 +62,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| Multicoloured-Serf | 23 | 24 | 2 | 49% | $2,398,849 | -$382,909 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
-| Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
 _(mostrando los 40 de mayor monto, de 718 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $99,304 | — | ⏳ Pendiente |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $28,769 | — | ⏳ Pendiente |
 | analdesutructor | Buccaneers vs. Bears | Bears | 1.14 (88¢) | $39,033 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Buccaneers vs. Bears | Bears | 1.12 (89¢) | $27,203 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Seahawks | Seahawks | 1.23 (81¢) | $40,864 | +$9,585 | ✅ Ganada |
 | ropetard | Spread: Mavericks (-9.5) | Mavericks | 2.33 (43¢) | $25,632 | +$33,977 | ✅ Ganada |
 | ropetard | Spread: Mavericks (-8.5) | Mavericks | 2.17 (46¢) | $34,407 | +$40,391 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Mavericks (-7.5) | Nets | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
