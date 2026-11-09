@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:20:23 (hora de Perú)
+Actualizado: 2026-11-08 20:22:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8168**  ($463,757,610 en total)
-- Resueltas: **8097** — 4960 ganadas / 3137 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Resueltas: **8098** — 4960 ganadas / 3138 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,333,981** sobre $459,979,322 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,284** sobre $798,600 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$4,372,828** sobre $460,018,169 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$6,384** sobre $798,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | +$5,110 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | — | ⏳ Pendiente |
-| robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | — | ⏳ Pendiente |
+| robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | -$38,848 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | — | ⏳ Pendiente |
