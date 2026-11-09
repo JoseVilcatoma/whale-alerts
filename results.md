@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:45:18 (hora de Perú)
+Actualizado: 2026-11-08 20:47:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8174**  ($463,978,274 en total)
+- Apuestas registradas: **8175**  ($464,019,262 en total)
 - Resueltas: **8098** — 4960 ganadas / 3138 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 717
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $40,988 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bears (-6.5) | Bears | 1.52 (66¢) | $36,641 | — | ⏳ Pendiente |
 | Donkey14 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $26,005 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Pelicans (-1.5) | Clippers | 2.00 (50¢) | $61,631 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $94,072 | — | ⏳ Pendiente |
 | KateBollinger | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.17 (46¢) | $35,788 | +$8,558 | 💰 Vendida antes |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
-| fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $40,000 | -$40,000 | ❌ Perdida |
