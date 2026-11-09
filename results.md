@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:53:40 (hora de Perú)
+Actualizado: 2026-11-08 20:55:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8176**  ($464,047,740 en total)
+- Apuestas registradas: **8179**  ($464,216,625 en total)
 - Resueltas: **8098** — 4960 ganadas / 3138 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Pendientes: 58
 - Apostadores distintos: 717
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 569 | 319 | 11 | 64% | $59,068,758 | +$299,616 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 569 | 319 | 12 | 64% | $59,153,400 | +$299,616 |
 | Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 155 | 79 | 7 | 66% | $11,649,265 | +$773,295 |
+| Lakersfan111 | 155 | 79 | 8 | 66% | $11,677,315 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 135 | 68 | 1 | 67% | $8,775,176 | +$571,325 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 37 | 8 | 0 | 82% | $3,155,658 | -$345,619 |
 | TAIWANNUMBERONE | 59 | 24 | 0 | 71% | $3,098,330 | -$107,564 |
-| fantasy7788 | 30 | 20 | 1 | 60% | $2,865,954 | +$465,637 |
+| fantasy7788 | 30 | 20 | 2 | 60% | $2,922,148 | +$465,637 |
 | S-Works | 21 | 7 | 2 | 75% | $2,855,799 | -$135,969 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $56,194 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $84,642 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Heat (-11.5) | Kings | 1.96 (51¢) | $28,478 | — | ⏳ Pendiente |
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $40,988 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bears (-6.5) | Bears | 1.52 (66¢) | $36,641 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.75 (57¢) | $369,066 | -$369,066 | ❌ Perdida |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.79 (56¢) | $31,942 | -$31,942 | ❌ Perdida |
 | zb8 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $29,636 | -$29,636 | ❌ Perdida |
-| VPenguin | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.13 (47¢) | $30,431 | +$34,315 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $94,072 | — | ⏳ Pendiente |
-| KateBollinger | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.17 (46¢) | $35,788 | +$8,558 | 💰 Vendida antes |

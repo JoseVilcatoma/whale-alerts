@@ -122883,5 +122883,50 @@
     "status": "pending",
     "ultimo_fill": 1794189212,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16508,
+    "timestamp": 1794189242,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-nop-lac-2026-11-08",
+    "title": "Pelicans vs. Clippers",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 84641.582134,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794189242,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16509,
+    "timestamp": 1794189309,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-nop-lac-2026-11-08",
+    "title": "Pelicans vs. Clippers",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 28050.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794189309,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16510,
+    "timestamp": 1794189310,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "nba-nop-lac-2026-11-08",
+    "title": "Pelicans vs. Clippers",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 56194.1602,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794189310,
+    "fills": 1
   }
 ]
