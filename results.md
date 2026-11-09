@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 22:37:08 (hora de Perú)
+Actualizado: 2026-11-08 22:39:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8184**  ($464,402,474 en total)
-- Resueltas: **8136** — 4980 ganadas / 3156 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **8137** — 4981 ganadas / 3156 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,262,795** sobre $462,356,589 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$6,713** sobre $802,500 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$5,256,818** sobre $462,396,589 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$6,698** sobre $802,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | +$5,110 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | -$324,917 | ❌ Perdida |
 | robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | -$38,848 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | +$5,977 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | -$32,811 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | +$16,791 | ✅ Ganada |
 | ch27er | Spread: Pistons (-6.5) | Pistons | 1.75 (57¢) | $25,000 | -$25,000 | ❌ Perdida |
