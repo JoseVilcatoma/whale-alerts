@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 19:01:15 (hora de Perú)
+Actualizado: 2026-11-08 19:03:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8153**  ($463,023,097 en total)
+- Apuestas registradas: **8154**  ($463,079,497 en total)
 - Resueltas: **8067** — 4940 ganadas / 3127 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Pendientes: 64
 - Apostadores distintos: 716
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 37 | 8 | 0 | 82% | $3,155,658 | -$345,619 |
 | TAIWANNUMBERONE | 59 | 24 | 0 | 71% | $3,098,330 | -$107,564 |
 | fantasy7788 | 30 | 19 | 2 | 61% | $2,865,954 | +$505,637 |
-| S-Works | 21 | 7 | 1 | 75% | $2,799,399 | -$135,969 |
+| S-Works | 21 | 7 | 2 | 75% | $2,855,799 | -$135,969 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Jazz vs. Timberwolves: O/U 222.5 | Over 222.5 | 2.13 (47¢) | $56,400 | — | ⏳ Pendiente |
 | zb8 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 1.89 (53¢) | $94,127 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | 999585 | Rams vs. Commanders | Rams | 1.10 (91¢) | $217,744 | -$2,393 | 💰 Vendida antes |
 | TAIWANNUMBERONE | Browns vs. Saints | Saints | 1.39 (72¢) | $32,271 | +$12,550 | ✅ Ganada |
 | purplegatto | 76ers vs. Bulls | 76ers | 1.27 (79¢) | $39,500 | +$10,500 | ✅ Ganada |
-| SineNooneEI | Spread: 76ers (-9.5) | 76ers | 2.04 (49¢) | $98,000 | -$98,000 | ❌ Perdida |
