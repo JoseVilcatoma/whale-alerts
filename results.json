@@ -123168,5 +123168,20 @@
     "status": "pending",
     "ultimo_fill": 1794268114,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16595,
+    "timestamp": 1794268752,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-lal-atl-2026-11-09",
+    "title": "Lakers vs. Hawks",
+    "outcome": "Hawks",
+    "side": "BUY",
+    "usd": 42456.348000000005,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1794268752,
+    "fills": 1
   }
 ]
