@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 21:20:57 (hora de Perú)
+Actualizado: 2026-11-08 21:23:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8179**  ($464,216,625 en total)
-- Resueltas: **8119** — 4969 ganadas / 3150 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Resueltas: **8123** — 4971 ganadas / 3152 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,235,718** sobre $461,610,452 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$6,870** sobre $800,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,224,034** sobre $461,764,623 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$6,885** sobre $801,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 321 | 7 | 64% | $59,153,400 | +$312,830 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 322 | 6 | 64% | $59,153,400 | +$283,659 |
 | Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 81 | 6 | 66% | $11,677,315 | +$685,281 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
-| Thunderous-Authoritarian-Snarl | 19 | 15 | 1 | 56% | $4,008,362 | -$1,747,928 |
+| Thunderous-Authoritarian-Snarl | 19 | 16 | 0 | 54% | $4,008,362 | -$1,787,405 |
 | 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
@@ -87,11 +87,11 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $69,849 | — | ⏳ Pendiente |
 | lonmi2511 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.15 (87¢) | $43,245 | +$6,462 | ✅ Ganada |
 | Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | — | ⏳ Pendiente |
-| solo88888 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $50,484 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.13 (47¢) | $39,477 | — | ⏳ Pendiente |
+| solo88888 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $50,484 | +$50,484 | ✅ Ganada |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.13 (47¢) | $39,477 | -$39,477 | ❌ Perdida |
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $47,953 | — | ⏳ Pendiente |
-| KateBollinger | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 1.85 (54¢) | $35,040 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.00 (50¢) | $29,171 | — | ⏳ Pendiente |
+| KateBollinger | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 1.85 (54¢) | $35,040 | +$29,849 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.00 (50¢) | $29,171 | -$29,171 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.35 (74¢) | $116,692 | +$41,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.89 (53¢) | $51,470 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Nets vs. Mavericks | Mavericks | 1.39 (72¢) | $31,851 | — | ⏳ Pendiente |
