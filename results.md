@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 23:50:46 (hora de Perú)
+Actualizado: 2026-11-08 23:52:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8188**  ($464,596,783 en total)
-- Resueltas: **8141** — 4983 ganadas / 3158 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **8142** — 4984 ganadas / 3158 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 718
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,341,486** sobre $462,585,209 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,788** sobre $803,000 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$5,279,855** sobre $462,646,840 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$6,688** sobre $803,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $40,988 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bears (-6.5) | Bears | 1.52 (66¢) | $36,641 | — | ⏳ Pendiente |
 | Donkey14 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $26,005 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Pelicans (-1.5) | Clippers | 2.00 (50¢) | $61,631 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Pelicans (-1.5) | Clippers | 2.00 (50¢) | $61,631 | +$61,631 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $35,954 | — | ⏳ Pendiente |
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $34,123 | — | ⏳ Pendiente |
 | 3648393489047 | Buccaneers vs. Bears | Bears | 1.35 (74¢) | $26,311 | — | ⏳ Pendiente |
