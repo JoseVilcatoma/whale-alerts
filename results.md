@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 23:46:42 (hora de Perú)
+Actualizado: 2026-11-08 23:48:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8188**  ($464,596,783 en total)
-- Resueltas: **8139** — 4981 ganadas / 3158 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **8141** — 4983 ganadas / 3158 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 718
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,374,621** sobre $462,514,391 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$6,898** sobre $802,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,341,486** sobre $462,585,209 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$6,788** sobre $803,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,13 +77,13 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | CUTJALENHURTS | Buccaneers vs. Bears | Bears | 1.12 (89¢) | $27,203 | — | ⏳ Pendiente |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.32 (76¢) | $36,821 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.25 (80¢) | $40,746 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Heat vs. Kings | Heat | 1.14 (88¢) | $42,340 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Heat vs. Kings | Heat | 1.14 (88¢) | $42,340 | +$5,774 | ✅ Ganada |
 | robustmst | Pelicans vs. Clippers | Pelicans | 2.50 (40¢) | $30,509 | — | ⏳ Pendiente |
 | 0F62 | Buccaneers vs. Bears | Bears | 1.06 (94¢) | $35,432 | — | ⏳ Pendiente |
 | fantasy7788 | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $56,194 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $84,642 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Heat (-11.5) | Kings | 1.96 (51¢) | $28,478 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Heat (-11.5) | Kings | 1.96 (51¢) | $28,478 | +$27,361 | ✅ Ganada |
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $40,988 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bears (-6.5) | Bears | 1.52 (66¢) | $36,641 | — | ⏳ Pendiente |
 | Donkey14 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $26,005 | — | ⏳ Pendiente |
