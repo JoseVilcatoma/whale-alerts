@@ -122748,5 +122748,20 @@
     "status": "pending",
     "ultimo_fill": 1794186847,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16498,
+    "timestamp": 1794187107,
+    "username": "presidentyake",
+    "wallet": "0xefbfc288fcea16073ac5544f8ac8e2131d0543ca",
+    "slug": "nfl-tb-chi-2026-11-09-spread-home-6pt5",
+    "title": "Spread: Bears (-6.5)",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 49143.34999999999,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794187107,
+    "fills": 1
   }
 ]

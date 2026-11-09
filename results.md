@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:18:19 (hora de Perú)
+Actualizado: 2026-11-08 20:20:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8167**  ($463,708,466 en total)
+- Apuestas registradas: **8168**  ($463,757,610 en total)
 - Resueltas: **8097** — 4960 ganadas / 3137 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 48
 - Apostadores distintos: 717
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| presidentyake | Spread: Bears (-6.5) | Bears | 2.04 (49¢) | $49,143 | — | ⏳ Pendiente |
 | NOO-Yes | Jazz vs. Timberwolves | Timberwolves | 1.14 (88¢) | $47,520 | — | ⏳ Pendiente |
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $69,849 | — | ⏳ Pendiente |
 | lonmi2511 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.15 (87¢) | $43,245 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | vtcchampion52 | Game Handicap: BLG (-1.5) vs T1 (+1.5) | Bilibili Gaming | 2.78 (36¢) | $35,946 | — | ⏳ Pendiente |
 | ethanaz | Cardinals vs. Seahawks | Seahawks | 1.41 (71¢) | $27,036 | +$11,043 | ✅ Ganada |
 | Zzzz87 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Chargers | Texans | 1.33 (75¢) | $75,000 | +$25,000 | ✅ Ganada |
