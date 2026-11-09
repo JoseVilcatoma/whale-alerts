@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 21:29:04 (hora de Perú)
+Actualizado: 2026-11-08 21:31:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8179**  ($464,216,625 en total)
+- Apuestas registradas: **8180**  ($464,252,058 en total)
 - Resueltas: **8123** — 4971 ganadas / 3152 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 717
 
 ### Balance
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| 0F62 | 37 | 8 | 0 | 82% | $3,155,658 | -$345,619 |
+| 0F62 | 37 | 8 | 1 | 82% | $3,191,090 | -$345,619 |
 | TAIWANNUMBERONE | 59 | 24 | 0 | 71% | $3,098,330 | -$107,564 |
 | fantasy7788 | 31 | 20 | 1 | 61% | $2,922,148 | +$528,926 |
 | S-Works | 21 | 7 | 2 | 75% | $2,855,799 | -$135,969 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Buccaneers vs. Bears | Bears | 1.06 (94¢) | $35,432 | — | ⏳ Pendiente |
 | fantasy7788 | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $56,194 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $84,642 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.27 (44¢) | $32,000 | +$40,728 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.75 (57¢) | $369,066 | -$369,066 | ❌ Perdida |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.79 (56¢) | $31,942 | -$31,942 | ❌ Perdida |
-| zb8 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $29,636 | -$29,636 | ❌ Perdida |
