@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:34:53 (hora de Perú)
+Actualizado: 2026-11-08 20:36:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8169**  ($463,783,920 en total)
+- Apuestas registradas: **8171**  ($463,853,997 en total)
 - Resueltas: **8098** — 4960 ganadas / 3138 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 717
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 569 | 319 | 10 | 64% | $59,032,118 | +$299,616 |
 | Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 155 | 79 | 6 | 66% | $11,613,311 | +$773,295 |
+| Lakersfan111 | 155 | 79 | 7 | 66% | $11,649,265 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 135 | 68 | 1 | 67% | $8,775,176 | +$571,325 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $35,954 | — | ⏳ Pendiente |
+| mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $34,123 | — | ⏳ Pendiente |
 | 3648393489047 | Buccaneers vs. Bears | Bears | 1.35 (74¢) | $26,311 | — | ⏳ Pendiente |
 | presidentyake | Spread: Bears (-6.5) | Bears | 2.04 (49¢) | $49,143 | — | ⏳ Pendiente |
 | NOO-Yes | Jazz vs. Timberwolves | Timberwolves | 1.14 (88¢) | $47,520 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $49,972 | — | ⏳ Pendiente |
 | 999585 | Raiders vs. 49ers | 49ers | 1.06 (94¢) | $186,757 | +$11,921 | ✅ Ganada |
 | Jittz | Cardinals vs. Seahawks | Seahawks | 1.39 (72¢) | $25,820 | +$10,041 | ✅ Ganada |
-| vtcchampion52 | Game Handicap: BLG (-1.5) vs T1 (+1.5) | Bilibili Gaming | 2.78 (36¢) | $35,946 | — | ⏳ Pendiente |
-| ethanaz | Cardinals vs. Seahawks | Seahawks | 1.41 (71¢) | $27,036 | +$11,043 | ✅ Ganada |
