@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 19:30:15 (hora de Perú)
+Actualizado: 2026-11-08 19:32:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8156**  ($463,143,333 en total)
-- Resueltas: **8068** — 4940 ganadas / 3128 perdidas (**61%** de acierto)
-- Pendientes: 65
+- Apuestas registradas: **8157**  ($463,194,802 en total)
+- Resueltas: **8072** — 4944 ganadas / 3128 perdidas (**61%** de acierto)
+- Pendientes: 62
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,977,577** sobre $458,037,178 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,316** sobre $795,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,892,731** sobre $458,540,300 apostados (ROI **-0.8%**)
+- Copiando $100 fijo en cada una: **-$6,252** sobre $796,100 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,11 +25,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 566 | 319 | 11 | 64% | $58,886,254 | +$222,552 |
-| Sassy-Bucket | 116 | 114 | 3 | 50% | $15,677,371 | -$1,369,991 |
+| Sassy-Bucket | 117 | 114 | 2 | 51% | $15,677,371 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 155 | 79 | 5 | 66% | $11,561,841 | +$773,295 |
+| Lakersfan111 | 155 | 79 | 6 | 66% | $11,613,311 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 131 | 67 | 6 | 66% | $8,775,176 | +$561,376 |
+| ferrariChampions2026 | 132 | 67 | 5 | 66% | $8,775,176 | +$568,414 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Thunderous-Authoritarian-Snarl | 19 | 11 | 4 | 63% | $3,968,886 | -$926,306 |
-| 999585 | 31 | 4 | 1 | 89% | $3,940,787 | +$67,025 |
+| 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.89 (53¢) | $51,470 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Nets vs. Mavericks | Mavericks | 1.39 (72¢) | $31,851 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.85 (54¢) | $31,985 | — | ⏳ Pendiente |
 | S-Works | Jazz vs. Timberwolves: O/U 222.5 | Over 222.5 | 2.13 (47¢) | $56,400 | — | ⏳ Pendiente |
@@ -94,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | dsasdaas | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.92 (52¢) | $39,792 | — | ⏳ Pendiente |
 | mooseborzoi | Lightning vs. Jets | Lightning | 1.64 (61¢) | $42,208 | — | ⏳ Pendiente |
-| takeormake | Raiders vs. 49ers | 49ers | 1.08 (93¢) | $35,289 | — | ⏳ Pendiente |
+| takeormake | Raiders vs. 49ers | 49ers | 1.08 (93¢) | $35,289 | +$2,656 | ✅ Ganada |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.08 (48¢) | $58,420 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Seahawks | Seahawks | 1.23 (81¢) | $40,864 | — | ⏳ Pendiente |
 | ropetard | Spread: Mavericks (-9.5) | Mavericks | 2.33 (43¢) | $25,632 | — | ⏳ Pendiente |
@@ -114,7 +115,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $49,972 | — | ⏳ Pendiente |
-| 999585 | Raiders vs. 49ers | 49ers | 1.06 (94¢) | $186,757 | — | ⏳ Pendiente |
+| 999585 | Raiders vs. 49ers | 49ers | 1.06 (94¢) | $186,757 | +$11,921 | ✅ Ganada |
 | Jittz | Cardinals vs. Seahawks | Seahawks | 1.39 (72¢) | $25,820 | — | ⏳ Pendiente |
 | vtcchampion52 | Game Handicap: BLG (-1.5) vs T1 (+1.5) | Bilibili Gaming | 2.78 (36¢) | $35,946 | — | ⏳ Pendiente |
 | ethanaz | Cardinals vs. Seahawks | Seahawks | 1.41 (71¢) | $27,036 | — | ⏳ Pendiente |
@@ -123,11 +124,10 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.79 (56¢) | $25,480 | — | ⏳ Pendiente |
 | gmpm2 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $106,469 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $30,245 | — | ⏳ Pendiente |
-| Sassy-Bucket | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $252,925 | — | ⏳ Pendiente |
+| Sassy-Bucket | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $252,925 | +$63,231 | ✅ Ganada |
 | Donkey14 | Packers vs. Patriots | Patriots | 1.64 (61¢) | $66,426 | — | ⏳ Pendiente |
 | EdZachary | Spread: Patriots (-3.5) | Patriots | 2.13 (47¢) | $30,216 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Patriots: O/U 44.5 | Under 44.5 | 2.04 (49¢) | $48,495 | -$48,495 | ❌ Perdida |
 | milkteaboba | Texans vs. Chargers | Texans | 1.52 (66¢) | $36,700 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Saints | Saints | 1.14 (88¢) | $206,202 | +$28,119 | ✅ Ganada |
 | 0F62 | Rams vs. Commanders | Rams | 1.08 (93¢) | $47,312 | +$3,561 | ✅ Ganada |
-| 999585 | Rams vs. Commanders | Rams | 1.10 (91¢) | $217,744 | -$2,393 | 💰 Vendida antes |
