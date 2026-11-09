@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:03:46 (hora de Perú)
+Actualizado: 2026-11-08 20:05:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8164**  ($463,547,852 en total)
-- Resueltas: **8085** — 4955 ganadas / 3130 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Resueltas: **8088** — 4956 ganadas / 3132 perdidas (**61%** de acierto)
+- Pendientes: 53
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,889,761** sobre $459,187,944 apostados (ROI **-0.8%**)
-- Copiando $100 fijo en cada una: **-$6,045** sobre $797,400 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,976,857** sobre $459,360,200 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,239** sobre $797,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -29,7 +29,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 6 | 66% | $11,613,311 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 134 | 67 | 3 | 67% | $8,775,176 | +$591,995 |
+| ferrariChampions2026 | 135 | 68 | 1 | 67% | $8,775,176 | +$571,325 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | +$5,110 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | — | ⏳ Pendiente |
 | robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
