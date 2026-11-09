@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 14:24:48 (hora de Perú)
+Actualizado: 2026-11-09 18:41:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8190**  ($464,663,419 en total)
-- Resueltas: **8162** — 4995 ganadas / 3167 perdidas (**61%** de acierto)
+- Apuestas registradas: **8191**  ($464,701,669 en total)
+- Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
 - Pendientes: 5
 - Apostadores distintos: 718
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,449,152** sobre $463,486,162 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,107** sobre $805,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,477,289** sobre $463,514,299 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,207** sobre $805,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 3 | 64% | $59,153,400 | +$112,377 |
 | Sassy-Bucket | 117 | 117 | 2 | 50% | $15,829,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 157 | 85 | 0 | 65% | $11,677,315 | +$548,802 |
+| Lakersfan111 | 157 | 85 | 1 | 65% | $11,715,565 | +$548,802 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 136 | 68 | 0 | 67% | $8,775,176 | +$583,711 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | — | ⏳ Pendiente |
 | Zzzz87 | Spurs vs. Suns | Spurs | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
-| robustmst | Orleans: Clement Tabur vs Lukas Neumayer | Lukas Neumayer | 2.86 (35¢) | $28,137 | — | ⏳ Pendiente |
+| robustmst | Orleans: Clement Tabur vs Lukas Neumayer | Lukas Neumayer | 2.86 (35¢) | $28,137 | -$28,137 | ❌ Perdida |
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $99,304 | +$16,166 | ✅ Ganada |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $28,769 | +$4,683 | ✅ Ganada |
 | analdesutructor | Buccaneers vs. Bears | Bears | 1.14 (88¢) | $39,033 | +$5,323 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | mooseborzoi | Lightning vs. Jets | Lightning | 1.64 (61¢) | $42,208 | -$42,208 | ❌ Perdida |
 | takeormake | Raiders vs. 49ers | 49ers | 1.08 (93¢) | $35,289 | +$2,656 | ✅ Ganada |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.08 (48¢) | $58,420 | +$63,288 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Seahawks | Seahawks | 1.23 (81¢) | $40,864 | +$9,585 | ✅ Ganada |
