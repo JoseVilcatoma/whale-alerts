@@ -122505,7 +122505,7 @@
     "side": "BUY",
     "usd": 28824.336199999998,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794182050,
     "fills": 1
   },
@@ -122520,7 +122520,7 @@
     "side": "BUY",
     "usd": 38619.8394,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794182252,
     "fills": 1
   },
@@ -122745,7 +122745,7 @@
     "side": "BUY",
     "usd": 47520.0,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794186847,
     "fills": 1
   },
@@ -122942,6 +122942,21 @@
     "odds_at_bet": 94,
     "status": "pending",
     "ultimo_fill": 1794191428,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16541,
+    "timestamp": 1794192776,
+    "username": "robustmst",
+    "wallet": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+    "slug": "nba-nop-lac-2026-11-08",
+    "title": "Pelicans vs. Clippers",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 30509.359999999997,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1794192776,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 21:51:46 (hora de Perú)
+Actualizado: 2026-11-08 21:53:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8180**  ($464,252,058 en total)
-- Resueltas: **8124** — 4971 ganadas / 3153 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Apuestas registradas: **8181**  ($464,282,567 en total)
+- Resueltas: **8127** — 4974 ganadas / 3153 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,280,434** sobre $461,821,023 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$6,985** sobre $801,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,262,974** sobre $461,935,988 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$6,939** sobre $801,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 322 | 6 | 64% | $59,153,400 | +$283,659 |
 | Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 155 | 81 | 6 | 66% | $11,677,315 | +$685,281 |
+| Lakersfan111 | 157 | 81 | 4 | 66% | $11,677,315 | +$696,260 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 135 | 68 | 1 | 67% | $8,775,176 | +$571,325 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robustmst | Pelicans vs. Clippers | Pelicans | 2.50 (40¢) | $30,509 | — | ⏳ Pendiente |
 | 0F62 | Buccaneers vs. Bears | Bears | 1.06 (94¢) | $35,432 | — | ⏳ Pendiente |
 | fantasy7788 | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $56,194 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.96 (51¢) | $28,050 | — | ⏳ Pendiente |
@@ -84,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $34,123 | — | ⏳ Pendiente |
 | 3648393489047 | Buccaneers vs. Bears | Bears | 1.35 (74¢) | $26,311 | — | ⏳ Pendiente |
 | presidentyake | Spread: Bears (-6.5) | Bears | 2.04 (49¢) | $49,143 | — | ⏳ Pendiente |
-| NOO-Yes | Jazz vs. Timberwolves | Timberwolves | 1.14 (88¢) | $47,520 | — | ⏳ Pendiente |
+| NOO-Yes | Jazz vs. Timberwolves | Timberwolves | 1.14 (88¢) | $47,520 | +$6,480 | ✅ Ganada |
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $69,849 | — | ⏳ Pendiente |
 | lonmi2511 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.15 (87¢) | $43,245 | +$6,462 | ✅ Ganada |
 | Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | — | ⏳ Pendiente |
@@ -99,8 +100,8 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.85 (54¢) | $31,985 | — | ⏳ Pendiente |
 | S-Works | Jazz vs. Timberwolves: O/U 222.5 | Over 222.5 | 2.13 (47¢) | $56,400 | -$56,400 | ❌ Perdida |
 | zb8 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 1.89 (53¢) | $94,127 | -$94,127 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | +$6,287 | ✅ Ganada |
+| robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | +$4,692 | ✅ Ganada |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | -$48,000 | ❌ Perdida |
 | ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | +$5,110 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | -$324,917 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.33 (43¢) | $32,045 | +$42,479 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.27 (44¢) | $32,000 | +$40,728 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.75 (57¢) | $369,066 | -$369,066 | ❌ Perdida |
-| PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.79 (56¢) | $31,942 | -$31,942 | ❌ Perdida |
