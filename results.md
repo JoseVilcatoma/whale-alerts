@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 18:45:36 (hora de Perú)
+Actualizado: 2026-11-09 18:47:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8192**  ($464,774,137 en total)
+- Apuestas registradas: **8194**  ($464,883,412 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 8
 - Apostadores distintos: 718
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Lakers vs. Hawks | Lakers | 2.22 (45¢) | $35,776 | — | ⏳ Pendiente |
+| mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | — | ⏳ Pendiente |
 | Zzzz87 | Spurs vs. Suns | Spurs | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flyers vs. Flames | Flyers | 1.89 (53¢) | $109,107 | -$109,107 | ❌ Perdida |
 | dsasdaas | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.92 (52¢) | $39,792 | -$39,792 | ❌ Perdida |
-| mooseborzoi | Lightning vs. Jets | Lightning | 1.64 (61¢) | $42,208 | -$42,208 | ❌ Perdida |
-| takeormake | Raiders vs. 49ers | 49ers | 1.08 (93¢) | $35,289 | +$2,656 | ✅ Ganada |
