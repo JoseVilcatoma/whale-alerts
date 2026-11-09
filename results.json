@@ -122293,7 +122293,7 @@
     "side": "BUY",
     "usd": 109106.7063,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794178839,
     "fills": 1
   },
@@ -122957,6 +122957,21 @@
     "odds_at_bet": 40,
     "status": "pending",
     "ultimo_fill": 1794192776,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16542,
+    "timestamp": 1794193952,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-mia-sac-2026-11-08",
+    "title": "Heat vs. Kings",
+    "outcome": "Heat",
+    "side": "BUY",
+    "usd": 42340.343467000006,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1794193952,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 22:12:27 (hora de Perú)
+Actualizado: 2026-11-08 22:14:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8181**  ($464,282,567 en total)
-- Resueltas: **8127** — 4974 ganadas / 3153 perdidas (**61%** de acierto)
+- Apuestas registradas: **8182**  ($464,324,907 en total)
+- Resueltas: **8128** — 4974 ganadas / 3154 perdidas (**61%** de acierto)
 - Pendientes: 31
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,262,974** sobre $461,935,988 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$6,939** sobre $801,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,372,081** sobre $462,045,094 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,039** sobre $801,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Heat vs. Kings | Heat | 1.14 (88¢) | $42,340 | — | ⏳ Pendiente |
 | robustmst | Pelicans vs. Clippers | Pelicans | 2.50 (40¢) | $30,509 | — | ⏳ Pendiente |
 | 0F62 | Buccaneers vs. Bears | Bears | 1.06 (94¢) | $35,432 | — | ⏳ Pendiente |
 | fantasy7788 | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $56,194 | — | ⏳ Pendiente |
@@ -115,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.69 (59¢) | $325,672 | -$325,672 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.72 (58¢) | $57,398 | -$57,398 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.39 (72¢) | $26,755 | +$10,405 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flyers vs. Flames | Flyers | 1.89 (53¢) | $109,107 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flyers vs. Flames | Flyers | 1.89 (53¢) | $109,107 | -$109,107 | ❌ Perdida |
 | dsasdaas | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.92 (52¢) | $39,792 | -$39,792 | ❌ Perdida |
 | mooseborzoi | Lightning vs. Jets | Lightning | 1.64 (61¢) | $42,208 | -$42,208 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | dromedaryy | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.33 (43¢) | $32,045 | +$42,479 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.27 (44¢) | $32,000 | +$40,728 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.75 (57¢) | $369,066 | -$369,066 | ❌ Perdida |
