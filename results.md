@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 19:11:29 (hora de Perú)
+Actualizado: 2026-11-08 19:13:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8154**  ($463,079,497 en total)
-- Resueltas: **8067** — 4940 ganadas / 3127 perdidas (**61%** de acierto)
-- Pendientes: 64
+- Resueltas: **8068** — 4940 ganadas / 3128 perdidas (**61%** de acierto)
+- Pendientes: 63
 - Apostadores distintos: 716
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,887,242** sobre $457,872,722 apostados (ROI **-0.8%**)
+- **Resultado de los apostadores: -$3,977,577** sobre $458,037,178 apostados (ROI **-0.9%**)
 - Copiando $100 fijo en cada una: **-$6,316** sobre $795,700 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | — | ⏳ Pendiente |
 | ch27er | Spread: Pistons (-6.5) | Pistons | 1.75 (57¢) | $25,000 | — | ⏳ Pendiente |
-| winner877 | Lakers vs. Pistons | Pistons | 1.41 (71¢) | $164,456 | — | ⏳ Pendiente |
+| winner877 | Lakers vs. Pistons | Pistons | 1.41 (71¢) | $164,456 | -$90,335 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.69 (59¢) | $325,672 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.72 (58¢) | $57,398 | — | ⏳ Pendiente |
