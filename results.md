@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 22:22:46 (hora de Perú)
+Actualizado: 2026-11-08 22:24:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8183**  ($464,365,653 en total)
+- Apuestas registradas: **8184**  ($464,402,474 en total)
 - Resueltas: **8128** — 4974 ganadas / 3154 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 717
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 76 | 32 | 0 | 70% | $6,463,356 | -$144,853 |
+| ethanaz | 76 | 32 | 1 | 70% | $6,500,177 | -$144,853 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Buccaneers vs. Bears | Bears | 1.32 (76¢) | $36,821 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.25 (80¢) | $40,746 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Heat vs. Kings | Heat | 1.14 (88¢) | $42,340 | — | ⏳ Pendiente |
 | robustmst | Pelicans vs. Clippers | Pelicans | 2.50 (40¢) | $30,509 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | keeptheblueflagflyinghigh | Golden Knights vs. Sabres | Golden Knights | 1.12 (89¢) | $81,807 | +$10,111 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Cardinals vs. Seahawks | Seahawks | 1.25 (80¢) | $31,091 | +$7,773 | ✅ Ganada |
 | dromedaryy | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.33 (43¢) | $32,045 | +$42,479 | ✅ Ganada |
