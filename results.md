@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 22:57:45 (hora de Perú)
+Actualizado: 2026-11-08 22:59:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8186**  ($464,468,710 en total)
+- Apuestas registradas: **8187**  ($464,497,479 en total)
 - Resueltas: **8137** — 4981 ganadas / 3156 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 718
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 76 | 32 | 1 | 70% | $6,500,177 | -$144,853 |
+| ethanaz | 76 | 32 | 2 | 70% | $6,528,945 | -$144,853 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $28,769 | — | ⏳ Pendiente |
 | analdesutructor | Buccaneers vs. Bears | Bears | 1.14 (88¢) | $39,033 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Buccaneers vs. Bears | Bears | 1.12 (89¢) | $27,203 | — | ⏳ Pendiente |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.32 (76¢) | $36,821 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | ropetard | Spread: Mavericks (-9.5) | Mavericks | 2.33 (43¢) | $25,632 | +$33,977 | ✅ Ganada |
 | ropetard | Spread: Mavericks (-8.5) | Mavericks | 2.17 (46¢) | $34,407 | +$40,391 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Mavericks (-7.5) | Nets | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Golden Knights vs. Sabres | Golden Knights | 1.12 (89¢) | $81,807 | +$10,111 | ✅ Ganada |
