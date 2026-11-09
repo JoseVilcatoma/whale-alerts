@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:39:02 (hora de Perú)
+Actualizado: 2026-11-08 20:41:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8173**  ($463,941,633 en total)
+- Apuestas registradas: **8174**  ($463,978,274 en total)
 - Resueltas: **8098** — 4960 ganadas / 3138 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 717
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 569 | 319 | 10 | 64% | $59,032,118 | +$299,616 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 569 | 319 | 11 | 64% | $59,068,758 | +$299,616 |
 | Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 7 | 66% | $11,649,265 | +$773,295 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bears (-6.5) | Bears | 1.52 (66¢) | $36,641 | — | ⏳ Pendiente |
 | Donkey14 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $26,005 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Pelicans (-1.5) | Clippers | 2.00 (50¢) | $61,631 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $35,954 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | KateBollinger | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.17 (46¢) | $35,788 | +$8,558 | 💰 Vendida antes |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $40,000 | -$40,000 | ❌ Perdida |
-| RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $49,972 | — | ⏳ Pendiente |
