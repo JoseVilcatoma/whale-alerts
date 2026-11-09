@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 18:47:38 (hora de Perú)
+Actualizado: 2026-11-09 18:49:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8194**  ($464,883,412 en total)
+- Apuestas registradas: **8195**  ($464,915,954 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 718
 
 ### Balance
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Multicoloured-Serf | 25 | 24 | 0 | 51% | $2,398,849 | -$356,557 |
+| Multicoloured-Serf | 25 | 24 | 1 | 51% | $2,431,391 | -$356,557 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 
 _(mostrando los 40 de mayor monto, de 718 en total)_
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Spread: Cavaliers (-8.5) | Cavaliers | 2.08 (48¢) | $32,542 | — | ⏳ Pendiente |
 | RJW1 | Lakers vs. Hawks | Lakers | 2.22 (45¢) | $35,776 | — | ⏳ Pendiente |
 | mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.39 (72¢) | $26,755 | +$10,405 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flyers vs. Flames | Flyers | 1.89 (53¢) | $109,107 | -$109,107 | ❌ Perdida |
 | dsasdaas | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $28,400 | +$11,600 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.92 (52¢) | $39,792 | -$39,792 | ❌ Perdida |
