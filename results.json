@@ -122763,5 +122763,20 @@
     "status": "pending",
     "ultimo_fill": 1794187107,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16500,
+    "timestamp": 1794187483,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "nfl-tb-chi-2026-11-09",
+    "title": "Buccaneers vs. Bears",
+    "outcome": "Bears",
+    "side": "BUY",
+    "usd": 26310.7,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794187483,
+    "fills": 1
   }
 ]
