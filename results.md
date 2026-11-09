@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:57:52 (hora de Perú)
+Actualizado: 2026-11-08 20:59:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8179**  ($464,216,625 en total)
-- Resueltas: **8098** — 4960 ganadas / 3138 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Resueltas: **8101** — 4960 ganadas / 3141 perdidas (**61%** de acierto)
+- Pendientes: 55
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,372,828** sobre $460,018,169 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$6,384** sobre $798,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$4,764,953** sobre $460,410,294 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$6,684** sobre $799,000 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -102,12 +102,12 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | +$5,110 | ✅ Ganada |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | — | ⏳ Pendiente |
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | -$324,917 | ❌ Perdida |
 | robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | -$38,848 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | — | ⏳ Pendiente |
-| ch27er | Spread: Pistons (-6.5) | Pistons | 1.75 (57¢) | $25,000 | — | ⏳ Pendiente |
+| ch27er | Spread: Pistons (-6.5) | Pistons | 1.75 (57¢) | $25,000 | -$25,000 | ❌ Perdida |
 | winner877 | Lakers vs. Pistons | Pistons | 1.41 (71¢) | $164,456 | -$90,335 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.69 (59¢) | $325,672 | — | ⏳ Pendiente |
@@ -116,7 +116,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Flyers vs. Flames | Flyers | 1.89 (53¢) | $109,107 | — | ⏳ Pendiente |
 | dsasdaas | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $28,400 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.92 (52¢) | $39,792 | — | ⏳ Pendiente |
-| mooseborzoi | Lightning vs. Jets | Lightning | 1.64 (61¢) | $42,208 | — | ⏳ Pendiente |
+| mooseborzoi | Lightning vs. Jets | Lightning | 1.64 (61¢) | $42,208 | -$42,208 | ❌ Perdida |
 | takeormake | Raiders vs. 49ers | 49ers | 1.08 (93¢) | $35,289 | +$2,656 | ✅ Ganada |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.08 (48¢) | $58,420 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Seahawks | Seahawks | 1.23 (81¢) | $40,864 | +$9,585 | ✅ Ganada |
