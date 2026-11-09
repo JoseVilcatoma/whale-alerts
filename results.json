@@ -123063,5 +123063,20 @@
     "status": "won",
     "ultimo_fill": 1794197237,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16586,
+    "timestamp": 1794249398,
+    "username": "robustmst",
+    "wallet": "0xebfdb8164f0e0748818d6c7a9ac85a323267fd63",
+    "slug": "atp-tabur-neumaye-2026-11-09",
+    "title": "Orleans: Clement Tabur vs Lukas Neumayer",
+    "outcome": "Lukas Neumayer",
+    "side": "BUY",
+    "usd": 28136.6846,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1794249398,
+    "fills": 1
   }
 ]
