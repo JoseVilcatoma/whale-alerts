@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:36:57 (hora de Perú)
+Actualizado: 2026-11-08 20:39:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8171**  ($463,853,997 en total)
+- Apuestas registradas: **8173**  ($463,941,633 en total)
 - Resueltas: **8098** — 4960 ganadas / 3138 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 52
 - Apostadores distintos: 717
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $26,005 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Pelicans (-1.5) | Clippers | 2.00 (50¢) | $61,631 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $35,954 | — | ⏳ Pendiente |
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $34,123 | — | ⏳ Pendiente |
 | 3648393489047 | Buccaneers vs. Bears | Bears | 1.35 (74¢) | $26,311 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $40,000 | -$40,000 | ❌ Perdida |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $49,972 | — | ⏳ Pendiente |
-| 999585 | Raiders vs. 49ers | 49ers | 1.06 (94¢) | $186,757 | +$11,921 | ✅ Ganada |
-| Jittz | Cardinals vs. Seahawks | Seahawks | 1.39 (72¢) | $25,820 | +$10,041 | ✅ Ganada |

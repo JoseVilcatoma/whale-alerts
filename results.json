@@ -122808,5 +122808,35 @@
     "status": "pending",
     "ultimo_fill": 1794188197,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16503,
+    "timestamp": 1794188242,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-nop-lac-2026-11-08-spread-away-1pt5",
+    "title": "Spread: Pelicans (-1.5)",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 61631.0384,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794188276,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 16504,
+    "timestamp": 1794188316,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-nop-lac-2026-11-08",
+    "title": "Pelicans vs. Clippers",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 26005.3924,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794188316,
+    "fills": 1
   }
 ]
