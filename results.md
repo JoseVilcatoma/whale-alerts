@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 19:47:02 (hora de Perú)
+Actualizado: 2026-11-08 19:49:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8157**  ($463,194,802 en total)
+- Apuestas registradas: **8159**  ($463,340,666 en total)
 - Resueltas: **8078** — 4950 ganadas / 3128 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 58
 - Apostadores distintos: 716
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 567 | 319 | 10 | 64% | $58,886,254 | +$232,137 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 567 | 319 | 12 | 64% | $59,032,118 | +$232,137 |
 | Sassy-Bucket | 117 | 114 | 2 | 51% | $15,677,371 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 6 | 66% | $11,613,311 | +$773,295 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.00 (50¢) | $29,171 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.35 (74¢) | $116,692 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.89 (53¢) | $51,470 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Nets vs. Mavericks | Mavericks | 1.39 (72¢) | $31,851 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.85 (54¢) | $31,985 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | EdZachary | Spread: Patriots (-3.5) | Patriots | 2.13 (47¢) | $30,216 | — | ⏳ Pendiente |
 | gmpm2 | Packers vs. Patriots: O/U 44.5 | Under 44.5 | 2.04 (49¢) | $48,495 | -$48,495 | ❌ Perdida |
 | milkteaboba | Texans vs. Chargers | Texans | 1.52 (66¢) | $36,700 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Browns vs. Saints | Saints | 1.14 (88¢) | $206,202 | +$28,119 | ✅ Ganada |
-| 0F62 | Rams vs. Commanders | Rams | 1.08 (93¢) | $47,312 | +$3,561 | ✅ Ganada |
