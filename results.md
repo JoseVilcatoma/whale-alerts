@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 19:55:20 (hora de Perú)
+Actualizado: 2026-11-08 19:57:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8161**  ($463,423,658 en total)
+- Apuestas registradas: **8164**  ($463,547,852 en total)
 - Resueltas: **8084** — 4955 ganadas / 3129 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 57
 - Apostadores distintos: 716
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 568 | 319 | 11 | 64% | $59,032,118 | +$257,137 |
-| Sassy-Bucket | 117 | 114 | 3 | 51% | $15,725,324 | -$1,306,760 |
+| Sassy-Bucket | 117 | 114 | 4 | 51% | $15,759,557 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 6 | 66% | $11,613,311 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
-| Thunderous-Authoritarian-Snarl | 19 | 11 | 4 | 63% | $3,968,886 | -$926,306 |
+| Thunderous-Authoritarian-Snarl | 19 | 11 | 5 | 63% | $4,008,362 | -$926,306 |
 | 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | — | ⏳ Pendiente |
+| solo88888 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $50,484 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.13 (47¢) | $39,477 | — | ⏳ Pendiente |
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $47,953 | — | ⏳ Pendiente |
 | KateBollinger | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 1.85 (54¢) | $35,040 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.00 (50¢) | $29,171 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.79 (56¢) | $25,480 | — | ⏳ Pendiente |
 | gmpm2 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $106,469 | +$28,302 | ✅ Ganada |
 | ferrariChampions2026 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $30,245 | +$8,040 | ✅ Ganada |
-| Sassy-Bucket | Raiders vs. 49ers | 49ers | 1.25 (80¢) | $252,925 | +$63,231 | ✅ Ganada |
-| Donkey14 | Packers vs. Patriots | Patriots | 1.64 (61¢) | $66,426 | — | ⏳ Pendiente |
-| EdZachary | Spread: Patriots (-3.5) | Patriots | 2.13 (47¢) | $30,216 | — | ⏳ Pendiente |
