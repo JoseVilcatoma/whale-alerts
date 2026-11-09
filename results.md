@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:14:11 (hora de Perú)
+Actualizado: 2026-11-08 20:16:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8167**  ($463,708,466 en total)
-- Resueltas: **8088** — 4956 ganadas / 3132 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Resueltas: **8097** — 4960 ganadas / 3137 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$3,976,857** sobre $459,360,200 apostados (ROI **-0.9%**)
-- Copiando $100 fijo en cada una: **-$6,239** sobre $797,700 (ROI **-0.8%**)
+- **Resultado de los apostadores: -$4,333,981** sobre $459,979,322 apostados (ROI **-0.9%**)
+- Copiando $100 fijo en cada una: **-$6,284** sobre $798,600 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 568 | 319 | 11 | 64% | $59,032,118 | +$257,137 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 569 | 319 | 10 | 64% | $59,032,118 | +$299,616 |
 | Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 6 | 66% | $11,613,311 | +$773,295 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
-| Thunderous-Authoritarian-Snarl | 19 | 11 | 5 | 63% | $4,008,362 | -$926,306 |
+| Thunderous-Authoritarian-Snarl | 19 | 12 | 4 | 61% | $4,008,362 | -$1,295,372 |
 | 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
 | cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 37 | 8 | 0 | 82% | $3,155,658 | -$345,619 |
 | TAIWANNUMBERONE | 59 | 24 | 0 | 71% | $3,098,330 | -$107,564 |
-| fantasy7788 | 30 | 19 | 2 | 61% | $2,865,954 | +$505,637 |
+| fantasy7788 | 30 | 20 | 1 | 60% | $2,865,954 | +$465,637 |
 | S-Works | 21 | 7 | 2 | 75% | $2,855,799 | -$135,969 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
@@ -113,21 +113,21 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Mavericks (-7.5) | Nets | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Golden Knights vs. Sabres | Golden Knights | 1.12 (89¢) | $81,807 | +$10,111 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Cardinals vs. Seahawks | Seahawks | 1.25 (80¢) | $31,091 | +$7,773 | ✅ Ganada |
-| dromedaryy | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.33 (43¢) | $32,045 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.27 (44¢) | $32,000 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.75 (57¢) | $369,066 | — | ⏳ Pendiente |
-| PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.79 (56¢) | $31,942 | — | ⏳ Pendiente |
-| zb8 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $29,636 | — | ⏳ Pendiente |
-| VPenguin | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.13 (47¢) | $30,431 | — | ⏳ Pendiente |
+| dromedaryy | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.33 (43¢) | $32,045 | +$42,479 | ✅ Ganada |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.27 (44¢) | $32,000 | +$40,728 | ✅ Ganada |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.75 (57¢) | $369,066 | -$369,066 | ❌ Perdida |
+| PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.79 (56¢) | $31,942 | -$31,942 | ❌ Perdida |
+| zb8 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $29,636 | -$29,636 | ❌ Perdida |
+| VPenguin | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 2.13 (47¢) | $30,431 | +$34,315 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | T1 | 2.27 (44¢) | $94,072 | — | ⏳ Pendiente |
 | KateBollinger | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.17 (46¢) | $35,788 | +$8,558 | 💰 Vendida antes |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
-| fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $40,000 | — | ⏳ Pendiente |
+| fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 2.13 (47¢) | $40,000 | -$40,000 | ❌ Perdida |
 | RJW1 | Spread: Mavericks (-7.5) | Mavericks | 2.00 (50¢) | $49,972 | — | ⏳ Pendiente |
 | 999585 | Raiders vs. 49ers | 49ers | 1.06 (94¢) | $186,757 | +$11,921 | ✅ Ganada |
 | Jittz | Cardinals vs. Seahawks | Seahawks | 1.39 (72¢) | $25,820 | +$10,041 | ✅ Ganada |
 | vtcchampion52 | Game Handicap: BLG (-1.5) vs T1 (+1.5) | Bilibili Gaming | 2.78 (36¢) | $35,946 | — | ⏳ Pendiente |
 | ethanaz | Cardinals vs. Seahawks | Seahawks | 1.41 (71¢) | $27,036 | +$11,043 | ✅ Ganada |
-| Zzzz87 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
+| Zzzz87 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 1.82 (55¢) | $27,500 | +$22,500 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Chargers | Texans | 1.33 (75¢) | $75,000 | +$25,000 | ✅ Ganada |
