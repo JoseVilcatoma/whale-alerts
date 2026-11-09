@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:12:06 (hora de Perú)
+Actualizado: 2026-11-08 20:14:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8165**  ($463,591,097 en total)
+- Apuestas registradas: **8167**  ($463,708,466 en total)
 - Resueltas: **8088** — 4956 ganadas / 3132 perdidas (**61%** de acierto)
-- Pendientes: 54
-- Apostadores distintos: 716
+- Pendientes: 56
+- Apostadores distintos: 717
 
 ### Balance
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 568 | 319 | 11 | 64% | $59,032,118 | +$257,137 |
-| Sassy-Bucket | 117 | 114 | 4 | 51% | $15,759,557 | -$1,306,760 |
+| Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 155 | 79 | 6 | 66% | $11,613,311 | +$773,295 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 | Noprajsk | 14 | 10 | 0 | 58% | $2,310,389 | +$108,157 |
 
-_(mostrando los 40 de mayor monto, de 716 en total)_
+_(mostrando los 40 de mayor monto, de 717 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| NOO-Yes | Jazz vs. Timberwolves | Timberwolves | 1.14 (88¢) | $47,520 | — | ⏳ Pendiente |
+| Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $69,849 | — | ⏳ Pendiente |
 | lonmi2511 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.15 (87¢) | $43,245 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | — | ⏳ Pendiente |
 | solo88888 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $50,484 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | ethanaz | Cardinals vs. Seahawks | Seahawks | 1.41 (71¢) | $27,036 | +$11,043 | ✅ Ganada |
 | Zzzz87 | LoL: Bilibili Gaming vs T1 - Game 1 Winner | Bilibili Gaming | 1.82 (55¢) | $27,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Chargers | Texans | 1.33 (75¢) | $75,000 | +$25,000 | ✅ Ganada |
-| vtcchampion52 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.79 (56¢) | $25,480 | — | ⏳ Pendiente |
-| gmpm2 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $106,469 | +$28,302 | ✅ Ganada |

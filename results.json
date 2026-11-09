@@ -122718,5 +122718,35 @@
     "status": "pending",
     "ultimo_fill": 1794186431,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16487,
+    "timestamp": 1794186739,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-tb-chi-2026-11-09-total-46pt5",
+    "title": "Buccaneers vs. Bears: O/U 46.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 69849.0768,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794186739,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16488,
+    "timestamp": 1794186847,
+    "username": "NOO-Yes",
+    "wallet": "0x97861652298fa6e2121b01f5a7c21bd3ac1fde36",
+    "slug": "nba-uta-min-2026-11-08",
+    "title": "Jazz vs. Timberwolves",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 47520.0,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1794186847,
+    "fills": 1
   }
 ]
