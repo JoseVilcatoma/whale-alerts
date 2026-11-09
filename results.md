@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 18:59:10 (hora de Perú)
+Actualizado: 2026-11-08 19:01:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8153**  ($462,970,590 en total)
+- Apuestas registradas: **8153**  ($463,023,097 en total)
 - Resueltas: **8067** — 4940 ganadas / 3127 perdidas (**61%** de acierto)
 - Pendientes: 63
 - Apostadores distintos: 716
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| zb8 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 1.92 (52¢) | $41,621 | — | ⏳ Pendiente |
+| zb8 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 1.89 (53¢) | $94,127 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | — | ⏳ Pendiente |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
