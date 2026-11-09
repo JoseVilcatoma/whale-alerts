@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 22:24:51 (hora de Perú)
+Actualizado: 2026-11-08 22:26:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8184**  ($464,402,474 en total)
-- Resueltas: **8128** — 4974 ganadas / 3154 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **8135** — 4980 ganadas / 3155 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 717
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,372,081** sobre $462,045,094 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,039** sobre $801,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,228,562** sobre $462,322,355 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$6,613** sobre $802,400 (ROI **-0.8%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,12 +24,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 322 | 6 | 64% | $59,153,400 | +$283,659 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 323 | 5 | 64% | $59,153,400 | +$233,659 |
 | Sassy-Bucket | 117 | 114 | 5 | 51% | $15,829,406 | -$1,306,760 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 157 | 81 | 4 | 66% | $11,677,315 | +$696,260 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
-| ferrariChampions2026 | 135 | 68 | 1 | 67% | $8,775,176 | +$571,325 |
+| ferrariChampions2026 | 136 | 68 | 0 | 67% | $8,775,176 | +$583,711 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 98 | 93 | 0 | 51% | $7,655,495 | -$653,952 |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.00 (50¢) | $29,171 | -$29,171 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.35 (74¢) | $116,692 | +$41,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.89 (53¢) | $51,470 | — | ⏳ Pendiente |
-| ferrariChampions2026 | Nets vs. Mavericks | Mavericks | 1.39 (72¢) | $31,851 | — | ⏳ Pendiente |
+| ferrariChampions2026 | Nets vs. Mavericks | Mavericks | 1.39 (72¢) | $31,851 | +$12,386 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.85 (54¢) | $31,985 | — | ⏳ Pendiente |
 | S-Works | Jazz vs. Timberwolves: O/U 222.5 | Over 222.5 | 2.13 (47¢) | $56,400 | -$56,400 | ❌ Perdida |
 | zb8 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 1.89 (53¢) | $94,127 | -$94,127 | ❌ Perdida |
@@ -111,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | -$38,848 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | -$32,811 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | +$16,791 | ✅ Ganada |
 | ch27er | Spread: Pistons (-6.5) | Pistons | 1.75 (57¢) | $25,000 | -$25,000 | ❌ Perdida |
 | winner877 | Lakers vs. Pistons | Pistons | 1.41 (71¢) | $164,456 | -$90,335 | 💰 Vendida antes |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.44 (41¢) | $41,000 | +$59,000 | ✅ Ganada |
@@ -125,9 +125,9 @@ _(mostrando los 40 de mayor monto, de 717 en total)_
 | takeormake | Raiders vs. 49ers | 49ers | 1.08 (93¢) | $35,289 | +$2,656 | ✅ Ganada |
 | fantasy7788 | LoL: Bilibili Gaming vs T1 - Game 2 Winner | T1 | 2.08 (48¢) | $58,420 | +$63,288 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Cardinals vs. Seahawks | Seahawks | 1.23 (81¢) | $40,864 | +$9,585 | ✅ Ganada |
-| ropetard | Spread: Mavericks (-9.5) | Mavericks | 2.33 (43¢) | $25,632 | — | ⏳ Pendiente |
-| ropetard | Spread: Mavericks (-8.5) | Mavericks | 2.17 (46¢) | $34,407 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Mavericks (-7.5) | Nets | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
+| ropetard | Spread: Mavericks (-9.5) | Mavericks | 2.33 (43¢) | $25,632 | +$33,977 | ✅ Ganada |
+| ropetard | Spread: Mavericks (-8.5) | Mavericks | 2.17 (46¢) | $34,407 | +$40,391 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Mavericks (-7.5) | Nets | 2.00 (50¢) | $50,000 | -$50,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Golden Knights vs. Sabres | Golden Knights | 1.12 (89¢) | $81,807 | +$10,111 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Cardinals vs. Seahawks | Seahawks | 1.25 (80¢) | $31,091 | +$7,773 | ✅ Ganada |
 | dromedaryy | LoL: Bilibili Gaming vs T1 - Game 1 Winner | T1 | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
