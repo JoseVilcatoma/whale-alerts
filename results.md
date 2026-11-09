@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-08 20:05:54 (hora de Perú)
+Actualizado: 2026-11-08 20:07:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8164**  ($463,547,852 en total)
+- Apuestas registradas: **8165**  ($463,591,097 en total)
 - Resueltas: **8088** — 4956 ganadas / 3132 perdidas (**61%** de acierto)
-- Pendientes: 53
+- Pendientes: 54
 - Apostadores distintos: 716
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lonmi2511 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.15 (87¢) | $43,245 | — | ⏳ Pendiente |
 | Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | — | ⏳ Pendiente |
 | solo88888 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $50,484 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.13 (47¢) | $39,477 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 716 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Texans vs. Chargers | Texans | 1.33 (75¢) | $75,000 | +$25,000 | ✅ Ganada |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.79 (56¢) | $25,480 | — | ⏳ Pendiente |
 | gmpm2 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $106,469 | +$28,302 | ✅ Ganada |
-| ferrariChampions2026 | Cardinals vs. Seahawks | Seahawks | 1.27 (79¢) | $30,245 | +$8,040 | ✅ Ganada |
