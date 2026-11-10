@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 22:45:05 (hora de Perú)
+Actualizado: 2026-11-09 22:47:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8224**  ($466,481,199 en total)
+- Apuestas registradas: **8225**  ($466,525,699 en total)
 - Resueltas: **8174** — 4999 ganadas / 3175 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
 | MD14 | Nuggets vs. Rockets: O/U 212.5 | Under 212.5 | 1.18 (85¢) | $40,832 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Vikings | Bills | 1.43 (70¢) | $51,333 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Vikings | Bills | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | presidentyake | Spread: Bears (-6.5) | Bears | 2.04 (49¢) | $49,143 | -$49,143 | ❌ Perdida |
 | NOO-Yes | Jazz vs. Timberwolves | Timberwolves | 1.14 (88¢) | $47,520 | +$6,480 | ✅ Ganada |
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $69,849 | -$69,849 | ❌ Perdida |
-| lonmi2511 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.15 (87¢) | $43,245 | +$6,462 | ✅ Ganada |
