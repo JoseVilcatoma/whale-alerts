@@ -123558,5 +123558,20 @@
     "status": "pending",
     "ultimo_fill": 1794277899,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16628,
+    "timestamp": 1794279220,
+    "username": "cosmicxbt",
+    "wallet": "0x9ee49c02ae1ade698bf9e06d4ca271f236b8697b",
+    "slug": "nfl-buf-min-2026-11-10",
+    "title": "Bills vs. Vikings",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 71000.0,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1794279220,
+    "fills": 1
   }
 ]

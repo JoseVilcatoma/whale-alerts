@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 21:52:02 (hora de Perú)
+Actualizado: 2026-11-09 21:54:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8221**  ($466,318,034 en total)
+- Apuestas registradas: **8222**  ($466,389,034 en total)
 - Resueltas: **8170** — 4997 ganadas / 3173 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 720
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 0 | 54% | $4,008,362 | -$1,787,405 |
 | 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
 | Woaifacai | 41 | 12 | 0 | 77% | $3,840,629 | +$696,261 |
-| cosmicxbt | 26 | 9 | 0 | 74% | $3,725,481 | -$285,144 |
+| cosmicxbt | 26 | 9 | 1 | 74% | $3,796,481 | -$285,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Bills vs. Vikings | Bills | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.32 (76¢) | $46,800 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Nuggets vs. Rockets | Rockets | 1.14 (88¢) | $26,539 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Vikings | Bills | 1.64 (61¢) | $39,563 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | lonmi2511 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.15 (87¢) | $43,245 | +$6,462 | ✅ Ganada |
 | Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | -$34,233 | ❌ Perdida |
 | solo88888 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $50,484 | +$50,484 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.13 (47¢) | $39,477 | -$39,477 | ❌ Perdida |
