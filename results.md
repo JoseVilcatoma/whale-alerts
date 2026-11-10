@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 23:46:46 (hora de Perú)
+Actualizado: 2026-11-09 23:48:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8226**  ($466,552,224 en total)
-- Resueltas: **8197** — 5017 ganadas / 3180 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **8199** — 5019 ganadas / 3180 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,516,476** sobre $465,362,397 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,216** sobre $808,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,467,640** sobre $465,415,303 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,031** sobre $808,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 93 | 0 | 52% | $7,683,429 | -$634,541 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 78 | 32 | 1 | 71% | $6,555,471 | -$128,542 |
+| ethanaz | 79 | 32 | 0 | 71% | $6,555,471 | -$104,057 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | — | ⏳ Pendiente |
+| ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | +$24,485 | ✅ Ganada |
 | EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | MD14 | Nuggets vs. Rockets: O/U 212.5 | Under 212.5 | 1.18 (85¢) | $40,832 | +$7,206 | ✅ Ganada |
 | cosmicxbt | Bills vs. Vikings | Bills | 1.43 (70¢) | $51,333 | +$22,000 | ✅ Ganada |
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Sassy-Bucket | Bills vs. Vikings | Bills | 1.56 (64¢) | $192,000 | +$108,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Vikings | Bills | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $121,000 | -$121,000 | ❌ Perdida |
-| cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | — | ⏳ Pendiente |
+| cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | +$24,351 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | +$76,271 | ✅ Ganada |
 | EdZachary | Pacers vs. Mavericks | Mavericks | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $110,825 | -$110,825 | ❌ Perdida |
