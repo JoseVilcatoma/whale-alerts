@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 00:38:52 (hora de Perú)
+Actualizado: 2026-11-10 00:40:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8227**  ($466,597,279 en total)
-- Resueltas: **8200** — 5019 ganadas / 3181 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **8201** — 5020 ganadas / 3181 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,493,941** sobre $465,441,603 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,131** sobre $808,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,488,373** sobre $465,486,658 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,119** sobre $809,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | — | ⏳ Pendiente |
+| MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | +$5,569 | ✅ Ganada |
 | ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | +$24,485 | ✅ Ganada |
 | EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | MD14 | Nuggets vs. Rockets: O/U 212.5 | Under 212.5 | 1.18 (85¢) | $40,832 | +$7,206 | ✅ Ganada |
