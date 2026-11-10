@@ -123468,5 +123468,35 @@
     "status": "pending",
     "ultimo_fill": 1794275733,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16615,
+    "timestamp": 1794275939,
+    "username": "DitieForlan",
+    "wallet": "0x5cf0f41c26e4a02023ca5a57612fc6210e583d38",
+    "slug": "nba-sas-phx-2026-11-09",
+    "title": "Spurs vs. Suns",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 27735.8808,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "ultimo_fill": 1794275939,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16616,
+    "timestamp": 1794276034,
+    "username": "Novelty8",
+    "wallet": "0x5c035da7d3df55a0458706830c542eda097a31bb",
+    "slug": "nba-sas-phx-2026-11-09",
+    "title": "Spurs vs. Suns",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1794276034,
+    "fills": 1
   }
 ]

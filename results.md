@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 20:58:41 (hora de Perú)
+Actualizado: 2026-11-09 21:00:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8215**  ($466,075,862 en total)
+- Apuestas registradas: **8217**  ($466,133,598 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 29
-- Apostadores distintos: 719
+- Pendientes: 31
+- Apostadores distintos: 720
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Multicoloured-Serf | 25 | 24 | 1 | 51% | $2,431,391 | -$356,557 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 
-_(mostrando los 40 de mayor monto, de 719 en total)_
+_(mostrando los 40 de mayor monto, de 720 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Novelty8 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
+| DitieForlan | Spurs vs. Suns | Suns | 4.17 (24¢) | $27,736 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.32 (76¢) | $82,722 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Vikings | Bills | 1.69 (59¢) | $27,934 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 719 en total)_
 | KateBollinger | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 1.85 (54¢) | $35,040 | +$29,849 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.00 (50¢) | $29,171 | -$29,171 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.35 (74¢) | $116,692 | +$41,000 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.89 (53¢) | $51,470 | -$51,470 | ❌ Perdida |
-| ferrariChampions2026 | Nets vs. Mavericks | Mavericks | 1.39 (72¢) | $31,851 | +$12,386 | ✅ Ganada |
