@@ -123318,5 +123318,35 @@
     "status": "pending",
     "ultimo_fill": 1794272226,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16605,
+    "timestamp": 1794272377,
+    "username": "EdZachary",
+    "wallet": "0xe5b70fd855af9258d9463992e4f1ed7987905ee3",
+    "slug": "nba-ind-dal-2026-11-09",
+    "title": "Pacers vs. Mavericks",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 62000.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1794272377,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16606,
+    "timestamp": 1794272409,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-den-hou-2026-11-09-spread-home-4pt5",
+    "title": "Spread: Rockets (-4.5)",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 82626.68960000001,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794272409,
+    "fills": 1
   }
 ]
