@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 20:54:37 (hora de Perú)
+Actualizado: 2026-11-09 20:56:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8213**  ($465,967,141 en total)
+- Apuestas registradas: **8215**  ($466,075,862 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 719
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 7 | 64% | $59,284,356 | +$112,377 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 8 | 64% | $59,367,078 | +$112,377 |
 | Sassy-Bucket | 117 | 117 | 3 | 50% | $16,021,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 157 | 85 | 4 | 65% | $11,862,994 | +$548,802 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 719 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.32 (76¢) | $82,722 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Vikings | Bills | 1.69 (59¢) | $27,934 | — | ⏳ Pendiente |
 | mooseborzoi | Nuggets vs. Rockets | Rockets | 1.54 (65¢) | $78,140 | — | ⏳ Pendiente |
 | Sassy-Bucket | Bills vs. Vikings | Bills | 1.56 (64¢) | $192,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 719 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.35 (74¢) | $116,692 | +$41,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.89 (53¢) | $51,470 | -$51,470 | ❌ Perdida |
 | ferrariChampions2026 | Nets vs. Mavericks | Mavericks | 1.39 (72¢) | $31,851 | +$12,386 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.85 (54¢) | $31,985 | -$31,985 | ❌ Perdida |
-| S-Works | Jazz vs. Timberwolves: O/U 222.5 | Over 222.5 | 2.13 (47¢) | $56,400 | -$56,400 | ❌ Perdida |
