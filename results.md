@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 20:07:42 (hora de Perú)
+Actualizado: 2026-11-09 20:09:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8207**  ($465,490,186 en total)
+- Apuestas registradas: **8208**  ($465,516,566 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 21
-- Apostadores distintos: 718
+- Pendientes: 22
+- Apostadores distintos: 719
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Multicoloured-Serf | 25 | 24 | 1 | 51% | $2,431,391 | -$356,557 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 
-_(mostrando los 40 de mayor monto, de 718 en total)_
+_(mostrando los 40 de mayor monto, de 719 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Mavericks | Mavericks | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $110,825 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | +$4,692 | ✅ Ganada |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | -$48,000 | ❌ Perdida |
 | ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | +$5,110 | ✅ Ganada |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Lakers vs. Pistons | Pistons | 2.00 (50¢) | $324,917 | -$324,917 | ❌ Perdida |
