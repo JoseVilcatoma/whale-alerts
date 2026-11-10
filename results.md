@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 21:43:54 (hora de Perú)
+Actualizado: 2026-11-09 21:45:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8221**  ($466,318,034 en total)
-- Resueltas: **8169** — 4997 ganadas / 3172 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **8170** — 4997 ganadas / 3173 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,572,974** sobre $463,765,572 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,367** sobre $805,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,645,442** sobre $463,838,040 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,467** sobre $805,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Multicoloured-Serf | Spread: Cavaliers (-8.5) | Cavaliers | 2.08 (48¢) | $32,542 | -$32,542 | ❌ Perdida |
 | RJW1 | Lakers vs. Hawks | Lakers | 2.22 (45¢) | $35,776 | +$43,726 | ✅ Ganada |
 | mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | -$73,499 | ❌ Perdida |
-| mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | -$72,468 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | — | ⏳ Pendiente |
 | Zzzz87 | Spurs vs. Suns | Spurs | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
 | robustmst | Orleans: Clement Tabur vs Lukas Neumayer | Lukas Neumayer | 2.86 (35¢) | $28,137 | -$28,137 | ❌ Perdida |
