@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 22:00:10 (hora de Perú)
+Actualizado: 2026-11-09 22:02:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8222**  ($466,389,034 en total)
-- Resueltas: **8170** — 4997 ganadas / 3173 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **8171** — 4997 ganadas / 3174 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,645,442** sobre $463,838,040 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,467** sobre $805,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,683,692** sobre $463,876,290 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,567** sobre $806,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 327 | 7 | 64% | $59,438,611 | +$37,921 |
 | Sassy-Bucket | 117 | 117 | 3 | 50% | $16,021,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 157 | 85 | 4 | 65% | $11,862,994 | +$548,802 |
+| Lakersfan111 | 157 | 86 | 3 | 65% | $11,862,994 | +$510,552 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 136 | 68 | 1 | 67% | $8,814,739 | +$583,711 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | RJW1 | Lakers vs. Hawks | Lakers | 2.22 (45¢) | $35,776 | +$43,726 | ✅ Ganada |
 | mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | -$73,499 | ❌ Perdida |
 | mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | -$72,468 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | -$38,250 | ❌ Perdida |
 | Zzzz87 | Spurs vs. Suns | Spurs | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
 | robustmst | Orleans: Clement Tabur vs Lukas Neumayer | Lukas Neumayer | 2.86 (35¢) | $28,137 | -$28,137 | ❌ Perdida |
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $99,304 | +$16,166 | ✅ Ganada |
