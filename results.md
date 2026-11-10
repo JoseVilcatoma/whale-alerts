@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 19:36:50 (hora de Perú)
+Actualizado: 2026-11-09 19:38:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8201**  ($465,144,932 en total)
+- Apuestas registradas: **8203**  ($465,209,735 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 718
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 5 | 64% | $59,227,856 | +$112,377 |
 | Sassy-Bucket | 117 | 117 | 2 | 50% | $15,829,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
-| Lakersfan111 | 157 | 85 | 1 | 65% | $11,715,565 | +$548,802 |
+| Lakersfan111 | 157 | 85 | 3 | 65% | $11,780,368 | +$548,802 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 136 | 68 | 0 | 67% | $8,775,176 | +$583,711 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $31,633 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Nuggets vs. Rockets | Rockets | 1.59 (63¢) | $33,170 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | — | ⏳ Pendiente |
 | robustmst | Lakers vs. Hawks | Lakers | 2.17 (46¢) | $35,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $54,945 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | +$5,977 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | -$32,811 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | +$16,791 | ✅ Ganada |
-| ch27er | Spread: Pistons (-6.5) | Pistons | 1.75 (57¢) | $25,000 | -$25,000 | ❌ Perdida |
-| winner877 | Lakers vs. Pistons | Pistons | 1.41 (71¢) | $164,456 | -$90,335 | 💰 Vendida antes |

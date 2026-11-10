@@ -123258,5 +123258,35 @@
     "status": "pending",
     "ultimo_fill": 1794270615,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16601,
+    "timestamp": 1794271098,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-den-hou-2026-11-09",
+    "title": "Nuggets vs. Rockets",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 33169.6449,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1794271098,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16602,
+    "timestamp": 1794271118,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-den-hou-2026-11-09-spread-home-4pt5",
+    "title": "Spread: Rockets (-4.5)",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 31633.311,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794271118,
+    "fills": 1
   }
 ]
