@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 22:08:23 (hora de Perú)
+Actualizado: 2026-11-09 22:10:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8223**  ($466,440,367 en total)
-- Resueltas: **8171** — 4997 ganadas / 3174 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **8172** — 4997 ganadas / 3175 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,683,692** sobre $463,876,290 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,567** sobre $806,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,708,692** sobre $463,901,290 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,667** sobre $806,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 327 | 7 | 64% | $59,438,611 | +$37,921 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 328 | 6 | 64% | $59,438,611 | +$12,921 |
 | Sassy-Bucket | 117 | 117 | 3 | 50% | $16,021,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 157 | 86 | 3 | 65% | $11,862,994 | +$510,552 |
@@ -90,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Mavericks | Mavericks | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $110,825 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Raptors: O/U 218.5 | Under 218.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Raptors: O/U 218.5 | Under 218.5 | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $31,633 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nuggets vs. Rockets | Rockets | 1.59 (63¢) | $33,170 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | — | ⏳ Pendiente |
