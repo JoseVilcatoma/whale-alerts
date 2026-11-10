@@ -123648,5 +123648,20 @@
     "status": "won",
     "ultimo_fill": 1794286809,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16667,
+    "timestamp": 1794332204,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-bos-phi-2026-11-10",
+    "title": "Celtics vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 25713.23,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1794332204,
+    "fills": 1
   }
 ]

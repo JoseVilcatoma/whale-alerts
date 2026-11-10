@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 12:36:41 (hora de Perú)
+Actualizado: 2026-11-10 12:38:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8227**  ($466,597,279 en total)
+- Apuestas registradas: **8228**  ($466,622,992 en total)
 - Resueltas: **8201** — 5020 ganadas / 3181 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Celtics vs. 76ers | 76ers | 2.13 (47¢) | $25,713 | — | ⏳ Pendiente |
 | MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | +$5,569 | ✅ Ganada |
 | ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | +$24,485 | ✅ Ganada |
 | EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $35,954 | -$35,954 | ❌ Perdida |
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $34,123 | +$36,966 | ✅ Ganada |
 | 3648393489047 | Buccaneers vs. Bears | Bears | 1.35 (74¢) | $26,311 | +$9,244 | ✅ Ganada |
-| presidentyake | Spread: Bears (-6.5) | Bears | 2.04 (49¢) | $49,143 | -$49,143 | ❌ Perdida |
