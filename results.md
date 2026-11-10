@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 21:39:46 (hora de Perú)
+Actualizado: 2026-11-09 21:41:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8221**  ($466,318,034 en total)
-- Resueltas: **8164** — 4995 ganadas / 3169 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **8169** — 4997 ganadas / 3172 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,509,831** sobre $463,546,841 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,307** sobre $805,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,572,974** sobre $463,765,572 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,367** sobre $805,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 9 | 64% | $59,438,611 | +$112,377 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 327 | 7 | 64% | $59,438,611 | +$37,921 |
 | Sassy-Bucket | 117 | 117 | 3 | 50% | $16,021,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 157 | 85 | 4 | 65% | $11,862,994 | +$548,802 |
@@ -92,14 +92,14 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $31,633 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nuggets vs. Rockets | Rockets | 1.59 (63¢) | $33,170 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | — | ⏳ Pendiente |
-| robustmst | Lakers vs. Hawks | Lakers | 2.17 (46¢) | $35,000 | — | ⏳ Pendiente |
+| robustmst | Lakers vs. Hawks | Lakers | 2.17 (46¢) | $35,000 | +$41,087 | ✅ Ganada |
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $54,945 | — | ⏳ Pendiente |
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $38,275 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $42,456 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $42,456 | -$42,456 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Cavaliers (-8.5) | Cavaliers | 2.08 (48¢) | $32,542 | -$32,542 | ❌ Perdida |
-| RJW1 | Lakers vs. Hawks | Lakers | 2.22 (45¢) | $35,776 | — | ⏳ Pendiente |
-| mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | — | ⏳ Pendiente |
+| RJW1 | Lakers vs. Hawks | Lakers | 2.22 (45¢) | $35,776 | +$43,726 | ✅ Ganada |
+| mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | -$73,499 | ❌ Perdida |
 | mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | — | ⏳ Pendiente |
 | Zzzz87 | Spurs vs. Suns | Spurs | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
