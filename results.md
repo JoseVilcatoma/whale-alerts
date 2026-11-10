@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 21:35:38 (hora de Perú)
+Actualizado: 2026-11-09 21:37:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8221**  ($466,318,034 en total)
-- Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **8164** — 4995 ganadas / 3169 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,477,289** sobre $463,514,299 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,207** sobre $805,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,509,831** sobre $463,546,841 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,307** sobre $805,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| Multicoloured-Serf | 25 | 24 | 1 | 51% | $2,431,391 | -$356,557 |
+| Multicoloured-Serf | 25 | 25 | 0 | 50% | $2,431,391 | -$389,099 |
 | 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
 
 _(mostrando los 40 de mayor monto, de 720 en total)_
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $38,275 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $42,456 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Spread: Cavaliers (-8.5) | Cavaliers | 2.08 (48¢) | $32,542 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: Cavaliers (-8.5) | Cavaliers | 2.08 (48¢) | $32,542 | -$32,542 | ❌ Perdida |
 | RJW1 | Lakers vs. Hawks | Lakers | 2.22 (45¢) | $35,776 | — | ⏳ Pendiente |
 | mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | — | ⏳ Pendiente |
