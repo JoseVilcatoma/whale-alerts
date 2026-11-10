@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 20:15:45 (hora de Perú)
+Actualizado: 2026-11-09 20:17:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8209**  ($465,637,566 en total)
+- Apuestas registradas: **8212**  ($465,939,207 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 26
 - Apostadores distintos: 719
 
 ### Balance
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 6 | 64% | $59,252,856 | +$112,377 |
-| Sassy-Bucket | 117 | 117 | 2 | 50% | $15,829,406 | -$1,458,795 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 7 | 64% | $59,284,356 | +$112,377 |
+| Sassy-Bucket | 117 | 117 | 3 | 50% | $16,021,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 157 | 85 | 4 | 65% | $11,862,994 | +$548,802 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 719 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Nuggets vs. Rockets | Rockets | 1.54 (65¢) | $78,140 | — | ⏳ Pendiente |
+| Sassy-Bucket | Bills vs. Vikings | Bills | 1.56 (64¢) | $192,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Vikings | Bills | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $121,000 | — | ⏳ Pendiente |
 | cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 719 en total)_
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.85 (54¢) | $31,985 | -$31,985 | ❌ Perdida |
 | S-Works | Jazz vs. Timberwolves: O/U 222.5 | Over 222.5 | 2.13 (47¢) | $56,400 | -$56,400 | ❌ Perdida |
 | zb8 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 1.89 (53¢) | $94,127 | -$94,127 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | +$6,287 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | +$4,692 | ✅ Ganada |
-| vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | -$48,000 | ❌ Perdida |
