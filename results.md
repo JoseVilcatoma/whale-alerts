@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 14:44:38 (hora de Perú)
+Actualizado: 2026-11-10 14:46:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8233**  ($466,879,301 en total)
+- Apuestas registradas: **8234**  ($466,923,998 en total)
 - Resueltas: **8201** — 5020 ganadas / 3181 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winner877 | Bucks vs. Knicks | Knicks | 1.10 (91¢) | $44,697 | — | ⏳ Pendiente |
 | justwins | Bucks vs. Knicks: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $45,421 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF Femenino vs. Paris FC: O/U 2.5 | Under 2.5 | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.92 (52¢) | $57,206 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $84,642 | -$84,642 | ❌ Perdida |
 | mooseborzoi | Spread: Heat (-11.5) | Kings | 1.96 (51¢) | $28,478 | +$27,361 | ✅ Ganada |
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $40,988 | +$44,404 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bears (-6.5) | Bears | 1.52 (66¢) | $36,641 | -$36,641 | ❌ Perdida |

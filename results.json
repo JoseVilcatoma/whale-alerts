@@ -123738,5 +123738,20 @@
     "status": "pending",
     "ultimo_fill": 1794337641,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16673,
+    "timestamp": 1794339879,
+    "username": "winner877",
+    "wallet": "0x85e5669beee6b80d887493e724987dabc5f56056",
+    "slug": "nba-mil-nyk-2026-11-10",
+    "title": "Bucks vs. Knicks",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 44697.0979,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1794339879,
+    "fills": 1
   }
 ]
