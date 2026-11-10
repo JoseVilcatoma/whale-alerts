@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 21:31:31 (hora de Perú)
+Actualizado: 2026-11-09 21:33:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8220**  ($466,271,234 en total)
+- Apuestas registradas: **8221**  ($466,318,034 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.32 (76¢) | $46,800 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Nuggets vs. Rockets | Rockets | 1.14 (88¢) | $26,539 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Vikings | Bills | 1.64 (61¢) | $39,563 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $71,533 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Sassy-Bucket | Spread: Celtics (-12.5) | Bucks | 2.13 (47¢) | $34,233 | -$34,233 | ❌ Perdida |
 | solo88888 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 2.00 (50¢) | $50,484 | +$50,484 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.13 (47¢) | $39,477 | -$39,477 | ❌ Perdida |
-| Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $47,953 | -$47,953 | ❌ Perdida |
