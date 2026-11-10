@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 22:14:30 (hora de Perú)
+Actualizado: 2026-11-09 22:16:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8223**  ($466,440,367 en total)
-- Resueltas: **8172** — 4997 ganadas / 3175 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **8174** — 4999 ganadas / 3175 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,708,692** sobre $463,901,290 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,667** sobre $806,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,679,913** sobre $463,974,090 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,582** sobre $806,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,13 +73,13 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 |---|---|---|---|---|---|---|
 | cosmicxbt | Bills vs. Vikings | Bills | 1.43 (70¢) | $51,333 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Vikings | Bills | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.32 (76¢) | $46,800 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.32 (76¢) | $46,800 | +$14,779 | ✅ Ganada |
 | CUTJALENHURTS | Nuggets vs. Rockets | Rockets | 1.14 (88¢) | $26,539 | — | ⏳ Pendiente |
 | ferrariChampions2026 | Bills vs. Vikings | Bills | 1.64 (61¢) | $39,563 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $71,533 | — | ⏳ Pendiente |
 | Novelty8 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | DitieForlan | Spurs vs. Suns | Suns | 4.17 (24¢) | $27,736 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.32 (76¢) | $82,722 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Vikings | Bills | 1.69 (59¢) | $27,934 | — | ⏳ Pendiente |
 | mooseborzoi | Nuggets vs. Rockets | Rockets | 1.54 (65¢) | $78,140 | — | ⏳ Pendiente |
