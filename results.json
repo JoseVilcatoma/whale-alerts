@@ -123678,5 +123678,35 @@
     "status": "pending",
     "ultimo_fill": 1794335045,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16669,
+    "timestamp": 1794335086,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-mia-uta-2026-11-10-spread-away-8pt5",
+    "title": "Spread: Heat (-8.5)",
+    "outcome": "Heat",
+    "side": "BUY",
+    "usd": 62361.78,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794335086,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16670,
+    "timestamp": 1794335133,
+    "username": "Vps1",
+    "wallet": "0xb2d2d1ad3bf842a778efb4169a0ae5d1b2353910",
+    "slug": "wta-scott-garcia-2026-11-10",
+    "title": "Sopo: Katrina Scott vs Andrea Lazaro Garcia",
+    "outcome": "Andrea Lazaro Garcia",
+    "side": "BUY",
+    "usd": 29827.442399999996,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794335133,
+    "fills": 1
   }
 ]

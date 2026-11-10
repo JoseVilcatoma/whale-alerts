@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 13:24:15 (hora de Perú)
+Actualizado: 2026-11-10 13:26:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8229**  ($466,682,812 en total)
+- Apuestas registradas: **8231**  ($466,775,001 en total)
 - Resueltas: **8201** — 5020 ganadas / 3181 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 7
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.96 (51¢) | $29,827 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Heat (-8.5) | Heat | 1.96 (51¢) | $62,362 | — | ⏳ Pendiente |
 | RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | — | ⏳ Pendiente |
 | mooseborzoi | Celtics vs. 76ers | 76ers | 2.13 (47¢) | $25,713 | — | ⏳ Pendiente |
 | MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | +$5,569 | ✅ Ganada |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bears (-6.5) | Bears | 1.52 (66¢) | $36,641 | -$36,641 | ❌ Perdida |
 | Donkey14 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $26,005 | -$26,005 | ❌ Perdida |
 | mooseborzoi | Spread: Pelicans (-1.5) | Clippers | 2.00 (50¢) | $61,631 | +$61,631 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $35,954 | -$35,954 | ❌ Perdida |
-| mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $34,123 | +$36,966 | ✅ Ganada |
