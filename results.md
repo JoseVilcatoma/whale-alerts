@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 21:00:43 (hora de Perú)
+Actualizado: 2026-11-09 21:02:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8217**  ($466,133,598 en total)
+- Apuestas registradas: **8218**  ($466,205,131 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 720
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 8 | 64% | $59,367,078 | +$112,377 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 9 | 64% | $59,438,611 | +$112,377 |
 | Sassy-Bucket | 117 | 117 | 3 | 50% | $16,021,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 157 | 85 | 4 | 65% | $11,862,994 | +$548,802 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $71,533 | — | ⏳ Pendiente |
 | Novelty8 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | DitieForlan | Spurs vs. Suns | Suns | 4.17 (24¢) | $27,736 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.54 (65¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Sassy-Bucket | Buccaneers vs. Bears: O/U 46.5 | Under 46.5 | 2.08 (48¢) | $47,953 | -$47,953 | ❌ Perdida |
 | KateBollinger | LoL: Bilibili Gaming vs T1 - Game 4 Winner | Bilibili Gaming | 1.85 (54¢) | $35,040 | +$29,849 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 - Game 4 Winner | T1 | 2.00 (50¢) | $29,171 | -$29,171 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs | Bilibili Gaming | 1.35 (74¢) | $116,692 | +$41,000 | ✅ Ganada |

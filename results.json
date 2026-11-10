@@ -123498,5 +123498,20 @@
     "status": "pending",
     "ultimo_fill": 1794276034,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16617,
+    "timestamp": 1794276138,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-sas-phx-2026-11-09",
+    "title": "Spurs vs. Suns",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 71533.0275,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1794276138,
+    "fills": 1
   }
 ]
