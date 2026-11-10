@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 23:59:04 (hora de Perú)
+Actualizado: 2026-11-10 00:01:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8226**  ($466,552,224 en total)
+- Apuestas registradas: **8227**  ($466,597,279 en total)
 - Resueltas: **8200** — 5019 ganadas / 3181 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | — | ⏳ Pendiente |
 | ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | +$24,485 | ✅ Ganada |
 | EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | MD14 | Nuggets vs. Rockets: O/U 212.5 | Under 212.5 | 1.18 (85¢) | $40,832 | +$7,206 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $34,123 | +$36,966 | ✅ Ganada |
 | 3648393489047 | Buccaneers vs. Bears | Bears | 1.35 (74¢) | $26,311 | +$9,244 | ✅ Ganada |
 | presidentyake | Spread: Bears (-6.5) | Bears | 2.04 (49¢) | $49,143 | -$49,143 | ❌ Perdida |
-| NOO-Yes | Jazz vs. Timberwolves | Timberwolves | 1.14 (88¢) | $47,520 | +$6,480 | ✅ Ganada |

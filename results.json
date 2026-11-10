@@ -123633,5 +123633,20 @@
     "status": "won",
     "ultimo_fill": 1794283756,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16663,
+    "timestamp": 1794286809,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "nba-nop-gsw-2026-11-09-total-218pt5",
+    "title": "Pelicans vs. Warriors: O/U 218.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 45054.585699999996,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1794286809,
+    "fills": 1
   }
 ]
