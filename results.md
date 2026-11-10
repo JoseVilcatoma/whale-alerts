@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 13:28:25 (hora de Perú)
+Actualizado: 2026-11-10 13:30:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8231**  ($466,802,380 en total)
+- Apuestas registradas: **8232**  ($466,833,880 en total)
 - Resueltas: **8201** — 5020 ganadas / 3181 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 720
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 328 | 3 | 64% | $59,438,611 | +$81,388 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 328 | 4 | 64% | $59,470,111 | +$81,388 |
 | Sassy-Bucket | 118 | 117 | 2 | 50% | $16,021,406 | -$1,350,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 160 | 86 | 0 | 65% | $11,862,994 | +$636,696 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF Femenino vs. Paris FC: O/U 2.5 | Under 2.5 | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
 | Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.92 (52¢) | $57,206 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Heat (-8.5) | Heat | 1.96 (51¢) | $62,362 | — | ⏳ Pendiente |
 | RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | mooseborzoi | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $40,988 | +$44,404 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Bears (-6.5) | Bears | 1.52 (66¢) | $36,641 | -$36,641 | ❌ Perdida |
 | Donkey14 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $26,005 | -$26,005 | ❌ Perdida |
-| mooseborzoi | Spread: Pelicans (-1.5) | Clippers | 2.00 (50¢) | $61,631 | +$61,631 | ✅ Ganada |
