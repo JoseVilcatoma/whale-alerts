@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 20:09:42 (hora de Perú)
+Actualizado: 2026-11-09 20:11:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8208**  ($465,516,566 en total)
+- Apuestas registradas: **8209**  ($465,637,566 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 719
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 45 | 28 | 1 | 62% | $5,206,544 | +$650,382 |
+| maz26 | 45 | 28 | 2 | 62% | $5,327,544 | +$650,382 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 719 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $121,000 | — | ⏳ Pendiente |
 | cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | — | ⏳ Pendiente |
 | EdZachary | Pacers vs. Mavericks | Mavericks | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 719 en total)_
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $38,620 | +$6,287 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Jazz vs. Timberwolves | Timberwolves | 1.16 (86¢) | $28,824 | +$4,692 | ✅ Ganada |
 | vtcchampion52 | LoL: Bilibili Gaming vs T1 - Game 3 Winner | T1 | 2.08 (48¢) | $48,000 | -$48,000 | ❌ Perdida |
-| ferrariChampions2026 | Packers vs. Patriots | Packers | 1.06 (94¢) | $80,050 | +$5,110 | ✅ Ganada |
