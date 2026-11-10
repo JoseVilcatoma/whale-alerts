@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 23:09:34 (hora de Perú)
+Actualizado: 2026-11-09 23:11:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8226**  ($466,552,224 en total)
-- Resueltas: **8182** — 5005 ganadas / 3177 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **8183** — 5006 ganadas / 3177 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,563,294** sobre $464,381,419 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,406** sobre $807,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,556,088** sobre $464,422,251 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,388** sobre $807,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 |---|---|---|---|---|---|---|
 | ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | — | ⏳ Pendiente |
 | EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | — | ⏳ Pendiente |
-| MD14 | Nuggets vs. Rockets: O/U 212.5 | Under 212.5 | 1.18 (85¢) | $40,832 | — | ⏳ Pendiente |
+| MD14 | Nuggets vs. Rockets: O/U 212.5 | Under 212.5 | 1.18 (85¢) | $40,832 | +$7,206 | ✅ Ganada |
 | cosmicxbt | Bills vs. Vikings | Bills | 1.43 (70¢) | $51,333 | — | ⏳ Pendiente |
 | cosmicxbt | Bills vs. Vikings | Bills | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.32 (76¢) | $46,800 | +$14,779 | ✅ Ganada |
