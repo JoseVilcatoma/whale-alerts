@@ -123303,5 +123303,20 @@
     "status": "pending",
     "ultimo_fill": 1794272064,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16604,
+    "timestamp": 1794272226,
+    "username": "gmpm2",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-buf-min-2026-11-10-spread-away-4pt5",
+    "title": "Spread: Bills (-4.5)",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 110825.00000000001,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1794272226,
+    "fills": 1
   }
 ]
