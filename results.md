@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 18:05:31 (hora de Perú)
+Actualizado: 2026-11-10 18:07:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8237**  ($467,025,985 en total)
+- Apuestas registradas: **8238**  ($467,055,750 en total)
 - Resueltas: **8203** — 5021 ganadas / 3182 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 720
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Multicoloured-Serf | 25 | 25 | 1 | 50% | $2,463,646 | -$389,099 |
-| mooseborzoi | 20 | 25 | 3 | 44% | $2,343,130 | -$414,440 |
+| mooseborzoi | 20 | 25 | 4 | 44% | $2,372,895 | -$414,440 |
 
 _(mostrando los 40 de mayor monto, de 720 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.00 (50¢) | $29,766 | — | ⏳ Pendiente |
 | Mastermoney | WTA Finals, Group A: Coco Gauff vs Linda Noskova | Coco Gauff | 1.56 (64¢) | $37,673 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.04 (49¢) | $32,059 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Magic (-6.5) | Magic | 2.04 (49¢) | $32,255 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | robustmst | Pelicans vs. Clippers | Pelicans | 2.50 (40¢) | $30,509 | -$30,509 | ❌ Perdida |
 | 0F62 | Buccaneers vs. Bears | Bears | 1.06 (94¢) | $35,432 | +$2,262 | ✅ Ganada |
 | fantasy7788 | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $56,194 | +$60,877 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.96 (51¢) | $28,050 | -$28,050 | ❌ Perdida |
