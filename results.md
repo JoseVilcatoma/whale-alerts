@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 16:40:44 (hora de Perú)
+Actualizado: 2026-11-10 16:42:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8236**  ($466,988,312 en total)
-- Resueltas: **8202** — 5021 ganadas / 3181 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **8203** — 5021 ganadas / 3182 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,435,567** sobre $465,543,864 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,026** sobre $809,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,467,067** sobre $465,575,364 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,126** sobre $809,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 328 | 4 | 64% | $59,470,111 | +$81,388 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 329 | 3 | 64% | $59,470,111 | +$49,888 |
 | Sassy-Bucket | 118 | 117 | 2 | 50% | $16,021,406 | -$1,350,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 160 | 86 | 0 | 65% | $11,862,994 | +$636,696 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Multicoloured-Serf | Spread: Magic (-6.5) | Magic | 2.04 (49¢) | $32,255 | — | ⏳ Pendiente |
 | winner877 | Bucks vs. Knicks | Knicks | 1.10 (91¢) | $44,697 | — | ⏳ Pendiente |
 | justwins | Bucks vs. Knicks: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $45,421 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF Femenino vs. Paris FC: O/U 2.5 | Under 2.5 | 1.59 (63¢) | $31,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF Femenino vs. Paris FC: O/U 2.5 | Under 2.5 | 1.59 (63¢) | $31,500 | -$31,500 | ❌ Perdida |
 | Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.92 (52¢) | $57,206 | +$52,806 | ✅ Ganada |
 | mooseborzoi | Spread: Heat (-8.5) | Heat | 1.96 (51¢) | $62,362 | — | ⏳ Pendiente |
 | RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | — | ⏳ Pendiente |
