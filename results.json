@@ -123270,7 +123270,7 @@
     "side": "BUY",
     "usd": 33169.6449,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794271098,
     "fills": 1
   },
@@ -123285,7 +123285,7 @@
     "side": "BUY",
     "usd": 31633.311,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794271118,
     "fills": 1
   },
@@ -123345,7 +123345,7 @@
     "side": "BUY",
     "usd": 82626.68960000001,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794272409,
     "fills": 1
   },
@@ -123420,7 +123420,7 @@
     "side": "BUY",
     "usd": 78140.40000000001,
     "odds_at_bet": 65,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794273465,
     "fills": 1
   },
@@ -123540,7 +123540,7 @@
     "side": "BUY",
     "usd": 26539.392,
     "odds_at_bet": 88,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794277343,
     "fills": 1
   },
@@ -123617,6 +123617,21 @@
     "odds_at_bet": 89,
     "status": "pending",
     "ultimo_fill": 1794282401,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16644,
+    "timestamp": 1794283756,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-buf-min-2026-11-10-total-30pt5",
+    "title": "Bills vs. Vikings: O/U 30.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 26525.226000000002,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794283756,
     "fills": 1
   }
 ]
