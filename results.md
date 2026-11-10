@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 13:26:20 (hora de Perú)
+Actualizado: 2026-11-10 13:28:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8231**  ($466,775,001 en total)
+- Apuestas registradas: **8231**  ($466,802,380 en total)
 - Resueltas: **8201** — 5020 ganadas / 3181 perdidas (**61%** de acierto)
 - Pendientes: 7
 - Apostadores distintos: 720
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.96 (51¢) | $29,827 | — | ⏳ Pendiente |
+| Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.92 (52¢) | $57,206 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Heat (-8.5) | Heat | 1.96 (51¢) | $62,362 | — | ⏳ Pendiente |
 | RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | — | ⏳ Pendiente |
 | mooseborzoi | Celtics vs. 76ers | 76ers | 2.13 (47¢) | $25,713 | — | ⏳ Pendiente |
