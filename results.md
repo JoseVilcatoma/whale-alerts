@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 22:57:23 (hora de Perú)
+Actualizado: 2026-11-09 22:59:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8225**  ($466,525,699 en total)
-- Resueltas: **8174** — 4999 ganadas / 3175 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **8177** — 5000 ganadas / 3177 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,679,913** sobre $463,974,090 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,582** sobre $806,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,735,133** sobre $464,129,310 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,720** sobre $806,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -90,15 +90,15 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $121,000 | — | ⏳ Pendiente |
 | cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | — | ⏳ Pendiente |
-| EdZachary | Pacers vs. Mavericks | Mavericks | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
+| EdZachary | Pacers vs. Mavericks | Mavericks | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $110,825 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Raptors: O/U 218.5 | Under 218.5 | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $31,633 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nuggets vs. Rockets | Rockets | 1.59 (63¢) | $33,170 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | — | ⏳ Pendiente |
 | robustmst | Lakers vs. Hawks | Lakers | 2.17 (46¢) | $35,000 | +$41,087 | ✅ Ganada |
-| RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $54,945 | — | ⏳ Pendiente |
-| RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $38,275 | — | ⏳ Pendiente |
+| RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $54,945 | -$54,945 | ❌ Perdida |
+| RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $38,275 | -$38,275 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $42,456 | -$42,456 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Cavaliers (-8.5) | Cavaliers | 2.08 (48¢) | $32,542 | -$32,542 | ❌ Perdida |
