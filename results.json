@@ -123705,7 +123705,7 @@
     "side": "BUY",
     "usd": 57206.05399999999,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794335207,
     "fills": 2
   },
@@ -123752,6 +123752,21 @@
     "odds_at_bet": 91,
     "status": "pending",
     "ultimo_fill": 1794339879,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16675,
+    "timestamp": 1794343507,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-orl-sac-2026-11-10-spread-away-6pt5",
+    "title": "Spread: Magic (-6.5)",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 32254.9997,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794343507,
     "fills": 1
   }
 ]
