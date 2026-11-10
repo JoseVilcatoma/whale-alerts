@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 23:48:50 (hora de Perú)
+Actualizado: 2026-11-09 23:50:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8226**  ($466,552,224 en total)
-- Resueltas: **8199** — 5019 ganadas / 3180 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **8200** — 5019 ganadas / 3181 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,467,640** sobre $465,415,303 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,031** sobre $808,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,493,941** sobre $465,441,603 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,131** sobre $808,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Raptors: O/U 218.5 | Under 218.5 | 2.00 (50¢) | $25,000 | -$25,000 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $31,633 | +$30,393 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Nuggets vs. Rockets | Rockets | 1.59 (63¢) | $33,170 | +$19,481 | ✅ Ganada |
-| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | — | ⏳ Pendiente |
+| 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | -$26,301 | ❌ Perdida |
 | robustmst | Lakers vs. Hawks | Lakers | 2.17 (46¢) | $35,000 | +$41,087 | ✅ Ganada |
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $54,945 | -$54,945 | ❌ Perdida |
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $38,275 | -$38,275 | ❌ Perdida |
