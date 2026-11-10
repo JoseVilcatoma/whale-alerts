@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 16:38:38 (hora de Perú)
+Actualizado: 2026-11-10 16:40:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8235**  ($466,956,253 en total)
+- Apuestas registradas: **8236**  ($466,988,312 en total)
 - Resueltas: **8202** — 5021 ganadas / 3181 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 720
 
 ### Balance
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 | Multicoloured-Serf | 25 | 25 | 1 | 50% | $2,463,646 | -$389,099 |
-| 1827575782 | 15 | 4 | 0 | 79% | $2,334,202 | -$77,373 |
+| mooseborzoi | 20 | 25 | 3 | 44% | $2,343,130 | -$414,440 |
 
 _(mostrando los 40 de mayor monto, de 720 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.04 (49¢) | $32,059 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Magic (-6.5) | Magic | 2.04 (49¢) | $32,255 | — | ⏳ Pendiente |
 | winner877 | Bucks vs. Knicks | Knicks | 1.10 (91¢) | $44,697 | — | ⏳ Pendiente |
 | justwins | Bucks vs. Knicks: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $45,421 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | fantasy7788 | Pelicans vs. Clippers | Clippers | 2.08 (48¢) | $56,194 | +$60,877 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pelicans vs. Clippers | Pelicans | 1.96 (51¢) | $28,050 | -$28,050 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pelicans vs. Clippers | Pelicans | 1.92 (52¢) | $84,642 | -$84,642 | ❌ Perdida |
-| mooseborzoi | Spread: Heat (-11.5) | Kings | 1.96 (51¢) | $28,478 | +$27,361 | ✅ Ganada |
