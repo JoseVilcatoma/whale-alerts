@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 23:36:30 (hora de Perú)
+Actualizado: 2026-11-09 23:38:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8226**  ($466,552,224 en total)
-- Resueltas: **8183** — 5006 ganadas / 3177 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **8188** — 5010 ganadas / 3178 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,556,088** sobre $464,422,251 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,388** sobre $807,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,512,357** sobre $464,672,742 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,360** sobre $807,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 328 | 6 | 64% | $59,438,611 | +$12,921 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 574 | 328 | 4 | 64% | $59,438,611 | +$62,888 |
 | Sassy-Bucket | 117 | 117 | 3 | 50% | $16,021,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 160 | 86 | 0 | 65% | $11,862,994 | +$636,696 |
@@ -79,11 +79,11 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.32 (76¢) | $46,800 | +$14,779 | ✅ Ganada |
 | CUTJALENHURTS | Nuggets vs. Rockets | Rockets | 1.14 (88¢) | $26,539 | +$3,619 | ✅ Ganada |
 | ferrariChampions2026 | Bills vs. Vikings | Bills | 1.64 (61¢) | $39,563 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $71,533 | — | ⏳ Pendiente |
-| Novelty8 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
-| DitieForlan | Spurs vs. Suns | Suns | 4.17 (24¢) | $27,736 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $71,533 | +$23,844 | ✅ Ganada |
+| Novelty8 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
+| DitieForlan | Spurs vs. Suns | Suns | 4.17 (24¢) | $27,736 | -$27,736 | ❌ Perdida |
 | 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.32 (76¢) | $82,722 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.32 (76¢) | $82,722 | +$26,123 | ✅ Ganada |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Vikings | Bills | 1.69 (59¢) | $27,934 | — | ⏳ Pendiente |
 | mooseborzoi | Nuggets vs. Rockets | Rockets | 1.54 (65¢) | $78,140 | +$42,076 | ✅ Ganada |
 | Sassy-Bucket | Bills vs. Vikings | Bills | 1.56 (64¢) | $192,000 | — | ⏳ Pendiente |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | -$73,499 | ❌ Perdida |
 | mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | -$72,468 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | -$38,250 | ❌ Perdida |
-| Zzzz87 | Spurs vs. Suns | Spurs | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
+| Zzzz87 | Spurs vs. Suns | Spurs | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
 | robustmst | Orleans: Clement Tabur vs Lukas Neumayer | Lukas Neumayer | 2.86 (35¢) | $28,137 | -$28,137 | ❌ Perdida |
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $99,304 | +$16,166 | ✅ Ganada |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $28,769 | +$4,683 | ✅ Ganada |
