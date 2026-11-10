@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-09 19:53:22 (hora de Perú)
+Actualizado: 2026-11-09 19:55:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8203**  ($465,209,735 en total)
+- Apuestas registradas: **8204**  ($465,234,735 en total)
 - Resueltas: **8163** — 4995 ganadas / 3168 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 718
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 5 | 64% | $59,227,856 | +$112,377 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 572 | 325 | 6 | 64% | $59,252,856 | +$112,377 |
 | Sassy-Bucket | 117 | 117 | 2 | 50% | $15,829,406 | -$1,458,795 |
 | googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
 | Lakersfan111 | 157 | 85 | 3 | 65% | $11,780,368 | +$548,802 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Grizzlies vs. Raptors: O/U 218.5 | Under 218.5 | 2.00 (50¢) | $25,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $31,633 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nuggets vs. Rockets | Rockets | 1.59 (63¢) | $33,170 | — | ⏳ Pendiente |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 718 en total)_
 | robustmst | WTA Finals, Group A: Coco Gauff vs Jessica Pegula | Jessica Pegula | 1.85 (54¢) | $38,848 | -$38,848 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Celtics vs. Bucks | Celtics | 1.15 (87¢) | $40,000 | +$5,977 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs T1 - Game 2 Winner | Bilibili Gaming | 1.64 (61¢) | $32,811 | -$32,811 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nets vs. Mavericks | Mavericks | 1.37 (73¢) | $45,398 | +$16,791 | ✅ Ganada |
