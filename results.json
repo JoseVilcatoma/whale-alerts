@@ -124518,5 +124518,20 @@
     "status": "pending",
     "ultimo_fill": 1794441096,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16774,
+    "timestamp": 1794441169,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nba-bos-tor-2026-11-11",
+    "title": "Celtics vs. Raptors",
+    "outcome": "Raptors",
+    "side": "BUY",
+    "usd": 51105.1555,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1794441169,
+    "fills": 1
   }
 ]

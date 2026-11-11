@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 18:52:41 (hora de Perú)
+Actualizado: 2026-11-11 18:54:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8285**  ($469,397,780 en total)
+- Apuestas registradas: **8286**  ($469,448,885 en total)
 - Resueltas: **8247** — 5045 ganadas / 3202 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 722
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 722 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $51,105 | — | ⏳ Pendiente |
 | mokkoroo | Warriors vs. Rockets | Rockets | 1.45 (69¢) | $41,703 | — | ⏳ Pendiente |
 | mooseborzoi | Lightning vs. Sabres: O/U 6.5 | Under 6.5 | 2.08 (48¢) | $28,225 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 722 en total)_
 | RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | +$57,474 | ✅ Ganada |
 | mooseborzoi | Celtics vs. 76ers | 76ers | 2.13 (47¢) | $25,713 | -$25,713 | ❌ Perdida |
 | MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | +$5,569 | ✅ Ganada |
-| ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | +$24,485 | ✅ Ganada |
