@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 08:03:24 (hora de Perú)
+Actualizado: 2026-11-11 08:05:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8267**  ($468,539,929 en total)
-- Resueltas: **8240** — 5041 ganadas / 3199 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **8241** — 5041 ganadas / 3200 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,320,539** sobre $467,313,313 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,598** sobre $812,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,436,534** sobre $467,429,308 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,698** sobre $813,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 577 | 330 | 3 | 64% | $59,758,424 | +$247,981 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
 | googleplay | 58 | 51 | 0 | 53% | $12,345,026 | -$215,976 |
-| Lakersfan111 | 161 | 89 | 1 | 64% | $12,156,374 | +$489,897 |
+| Lakersfan111 | 161 | 90 | 0 | 64% | $12,156,374 | +$373,901 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | +$8,756 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | -$115,995 | ❌ Perdida |
 | winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | +$2,601 | ✅ Ganada |
 | winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | +$6,271 | ✅ Ganada |
 | MD14 | Heat vs. Jazz: O/U 218.5 | Over 218.5 | 1.23 (81¢) | $78,022 | +$18,302 | ✅ Ganada |
