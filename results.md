@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 19:48:45 (hora de Perú)
+Actualizado: 2026-11-10 19:50:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8244**  ($467,239,313 en total)
+- Apuestas registradas: **8245**  ($467,363,446 en total)
 - Resueltas: **8204** — 5021 ganadas / 3183 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 720
 
 ### Balance
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
+| mooseborzoi | 20 | 25 | 6 | 44% | $2,528,166 | -$414,440 |
 | Multicoloured-Serf | 25 | 25 | 2 | 50% | $2,497,767 | -$389,099 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| mooseborzoi | 20 | 25 | 5 | 44% | $2,404,033 | -$414,440 |
 
 _(mostrando los 40 de mayor monto, de 720 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Knicks | Knicks | 1.11 (90¢) | $27,527 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Knicks (-15.5) | Bucks | 1.96 (51¢) | $31,138 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $99,304 | +$16,166 | ✅ Ganada |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $28,769 | +$4,683 | ✅ Ganada |
 | analdesutructor | Buccaneers vs. Bears | Bears | 1.14 (88¢) | $39,033 | +$5,323 | ✅ Ganada |
-| CUTJALENHURTS | Buccaneers vs. Bears | Bears | 1.12 (89¢) | $27,203 | +$3,362 | ✅ Ganada |
