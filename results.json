@@ -124473,5 +124473,35 @@
     "status": "pending",
     "ultimo_fill": 1794440349,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16771,
+    "timestamp": 1794440732,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "cs2-lgc-fal2-2026-11-11",
+    "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 71200.15329999999,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "ultimo_fill": 1794440732,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16772,
+    "timestamp": 1794440734,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nhl-tb-buf-2026-11-11-total-6pt5",
+    "title": "Lightning vs. Sabres: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 28224.5497,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794440734,
+    "fills": 1
   }
 ]
