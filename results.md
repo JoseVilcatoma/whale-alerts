@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 17:56:46 (hora de Perú)
+Actualizado: 2026-11-11 17:58:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8277**  ($469,039,326 en total)
+- Apuestas registradas: **8278**  ($469,124,076 en total)
 - Resueltas: **8247** — 5045 ganadas / 3202 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 721
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| 999585 | 33 | 4 | 0 | 89% | $4,070,978 | +$127,099 |
+| 999585 | 33 | 4 | 1 | 89% | $4,155,728 | +$127,099 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 0 | 54% | $4,008,362 | -$1,787,405 |
 | Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | — | ⏳ Pendiente |
 | RJW1 | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $30,539 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.27 (79¢) | $27,650 | +$7,350 | ✅ Ganada |
 | 999585 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.37 (73¢) | $130,191 | +$48,153 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 | 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.32 (76¢) | $46,800 | +$14,779 | ✅ Ganada |
 | CUTJALENHURTS | Nuggets vs. Rockets | Rockets | 1.14 (88¢) | $26,539 | +$3,619 | ✅ Ganada |
 | ferrariChampions2026 | Bills vs. Vikings | Bills | 1.64 (61¢) | $39,563 | +$25,295 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $71,533 | +$23,844 | ✅ Ganada |
