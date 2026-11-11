@@ -124308,5 +124308,20 @@
     "status": "lost",
     "ultimo_fill": 1794405459,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16756,
+    "timestamp": 1794413789,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-fritz-norrie-2026-11-11",
+    "title": "BNP Paribas Nordic Open: Taylor Fritz vs Cameron Norrie",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "usd": 31500.0,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794413789,
+    "fills": 1
   }
 ]
