@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 12:46:09 (hora de Perú)
+Actualizado: 2026-11-11 12:48:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8272**  ($468,784,172 en total)
+- Apuestas registradas: **8273**  ($468,824,172 en total)
 - Resueltas: **8245** — 5043 ganadas / 3202 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 721
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| kjhgkltivtvriur | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 1.39 (72¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Taylor Fritz vs Cameron Norrie | Taylor Fritz | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
 | Gumayusi98 | Orleans: Buvaysar Gadamauri vs Daniel Altmaier | Buvaysar Gadamauri | 1.06 (94¢) | $28,500 | -$28,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Sonego vs Alejandro Tabilo | Alejandro Tabilo | 1.52 (66¢) | $63,842 | +$32,888 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 | DitieForlan | Spurs vs. Suns | Suns | 4.17 (24¢) | $27,736 | -$27,736 | ❌ Perdida |
 | 0x6db5…e279 | Grizzlies vs. Raptors | Grizzlies | 1.54 (65¢) | $26,000 | +$14,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.32 (76¢) | $82,722 | +$26,123 | ✅ Ganada |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Bills vs. Vikings | Bills | 1.69 (59¢) | $27,934 | +$19,412 | ✅ Ganada |
