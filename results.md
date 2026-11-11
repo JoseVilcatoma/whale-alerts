@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 22:11:32 (hora de Perú)
+Actualizado: 2026-11-10 22:13:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8252**  ($467,609,924 en total)
-- Resueltas: **8209** — 5023 ganadas / 3186 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **8210** — 5023 ganadas / 3187 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,555,026** sobre $465,786,037 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,409** sobre $809,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,589,371** sobre $465,820,382 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,509** sobre $809,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 329 | 5 | 64% | $59,536,751 | +$49,888 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 330 | 4 | 64% | $59,536,751 | +$15,543 |
 | Sassy-Bucket | 118 | 117 | 3 | 50% | $16,053,182 | -$1,350,795 |
 | googleplay | 58 | 50 | 1 | 54% | $12,345,026 | -$163,019 |
 | Lakersfan111 | 160 | 86 | 1 | 65% | $11,890,521 | +$636,696 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | — | ⏳ Pendiente |
 | MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | +$12,827 | ✅ Ganada |
 | mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | -$34,345 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Knicks | Knicks | 1.11 (90¢) | $27,527 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Knicks (-15.5) | Bucks | 1.96 (51¢) | $31,138 | -$31,138 | ❌ Perdida |
 | googleplay | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $25,971 | -$25,971 | ❌ Perdida |
