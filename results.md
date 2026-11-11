@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 18:50:34 (hora de Perú)
+Actualizado: 2026-11-11 18:52:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8284**  ($469,356,077 en total)
+- Apuestas registradas: **8285**  ($469,397,780 en total)
 - Resueltas: **8247** — 5045 ganadas / 3202 perdidas (**61%** de acierto)
-- Pendientes: 14
-- Apostadores distintos: 721
+- Pendientes: 15
+- Apostadores distintos: 722
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Multicoloured-Serf | 26 | 27 | 0 | 49% | $2,523,100 | -$414,982 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 721 en total)_
+_(mostrando los 40 de mayor monto, de 722 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mokkoroo | Warriors vs. Rockets | Rockets | 1.45 (69¢) | $41,703 | — | ⏳ Pendiente |
 | mooseborzoi | Lightning vs. Sabres: O/U 6.5 | Under 6.5 | 2.08 (48¢) | $28,225 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | — | ⏳ Pendiente |
 | mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 | mooseborzoi | Celtics vs. 76ers | 76ers | 2.13 (47¢) | $25,713 | -$25,713 | ❌ Perdida |
 | MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | +$5,569 | ✅ Ganada |
 | ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | +$24,485 | ✅ Ganada |
-| EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
