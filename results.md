@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 08:11:37 (hora de Perú)
+Actualizado: 2026-11-11 08:13:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8268**  ($468,632,256 en total)
+- Apuestas registradas: **8269**  ($468,660,330 en total)
 - Resueltas: **8241** — 5041 ganadas / 3200 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SineNooneEI | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $28,073 | — | ⏳ Pendiente |
 | Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | — | ⏳ Pendiente |
 | Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | +$8,756 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | -$115,995 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | mooseborzoi | Nuggets vs. Rockets | Rockets | 1.54 (65¢) | $78,140 | +$42,076 | ✅ Ganada |
 | Sassy-Bucket | Bills vs. Vikings | Bills | 1.56 (64¢) | $192,000 | +$108,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Vikings | Bills | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
-| gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $121,000 | -$121,000 | ❌ Perdida |
