@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 21:20:20 (hora de Perú)
+Actualizado: 2026-11-10 21:22:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8248**  ($467,471,863 en total)
+- Apuestas registradas: **8249**  ($467,504,158 en total)
 - Resueltas: **8204** — 5021 ganadas / 3183 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 720
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 329 | 4 | 64% | $59,504,456 | +$49,888 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 329 | 5 | 64% | $59,536,751 | +$49,888 |
 | Sassy-Bucket | 118 | 117 | 3 | 50% | $16,053,182 | -$1,350,795 |
 | googleplay | 58 | 49 | 1 | 54% | $12,292,070 | -$137,048 |
 | Lakersfan111 | 160 | 86 | 1 | 65% | $11,890,521 | +$636,696 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | — | ⏳ Pendiente |
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | — | ⏳ Pendiente |
 | MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | -$72,468 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | -$38,250 | ❌ Perdida |
 | Zzzz87 | Spurs vs. Suns | Spurs | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
-| robustmst | Orleans: Clement Tabur vs Lukas Neumayer | Lukas Neumayer | 2.86 (35¢) | $28,137 | -$28,137 | ❌ Perdida |
