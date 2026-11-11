@@ -124188,5 +124188,20 @@
     "status": "pending",
     "ultimo_fill": 1794370954,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16721,
+    "timestamp": 1794372863,
+    "username": "winner877",
+    "wallet": "0x85e5669beee6b80d887493e724987dabc5f56056",
+    "slug": "nba-orl-sac-2026-11-10",
+    "title": "Magic vs. Kings",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 35537.344,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1794372863,
+    "fills": 1
   }
 ]
