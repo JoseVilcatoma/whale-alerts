@@ -123735,7 +123735,7 @@
     "side": "BUY",
     "usd": 45421.016327,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794337641,
     "fills": 1
   },
@@ -123750,7 +123750,7 @@
     "side": "BUY",
     "usd": 44697.0979,
     "odds_at_bet": 91,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794339879,
     "fills": 1
   },
@@ -123885,7 +123885,7 @@
     "side": "BUY",
     "usd": 27526.923000000003,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794356814,
     "fills": 1
   },
@@ -124022,6 +124022,21 @@
     "odds_at_bet": 50,
     "status": "pending",
     "ultimo_fill": 1794366508,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16705,
+    "timestamp": 1794366873,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "cs2-lgc-furia-2026-11-10-game2",
+    "title": "Counter-Strike: Legacy vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 26000.000000000004,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1794366873,
     "fills": 1
   }
 ]
