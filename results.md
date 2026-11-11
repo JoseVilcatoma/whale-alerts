@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 20:47:40 (hora de Perú)
+Actualizado: 2026-11-10 20:49:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8245**  ($467,363,446 en total)
+- Apuestas registradas: **8246**  ($467,414,754 en total)
 - Resueltas: **8204** — 5021 ganadas / 3183 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | — | ⏳ Pendiente |
 | mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Knicks | Knicks | 1.11 (90¢) | $27,527 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | robustmst | Orleans: Clement Tabur vs Lukas Neumayer | Lukas Neumayer | 2.86 (35¢) | $28,137 | -$28,137 | ❌ Perdida |
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $99,304 | +$16,166 | ✅ Ganada |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $28,769 | +$4,683 | ✅ Ganada |
-| analdesutructor | Buccaneers vs. Bears | Bears | 1.14 (88¢) | $39,033 | +$5,323 | ✅ Ganada |

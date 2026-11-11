@@ -123918,5 +123918,20 @@
     "status": "pending",
     "ultimo_fill": 1794358167,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16689,
+    "timestamp": 1794361671,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "nba-mil-nyk-2026-11-10-total-217pt5",
+    "title": "Bucks vs. Knicks: O/U 217.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 51308.488000000005,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1794361671,
+    "fills": 1
   }
 ]
