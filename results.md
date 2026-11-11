@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 22:34:06 (hora de Perú)
+Actualizado: 2026-11-10 22:36:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8254**  ($467,688,924 en total)
+- Apuestas registradas: **8256**  ($467,786,123 en total)
 - Resueltas: **8215** — 5026 ganadas / 3189 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 720
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 330 | 4 | 64% | $59,536,751 | +$15,543 |
 | Sassy-Bucket | 118 | 117 | 3 | 50% | $16,053,182 | -$1,350,795 |
 | googleplay | 58 | 50 | 1 | 54% | $12,345,026 | -$163,019 |
-| Lakersfan111 | 161 | 86 | 1 | 65% | $11,943,521 | +$639,754 |
+| Lakersfan111 | 161 | 86 | 2 | 65% | $12,008,220 | +$639,754 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $32,500 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $64,699 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.56 (64¢) | $26,000 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Thunder (-1.5) | Trail Blazers | 2.00 (50¢) | $26,266 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $54,945 | -$54,945 | ❌ Perdida |
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $38,275 | -$38,275 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $42,456 | -$42,456 | ❌ Perdida |
-| Multicoloured-Serf | Spread: Cavaliers (-8.5) | Cavaliers | 2.08 (48¢) | $32,542 | -$32,542 | ❌ Perdida |
