@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 00:04:22 (hora de Perú)
+Actualizado: 2026-11-11 00:06:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8265**  ($468,386,607 en total)
-- Resueltas: **8221** — 5029 ganadas / 3192 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **8223** — 5030 ganadas / 3193 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,544,229** sobre $466,310,828 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,727** sobre $811,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,549,117** sobre $466,433,009 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,731** sobre $811,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| mooseborzoi | 21 | 29 | 2 | 42% | $2,554,431 | -$427,374 |
+| mooseborzoi | 21 | 30 | 1 | 41% | $2,554,431 | -$489,735 |
 | Multicoloured-Serf | 25 | 27 | 1 | 48% | $2,523,100 | -$448,553 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
@@ -106,8 +106,8 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | justwins | Bucks vs. Knicks: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $45,421 | +$43,640 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF Femenino vs. Paris FC: O/U 2.5 | Under 2.5 | 1.59 (63¢) | $31,500 | -$31,500 | ❌ Perdida |
 | Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.92 (52¢) | $57,206 | +$52,806 | ✅ Ganada |
-| mooseborzoi | Spread: Heat (-8.5) | Heat | 1.96 (51¢) | $62,362 | — | ⏳ Pendiente |
-| RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Heat (-8.5) | Heat | 1.96 (51¢) | $62,362 | -$62,362 | ❌ Perdida |
+| RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | +$57,474 | ✅ Ganada |
 | mooseborzoi | Celtics vs. 76ers | 76ers | 2.13 (47¢) | $25,713 | -$25,713 | ❌ Perdida |
 | MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | +$5,569 | ✅ Ganada |
 | ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | +$24,485 | ✅ Ganada |
