@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 22:09:31 (hora de Perú)
+Actualizado: 2026-11-10 22:11:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8252**  ($467,609,924 en total)
-- Resueltas: **8204** — 5021 ganadas / 3183 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **8209** — 5023 ganadas / 3186 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,504,740** sobre $465,613,037 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,226** sobre $809,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,555,026** sobre $465,786,037 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,409** sobre $809,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 329 | 5 | 64% | $59,536,751 | +$49,888 |
 | Sassy-Bucket | 118 | 117 | 3 | 50% | $16,053,182 | -$1,350,795 |
-| googleplay | 58 | 49 | 2 | 54% | $12,345,026 | -$137,048 |
+| googleplay | 58 | 50 | 1 | 54% | $12,345,026 | -$163,019 |
 | Lakersfan111 | 160 | 86 | 1 | 65% | $11,890,521 | +$636,696 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -61,8 +61,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| mooseborzoi | 20 | 25 | 7 | 44% | $2,554,431 | -$414,440 |
-| Multicoloured-Serf | 25 | 25 | 3 | 50% | $2,523,100 | -$389,099 |
+| mooseborzoi | 20 | 26 | 6 | 43% | $2,554,431 | -$445,578 |
+| Multicoloured-Serf | 25 | 26 | 2 | 49% | $2,523,100 | -$423,220 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
 _(mostrando los 40 de mayor monto, de 720 en total)_
@@ -77,14 +77,14 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | — | ⏳ Pendiente |
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | — | ⏳ Pendiente |
-| MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | — | ⏳ Pendiente |
+| MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | +$12,827 | ✅ Ganada |
 | mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Knicks | Knicks | 1.11 (90¢) | $27,527 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Knicks (-15.5) | Bucks | 1.96 (51¢) | $31,138 | — | ⏳ Pendiente |
-| googleplay | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $25,971 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Spread: Knicks (-15.5) | Knicks | 1.92 (52¢) | $30,461 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $34,121 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Knicks (-15.5) | Bucks | 1.96 (51¢) | $31,138 | -$31,138 | ❌ Perdida |
+| googleplay | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $25,971 | -$25,971 | ❌ Perdida |
+| keeptheblueflagflyinghigh | Spread: Knicks (-15.5) | Knicks | 1.92 (52¢) | $30,461 | +$28,118 | ✅ Ganada |
+| Multicoloured-Serf | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $34,121 | -$34,121 | ❌ Perdida |
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.00 (50¢) | $29,766 | — | ⏳ Pendiente |
 | Mastermoney | WTA Finals, Group A: Coco Gauff vs Linda Noskova | Coco Gauff | 1.56 (64¢) | $37,673 | -$37,673 | ❌ Perdida |
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.04 (49¢) | $32,059 | — | ⏳ Pendiente |
