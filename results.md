@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 08:09:33 (hora de Perú)
+Actualizado: 2026-11-11 08:11:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8267**  ($468,539,929 en total)
+- Apuestas registradas: **8268**  ($468,632,256 en total)
 - Resueltas: **8241** — 5041 ganadas / 3200 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 720
 
 ### Balance
@@ -46,8 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 0 | 54% | $4,008,362 | -$1,787,405 |
+| Woaifacai | 43 | 12 | 1 | 78% | $3,998,196 | +$721,410 |
 | 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
-| Woaifacai | 43 | 12 | 0 | 78% | $3,905,869 | +$721,410 |
 | cosmicxbt | 28 | 9 | 0 | 76% | $3,847,814 | -$234,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | — | ⏳ Pendiente |
 | Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | +$8,756 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | -$115,995 | ❌ Perdida |
 | winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | +$2,601 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Sassy-Bucket | Bills vs. Vikings | Bills | 1.56 (64¢) | $192,000 | +$108,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Vikings | Bills | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $121,000 | -$121,000 | ❌ Perdida |
-| cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | +$24,351 | ✅ Ganada |

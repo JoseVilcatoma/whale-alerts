@@ -124248,5 +124248,20 @@
     "status": "won",
     "ultimo_fill": 1794376236,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16749,
+    "timestamp": 1794402685,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "atp-feldbau-pereira-2026-11-09",
+    "title": "Monastir: Kilian Feldbausch vs Tiago Pereira",
+    "outcome": "Tiago Pereira",
+    "side": "BUY",
+    "usd": 92327.67599999999,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1794402685,
+    "fills": 1
   }
 ]
