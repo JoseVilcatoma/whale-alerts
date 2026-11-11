@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 00:43:12 (hora de Perú)
+Actualizado: 2026-11-11 00:45:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8266**  ($468,502,603 en total)
-- Resueltas: **8224** — 5031 ganadas / 3193 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8227** — 5033 ganadas / 3194 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,501,655** sobre $466,468,814 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,598** sobre $811,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,519,328** sobre $466,565,458 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,673** sobre $811,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,8 +72,8 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | — | ⏳ Pendiente |
-| winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | — | ⏳ Pendiente |
-| winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | — | ⏳ Pendiente |
+| winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | +$2,601 | ✅ Ganada |
+| winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | +$6,271 | ✅ Ganada |
 | MD14 | Heat vs. Jazz: O/U 218.5 | Over 218.5 | 1.23 (81¢) | $78,022 | +$18,302 | ✅ Ganada |
 | tankfest2027 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $47,930 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Trail Blazers | Trail Blazers | 2.00 (50¢) | $221,674 | — | ⏳ Pendiente |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.56 (64¢) | $26,000 | +$14,625 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-1.5) | Trail Blazers | 2.00 (50¢) | $26,266 | — | ⏳ Pendiente |
-| Mastermoney | Magic vs. Kings: O/U 221.5 | Over 221.5 | 1.89 (53¢) | $26,545 | — | ⏳ Pendiente |
+| Mastermoney | Magic vs. Kings: O/U 221.5 | Over 221.5 | 1.89 (53¢) | $26,545 | -$26,545 | ❌ Perdida |
 | googleplay | Spread: Magic (-5.5) | Kings | 2.00 (50¢) | $52,956 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | — | ⏳ Pendiente |
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | -$31,776 | ❌ Perdida |
