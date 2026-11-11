@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 00:45:16 (hora de Perú)
+Actualizado: 2026-11-11 00:47:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8266**  ($468,502,603 en total)
-- Resueltas: **8227** — 5033 ganadas / 3194 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **8228** — 5033 ganadas / 3195 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,519,328** sobre $466,565,458 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,673** sobre $811,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,572,284** sobre $466,618,414 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,773** sobre $811,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 330 | 5 | 64% | $59,758,424 | +$15,543 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
-| googleplay | 58 | 50 | 1 | 54% | $12,345,026 | -$163,019 |
+| googleplay | 58 | 51 | 0 | 53% | $12,345,026 | -$215,976 |
 | Lakersfan111 | 161 | 86 | 4 | 65% | $12,156,374 | +$639,754 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | fantasy7788 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.56 (64¢) | $26,000 | +$14,625 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-1.5) | Trail Blazers | 2.00 (50¢) | $26,266 | — | ⏳ Pendiente |
 | Mastermoney | Magic vs. Kings: O/U 221.5 | Over 221.5 | 1.89 (53¢) | $26,545 | -$26,545 | ❌ Perdida |
-| googleplay | Spread: Magic (-5.5) | Kings | 2.00 (50¢) | $52,956 | — | ⏳ Pendiente |
+| googleplay | Spread: Magic (-5.5) | Kings | 2.00 (50¢) | $52,956 | -$52,956 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | — | ⏳ Pendiente |
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | -$31,776 | ❌ Perdida |
 | Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | -$25,333 | ❌ Perdida |
