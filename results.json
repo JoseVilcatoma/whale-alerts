@@ -123780,7 +123780,7 @@
     "side": "BUY",
     "usd": 32058.965799999998,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794346738,
     "fills": 1
   },
@@ -123810,7 +123810,7 @@
     "side": "BUY",
     "usd": 29765.5,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794352035,
     "fills": 1
   },
@@ -124037,6 +124037,21 @@
     "odds_at_bet": 64,
     "status": "pending",
     "ultimo_fill": 1794366873,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16706,
+    "timestamp": 1794367197,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-okc-por-2026-11-10",
+    "title": "Thunder vs. Trail Blazers",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 53000.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794367197,
     "fills": 1
   }
 ]
