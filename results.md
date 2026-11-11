@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 00:06:26 (hora de Perú)
+Actualizado: 2026-11-11 00:08:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8265**  ($468,386,607 en total)
-- Resueltas: **8223** — 5030 ganadas / 3193 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8224** — 5031 ganadas / 3193 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,549,117** sobre $466,433,009 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,731** sobre $811,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,501,655** sobre $466,468,814 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,598** sobre $811,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| TAIWANNUMBERONE | 59 | 24 | 1 | 71% | $3,134,134 | -$107,564 |
+| TAIWANNUMBERONE | 60 | 24 | 0 | 71% | $3,134,134 | -$60,102 |
 | fantasy7788 | 33 | 20 | 0 | 62% | $2,948,148 | +$604,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | MD14 | Heat vs. Jazz: O/U 218.5 | Over 218.5 | 1.23 (81¢) | $78,022 | +$18,302 | ✅ Ganada |
 | tankfest2027 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $47,930 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Trail Blazers | Trail Blazers | 2.00 (50¢) | $221,674 | — | ⏳ Pendiente |
-| PacersThreeandahalf | Ohio vs. Miami (OH) | Miami (OH) | 2.33 (43¢) | $35,804 | — | ⏳ Pendiente |
+| PacersThreeandahalf | Ohio vs. Miami (OH) | Miami (OH) | 2.33 (43¢) | $35,804 | +$47,461 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 3.12 (32¢) | $32,159 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Thunder vs. Trail Blazers | Trail Blazers | 2.08 (48¢) | $86,883 | — | ⏳ Pendiente |
 | Woaifacai | Predators vs. Kings | Predators | 1.59 (63¢) | $27,913 | — | ⏳ Pendiente |
