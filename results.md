@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 00:20:45 (hora de Perú)
+Actualizado: 2026-11-11 00:22:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8265**  ($468,386,607 en total)
+- Apuestas registradas: **8266**  ($468,502,603 en total)
 - Resueltas: **8224** — 5031 ganadas / 3193 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 720
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 330 | 5 | 64% | $59,758,424 | +$15,543 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
 | googleplay | 58 | 50 | 1 | 54% | $12,345,026 | -$163,019 |
-| Lakersfan111 | 161 | 86 | 3 | 65% | $12,040,379 | +$639,754 |
+| Lakersfan111 | 161 | 86 | 4 | 65% | $12,156,374 | +$639,754 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | — | ⏳ Pendiente |
 | winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | — | ⏳ Pendiente |
 | winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | — | ⏳ Pendiente |
 | MD14 | Heat vs. Jazz: O/U 218.5 | Over 218.5 | 1.23 (81¢) | $78,022 | +$18,302 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $121,000 | -$121,000 | ❌ Perdida |
 | cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | +$24,351 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | +$76,271 | ✅ Ganada |
-| EdZachary | Pacers vs. Mavericks | Mavericks | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
