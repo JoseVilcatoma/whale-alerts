@@ -124143,5 +124143,35 @@
     "status": "pending",
     "ultimo_fill": 1794369092,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16717,
+    "timestamp": 1794370553,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-okc-por-2026-11-10",
+    "title": "Thunder vs. Trail Blazers",
+    "outcome": "Trail Blazers",
+    "side": "BUY",
+    "usd": 221673.52,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794370553,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16718,
+    "timestamp": 1794370586,
+    "username": "tankfest2027",
+    "wallet": "0x4d6ef7033e3e332ba584882d09070b3abe755cfd",
+    "slug": "cs2-vit-fal2-2026-11-11",
+    "title": "Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 47929.664000000004,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1794370586,
+    "fills": 1
   }
 ]
