@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 16:57:35 (hora de Perú)
+Actualizado: 2026-11-11 16:59:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8275**  ($468,981,137 en total)
+- Apuestas registradas: **8276**  ($469,008,787 en total)
 - Resueltas: **8245** — 5043 ganadas / 3202 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 721
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 579 | 330 | 3 | 64% | $59,853,767 | +$284,369 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 579 | 330 | 4 | 64% | $59,881,417 | +$284,369 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
 | googleplay | 58 | 51 | 0 | 53% | $12,345,026 | -$215,976 |
 | Lakersfan111 | 161 | 90 | 0 | 64% | $12,156,374 | +$373,901 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.27 (79¢) | $27,650 | — | ⏳ Pendiente |
 | 999585 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.37 (73¢) | $130,191 | — | ⏳ Pendiente |
 | sinasinner | Penguins vs. Sharks | Penguins | 1.72 (58¢) | $26,775 | — | ⏳ Pendiente |
 | kjhgkltivtvriur | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 1.39 (72¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 | ferrariChampions2026 | Bills vs. Vikings | Bills | 1.64 (61¢) | $39,563 | +$25,295 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $71,533 | +$23,844 | ✅ Ganada |
 | Novelty8 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
-| DitieForlan | Spurs vs. Suns | Suns | 4.17 (24¢) | $27,736 | -$27,736 | ❌ Perdida |

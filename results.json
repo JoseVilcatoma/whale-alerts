@@ -124368,5 +124368,20 @@
     "status": "pending",
     "ultimo_fill": 1794434126,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 16762,
+    "timestamp": 1794434353,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "wta-svitoli-muchova-2026-11-10",
+    "title": "WTA Finals, Group B: Elina Svitolina vs Karolina Muchova",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 27650.0,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1794434353,
+    "fills": 1
   }
 ]
