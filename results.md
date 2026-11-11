@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 10:23:38 (hora de Perú)
+Actualizado: 2026-11-11 10:25:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8271**  ($468,752,672 en total)
-- Resueltas: **8242** — 5041 ganadas / 3201 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **8243** — 5041 ganadas / 3202 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 721
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,528,862** sobre $467,521,636 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,798** sobre $813,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,557,362** sobre $467,550,136 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,898** sobre $813,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Gumayusi98 | Orleans: Buvaysar Gadamauri vs Daniel Altmaier | Buvaysar Gadamauri | 1.06 (94¢) | $28,500 | — | ⏳ Pendiente |
+| Gumayusi98 | Orleans: Buvaysar Gadamauri vs Daniel Altmaier | Buvaysar Gadamauri | 1.06 (94¢) | $28,500 | -$28,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Sonego vs Alejandro Tabilo | Alejandro Tabilo | 1.52 (66¢) | $63,842 | — | ⏳ Pendiente |
 | SineNooneEI | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $28,073 | — | ⏳ Pendiente |
 | Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | -$92,328 | ❌ Perdida |
