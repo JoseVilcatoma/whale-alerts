@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 18:37:58 (hora de Perú)
+Actualizado: 2026-11-11 18:40:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8281**  ($469,223,126 en total)
+- Apuestas registradas: **8282**  ($469,256,652 en total)
 - Resueltas: **8247** — 5045 ganadas / 3202 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 721
 
 ### Balance
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| mooseborzoi | 22 | 30 | 0 | 42% | $2,554,431 | -$463,470 |
+| mooseborzoi | 22 | 30 | 1 | 42% | $2,587,957 | -$463,470 |
 | Multicoloured-Serf | 26 | 27 | 0 | 49% | $2,523,100 | -$414,982 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | — | ⏳ Pendiente |
 | SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | — | ⏳ Pendiente |
 | VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 | EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
 | MD14 | Nuggets vs. Rockets: O/U 212.5 | Under 212.5 | 1.18 (85¢) | $40,832 | +$7,206 | ✅ Ganada |
 | cosmicxbt | Bills vs. Vikings | Bills | 1.43 (70¢) | $51,333 | +$22,000 | ✅ Ganada |
-| cosmicxbt | Bills vs. Vikings | Bills | 1.41 (71¢) | $71,000 | +$29,000 | ✅ Ganada |
