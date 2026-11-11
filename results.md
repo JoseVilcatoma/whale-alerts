@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 00:47:19 (hora de Perú)
+Actualizado: 2026-11-11 00:49:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8266**  ($468,502,603 en total)
-- Resueltas: **8228** — 5033 ganadas / 3195 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8229** — 5034 ganadas / 3195 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,572,284** sobre $466,618,414 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,773** sobre $811,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,538,712** sobre $466,650,669 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,669** sobre $811,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | mooseborzoi | 21 | 30 | 1 | 41% | $2,554,431 | -$489,735 |
-| Multicoloured-Serf | 25 | 27 | 1 | 48% | $2,523,100 | -$448,553 |
+| Multicoloured-Serf | 26 | 27 | 0 | 49% | $2,523,100 | -$414,982 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
 _(mostrando los 40 de mayor monto, de 720 en total)_
@@ -102,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.00 (50¢) | $29,766 | -$29,766 | ❌ Perdida |
 | Mastermoney | WTA Finals, Group A: Coco Gauff vs Linda Noskova | Coco Gauff | 1.56 (64¢) | $37,673 | -$37,673 | ❌ Perdida |
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.04 (49¢) | $32,059 | -$32,059 | ❌ Perdida |
-| Multicoloured-Serf | Spread: Magic (-6.5) | Magic | 2.04 (49¢) | $32,255 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: Magic (-6.5) | Magic | 2.04 (49¢) | $32,255 | +$33,572 | ✅ Ganada |
 | winner877 | Bucks vs. Knicks | Knicks | 1.10 (91¢) | $44,697 | +$4,421 | ✅ Ganada |
 | justwins | Bucks vs. Knicks: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $45,421 | +$43,640 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF Femenino vs. Paris FC: O/U 2.5 | Under 2.5 | 1.59 (63¢) | $31,500 | -$31,500 | ❌ Perdida |
