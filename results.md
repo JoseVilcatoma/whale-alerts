@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 22:44:24 (hora de Perú)
+Actualizado: 2026-11-10 22:46:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8258**  ($467,900,919 en total)
-- Resueltas: **8215** — 5026 ganadas / 3189 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Apuestas registradas: **8259**  ($467,933,078 en total)
+- Resueltas: **8217** — 5027 ganadas / 3190 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,600,076** sobre $465,999,851 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,592** sobre $810,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,520,047** sobre $466,149,697 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,607** sobre $810,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 330 | 4 | 64% | $59,536,751 | +$15,543 |
 | Sassy-Bucket | 118 | 117 | 3 | 50% | $16,053,182 | -$1,350,795 |
 | googleplay | 58 | 50 | 1 | 54% | $12,345,026 | -$163,019 |
-| Lakersfan111 | 161 | 86 | 2 | 65% | $12,008,220 | +$639,754 |
+| Lakersfan111 | 161 | 86 | 3 | 65% | $12,040,379 | +$639,754 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| mooseborzoi | 20 | 28 | 4 | 42% | $2,554,431 | -$507,403 |
+| mooseborzoi | 21 | 29 | 2 | 42% | $2,554,431 | -$427,374 |
 | Multicoloured-Serf | 25 | 26 | 2 | 49% | $2,523,100 | -$423,220 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 3.12 (32¢) | $32,159 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Thunder vs. Trail Blazers | Trail Blazers | 2.08 (48¢) | $86,883 | — | ⏳ Pendiente |
 | Woaifacai | Predators vs. Kings | Predators | 1.59 (63¢) | $27,913 | — | ⏳ Pendiente |
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $32,500 | — | ⏳ Pendiente |
@@ -84,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | — | ⏳ Pendiente |
 | MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | +$12,827 | ✅ Ganada |
-| mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | — | ⏳ Pendiente |
+| mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | +$105,742 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | -$34,345 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Knicks | Knicks | 1.11 (90¢) | $27,527 | +$3,059 | ✅ Ganada |
 | mooseborzoi | Spread: Knicks (-15.5) | Bucks | 1.96 (51¢) | $31,138 | -$31,138 | ❌ Perdida |
@@ -101,7 +102,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.92 (52¢) | $57,206 | +$52,806 | ✅ Ganada |
 | mooseborzoi | Spread: Heat (-8.5) | Heat | 1.96 (51¢) | $62,362 | — | ⏳ Pendiente |
 | RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | — | ⏳ Pendiente |
-| mooseborzoi | Celtics vs. 76ers | 76ers | 2.13 (47¢) | $25,713 | — | ⏳ Pendiente |
+| mooseborzoi | Celtics vs. 76ers | 76ers | 2.13 (47¢) | $25,713 | -$25,713 | ❌ Perdida |
 | MD14 | Pelicans vs. Warriors: O/U 218.5 | Over 218.5 | 1.12 (89¢) | $45,055 | +$5,569 | ✅ Ganada |
 | ethanaz | Bills vs. Vikings: O/U 30.5 | Under 30.5 | 1.92 (52¢) | $26,525 | +$24,485 | ✅ Ganada |
 | EdZachary | Bills vs. Vikings | Bills | 1.12 (89¢) | $44,500 | +$5,500 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | robloxgamblemaster-2008-10-18 | Nuggets vs. Rockets | Rockets | 1.59 (63¢) | $33,170 | +$19,481 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | -$26,301 | ❌ Perdida |
 | robustmst | Lakers vs. Hawks | Lakers | 2.17 (46¢) | $35,000 | +$41,087 | ✅ Ganada |
-| RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $54,945 | -$54,945 | ❌ Perdida |
