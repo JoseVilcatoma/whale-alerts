@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 17:28:12 (hora de Perú)
+Actualizado: 2026-11-11 17:30:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8276**  ($469,008,787 en total)
+- Apuestas registradas: **8277**  ($469,039,326 en total)
 - Resueltas: **8245** — 5043 ganadas / 3202 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 721
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $30,539 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.27 (79¢) | $27,650 | — | ⏳ Pendiente |
 | 999585 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.37 (73¢) | $130,191 | — | ⏳ Pendiente |
 | sinasinner | Penguins vs. Sharks | Penguins | 1.72 (58¢) | $26,775 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 | CUTJALENHURTS | Nuggets vs. Rockets | Rockets | 1.14 (88¢) | $26,539 | +$3,619 | ✅ Ganada |
 | ferrariChampions2026 | Bills vs. Vikings | Bills | 1.64 (61¢) | $39,563 | +$25,295 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $71,533 | +$23,844 | ✅ Ganada |
-| Novelty8 | Spurs vs. Suns | Spurs | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |

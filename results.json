@@ -124383,5 +124383,20 @@
     "status": "pending",
     "ultimo_fill": 1794434353,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16763,
+    "timestamp": 1794436133,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "nba-orl-uta-2026-11-11-spread-away-4pt5",
+    "title": "Spread: Magic (-4.5)",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 30538.793999999998,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794436133,
+    "fills": 1
   }
 ]
