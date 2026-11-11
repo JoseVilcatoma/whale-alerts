@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 00:49:20 (hora de Perú)
+Actualizado: 2026-11-11 00:51:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8266**  ($468,502,603 en total)
+- Apuestas registradas: **8267**  ($468,539,929 en total)
 - Resueltas: **8229** — 5034 ganadas / 3195 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 720
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 0 | 54% | $4,008,362 | -$1,787,405 |
 | 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
-| Woaifacai | 41 | 12 | 1 | 77% | $3,868,542 | +$696,261 |
+| Woaifacai | 41 | 12 | 2 | 77% | $3,905,869 | +$696,261 |
 | cosmicxbt | 28 | 9 | 0 | 76% | $3,847,814 | -$234,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | — | ⏳ Pendiente |
 | winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | +$2,601 | ✅ Ganada |
 | winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | +$6,271 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Bills vs. Vikings | Bills | 1.59 (63¢) | $31,500 | +$18,500 | ✅ Ganada |
 | gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $121,000 | -$121,000 | ❌ Perdida |
 | cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | +$24,351 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | +$76,271 | ✅ Ganada |
