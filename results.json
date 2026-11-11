@@ -124020,7 +124020,7 @@
     "side": "BUY",
     "usd": 26265.5,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794366508,
     "fills": 1
   },
@@ -124050,7 +124050,7 @@
     "side": "BUY",
     "usd": 53000.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794367197,
     "fills": 1
   },
@@ -124065,7 +124065,7 @@
     "side": "BUY",
     "usd": 32500.0,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794368153,
     "fills": 1
   },
@@ -124080,7 +124080,7 @@
     "side": "BUY",
     "usd": 64698.53,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794368153,
     "fills": 1
   },
@@ -124110,7 +124110,7 @@
     "side": "BUY",
     "usd": 86882.976,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794368345,
     "fills": 1
   },
@@ -124125,7 +124125,7 @@
     "side": "BUY",
     "usd": 32159.248,
     "odds_at_bet": 32,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794368771,
     "fills": 1
   },
@@ -124155,7 +124155,7 @@
     "side": "BUY",
     "usd": 221673.52,
     "odds_at_bet": 50,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794370553,
     "fills": 1
   },
@@ -124170,7 +124170,7 @@
     "side": "BUY",
     "usd": 47929.664000000004,
     "odds_at_bet": 68,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794370586,
     "fills": 1
   },
@@ -124245,7 +124245,7 @@
     "side": "BUY",
     "usd": 37326.2418,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794376236,
     "fills": 1
   }

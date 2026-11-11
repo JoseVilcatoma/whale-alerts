@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 01:15:06 (hora de Perú)
+Actualizado: 2026-11-11 07:22:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8267**  ($468,539,929 en total)
-- Resueltas: **8231** — 5036 ganadas / 3195 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **8240** — 5041 ganadas / 3199 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,511,554** sobre $466,710,877 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,577** sobre $812,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,320,539** sobre $467,313,313 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,598** sobre $812,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 576 | 330 | 4 | 64% | $59,758,424 | +$26,308 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 577 | 330 | 3 | 64% | $59,758,424 | +$247,981 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
 | googleplay | 58 | 51 | 0 | 53% | $12,345,026 | -$215,976 |
-| Lakersfan111 | 161 | 86 | 4 | 65% | $12,156,374 | +$639,754 |
+| Lakersfan111 | 161 | 89 | 1 | 64% | $12,156,374 | +$489,897 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 0 | 54% | $4,008,362 | -$1,787,405 |
 | 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
-| Woaifacai | 42 | 12 | 1 | 78% | $3,905,869 | +$712,654 |
+| Woaifacai | 43 | 12 | 0 | 78% | $3,905,869 | +$721,410 |
 | cosmicxbt | 28 | 9 | 0 | 76% | $3,847,814 | -$234,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| mooseborzoi | 21 | 30 | 1 | 41% | $2,554,431 | -$489,735 |
+| mooseborzoi | 22 | 30 | 0 | 42% | $2,554,431 | -$463,470 |
 | Multicoloured-Serf | 26 | 27 | 0 | 49% | $2,523,100 | -$414,982 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
@@ -71,22 +71,22 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | — | ⏳ Pendiente |
+| Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | +$8,756 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | — | ⏳ Pendiente |
 | winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | +$2,601 | ✅ Ganada |
 | winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | +$6,271 | ✅ Ganada |
 | MD14 | Heat vs. Jazz: O/U 218.5 | Over 218.5 | 1.23 (81¢) | $78,022 | +$18,302 | ✅ Ganada |
-| tankfest2027 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $47,930 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Trail Blazers | Trail Blazers | 2.00 (50¢) | $221,674 | — | ⏳ Pendiente |
+| tankfest2027 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $47,930 | +$22,555 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Trail Blazers | Trail Blazers | 2.00 (50¢) | $221,674 | +$221,674 | ✅ Ganada |
 | PacersThreeandahalf | Ohio vs. Miami (OH) | Miami (OH) | 2.33 (43¢) | $35,804 | +$47,461 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 3.12 (32¢) | $32,159 | — | ⏳ Pendiente |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Thunder vs. Trail Blazers | Trail Blazers | 2.08 (48¢) | $86,883 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 3.12 (32¢) | $32,159 | -$32,159 | ❌ Perdida |
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Thunder vs. Trail Blazers | Trail Blazers | 2.08 (48¢) | $86,883 | +$94,123 | ✅ Ganada |
 | Woaifacai | Predators vs. Kings | Predators | 1.59 (63¢) | $27,913 | +$16,393 | ✅ Ganada |
-| Donkey14 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $32,500 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $64,699 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.89 (53¢) | $53,000 | — | ⏳ Pendiente |
+| Donkey14 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $32,500 | -$32,500 | ❌ Perdida |
+| robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $64,699 | -$64,699 | ❌ Perdida |
+| robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.56 (64¢) | $26,000 | +$14,625 | ✅ Ganada |
-| mooseborzoi | Spread: Thunder (-1.5) | Trail Blazers | 2.00 (50¢) | $26,266 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Thunder (-1.5) | Trail Blazers | 2.00 (50¢) | $26,266 | +$26,266 | ✅ Ganada |
 | Mastermoney | Magic vs. Kings: O/U 221.5 | Over 221.5 | 1.89 (53¢) | $26,545 | -$26,545 | ❌ Perdida |
 | googleplay | Spread: Magic (-5.5) | Kings | 2.00 (50¢) | $52,956 | -$52,956 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | +$10,765 | ✅ Ganada |
