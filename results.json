@@ -124008,5 +124008,20 @@
     "status": "pending",
     "ultimo_fill": 1794365636,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16695,
+    "timestamp": 1794366508,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-okc-por-2026-11-10-spread-away-1pt5",
+    "title": "Spread: Thunder (-1.5)",
+    "outcome": "Trail Blazers",
+    "side": "BUY",
+    "usd": 26265.5,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794366508,
+    "fills": 1
   }
 ]
