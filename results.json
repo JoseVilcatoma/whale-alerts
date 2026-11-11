@@ -123843,5 +123843,35 @@
     "status": "pending",
     "ultimo_fill": 1794352530,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16684,
+    "timestamp": 1794356724,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-mil-nyk-2026-11-10-spread-home-15pt5",
+    "title": "Spread: Knicks (-15.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 25971.165,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794356724,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16685,
+    "timestamp": 1794356778,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-mil-nyk-2026-11-10-spread-home-15pt5",
+    "title": "Spread: Knicks (-15.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 31138.05,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794356778,
+    "fills": 1
   }
 ]

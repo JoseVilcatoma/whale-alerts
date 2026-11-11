@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 19:24:20 (hora de Perú)
+Actualizado: 2026-11-10 19:26:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8240**  ($467,120,332 en total)
+- Apuestas registradas: **8242**  ($467,177,441 en total)
 - Resueltas: **8204** — 5021 ganadas / 3183 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 720
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 329 | 3 | 64% | $59,470,111 | +$49,888 |
 | Sassy-Bucket | 118 | 117 | 2 | 50% | $16,021,406 | -$1,350,795 |
-| googleplay | 58 | 49 | 0 | 54% | $12,266,098 | -$137,048 |
+| googleplay | 58 | 49 | 1 | 54% | $12,292,070 | -$137,048 |
 | Lakersfan111 | 160 | 86 | 0 | 65% | $11,862,994 | +$636,696 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | Multicoloured-Serf | 25 | 25 | 2 | 50% | $2,497,767 | -$389,099 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
-| mooseborzoi | 20 | 25 | 4 | 44% | $2,372,895 | -$414,440 |
+| mooseborzoi | 20 | 25 | 5 | 44% | $2,404,033 | -$414,440 |
 
 _(mostrando los 40 de mayor monto, de 720 en total)_
 
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Knicks (-15.5) | Bucks | 1.96 (51¢) | $31,138 | — | ⏳ Pendiente |
+| googleplay | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $25,971 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Knicks (-15.5) | Knicks | 1.92 (52¢) | $30,461 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $34,121 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.00 (50¢) | $29,766 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | CUTJALENHURTS | Buccaneers vs. Bears | Bears | 1.12 (89¢) | $27,203 | +$3,362 | ✅ Ganada |
 | ethanaz | Buccaneers vs. Bears | Bears | 1.32 (76¢) | $36,821 | +$11,628 | ✅ Ganada |
 | Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.25 (80¢) | $40,746 | +$10,186 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Heat vs. Kings | Heat | 1.14 (88¢) | $42,340 | +$5,774 | ✅ Ganada |
-| robustmst | Pelicans vs. Clippers | Pelicans | 2.50 (40¢) | $30,509 | -$30,509 | ❌ Perdida |
