@@ -123993,5 +123993,20 @@
     "status": "pending",
     "ultimo_fill": 1794365349,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16694,
+    "timestamp": 1794365636,
+    "username": "Mastermoney",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "nba-orl-sac-2026-11-10-total-221pt5",
+    "title": "Magic vs. Kings: O/U 221.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 26544.792500000003,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794365636,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 21:53:09 (hora de Perú)
+Actualizado: 2026-11-10 21:55:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8250**  ($467,557,114 en total)
+- Apuestas registradas: **8251**  ($467,583,659 en total)
 - Resueltas: **8204** — 5021 ganadas / 3183 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Mastermoney | Magic vs. Kings: O/U 221.5 | Over 221.5 | 1.89 (53¢) | $26,545 | — | ⏳ Pendiente |
 | googleplay | Spread: Magic (-5.5) | Kings | 2.00 (50¢) | $52,956 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | — | ⏳ Pendiente |
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | RJW1 | Lakers vs. Hawks | Lakers | 2.22 (45¢) | $35,776 | +$43,726 | ✅ Ganada |
 | mooseborzoi | Lakers vs. Hawks | Hawks | 1.82 (55¢) | $73,499 | -$73,499 | ❌ Perdida |
 | mooseborzoi | Spread: Hawks (-2.5) | Hawks | 2.00 (50¢) | $72,468 | -$72,468 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Spread: Pistons (-9.5) | Wizards | 1.96 (51¢) | $38,250 | -$38,250 | ❌ Perdida |
