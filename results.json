@@ -124338,5 +124338,20 @@
     "status": "pending",
     "ultimo_fill": 1794419277,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16759,
+    "timestamp": 1794420497,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nhl-pit-sj-2026-11-11",
+    "title": "Penguins vs. Sharks",
+    "outcome": "Penguins",
+    "side": "BUY",
+    "usd": 26774.6792,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1794420497,
+    "fills": 1
   }
 ]
