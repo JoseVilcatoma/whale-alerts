@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 19:26:21 (hora de Perú)
+Actualizado: 2026-11-10 19:28:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8242**  ($467,177,441 en total)
+- Apuestas registradas: **8244**  ($467,239,313 en total)
 - Resueltas: **8204** — 5021 ganadas / 3183 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 720
 
 ### Balance
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 329 | 3 | 64% | $59,470,111 | +$49,888 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 575 | 329 | 4 | 64% | $59,504,456 | +$49,888 |
 | Sassy-Bucket | 118 | 117 | 2 | 50% | $16,021,406 | -$1,350,795 |
 | googleplay | 58 | 49 | 1 | 54% | $12,292,070 | -$137,048 |
-| Lakersfan111 | 160 | 86 | 0 | 65% | $11,862,994 | +$636,696 |
+| Lakersfan111 | 160 | 86 | 1 | 65% | $11,890,521 | +$636,696 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Bucks vs. Knicks | Knicks | 1.11 (90¢) | $27,527 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Knicks (-15.5) | Bucks | 1.96 (51¢) | $31,138 | — | ⏳ Pendiente |
 | googleplay | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $25,971 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Knicks (-15.5) | Knicks | 1.92 (52¢) | $30,461 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | ethanaz | Buccaneers vs. Bears | Bears | 1.16 (86¢) | $28,769 | +$4,683 | ✅ Ganada |
 | analdesutructor | Buccaneers vs. Bears | Bears | 1.14 (88¢) | $39,033 | +$5,323 | ✅ Ganada |
 | CUTJALENHURTS | Buccaneers vs. Bears | Bears | 1.12 (89¢) | $27,203 | +$3,362 | ✅ Ganada |
-| ethanaz | Buccaneers vs. Bears | Bears | 1.32 (76¢) | $36,821 | +$11,628 | ✅ Ganada |
-| Multicoloured-Serf | Buccaneers vs. Bears | Bears | 1.25 (80¢) | $40,746 | +$10,186 | ✅ Ganada |

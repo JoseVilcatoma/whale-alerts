@@ -123873,5 +123873,35 @@
     "status": "pending",
     "ultimo_fill": 1794356778,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16686,
+    "timestamp": 1794356814,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-mil-nyk-2026-11-10",
+    "title": "Bucks vs. Knicks",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 27526.923000000003,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794356814,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16687,
+    "timestamp": 1794356859,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-mil-nyk-2026-11-10-spread-home-14pt5",
+    "title": "Spread: Knicks (-14.5)",
+    "outcome": "Bucks",
+    "side": "BUY",
+    "usd": 34344.9892,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1794356859,
+    "fills": 1
   }
 ]
