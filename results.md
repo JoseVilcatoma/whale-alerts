@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 09:46:36 (hora de Perú)
+Actualizado: 2026-11-11 09:48:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8271**  ($468,752,672 en total)
-- Resueltas: **8241** — 5041 ganadas / 3200 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Resueltas: **8242** — 5041 ganadas / 3201 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 721
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,436,534** sobre $467,429,308 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,698** sobre $813,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,528,862** sobre $467,521,636 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,798** sobre $813,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 0 | 54% | $4,008,362 | -$1,787,405 |
-| Woaifacai | 43 | 12 | 1 | 78% | $3,998,196 | +$721,410 |
+| Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
 | 999585 | 32 | 4 | 0 | 89% | $3,940,787 | +$78,946 |
 | cosmicxbt | 28 | 9 | 0 | 76% | $3,847,814 | -$234,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 | Gumayusi98 | Orleans: Buvaysar Gadamauri vs Daniel Altmaier | Buvaysar Gadamauri | 1.06 (94¢) | $28,500 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Sonego vs Alejandro Tabilo | Alejandro Tabilo | 1.52 (66¢) | $63,842 | — | ⏳ Pendiente |
 | SineNooneEI | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $28,073 | — | ⏳ Pendiente |
-| Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | — | ⏳ Pendiente |
+| Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | -$92,328 | ❌ Perdida |
 | Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | +$8,756 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | -$115,995 | ❌ Perdida |
 | winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | +$2,601 | ✅ Ganada |
