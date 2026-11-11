@@ -124098,5 +124098,20 @@
     "status": "pending",
     "ultimo_fill": 1794368288,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16712,
+    "timestamp": 1794368345,
+    "username": "0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604",
+    "wallet": "0x1bc2900db79077f14d294dd24552020dfbe73391",
+    "slug": "nba-okc-por-2026-11-10",
+    "title": "Thunder vs. Trail Blazers",
+    "outcome": "Trail Blazers",
+    "side": "BUY",
+    "usd": 86882.976,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794368345,
+    "fills": 1
   }
 ]

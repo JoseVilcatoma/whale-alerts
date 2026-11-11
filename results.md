@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 22:38:19 (hora de Perú)
+Actualizado: 2026-11-10 22:40:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8257**  ($467,814,036 en total)
+- Apuestas registradas: **8258**  ($467,900,919 en total)
 - Resueltas: **8215** — 5026 ganadas / 3189 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 720
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Thunder vs. Trail Blazers | Trail Blazers | 2.08 (48¢) | $86,883 | — | ⏳ Pendiente |
 | Woaifacai | Predators vs. Kings | Predators | 1.59 (63¢) | $27,913 | — | ⏳ Pendiente |
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $32,500 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $64,699 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | -$26,301 | ❌ Perdida |
 | robustmst | Lakers vs. Hawks | Lakers | 2.17 (46¢) | $35,000 | +$41,087 | ✅ Ganada |
 | RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $54,945 | -$54,945 | ❌ Perdida |
-| RJW1 | Spread: Mavericks (-3.5) | Mavericks | 1.82 (55¢) | $38,275 | -$38,275 | ❌ Perdida |
