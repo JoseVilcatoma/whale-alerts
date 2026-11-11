@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 00:00:13 (hora de Perú)
+Actualizado: 2026-11-11 00:02:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8264**  ($468,352,045 en total)
-- Resueltas: **8218** — 5028 ganadas / 3190 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Apuestas registradas: **8265**  ($468,386,607 en total)
+- Resueltas: **8220** — 5029 ganadas / 3191 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,505,422** sobre $466,175,697 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,551** sobre $810,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,512,454** sobre $466,279,052 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,627** sobre $810,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -62,7 +62,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | mooseborzoi | 21 | 29 | 2 | 42% | $2,554,431 | -$427,374 |
-| Multicoloured-Serf | 25 | 26 | 2 | 49% | $2,523,100 | -$423,220 |
+| Multicoloured-Serf | 25 | 27 | 1 | 48% | $2,523,100 | -$448,553 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
 _(mostrando los 40 de mayor monto, de 720 en total)_
@@ -71,8 +71,9 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | — | ⏳ Pendiente |
 | winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | — | ⏳ Pendiente |
-| MD14 | Heat vs. Jazz: O/U 218.5 | Over 218.5 | 1.23 (81¢) | $78,022 | — | ⏳ Pendiente |
+| MD14 | Heat vs. Jazz: O/U 218.5 | Over 218.5 | 1.23 (81¢) | $78,022 | +$18,302 | ✅ Ganada |
 | tankfest2027 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $47,930 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Trail Blazers | Trail Blazers | 2.00 (50¢) | $221,674 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Ohio vs. Miami (OH) | Miami (OH) | 2.33 (43¢) | $35,804 | — | ⏳ Pendiente |
@@ -88,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | googleplay | Spread: Magic (-5.5) | Kings | 2.00 (50¢) | $52,956 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | — | ⏳ Pendiente |
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | -$25,333 | ❌ Perdida |
 | MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | +$12,827 | ✅ Ganada |
 | mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | +$105,742 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | -$34,345 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | cavvvy | Bills vs. Vikings: O/U 46.5 | Under 46.5 | 1.92 (52¢) | $26,380 | +$24,351 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.92 (52¢) | $82,627 | +$76,271 | ✅ Ganada |
 | EdZachary | Pacers vs. Mavericks | Mavericks | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
-| gmpm2 | Spread: Bills (-4.5) | Vikings | 1.82 (55¢) | $110,825 | -$110,825 | ❌ Perdida |
