@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 18:18:24 (hora de Perú)
+Actualizado: 2026-11-10 19:24:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8240**  ($467,120,332 en total)
-- Resueltas: **8203** — 5021 ganadas / 3182 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8204** — 5021 ganadas / 3183 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 720
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,467,067** sobre $465,575,364 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,126** sobre $809,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,504,740** sobre $465,613,037 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,226** sobre $809,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | keeptheblueflagflyinghigh | Spread: Knicks (-15.5) | Knicks | 1.92 (52¢) | $30,461 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Knicks (-15.5) | Bucks | 2.00 (50¢) | $34,121 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.00 (50¢) | $29,766 | — | ⏳ Pendiente |
-| Mastermoney | WTA Finals, Group A: Coco Gauff vs Linda Noskova | Coco Gauff | 1.56 (64¢) | $37,673 | — | ⏳ Pendiente |
+| Mastermoney | WTA Finals, Group A: Coco Gauff vs Linda Noskova | Coco Gauff | 1.56 (64¢) | $37,673 | -$37,673 | ❌ Perdida |
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.04 (49¢) | $32,059 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Magic (-6.5) | Magic | 2.04 (49¢) | $32,255 | — | ⏳ Pendiente |
 | winner877 | Bucks vs. Knicks | Knicks | 1.10 (91¢) | $44,697 | — | ⏳ Pendiente |
