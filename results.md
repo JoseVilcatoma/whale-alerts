@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-10 22:50:32 (hora de Perú)
+Actualizado: 2026-11-10 22:52:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8259**  ($467,933,078 en total)
+- Apuestas registradas: **8260**  ($467,968,882 en total)
 - Resueltas: **8217** — 5027 ganadas / 3190 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 720
 
 ### Balance
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| TAIWANNUMBERONE | 59 | 24 | 0 | 71% | $3,098,330 | -$107,564 |
+| TAIWANNUMBERONE | 59 | 24 | 1 | 71% | $3,134,134 | -$107,564 |
 | fantasy7788 | 32 | 20 | 1 | 62% | $2,948,148 | +$589,803 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PacersThreeandahalf | Ohio vs. Miami (OH) | Miami (OH) | 2.33 (43¢) | $35,804 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 3.12 (32¢) | $32,159 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Thunder vs. Trail Blazers | Trail Blazers | 2.08 (48¢) | $86,883 | — | ⏳ Pendiente |
 | Woaifacai | Predators vs. Kings | Predators | 1.59 (63¢) | $27,913 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 720 en total)_
 | robloxgamblemaster-2008-10-18 | Spread: Rockets (-4.5) | Rockets | 1.96 (51¢) | $31,633 | +$30,393 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Nuggets vs. Rockets | Rockets | 1.59 (63¢) | $33,170 | +$19,481 | ✅ Ganada |
 | 0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186 | Spread: Bills (-3.5) | Vikings | 1.92 (52¢) | $26,301 | -$26,301 | ❌ Perdida |
-| robustmst | Lakers vs. Hawks | Lakers | 2.17 (46¢) | $35,000 | +$41,087 | ✅ Ganada |
