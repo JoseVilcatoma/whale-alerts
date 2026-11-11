@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 12:23:25 (hora de Perú)
+Actualizado: 2026-11-11 12:25:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8272**  ($468,784,172 en total)
-- Resueltas: **8244** — 5042 ganadas / 3202 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Resueltas: **8245** — 5043 ganadas / 3202 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 721
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,524,474** sobre $467,613,978 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,847** sobre $813,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,520,974** sobre $467,645,478 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,836** sobre $813,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 578 | 330 | 4 | 64% | $59,853,767 | +$280,869 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 579 | 330 | 3 | 64% | $59,853,767 | +$284,369 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
 | googleplay | 58 | 51 | 0 | 53% | $12,345,026 | -$215,976 |
 | Lakersfan111 | 161 | 90 | 0 | 64% | $12,156,374 | +$373,901 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 721 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Taylor Fritz vs Cameron Norrie | Taylor Fritz | 1.11 (90¢) | $31,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Taylor Fritz vs Cameron Norrie | Taylor Fritz | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
 | Gumayusi98 | Orleans: Buvaysar Gadamauri vs Daniel Altmaier | Buvaysar Gadamauri | 1.06 (94¢) | $28,500 | -$28,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Sonego vs Alejandro Tabilo | Alejandro Tabilo | 1.52 (66¢) | $63,842 | +$32,888 | ✅ Ganada |
 | SineNooneEI | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $28,073 | — | ⏳ Pendiente |
