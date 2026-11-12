@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 16:06:20 (hora de Perú)
+Actualizado: 2026-11-12 16:08:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8362**  ($473,431,803 en total)
+- Apuestas registradas: **8363**  ($473,505,919 en total)
 - Resueltas: **8326** — 5092 ganadas / 3234 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 723
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 58 | 2 | 47% | $4,739,553 | -$227,800 |
 | 999585 | 34 | 6 | 1 | 85% | $4,520,906 | +$188,568 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
-| Woaifacai | 46 | 13 | 0 | 78% | $4,152,255 | +$681,212 |
+| Woaifacai | 46 | 13 | 1 | 78% | $4,226,370 | +$681,212 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Albania vs. Finland: O/U 3.5 | Under 3.5 | 1.23 (81¢) | $74,116 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $115,901 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Celtics | 4.76 (21¢) | $42,000 | +$158,000 | ✅ Ganada |
 | RJW1 | Spread: Lakers (-14.5) | Lakers | 2.04 (49¢) | $49,000 | -$49,000 | ❌ Perdida |
 | mooseborzoi | Nets vs. Pelicans | Nets | 2.22 (45¢) | $29,188 | +$35,675 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 236.5 | Over 236.5 | 1.96 (51¢) | $72,891 | +$70,033 | ✅ Ganada |
