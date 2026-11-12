@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 22:32:35 (hora de Perú)
+Actualizado: 2026-11-11 22:34:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8332**  ($472,094,109 en total)
+- Apuestas registradas: **8333**  ($472,136,304 en total)
 - Resueltas: **8261** — 5050 ganadas / 3211 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 49
 - Apostadores distintos: 723
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 999585 | 33 | 6 | 1 | 85% | $4,474,200 | +$12,052 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 3 | 54% | $4,199,062 | -$1,787,405 |
 | surfandturf | 41 | 13 | 1 | 76% | $4,106,266 | +$502,940 |
-| Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
+| Woaifacai | 43 | 13 | 1 | 77% | $4,040,392 | +$629,082 |
 | cosmicxbt | 28 | 9 | 1 | 76% | $3,888,548 | -$234,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Warriors vs. Rockets | Rockets | 1.37 (73¢) | $42,195 | — | ⏳ Pendiente |
 | ethanaz | Buffalo vs. Ball State | Buffalo | 1.19 (84¢) | $47,974 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.27 (79¢) | $27,650 | +$7,350 | ✅ Ganada |
 | 999585 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.37 (73¢) | $130,191 | +$48,153 | ✅ Ganada |
 | sinasinner | Penguins vs. Sharks | Penguins | 1.72 (58¢) | $26,775 | — | ⏳ Pendiente |
-| kjhgkltivtvriur | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 1.39 (72¢) | $40,000 | — | ⏳ Pendiente |

@@ -125225,5 +125225,20 @@
     "status": "pending",
     "ultimo_fill": 1794453674,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16835,
+    "timestamp": 1794454461,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nba-gsw-hou-2026-11-11",
+    "title": "Warriors vs. Rockets",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 42195.3578,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1794454461,
+    "fills": 1
   }
 ]
