@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 03:18:29 (hora de Perú)
+Actualizado: 2026-11-12 03:20:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8340**  ($472,484,801 en total)
+- Apuestas registradas: **8341**  ($472,529,147 en total)
 - Resueltas: **8308** — 5080 ganadas / 3228 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 723
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 582 | 331 | 3 | 64% | $60,127,742 | +$395,394 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 582 | 331 | 4 | 64% | $60,172,088 | +$395,394 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 168 | 92 | 3 | 65% | $12,820,454 | +$472,798 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs MOUZ - Map 2 Winner | MOUZ | 1.35 (74¢) | $44,346 | — | ⏳ Pendiente |
 | BrotherObama | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | Woaifacai | Brisbane 3 (Doubles): Falck/Suarez vs Puttergill/Sweeny | Falck/Suarez | 1.32 (76¢) | $78,155 | +$24,681 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | mooseborzoi | Lightning vs. Sabres: O/U 6.5 | Under 6.5 | 2.08 (48¢) | $28,225 | -$28,225 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | -$71,200 | ❌ Perdida |
 | mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | -$33,526 | ❌ Perdida |
-| SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | +$31,274 | ✅ Ganada |
