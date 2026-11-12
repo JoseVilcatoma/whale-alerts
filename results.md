@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 00:42:24 (hora de Perú)
+Actualizado: 2026-11-12 00:44:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8333**  ($472,136,304 en total)
-- Resueltas: **8295** — 5073 ganadas / 3222 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8296** — 5073 ganadas / 3223 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,342,461** sobre $470,418,292 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,266** sobre $818,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,397,806** sobre $470,473,638 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,366** sobre $818,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | — | ⏳ Pendiente |
 | Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | -$55,346 | ❌ Perdida |
 | surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | +$22,386 | ✅ Ganada |
 | mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | -$28,610 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
