@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 04:54:04 (hora de Perú)
+Actualizado: 2026-11-12 04:56:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8345**  ($472,660,523 en total)
-- Resueltas: **8308** — 5080 ganadas / 3228 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8309** — 5081 ganadas / 3228 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,247,620** sobre $471,084,941 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,194** sobre $819,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,232,039** sobre $471,129,287 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,159** sobre $819,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 582 | 331 | 4 | 64% | $60,172,088 | +$395,394 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 583 | 331 | 3 | 64% | $60,172,088 | +$410,975 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 168 | 92 | 3 | 65% | $12,820,454 | +$472,798 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | fantasy7788 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
 | fkALG2FalconsTESMOUZ | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.37 (73¢) | $36,500 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | FUT Esports | 2.27 (44¢) | $32,462 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs MOUZ - Map 2 Winner | MOUZ | 1.35 (74¢) | $44,346 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs MOUZ - Map 2 Winner | MOUZ | 1.35 (74¢) | $44,346 | +$15,581 | ✅ Ganada |
 | BrotherObama | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | Woaifacai | Brisbane 3 (Doubles): Falck/Suarez vs Puttergill/Sweeny | Falck/Suarez | 1.32 (76¢) | $78,155 | +$24,681 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | — | ⏳ Pendiente |
