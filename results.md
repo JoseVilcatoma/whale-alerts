@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 21:36:23 (hora de Perú)
+Actualizado: 2026-11-11 21:38:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8323**  ($471,632,691 en total)
-- Resueltas: **8250** — 5045 ganadas / 3205 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Resueltas: **8252** — 5045 ganadas / 3207 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,608,742** sobre $468,043,540 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,972** sobre $813,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,683,268** sobre $468,118,065 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,172** sobre $814,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 33 | 20 | 0 | 62% | $2,948,148 | +$604,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| mooseborzoi | 22 | 31 | 4 | 42% | $2,717,745 | -$491,694 |
+| mooseborzoi | 22 | 32 | 3 | 41% | $2,717,745 | -$525,220 |
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -112,10 +112,10 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | mokkoroo | Warriors vs. Rockets | Rockets | 1.45 (69¢) | $41,703 | — | ⏳ Pendiente |
 | mooseborzoi | Lightning vs. Sabres: O/U 6.5 | Under 6.5 | 2.08 (48¢) | $28,225 | -$28,225 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | — | ⏳ Pendiente |
-| mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | — | ⏳ Pendiente |
+| mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | -$33,526 | ❌ Perdida |
 | SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | — | ⏳ Pendiente |
 | VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | — | ⏳ Pendiente |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | -$84,750 | ❌ Perdida |
 | RJW1 | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $30,539 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.27 (79¢) | $27,650 | +$7,350 | ✅ Ganada |
