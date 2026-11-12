@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 20:16:25 (hora de Perú)
+Actualizado: 2026-11-11 20:18:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8308**  ($470,603,866 en total)
+- Apuestas registradas: **8311**  ($470,827,102 en total)
 - Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 40
 - Apostadores distintos: 723
 
 ### Balance
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 5 | 64% | $60,072,242 | +$291,719 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 6 | 64% | $60,127,742 | +$291,719 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
-| Lakersfan111 | 161 | 90 | 6 | 64% | $12,513,647 | +$373,901 |
+| Lakersfan111 | 161 | 90 | 7 | 64% | $12,554,137 | +$373,901 |
 | googleplay | 58 | 51 | 1 | 53% | $12,384,077 | -$215,976 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| 999585 | 33 | 5 | 0 | 87% | $4,155,728 | +$42,349 |
+| 999585 | 33 | 5 | 1 | 87% | $4,282,974 | +$42,349 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 1 | 54% | $4,079,562 | -$1,787,405 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buffalo vs. Ball State | Buffalo | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
+| 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $57,115 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Raptors | 1.56 (64¢) | $148,825 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Celtics | 4.76 (21¢) | $42,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.56 (64¢) | $26,000 | +$14,625 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-1.5) | Trail Blazers | 2.00 (50¢) | $26,266 | +$26,266 | ✅ Ganada |
-| Mastermoney | Magic vs. Kings: O/U 221.5 | Over 221.5 | 1.89 (53¢) | $26,545 | -$26,545 | ❌ Perdida |
-| googleplay | Spread: Magic (-5.5) | Kings | 2.00 (50¢) | $52,956 | -$52,956 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | +$10,765 | ✅ Ganada |
