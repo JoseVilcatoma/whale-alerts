@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 05:47:06 (hora de Perú)
+Actualizado: 2026-11-12 05:49:11 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8350**  ($472,857,246 en total)
-- Resueltas: **8309** — 5081 ganadas / 3228 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **8316** — 5087 ganadas / 3229 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,232,039** sobre $471,129,287 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,159** sobre $819,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,198,068** sobre $471,455,403 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,111** sobre $820,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 583 | 331 | 3 | 64% | $60,172,088 | +$410,975 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
-| Lakersfan111 | 168 | 92 | 3 | 65% | $12,820,454 | +$472,798 |
+| Lakersfan111 | 171 | 92 | 0 | 65% | $12,820,454 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 3 | 47% | $4,739,553 | -$197,800 |
 | 999585 | 34 | 6 | 0 | 85% | $4,474,200 | +$188,568 |
-| Thunderous-Authoritarian-Snarl | 21 | 19 | 1 | 52% | $4,382,335 | -$1,729,415 |
+| Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | Woaifacai | 46 | 13 | 0 | 78% | $4,152,255 | +$681,212 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | TAIWANNUMBERONE | 60 | 25 | 2 | 71% | $3,267,593 | -$93,602 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| fantasy7788 | 33 | 20 | 2 | 62% | $3,006,148 | +$604,428 |
+| fantasy7788 | 34 | 20 | 1 | 63% | $3,006,148 | +$614,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | mooseborzoi | 24 | 33 | 0 | 42% | $2,717,745 | -$476,106 |
@@ -76,14 +76,14 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | kjhgkltivtvriur | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.39 (72¢) | $43,500 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.41 (71¢) | $26,980 | — | ⏳ Pendiente |
 | crazyoddslover | Hersonissos 3: Adrian Andreev vs Raul Brancaccio | Raul Brancaccio | 2.00 (50¢) | $27,589 | — | ⏳ Pendiente |
-| fkALG2FalconsTESMOUZ | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.37 (73¢) | $32,414 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
+| fkALG2FalconsTESMOUZ | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.37 (73¢) | $32,414 | +$11,989 | ✅ Ganada |
+| fantasy7788 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
 | fkALG2FalconsTESMOUZ | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.37 (73¢) | $36,500 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | FUT Esports | 2.27 (44¢) | $32,462 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | FUT Esports | 2.27 (44¢) | $32,462 | -$32,462 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs MOUZ - Map 2 Winner | MOUZ | 1.35 (74¢) | $44,346 | +$15,581 | ✅ Ganada |
 | BrotherObama | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | Woaifacai | Brisbane 3 (Doubles): Falck/Suarez vs Puttergill/Sweeny | Falck/Suarez | 1.32 (76¢) | $78,155 | +$24,681 | ✅ Ganada |
-| 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | +$5,699 | ✅ Ganada |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.63 (38¢) | $113,810 | +$185,690 | ✅ Ganada |
 | Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | +$11,843 | ✅ Ganada |
@@ -102,12 +102,12 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | +$22,386 | ✅ Ganada |
 | mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | -$28,610 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $91,698 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $91,698 | +$17,466 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $38,001 | +$22,318 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Legacy (+1.5) | Legacy | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.33 (30¢) | $90,000 | -$90,000 | ❌ Perdida |
 | 999585 | Buffalo vs. Ball State | Buffalo | 1.92 (52¢) | $191,226 | +$176,516 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $48,338 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $48,338 | +$9,207 | ✅ Ganada |
 | MD14 | Cavaliers vs. Knicks: O/U 209.5 | Over 209.5 | 1.11 (90¢) | $93,301 | +$10,367 | ✅ Ganada |
 | 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | +$25,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buffalo vs. Ball State | Buffalo | 2.70 (37¢) | $55,500 | +$94,500 | ✅ Ganada |
