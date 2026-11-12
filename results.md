@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 00:48:33 (hora de Perú)
+Actualizado: 2026-11-12 00:50:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8333**  ($472,136,304 en total)
-- Resueltas: **8296** — 5073 ganadas / 3223 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8299** — 5074 ganadas / 3225 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,397,806** sobre $470,473,638 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,366** sobre $818,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,508,698** sobre $470,654,760 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,494** sobre $818,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 582 | 331 | 3 | 64% | $60,127,742 | +$395,394 |
-| Sassy-Bucket | 118 | 118 | 3 | 50% | $16,164,722 | -$1,382,571 |
+| Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 168 | 91 | 4 | 65% | $12,820,454 | +$499,078 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 19 | 19 | 0 | 50% | $4,199,062 | -$1,978,105 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | Woaifacai | 44 | 13 | 0 | 77% | $4,040,392 | +$644,688 |
-| cosmicxbt | 28 | 9 | 1 | 76% | $3,888,548 | -$234,144 |
+| cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
@@ -75,10 +75,10 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | ethanaz | Buffalo vs. Ball State | Buffalo | 1.19 (84¢) | $47,974 | +$9,138 | ✅ Ganada |
 | PacersThreeandahalf | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | — | ⏳ Pendiente |
-| Sassy-Bucket | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $111,540 | — | ⏳ Pendiente |
-| cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | — | ⏳ Pendiente |
+| Sassy-Bucket | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $111,540 | -$111,540 | ❌ Perdida |
+| cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | +$29,497 | ✅ Ganada |
 | MD14 | Spurs vs. Bulls: O/U 225.5 | Over 225.5 | 1.12 (89¢) | $91,588 | +$11,320 | ✅ Ganada |
-| Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | — | ⏳ Pendiente |
+| Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | -$28,849 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | — | ⏳ Pendiente |
 | Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | -$55,346 | ❌ Perdida |
