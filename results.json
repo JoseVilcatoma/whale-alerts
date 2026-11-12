@@ -124908,5 +124908,20 @@
     "status": "pending",
     "ultimo_fill": 1794446282,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16801,
+    "timestamp": 1794446994,
+    "username": "0x6db5\u2026e279",
+    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+    "slug": "nba-cle-nyk-2026-11-11",
+    "title": "Cavaliers vs. Knicks",
+    "outcome": "Cavaliers",
+    "side": "BUY",
+    "usd": 29999.7,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1794446994,
+    "fills": 1
   }
 ]

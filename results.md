@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 20:28:42 (hora de Perú)
+Actualizado: 2026-11-11 20:30:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8311**  ($470,827,102 en total)
+- Apuestas registradas: **8312**  ($470,857,101 en total)
 - Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 723
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buffalo vs. Ball State | Buffalo | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
 | 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $64,699 | -$64,699 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.89 (53¢) | $53,000 | -$53,000 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Legacy vs FURIA - Map 2 Winner | FURIA | 1.56 (64¢) | $26,000 | +$14,625 | ✅ Ganada |
-| mooseborzoi | Spread: Thunder (-1.5) | Trail Blazers | 2.00 (50¢) | $26,266 | +$26,266 | ✅ Ganada |
