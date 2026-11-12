@@ -125555,5 +125555,20 @@
     "status": "pending",
     "ultimo_fill": 1794510279,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16914,
+    "timestamp": 1794512039,
+    "username": "juice-fruit",
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "slug": "atp-musetti-humbert-2026-11-12",
+    "title": "BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert",
+    "outcome": "Ugo Humbert",
+    "side": "BUY",
+    "usd": 36519.682499999995,
+    "odds_at_bet": 35,
+    "status": "pending",
+    "ultimo_fill": 1794512039,
+    "fills": 1
   }
 ]

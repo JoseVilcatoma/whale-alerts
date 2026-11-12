@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 14:32:33 (hora de Perú)
+Actualizado: 2026-11-12 14:34:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8354**  ($473,017,340 en total)
+- Apuestas registradas: **8355**  ($473,053,860 en total)
 - Resueltas: **8326** — 5092 ganadas / 3234 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 723
 
 ### Balance
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | mooseborzoi | 24 | 33 | 0 | 42% | $2,717,745 | -$476,106 |
-| juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
+| juice-fruit | 29 | 17 | 1 | 63% | $2,640,606 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | Multicoloured-Serf | 26 | 28 | 0 | 48% | $2,549,508 | -$441,390 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia win on 2026-11-12? | No | 1.49 (67¢) | $29,876 | +$14,715 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | mooseborzoi | Spread: Spurs (-15.5) | Bulls | 1.96 (51¢) | $43,765 | +$42,049 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Lakers vs. Bucks | Lakers | 1.14 (88¢) | $88,000 | +$12,000 | ✅ Ganada |
 | SineNooneEI | Spread: Lakers (-14.5) | Bucks | 2.00 (50¢) | $46,669 | +$46,669 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Lakers vs. Bucks | Lakers | 1.12 (89¢) | $89,000 | +$11,000 | ✅ Ganada |
