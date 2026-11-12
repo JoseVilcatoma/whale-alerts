@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 02:52:09 (hora de Perú)
+Actualizado: 2026-11-12 02:54:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8339**  ($472,454,801 en total)
+- Apuestas registradas: **8340**  ($472,484,801 en total)
 - Resueltas: **8307** — 5079 ganadas / 3228 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 723
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
-| BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
+| BrotherObama | 51 | 57 | 3 | 47% | $4,739,553 | -$197,800 |
 | 999585 | 34 | 6 | 0 | 85% | $4,474,200 | +$188,568 |
 | Thunderous-Authoritarian-Snarl | 21 | 19 | 0 | 52% | $4,349,872 | -$1,729,415 |
 | Woaifacai | 45 | 13 | 1 | 78% | $4,152,255 | +$656,532 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | Woaifacai | Brisbane 3 (Doubles): Falck/Suarez vs Puttergill/Sweeny | Falck/Suarez | 1.32 (76¢) | $78,155 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | -$71,200 | ❌ Perdida |
 | mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | -$33,526 | ❌ Perdida |
 | SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | +$31,274 | ✅ Ganada |
-| VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | +$49,500 | ✅ Ganada |
