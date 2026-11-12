@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 20:53:19 (hora de Perú)
+Actualizado: 2026-11-11 20:55:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8318**  ($471,347,467 en total)
+- Apuestas registradas: **8319**  ($471,439,165 en total)
 - Resueltas: **8249** — 5045 ganadas / 3204 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 723
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 6 | 64% | $60,127,742 | +$291,719 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
-| Lakersfan111 | 161 | 90 | 9 | 64% | $12,640,477 | +$373,901 |
+| Lakersfan111 | 161 | 90 | 10 | 64% | $12,732,175 | +$373,901 |
 | googleplay | 58 | 51 | 1 | 53% | $12,384,077 | -$215,976 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $91,698 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $38,001 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Legacy (+1.5) | Legacy | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.33 (30¢) | $90,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | tankfest2027 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $47,930 | +$22,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Trail Blazers | Trail Blazers | 2.00 (50¢) | $221,674 | +$221,674 | ✅ Ganada |
 | PacersThreeandahalf | Ohio vs. Miami (OH) | Miami (OH) | 2.33 (43¢) | $35,804 | +$47,461 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 3.12 (32¢) | $32,159 | -$32,159 | ❌ Perdida |
