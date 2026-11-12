@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 19:51:59 (hora de Perú)
+Actualizado: 2026-11-11 19:53:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8303**  ($470,277,737 en total)
+- Apuestas registradas: **8304**  ($470,306,925 en total)
 - Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 723
 
 ### Balance
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 33 | 20 | 0 | 62% | $2,948,148 | +$604,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| mooseborzoi | 22 | 30 | 3 | 42% | $2,659,947 | -$463,470 |
+| mooseborzoi | 22 | 30 | 4 | 42% | $2,689,135 | -$463,470 |
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Nets vs. Pelicans | Nets | 2.22 (45¢) | $29,188 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 236.5 | Over 236.5 | 1.96 (51¢) | $72,891 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 237.5 | Over 237.5 | 2.17 (46¢) | $26,972 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 236.5 | Over 236.5 | 2.04 (49¢) | $29,368 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | -$25,333 | ❌ Perdida |
 | MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | +$12,827 | ✅ Ganada |
 | mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | +$105,742 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Knicks (-14.5) | Bucks | 2.17 (46¢) | $34,345 | -$34,345 | ❌ Perdida |

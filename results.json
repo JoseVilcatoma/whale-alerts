@@ -124788,5 +124788,20 @@
     "status": "pending",
     "ultimo_fill": 1794444593,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16793,
+    "timestamp": 1794444835,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-bkn-nop-2026-11-11",
+    "title": "Nets vs. Pelicans",
+    "outcome": "Nets",
+    "side": "BUY",
+    "usd": 29188.350000000002,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1794444835,
+    "fills": 1
   }
 ]
