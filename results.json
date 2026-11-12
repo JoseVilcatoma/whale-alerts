@@ -125645,5 +125645,20 @@
     "status": "pending",
     "ultimo_fill": 1794514570,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16920,
+    "timestamp": 1794515174,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-cha-phx-2026-11-12",
+    "title": "Hornets vs. Suns",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 115901.33690000001,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794515174,
+    "fills": 1
   }
 ]
