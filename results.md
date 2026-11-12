@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 14:14:15 (hora de Perú)
+Actualizado: 2026-11-12 14:16:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8354**  ($473,017,340 en total)
-- Resueltas: **8325** — 5092 ganadas / 3233 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **8326** — 5092 ganadas / 3234 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,227,538** sobre $471,776,501 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,310** sobre $821,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,253,200** sobre $471,802,163 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,410** sobre $821,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 584 | 331 | 5 | 64% | $60,299,422 | +$425,690 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 584 | 332 | 4 | 64% | $60,299,422 | +$400,029 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 0 | 65% | $12,820,454 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia win on 2026-11-12? | No | 1.49 (67¢) | $29,876 | +$14,715 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia vs. Cyprus end in a draw? | No | 1.35 (74¢) | $25,662 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia vs. Cyprus end in a draw? | No | 1.35 (74¢) | $25,662 | -$25,662 | ❌ Perdida |
 | PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.35 (74¢) | $72,979 | +$25,641 | ✅ Ganada |
 | ArturitoFilito | Counter-Strike: Spirit vs G2 - Map 1 Winner | Spirit | 1.61 (62¢) | $25,674 | -$25,674 | ❌ Perdida |
 | kjhgkltivtvriur | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.39 (72¢) | $43,500 | +$16,917 | ✅ Ganada |
