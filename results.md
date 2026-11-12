@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 18:40:43 (hora de Perú)
+Actualizado: 2026-11-12 18:42:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8375**  ($474,456,917 en total)
+- Apuestas registradas: **8376**  ($474,492,175 en total)
 - Resueltas: **8337** — 5098 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 724
 
 ### Balance
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | TAIWANNUMBERONE | 62 | 25 | 0 | 71% | $3,267,593 | -$56,941 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| mooseborzoi | 24 | 34 | 1 | 41% | $3,092,320 | -$502,150 |
+| mooseborzoi | 24 | 34 | 2 | 41% | $3,127,578 | -$502,150 |
 | fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | juice-fruit | 29 | 18 | 2 | 62% | $2,812,645 | +$243,695 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | — | ⏳ Pendiente |
 | mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | — | ⏳ Pendiente |
 | surfandturf | Raptors vs. 76ers | 76ers | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
 | Woaifacai | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.69 (59¢) | $93,855 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $91,698 | +$17,466 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $38,001 | +$22,318 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Legacy (+1.5) | Legacy | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.33 (30¢) | $90,000 | -$90,000 | ❌ Perdida |
