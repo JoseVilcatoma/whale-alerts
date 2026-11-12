@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 01:08:42 (hora de Perú)
+Actualizado: 2026-11-12 01:10:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8334**  ($472,173,304 en total)
+- Apuestas registradas: **8335**  ($472,207,012 en total)
 - Resueltas: **8301** — 5075 ganadas / 3226 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 723
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 999585 | 34 | 6 | 0 | 85% | $4,474,200 | +$188,568 |
 | Thunderous-Authoritarian-Snarl | 19 | 19 | 1 | 50% | $4,236,062 | -$1,978,105 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
-| Woaifacai | 44 | 13 | 0 | 77% | $4,040,392 | +$644,688 |
+| Woaifacai | 44 | 13 | 1 | 77% | $4,074,100 | +$644,688 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
 | Woaifacai | Warriors vs. Rockets | Rockets | 1.37 (73¢) | $42,195 | +$15,607 | ✅ Ganada |
 | ethanaz | Buffalo vs. Ball State | Buffalo | 1.19 (84¢) | $47,974 | +$9,138 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | -$84,750 | ❌ Perdida |
 | RJW1 | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $30,539 | -$30,539 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.27 (79¢) | $27,650 | +$7,350 | ✅ Ganada |
-| 999585 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.37 (73¢) | $130,191 | +$48,153 | ✅ Ganada |

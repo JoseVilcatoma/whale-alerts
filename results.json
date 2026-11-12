@@ -125255,5 +125255,20 @@
     "status": "pending",
     "ultimo_fill": 1794463416,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16868,
+    "timestamp": 1794463830,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "atp-overbec-shang-2026-11-10",
+    "title": "Brisbane 3: Carl Overbeck vs Juncheng Shang",
+    "outcome": "Juncheng Shang",
+    "side": "BUY",
+    "usd": 33707.9546,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794463830,
+    "fills": 1
   }
 ]
