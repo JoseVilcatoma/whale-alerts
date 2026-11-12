@@ -124970,5 +124970,50 @@
     "status": "pending",
     "ultimo_fill": 1794448046,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16806,
+    "timestamp": 1794448215,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "cs2-lgc-fal2-2026-11-11",
+    "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 90000.0,
+    "odds_at_bet": 30,
+    "status": "pending",
+    "ultimo_fill": 1794448215,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16807,
+    "timestamp": 1794448235,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "cs2-lgc-fal2-2026-11-11-map-handicap-home-1pt5",
+    "title": "Map Handicap: FAL (-1.5) vs Legacy (+1.5)",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "usd": 29500.0,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1794448235,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16808,
+    "timestamp": 1794448238,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-orl-uta-2026-11-11",
+    "title": "Magic vs. Jazz",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 38001.4488,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1794448238,
+    "fills": 1
   }
 ]

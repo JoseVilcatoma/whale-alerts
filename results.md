@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 20:49:12 (hora de Perú)
+Actualizado: 2026-11-11 20:51:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8315**  ($471,189,966 en total)
+- Apuestas registradas: **8318**  ($471,347,467 en total)
 - Resueltas: **8249** — 5045 ganadas / 3204 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 46
 - Apostadores distintos: 723
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 6 | 64% | $60,127,742 | +$291,719 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
-| Lakersfan111 | 161 | 90 | 8 | 64% | $12,602,475 | +$373,901 |
+| Lakersfan111 | 161 | 90 | 9 | 64% | $12,640,477 | +$373,901 |
 | googleplay | 58 | 51 | 1 | 53% | $12,384,077 | -$215,976 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | 999585 | 33 | 6 | 1 | 85% | $4,474,200 | +$12,052 |
-| Thunderous-Authoritarian-Snarl | 19 | 16 | 1 | 54% | $4,079,562 | -$1,787,405 |
+| Thunderous-Authoritarian-Snarl | 19 | 16 | 3 | 54% | $4,199,062 | -$1,787,405 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
 | cosmicxbt | 28 | 9 | 0 | 76% | $3,847,814 | -$234,144 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $38,001 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Legacy (+1.5) | Legacy | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.33 (30¢) | $90,000 | — | ⏳ Pendiente |
 | 999585 | Buffalo vs. Ball State | Buffalo | 1.92 (52¢) | $191,226 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $48,338 | — | ⏳ Pendiente |
 | MD14 | Cavaliers vs. Knicks: O/U 209.5 | Over 209.5 | 1.11 (90¢) | $93,301 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Thunder vs. Trail Blazers | Trail Blazers | 2.00 (50¢) | $221,674 | +$221,674 | ✅ Ganada |
 | PacersThreeandahalf | Ohio vs. Miami (OH) | Miami (OH) | 2.33 (43¢) | $35,804 | +$47,461 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 3.12 (32¢) | $32,159 | -$32,159 | ❌ Perdida |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Thunder vs. Trail Blazers | Trail Blazers | 2.08 (48¢) | $86,883 | +$94,123 | ✅ Ganada |
-| Woaifacai | Predators vs. Kings | Predators | 1.59 (63¢) | $27,913 | +$16,393 | ✅ Ganada |
-| Donkey14 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $32,500 | -$32,500 | ❌ Perdida |
