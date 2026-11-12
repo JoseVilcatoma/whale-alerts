@@ -125030,5 +125030,35 @@
     "status": "pending",
     "ultimo_fill": 1794448424,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16810,
+    "timestamp": 1794448665,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-orl-uta-2026-11-11",
+    "title": "Magic vs. Jazz",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 62000.0,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1794448665,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16811,
+    "timestamp": 1794448682,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-orl-uta-2026-11-11",
+    "title": "Magic vs. Jazz",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 28609.6832,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1794448682,
+    "fills": 1
   }
 ]
