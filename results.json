@@ -124440,7 +124440,7 @@
     "side": "BUY",
     "usd": 25500.000000000004,
     "odds_at_bet": 34,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794439348,
     "fills": 1
   },
@@ -124605,7 +124605,7 @@
     "side": "BUY",
     "usd": 28350.0,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794442638,
     "fills": 1
   },
@@ -124922,7 +124922,7 @@
     "side": "BUY",
     "usd": 29999.7,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794446994,
     "fills": 1
   },
@@ -125164,6 +125164,51 @@
     "odds_at_bet": 58,
     "status": "pending",
     "ultimo_fill": 1794452177,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16831,
+    "timestamp": 1794452558,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-okc-por-2026-11-11",
+    "title": "Thunder vs. Trail Blazers",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 73865.81999999999,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1794452558,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16832,
+    "timestamp": 1794452575,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-furia-vit-2026-11-11",
+    "title": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 26279.375200000002,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1794452575,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16833,
+    "timestamp": 1794452582,
+    "username": "PacersThreeandahalf",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cs2-furia-vit-2026-11-11",
+    "title": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "usd": 33500.0,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794452582,
     "fills": 1
   }
 ]

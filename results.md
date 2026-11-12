@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 22:01:26 (hora de Perú)
+Actualizado: 2026-11-11 22:03:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8328**  ($471,874,815 en total)
-- Resueltas: **8258** — 5048 ganadas / 3210 perdidas (**61%** de acierto)
+- Apuestas registradas: **8331**  ($472,008,461 en total)
+- Resueltas: **8261** — 5050 ganadas / 3211 perdidas (**61%** de acierto)
 - Pendientes: 47
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,723,473** sobre $468,525,761 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,989** sobre $814,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,676,767** sobre $468,609,611 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,809** sobre $814,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 581 | 331 | 4 | 64% | $60,127,742 | +$300,894 |
-| Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
-| Lakersfan111 | 161 | 90 | 11 | 64% | $12,794,175 | +$373,901 |
+| Sassy-Bucket | 118 | 118 | 3 | 50% | $16,127,048 | -$1,382,571 |
+| Lakersfan111 | 161 | 90 | 12 | 64% | $12,820,454 | +$373,901 |
 | googleplay | 58 | 51 | 1 | 53% | $12,384,077 | -$215,976 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| TAIWANNUMBERONE | 60 | 24 | 0 | 71% | $3,134,134 | -$60,102 |
+| TAIWANNUMBERONE | 60 | 24 | 1 | 71% | $3,167,634 | -$60,102 |
 | fantasy7788 | 33 | 20 | 0 | 62% | $2,948,148 | +$604,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PacersThreeandahalf | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | — | ⏳ Pendiente |
+| Sassy-Bucket | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $73,866 | — | ⏳ Pendiente |
 | cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | — | ⏳ Pendiente |
 | MD14 | Spurs vs. Bulls: O/U 225.5 | Over 225.5 | 1.12 (89¢) | $91,588 | — | ⏳ Pendiente |
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | — | ⏳ Pendiente |
@@ -87,7 +90,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 999585 | Buffalo vs. Ball State | Buffalo | 1.92 (52¢) | $191,226 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $48,338 | — | ⏳ Pendiente |
 | MD14 | Cavaliers vs. Knicks: O/U 209.5 | Over 209.5 | 1.11 (90¢) | $93,301 | +$10,367 | ✅ Ganada |
-| 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | +$25,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buffalo vs. Ball State | Buffalo | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
 | 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | -$30,297 | 💰 Vendida antes |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | — | ⏳ Pendiente |
@@ -107,7 +110,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | robloxgamblemaster-2008-10-18 | Lakers vs. Bucks | Lakers | 1.12 (89¢) | $89,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 1.41 (71¢) | $31,561 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Pelicans | Nets | 2.27 (44¢) | $28,217 | — | ⏳ Pendiente |
-| Kluivert9 | Cavaliers vs. Knicks | Knicks | 1.59 (63¢) | $28,350 | — | ⏳ Pendiente |
+| Kluivert9 | Cavaliers vs. Knicks | Knicks | 1.59 (63¢) | $28,350 | -$28,350 | ❌ Perdida |
 | Multicoloured-Serf | Rangers vs. Flames | Flames | 2.38 (42¢) | $26,408 | — | ⏳ Pendiente |
 | Zzzz87 | Rangers vs. Flames | Rangers | 1.72 (58¢) | $45,414 | — | ⏳ Pendiente |
 | Donkey14 | Rangers vs. Flames | Flames | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
@@ -119,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | — | ⏳ Pendiente |
 | mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | -$33,526 | ❌ Perdida |
 | SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | +$31,274 | ✅ Ganada |
-| VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | — | ⏳ Pendiente |
+| VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | +$49,500 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | -$84,750 | ❌ Perdida |
 | RJW1 | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $30,539 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | sinasinner | Penguins vs. Sharks | Penguins | 1.72 (58¢) | $26,775 | — | ⏳ Pendiente |
 | kjhgkltivtvriur | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 1.39 (72¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Taylor Fritz vs Cameron Norrie | Taylor Fritz | 1.11 (90¢) | $31,500 | +$3,500 | ✅ Ganada |
-| Gumayusi98 | Orleans: Buvaysar Gadamauri vs Daniel Altmaier | Buvaysar Gadamauri | 1.06 (94¢) | $28,500 | -$28,500 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Sonego vs Alejandro Tabilo | Alejandro Tabilo | 1.52 (66¢) | $63,842 | +$32,888 | ✅ Ganada |
-| SineNooneEI | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $28,073 | — | ⏳ Pendiente |
