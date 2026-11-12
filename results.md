@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 17:02:36 (hora de Perú)
+Actualizado: 2026-11-12 17:04:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8368**  ($473,688,294 en total)
-- Resueltas: **8330** — 5095 ganadas / 3235 perdidas (**61%** de acierto)
-- Pendientes: 15
-- Apostadores distintos: 723
+- Apuestas registradas: **8369**  ($473,721,492 en total)
+- Resueltas: **8332** — 5095 ganadas / 3237 perdidas (**61%** de acierto)
+- Pendientes: 14
+- Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,224,607** sobre $472,010,564 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,405** sobre $821,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,303,682** sobre $472,089,639 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,605** sobre $822,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,19 +58,20 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| mooseborzoi | 24 | 33 | 1 | 42% | $2,743,789 | -$476,106 |
+| mooseborzoi | 24 | 34 | 0 | 41% | $2,743,789 | -$502,150 |
 | juice-fruit | 29 | 17 | 1 | 63% | $2,640,606 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | Multicoloured-Serf | 26 | 28 | 0 | 48% | $2,549,508 | -$441,390 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 723 en total)_
+_(mostrando los 40 de mayor monto, de 724 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.79 (56¢) | $33,198 | — | ⏳ Pendiente |
 | justwins | Raptors vs. 76ers: O/U 224.5 | Under 224.5 | 1.92 (52¢) | $26,975 | — | ⏳ Pendiente |
 | Woaifacai | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 2.56 (39¢) | $38,527 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | — | ⏳ Pendiente |
@@ -81,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $115,901 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | +$32,468 | ✅ Ganada |
 | 999585 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 1.37 (73¢) | $46,706 | — | ⏳ Pendiente |
-| Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | — | ⏳ Pendiente |
-| mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | — | ⏳ Pendiente |
+| Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | -$53,031 | ❌ Perdida |
+| mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | -$26,044 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
 | juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | -$32,760 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | +$25,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buffalo vs. Ball State | Buffalo | 2.70 (37¢) | $55,500 | +$94,500 | ✅ Ganada |
 | 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | -$30,297 | 💰 Vendida antes |
-| robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | -$40,490 | ❌ Perdida |

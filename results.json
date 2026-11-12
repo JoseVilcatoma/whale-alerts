@@ -125597,7 +125597,7 @@
     "side": "BUY",
     "usd": 26044.2,
     "odds_at_bet": 52,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794512639,
     "fills": 1
   },
@@ -125612,7 +125612,7 @@
     "side": "BUY",
     "usd": 53030.6422,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794513588,
     "fills": 1
   },
@@ -125764,6 +125764,21 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1794519845,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16934,
+    "timestamp": 1794521061,
+    "username": "0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960",
+    "wallet": "0x9bfe3b19bdbb654414dd167624cbe2dddab54a26",
+    "slug": "wta-pegula-noskova-2026-11-10",
+    "title": "WTA Finals, Group A: Jessica Pegula vs Linda Noskova",
+    "outcome": "Linda Noskova",
+    "side": "BUY",
+    "usd": 33197.906299999995,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1794521061,
     "fills": 1
   }
 ]
