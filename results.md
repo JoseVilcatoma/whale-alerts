@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 20:00:07 (hora de Perú)
+Actualizado: 2026-11-11 20:02:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8305**  ($470,355,925 en total)
+- Apuestas registradas: **8306**  ($470,397,925 en total)
 - Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 723
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 3 | 64% | $59,881,417 | +$291,719 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 4 | 64% | $59,923,417 | +$291,719 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
 | Lakersfan111 | 161 | 90 | 5 | 64% | $12,456,532 | +$373,901 |
 | googleplay | 58 | 51 | 1 | 53% | $12,384,077 | -$215,976 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Celtics | 4.76 (21¢) | $42,000 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-14.5) | Lakers | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mooseborzoi | Nets vs. Pelicans | Nets | 2.22 (45¢) | $29,188 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 236.5 | Over 236.5 | 1.96 (51¢) | $72,891 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | San Diego Toreros vs. Colorado Buffaloes | Colorado Buffaloes | 1.33 (75¢) | $32,295 | +$10,765 | ✅ Ganada |
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | -$31,776 | ❌ Perdida |
 | Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | -$25,333 | ❌ Perdida |
-| MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | +$12,827 | ✅ Ganada |
