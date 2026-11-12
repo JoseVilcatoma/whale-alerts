@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 17:53:57 (hora de Perú)
+Actualizado: 2026-11-12 17:55:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8371**  ($473,893,531 en total)
+- Apuestas registradas: **8372**  ($473,943,531 en total)
 - Resueltas: **8337** — 5098 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 724
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $50,000 | — | ⏳ Pendiente |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.72 (58¢) | $130,294 | — | ⏳ Pendiente |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.75 (57¢) | $41,744 | — | ⏳ Pendiente |
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.79 (56¢) | $33,198 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 999585 | Buffalo vs. Ball State | Buffalo | 1.92 (52¢) | $191,226 | +$176,516 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $48,338 | +$9,207 | ✅ Ganada |
 | MD14 | Cavaliers vs. Knicks: O/U 209.5 | Over 209.5 | 1.11 (90¢) | $93,301 | +$10,367 | ✅ Ganada |
-| 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | +$25,555 | ✅ Ganada |

@@ -125810,5 +125810,20 @@
     "status": "pending",
     "ultimo_fill": 1794521421,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16942,
+    "timestamp": 1794524115,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nba-tor-phi-2026-11-12",
+    "title": "Raptors vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 49999.999998,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1794524115,
+    "fills": 1
   }
 ]
