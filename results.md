@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 05:53:15 (hora de Perú)
+Actualizado: 2026-11-12 05:55:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8350**  ($472,857,246 en total)
-- Resueltas: **8316** — 5087 ganadas / 3229 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **8317** — 5087 ganadas / 3230 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,198,068** sobre $471,455,403 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,111** sobre $820,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,226,068** sobre $471,483,403 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,211** sobre $820,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | TAIWANNUMBERONE | 60 | 25 | 2 | 71% | $3,267,593 | -$93,602 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| fantasy7788 | 34 | 20 | 1 | 63% | $3,006,148 | +$614,428 |
+| fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | mooseborzoi | 24 | 33 | 0 | 42% | $2,717,745 | -$476,106 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | BrotherObama | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit | 2.17 (46¢) | $30,000 | — | ⏳ Pendiente |
 | Woaifacai | Brisbane 3 (Doubles): Falck/Suarez vs Puttergill/Sweeny | Falck/Suarez | 1.32 (76¢) | $78,155 | +$24,681 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | +$5,699 | ✅ Ganada |
-| fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | — | ⏳ Pendiente |
+| fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | -$28,000 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.63 (38¢) | $113,810 | +$185,690 | ✅ Ganada |
 | Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | +$11,843 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
