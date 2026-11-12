@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 16:52:23 (hora de Perú)
+Actualizado: 2026-11-12 16:54:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8368**  ($473,688,294 en total)
-- Resueltas: **8326** — 5092 ganadas / 3234 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8327** — 5093 ganadas / 3234 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,253,200** sobre $471,802,163 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,410** sobre $821,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,235,815** sobre $471,876,278 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,387** sobre $821,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 58 | 2 | 47% | $4,739,553 | -$227,800 |
 | 999585 | 34 | 6 | 1 | 85% | $4,520,906 | +$188,568 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
-| Woaifacai | 46 | 13 | 3 | 78% | $4,295,657 | +$681,212 |
+| Woaifacai | 47 | 13 | 2 | 78% | $4,295,657 | +$698,598 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | — | ⏳ Pendiente |
 | Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | — | ⏳ Pendiente |
 | mokkoroo | Hornets vs. Suns | Hornets | 3.03 (33¢) | $47,110 | — | ⏳ Pendiente |
-| Woaifacai | Albania vs. Finland: O/U 3.5 | Under 3.5 | 1.23 (81¢) | $74,116 | — | ⏳ Pendiente |
+| Woaifacai | Albania vs. Finland: O/U 3.5 | Under 3.5 | 1.23 (81¢) | $74,116 | +$17,385 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $115,901 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | — | ⏳ Pendiente |
