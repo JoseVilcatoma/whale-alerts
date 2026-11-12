@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 00:32:14 (hora de Perú)
+Actualizado: 2026-11-12 00:34:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8333**  ($472,136,304 en total)
-- Resueltas: **8291** — 5070 ganadas / 3221 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8295** — 5073 ganadas / 3222 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,358,700** sobre $470,246,333 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,295** sobre $817,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,342,461** sobre $470,418,292 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,266** sobre $818,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 582 | 331 | 3 | 64% | $60,127,742 | +$395,394 |
 | Sassy-Bucket | 118 | 118 | 3 | 50% | $16,164,722 | -$1,382,571 |
-| Lakersfan111 | 168 | 90 | 5 | 65% | $12,820,454 | +$539,567 |
+| Lakersfan111 | 168 | 91 | 4 | 65% | $12,820,454 | +$499,078 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -46,8 +46,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | 999585 | 34 | 6 | 0 | 85% | $4,474,200 | +$188,568 |
 | Thunderous-Authoritarian-Snarl | 19 | 19 | 0 | 50% | $4,199,062 | -$1,978,105 |
-| surfandturf | 41 | 13 | 1 | 76% | $4,106,266 | +$502,940 |
-| Woaifacai | 43 | 13 | 1 | 77% | $4,040,392 | +$629,082 |
+| surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
+| Woaifacai | 44 | 13 | 0 | 77% | $4,040,392 | +$644,688 |
 | cosmicxbt | 28 | 9 | 1 | 76% | $3,888,548 | -$234,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Woaifacai | Warriors vs. Rockets | Rockets | 1.37 (73¢) | $42,195 | — | ⏳ Pendiente |
+| Woaifacai | Warriors vs. Rockets | Rockets | 1.37 (73¢) | $42,195 | +$15,607 | ✅ Ganada |
 | ethanaz | Buffalo vs. Ball State | Buffalo | 1.19 (84¢) | $47,974 | +$9,138 | ✅ Ganada |
 | PacersThreeandahalf | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | — | ⏳ Pendiente |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | — | ⏳ Pendiente |
 | Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | — | ⏳ Pendiente |
-| surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | — | ⏳ Pendiente |
+| surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | +$22,386 | ✅ Ganada |
 | mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | -$28,610 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $91,698 | — | ⏳ Pendiente |
@@ -95,7 +95,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | +$25,555 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buffalo vs. Ball State | Buffalo | 2.70 (37¢) | $55,500 | +$94,500 | ✅ Ganada |
 | 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | -$30,297 | 💰 Vendida antes |
-| robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | -$40,490 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $57,115 | +$33,544 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Raptors | 1.56 (64¢) | $148,825 | -$148,825 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Celtics | 4.76 (21¢) | $42,000 | +$158,000 | ✅ Ganada |
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $63,379 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $39,915 | -$39,915 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $51,105 | -$51,105 | ❌ Perdida |
-| mokkoroo | Warriors vs. Rockets | Rockets | 1.45 (69¢) | $41,703 | — | ⏳ Pendiente |
+| mokkoroo | Warriors vs. Rockets | Rockets | 1.45 (69¢) | $41,703 | +$18,736 | ✅ Ganada |
 | mooseborzoi | Lightning vs. Sabres: O/U 6.5 | Under 6.5 | 2.08 (48¢) | $28,225 | -$28,225 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | -$71,200 | ❌ Perdida |
 | mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | -$33,526 | ❌ Perdida |
