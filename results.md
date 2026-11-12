@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 16:56:28 (hora de Perú)
+Actualizado: 2026-11-12 16:58:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8368**  ($473,688,294 en total)
-- Resueltas: **8327** — 5093 ganadas / 3234 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **8328** — 5094 ganadas / 3234 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,235,815** sobre $471,876,278 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,387** sobre $821,500 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,203,347** sobre $471,939,304 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,335** sobre $821,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 584 | 332 | 7 | 64% | $60,439,952 | +$400,029 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 585 | 332 | 6 | 64% | $60,439,952 | +$432,496 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Woaifacai | Albania vs. Finland: O/U 3.5 | Under 3.5 | 1.23 (81¢) | $74,116 | +$17,385 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $115,901 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | +$32,468 | ✅ Ganada |
 | 999585 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 1.37 (73¢) | $46,706 | — | ⏳ Pendiente |
 | Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | — | ⏳ Pendiente |
 | mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | — | ⏳ Pendiente |
