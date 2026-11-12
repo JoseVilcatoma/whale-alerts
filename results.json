@@ -125420,5 +125420,20 @@
     "status": "pending",
     "ultimo_fill": 1794476638,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16887,
+    "timestamp": 1794478576,
+    "username": "crazyoddslover",
+    "wallet": "0x49f268b2bf6a036aecc080958cf7b1af5759506a",
+    "slug": "atp-andreev-brancac-2026-11-12",
+    "title": "Hersonissos 3: Adrian Andreev vs Raul Brancaccio",
+    "outcome": "Raul Brancaccio",
+    "side": "BUY",
+    "usd": 27588.9595,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794478576,
+    "fills": 1
   }
 ]
