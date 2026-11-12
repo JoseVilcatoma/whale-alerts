@@ -124578,5 +124578,20 @@
     "status": "pending",
     "ultimo_fill": 1794442494,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16779,
+    "timestamp": 1794442530,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "nhl-nyr-cal-2026-11-11",
+    "title": "Rangers vs. Flames",
+    "outcome": "Rangers",
+    "side": "BUY",
+    "usd": 45414.0,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1794442530,
+    "fills": 1
   }
 ]
