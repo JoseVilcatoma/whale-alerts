@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 02:17:02 (hora de Perú)
+Actualizado: 2026-11-12 02:19:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8339**  ($472,454,801 en total)
-- Resueltas: **8306** — 5078 ganadas / 3228 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **8307** — 5079 ganadas / 3228 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,284,144** sobre $470,973,078 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,261** sobre $819,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,272,301** sobre $471,006,786 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,226** sobre $819,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | 999585 | 34 | 6 | 0 | 85% | $4,474,200 | +$188,568 |
 | Thunderous-Authoritarian-Snarl | 21 | 19 | 0 | 52% | $4,349,872 | -$1,729,415 |
-| Woaifacai | 44 | 13 | 2 | 77% | $4,152,255 | +$644,688 |
+| Woaifacai | 45 | 13 | 1 | 78% | $4,152,255 | +$656,532 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.63 (38¢) | $113,810 | +$185,690 | ✅ Ganada |
-| Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | — | ⏳ Pendiente |
+| Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | +$11,843 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
 | Woaifacai | Warriors vs. Rockets | Rockets | 1.37 (73¢) | $42,195 | +$15,607 | ✅ Ganada |
 | ethanaz | Buffalo vs. Ball State | Buffalo | 1.19 (84¢) | $47,974 | +$9,138 | ✅ Ganada |
