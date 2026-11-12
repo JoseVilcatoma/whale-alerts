@@ -125525,5 +125525,35 @@
     "status": "pending",
     "ultimo_fill": 1794507825,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16910,
+    "timestamp": 1794510273,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-tor-phi-2026-11-12",
+    "title": "Raptors vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 71796.62,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1794510273,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16911,
+    "timestamp": 1794510279,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "unl-mon-lat-2026-11-12-spread-home-1pt5",
+    "title": "Spread: Montenegro (-1.5)",
+    "outcome": "Montenegro",
+    "side": "BUY",
+    "usd": 32759.78,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794510279,
+    "fills": 1
   }
 ]
