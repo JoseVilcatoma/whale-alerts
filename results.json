@@ -124955,5 +124955,20 @@
     "status": "pending",
     "ultimo_fill": 1794447787,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16805,
+    "timestamp": 1794448046,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-buf-ballst-2026-11-11",
+    "title": "Buffalo vs. Ball State",
+    "outcome": "Buffalo",
+    "side": "BUY",
+    "usd": 191225.6424,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794448046,
+    "fills": 1
   }
 ]

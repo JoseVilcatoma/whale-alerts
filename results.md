@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 20:47:08 (hora de Perú)
+Actualizado: 2026-11-11 20:49:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8314**  ($470,998,740 en total)
+- Apuestas registradas: **8315**  ($471,189,966 en total)
 - Resueltas: **8249** — 5045 ganadas / 3204 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 723
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| 999585 | 33 | 6 | 0 | 85% | $4,282,974 | +$12,052 |
+| 999585 | 33 | 6 | 1 | 85% | $4,474,200 | +$12,052 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 1 | 54% | $4,079,562 | -$1,787,405 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Buffalo vs. Ball State | Buffalo | 1.92 (52¢) | $191,226 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $48,338 | — | ⏳ Pendiente |
 | MD14 | Cavaliers vs. Knicks: O/U 209.5 | Over 209.5 | 1.11 (90¢) | $93,301 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Thunder vs. Trail Blazers | Trail Blazers | 2.08 (48¢) | $86,883 | +$94,123 | ✅ Ganada |
 | Woaifacai | Predators vs. Kings | Predators | 1.59 (63¢) | $27,913 | +$16,393 | ✅ Ganada |
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $32,500 | -$32,500 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Thunder vs. Trail Blazers | Thunder | 1.92 (52¢) | $64,699 | -$64,699 | ❌ Perdida |
