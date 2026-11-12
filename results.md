@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 21:59:20 (hora de Perú)
+Actualizado: 2026-11-11 22:01:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8328**  ($471,874,815 en total)
-- Resueltas: **8257** — 5047 ganadas / 3210 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Resueltas: **8258** — 5048 ganadas / 3210 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,754,746** sobre $468,493,211 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,085** sobre $814,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,723,473** sobre $468,525,761 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,989** sobre $814,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -118,7 +118,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | mooseborzoi | Lightning vs. Sabres: O/U 6.5 | Under 6.5 | 2.08 (48¢) | $28,225 | -$28,225 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | — | ⏳ Pendiente |
 | mooseborzoi | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $33,526 | -$33,526 | ❌ Perdida |
-| SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | — | ⏳ Pendiente |
+| SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | +$31,274 | ✅ Ganada |
 | VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | -$84,750 | ❌ Perdida |
