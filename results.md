@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 21:51:00 (hora de Perú)
+Actualizado: 2026-11-11 21:53:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8326**  ($471,742,494 en total)
+- Apuestas registradas: **8327**  ($471,834,082 en total)
 - Resueltas: **8253** — 5046 ganadas / 3207 perdidas (**61%** de acierto)
-- Pendientes: 50
+- Pendientes: 51
 - Apostadores distintos: 723
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Spurs vs. Bulls: O/U 225.5 | Over 225.5 | 1.12 (89¢) | $91,588 | — | ⏳ Pendiente |
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | — | ⏳ Pendiente |
 | Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Sonego vs Alejandro Tabilo | Alejandro Tabilo | 1.52 (66¢) | $63,842 | +$32,888 | ✅ Ganada |
 | SineNooneEI | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $28,073 | — | ⏳ Pendiente |
 | Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | -$92,328 | ❌ Perdida |
-| Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | +$8,756 | ✅ Ganada |
