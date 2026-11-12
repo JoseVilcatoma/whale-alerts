@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 05:45:04 (hora de Perú)
+Actualizado: 2026-11-12 05:47:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8349**  ($472,784,266 en total)
+- Apuestas registradas: **8350**  ($472,857,246 en total)
 - Resueltas: **8309** — 5081 ganadas / 3228 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 723
 
 ### Balance
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| TAIWANNUMBERONE | 60 | 25 | 1 | 71% | $3,194,614 | -$93,602 |
+| TAIWANNUMBERONE | 60 | 25 | 2 | 71% | $3,267,593 | -$93,602 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | fantasy7788 | 33 | 20 | 2 | 62% | $3,006,148 | +$604,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.35 (74¢) | $72,979 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: Spirit vs G2 - Map 1 Winner | Spirit | 1.61 (62¢) | $25,674 | — | ⏳ Pendiente |
 | kjhgkltivtvriur | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.39 (72¢) | $43,500 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.41 (71¢) | $26,980 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | robloxgamblemaster-2008-10-18 | Nets vs. Pelicans | Nets | 2.27 (44¢) | $28,217 | +$35,913 | ✅ Ganada |
 | Kluivert9 | Cavaliers vs. Knicks | Knicks | 1.59 (63¢) | $28,350 | -$28,350 | ❌ Perdida |
 | Multicoloured-Serf | Rangers vs. Flames | Flames | 2.38 (42¢) | $26,408 | -$26,408 | ❌ Perdida |
-| Zzzz87 | Rangers vs. Flames | Rangers | 1.72 (58¢) | $45,414 | +$32,886 | ✅ Ganada |
