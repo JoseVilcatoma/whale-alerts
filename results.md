@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 20:45:05 (hora de Perú)
+Actualizado: 2026-11-11 20:47:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8314**  ($470,998,740 en total)
-- Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Resueltas: **8249** — 5045 ganadas / 3204 perdidas (**61%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,550,221** sobre $467,888,069 apostados (ROI **-1.2%**)
+- **Resultado de los apostadores: -$5,580,518** sobre $468,015,315 apostados (ROI **-1.2%**)
 - Copiando $100 fijo en cada una: **-$7,872** sobre $813,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| 999585 | 33 | 5 | 1 | 87% | $4,282,974 | +$42,349 |
+| 999585 | 33 | 6 | 0 | 85% | $4,282,974 | +$12,052 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 1 | 54% | $4,079,562 | -$1,787,405 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | MD14 | Cavaliers vs. Knicks: O/U 209.5 | Over 209.5 | 1.11 (90¢) | $93,301 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buffalo vs. Ball State | Buffalo | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
-| 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | — | ⏳ Pendiente |
+| 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | -$30,297 | 💰 Vendida antes |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $57,115 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Raptors | 1.56 (64¢) | $148,825 | — | ⏳ Pendiente |
