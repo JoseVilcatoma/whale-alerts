@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 14:59:20 (hora de Perú)
+Actualizado: 2026-11-12 15:01:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8357**  ($473,118,404 en total)
+- Apuestas registradas: **8358**  ($473,171,434 en total)
 - Resueltas: **8326** — 5092 ganadas / 3234 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 723
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | — | ⏳ Pendiente |
 | mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
 | juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 236.5 | Over 236.5 | 2.04 (49¢) | $29,368 | +$30,567 | ✅ Ganada |
 | googleplay | Spread: Spurs (-15.5) | Bulls | 2.00 (50¢) | $39,051 | +$39,051 | ✅ Ganada |
 | RJW1 | Spread: Spurs (-15.5) | Spurs | 2.00 (50¢) | $99,890 | -$99,890 | ❌ Perdida |
-| mooseborzoi | Spread: Spurs (-15.5) | Bulls | 1.96 (51¢) | $43,765 | +$42,049 | ✅ Ganada |

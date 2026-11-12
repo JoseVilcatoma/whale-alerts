@@ -125600,5 +125600,20 @@
     "status": "pending",
     "ultimo_fill": 1794512639,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16917,
+    "timestamp": 1794513588,
+    "username": "Fvalp",
+    "wallet": "0xbc1dacd4b84582fc310e4213421bca24e82da53c",
+    "slug": "unl-ita-fra-2026-11-12-fra",
+    "title": "Will France win on 2026-11-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 53030.6422,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794513588,
+    "fills": 1
   }
 ]
