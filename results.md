@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 16:58:30 (hora de Perú)
+Actualizado: 2026-11-12 17:00:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8368**  ($473,688,294 en total)
-- Resueltas: **8328** — 5094 ganadas / 3234 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **8329** — 5095 ganadas / 3234 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,203,347** sobre $471,939,304 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,335** sobre $821,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,191,847** sobre $471,977,804 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,305** sobre $821,700 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 585 | 332 | 6 | 64% | $60,439,952 | +$432,496 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 586 | 332 | 5 | 64% | $60,439,952 | +$443,996 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 999585 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 1.37 (73¢) | $46,706 | — | ⏳ Pendiente |
 | Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | — | ⏳ Pendiente |
 | mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
 | juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | — | ⏳ Pendiente |
