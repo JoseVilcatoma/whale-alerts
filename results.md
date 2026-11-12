@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 01:46:01 (hora de Perú)
+Actualizado: 2026-11-12 01:48:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8336**  ($472,320,822 en total)
+- Apuestas registradas: **8337**  ($472,348,822 en total)
 - Resueltas: **8302** — 5076 ganadas / 3226 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 723
 
 ### Balance
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | TAIWANNUMBERONE | 60 | 24 | 1 | 71% | $3,167,634 | -$60,102 |
-| fantasy7788 | 33 | 20 | 0 | 62% | $2,948,148 | +$604,428 |
+| fantasy7788 | 33 | 20 | 1 | 62% | $2,976,148 | +$604,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | mooseborzoi | 24 | 33 | 0 | 42% | $2,717,745 | -$476,106 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.63 (38¢) | $113,810 | — | ⏳ Pendiente |
 | Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | +$49,500 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
 | 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | -$84,750 | ❌ Perdida |
-| RJW1 | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $30,539 | -$30,539 | ❌ Perdida |
