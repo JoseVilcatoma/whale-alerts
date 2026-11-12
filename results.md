@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 14:42:47 (hora de Perú)
+Actualizado: 2026-11-12 14:44:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8356**  ($473,092,360 en total)
+- Apuestas registradas: **8357**  ($473,118,404 en total)
 - Resueltas: **8326** — 5092 ganadas / 3234 perdidas (**61%** de acierto)
-- Pendientes: 7
+- Pendientes: 8
 - Apostadores distintos: 723
 
 ### Balance
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
-| mooseborzoi | 24 | 33 | 0 | 42% | $2,717,745 | -$476,106 |
+| mooseborzoi | 24 | 33 | 1 | 42% | $2,743,789 | -$476,106 |
 | juice-fruit | 29 | 17 | 1 | 63% | $2,640,606 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | — | ⏳ Pendiente |
 | juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | googleplay | Spread: Spurs (-15.5) | Bulls | 2.00 (50¢) | $39,051 | +$39,051 | ✅ Ganada |
 | RJW1 | Spread: Spurs (-15.5) | Spurs | 2.00 (50¢) | $99,890 | -$99,890 | ❌ Perdida |
 | mooseborzoi | Spread: Spurs (-15.5) | Bulls | 1.96 (51¢) | $43,765 | +$42,049 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Lakers vs. Bucks | Lakers | 1.14 (88¢) | $88,000 | +$12,000 | ✅ Ganada |
