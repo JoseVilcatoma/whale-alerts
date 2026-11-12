@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 22:03:30 (hora de Perú)
+Actualizado: 2026-11-11 22:05:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8331**  ($472,008,461 en total)
+- Apuestas registradas: **8331**  ($472,046,135 en total)
 - Resueltas: **8261** — 5050 ganadas / 3211 perdidas (**61%** de acierto)
 - Pendientes: 47
 - Apostadores distintos: 723
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 581 | 331 | 4 | 64% | $60,127,742 | +$300,894 |
-| Sassy-Bucket | 118 | 118 | 3 | 50% | $16,127,048 | -$1,382,571 |
+| Sassy-Bucket | 118 | 118 | 3 | 50% | $16,164,722 | -$1,382,571 |
 | Lakersfan111 | 161 | 90 | 12 | 64% | $12,820,454 | +$373,901 |
 | googleplay | 58 | 51 | 1 | 53% | $12,384,077 | -$215,976 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 |---|---|---|---|---|---|---|
 | PacersThreeandahalf | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | — | ⏳ Pendiente |
-| Sassy-Bucket | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $73,866 | — | ⏳ Pendiente |
+| Sassy-Bucket | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $111,540 | — | ⏳ Pendiente |
 | cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | — | ⏳ Pendiente |
 | MD14 | Spurs vs. Bulls: O/U 225.5 | Over 225.5 | 1.12 (89¢) | $91,588 | — | ⏳ Pendiente |
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | — | ⏳ Pendiente |
