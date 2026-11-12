@@ -124938,5 +124938,20 @@
     "status": "pending",
     "ultimo_fill": 1794447620,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16803,
+    "timestamp": 1794447787,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fut-mouz-2026-11-12",
+    "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 48338.17799999999,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1794447787,
+    "fills": 1
   }
 ]
