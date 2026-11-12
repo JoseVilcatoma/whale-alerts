@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 19:17:17 (hora de Perú)
+Actualizado: 2026-11-11 19:19:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8290**  ($469,627,593 en total)
+- Apuestas registradas: **8293**  ($469,710,568 en total)
 - Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
-- Pendientes: 19
-- Apostadores distintos: 722
+- Pendientes: 22
+- Apostadores distintos: 723
 
 ### Balance
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 3 | 64% | $59,881,417 | +$291,719 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
 | googleplay | 58 | 51 | 0 | 53% | $12,345,026 | -$215,976 |
-| Lakersfan111 | 161 | 90 | 1 | 64% | $12,219,754 | +$373,901 |
+| Lakersfan111 | 161 | 90 | 2 | 64% | $12,247,971 | +$373,901 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -62,15 +62,18 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 29 | 17 | 0 | 63% | $2,604,086 | +$280,214 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| Multicoloured-Serf | 26 | 27 | 0 | 49% | $2,523,100 | -$414,982 |
+| Multicoloured-Serf | 26 | 27 | 1 | 49% | $2,549,508 | -$414,982 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 722 en total)_
+_(mostrando los 40 de mayor monto, de 723 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Nets vs. Pelicans | Nets | 2.27 (44¢) | $28,217 | — | ⏳ Pendiente |
+| Kluivert9 | Cavaliers vs. Knicks | Knicks | 1.59 (63¢) | $28,350 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Rangers vs. Flames | Flames | 2.38 (42¢) | $26,408 | — | ⏳ Pendiente |
 | Zzzz87 | Rangers vs. Flames | Rangers | 1.72 (58¢) | $45,414 | — | ⏳ Pendiente |
 | Donkey14 | Rangers vs. Flames | Flames | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $63,379 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 722 en total)_
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.04 (49¢) | $32,059 | -$32,059 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Magic (-6.5) | Magic | 2.04 (49¢) | $32,255 | +$33,572 | ✅ Ganada |
 | winner877 | Bucks vs. Knicks | Knicks | 1.10 (91¢) | $44,697 | +$4,421 | ✅ Ganada |
-| justwins | Bucks vs. Knicks: O/U 222.5 | Under 222.5 | 1.96 (51¢) | $45,421 | +$43,640 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF Femenino vs. Paris FC: O/U 2.5 | Under 2.5 | 1.59 (63¢) | $31,500 | -$31,500 | ❌ Perdida |
-| Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.92 (52¢) | $57,206 | +$52,806 | ✅ Ganada |

@@ -124593,5 +124593,50 @@
     "status": "pending",
     "ultimo_fill": 1794442530,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16780,
+    "timestamp": 1794442638,
+    "username": "Kluivert9",
+    "wallet": "0xe6535d86446728d567f4929557c2c4eb3cdbc4a7",
+    "slug": "nba-cle-nyk-2026-11-11",
+    "title": "Cavaliers vs. Knicks",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 28350.0,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1794442638,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16781,
+    "timestamp": 1794442638,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nhl-nyr-cal-2026-11-11",
+    "title": "Rangers vs. Flames",
+    "outcome": "Flames",
+    "side": "BUY",
+    "usd": 26407.9998,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1794442638,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16782,
+    "timestamp": 1794442721,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-bkn-nop-2026-11-11",
+    "title": "Nets vs. Pelicans",
+    "outcome": "Nets",
+    "side": "BUY",
+    "usd": 28217.1604,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1794442721,
+    "fills": 1
   }
 ]
