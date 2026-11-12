@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 21:28:04 (hora de Perú)
+Actualizado: 2026-11-11 21:30:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8321**  ($471,529,775 en total)
+- Apuestas registradas: **8323**  ($471,632,691 en total)
 - Resueltas: **8250** — 5045 ganadas / 3205 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 723
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | 999585 | 33 | 6 | 1 | 85% | $4,474,200 | +$12,052 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 3 | 54% | $4,199,062 | -$1,787,405 |
-| surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
+| surfandturf | 41 | 13 | 1 | 76% | $4,106,266 | +$502,940 |
 | Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
 | cosmicxbt | 28 | 9 | 0 | 76% | $3,847,814 | -$234,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | — | ⏳ Pendiente |
+| surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | — | ⏳ Pendiente |
 | mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.61 (62¢) | $62,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $91,698 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | -$115,995 | ❌ Perdida |
 | winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | +$2,601 | ✅ Ganada |
 | winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | +$6,271 | ✅ Ganada |
-| MD14 | Heat vs. Jazz: O/U 218.5 | Over 218.5 | 1.23 (81¢) | $78,022 | +$18,302 | ✅ Ganada |
-| tankfest2027 | Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $47,930 | +$22,555 | ✅ Ganada |
