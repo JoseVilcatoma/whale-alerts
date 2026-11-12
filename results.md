@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 21:46:49 (hora de Perú)
+Actualizado: 2026-11-11 21:48:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8325**  ($471,713,645 en total)
-- Resueltas: **8252** — 5045 ganadas / 3207 perdidas (**61%** de acierto)
+- Apuestas registradas: **8326**  ($471,742,494 en total)
+- Resueltas: **8253** — 5046 ganadas / 3207 perdidas (**61%** de acierto)
 - Pendientes: 50
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,683,268** sobre $468,118,065 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,172** sobre $814,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,672,901** sobre $468,211,366 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,161** sobre $814,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | — | ⏳ Pendiente |
 | Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | — | ⏳ Pendiente |
@@ -83,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.33 (30¢) | $90,000 | — | ⏳ Pendiente |
 | 999585 | Buffalo vs. Ball State | Buffalo | 1.92 (52¢) | $191,226 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $48,338 | — | ⏳ Pendiente |
-| MD14 | Cavaliers vs. Knicks: O/U 209.5 | Over 209.5 | 1.11 (90¢) | $93,301 | — | ⏳ Pendiente |
+| MD14 | Cavaliers vs. Knicks: O/U 209.5 | Over 209.5 | 1.11 (90¢) | $93,301 | +$10,367 | ✅ Ganada |
 | 0x6db5…e279 | Cavaliers vs. Knicks | Cavaliers | 1.85 (54¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Buffalo vs. Ball State | Buffalo | 2.70 (37¢) | $55,500 | — | ⏳ Pendiente |
 | 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | -$30,297 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | SineNooneEI | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $28,073 | — | ⏳ Pendiente |
 | Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | -$92,328 | ❌ Perdida |
 | Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | +$8,756 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | -$115,995 | ❌ Perdida |

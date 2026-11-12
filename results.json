@@ -124937,7 +124937,7 @@
     "side": "BUY",
     "usd": 93300.534,
     "odds_at_bet": 90,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794447620,
     "fills": 2
   },
@@ -125119,6 +125119,21 @@
     "odds_at_bet": 56,
     "status": "pending",
     "ultimo_fill": 1794451340,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16819,
+    "timestamp": 1794451626,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-okc-por-2026-11-11",
+    "title": "Thunder vs. Trail Blazers",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 28849.107,
+    "odds_at_bet": 42,
+    "status": "pending",
+    "ultimo_fill": 1794451626,
     "fills": 1
   }
 ]
