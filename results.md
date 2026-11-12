@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 21:55:12 (hora de Perú)
+Actualizado: 2026-11-11 21:57:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8327**  ($471,834,082 en total)
+- Apuestas registradas: **8328**  ($471,874,815 en total)
 - Resueltas: **8253** — 5046 ganadas / 3207 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 723
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 3 | 54% | $4,199,062 | -$1,787,405 |
 | surfandturf | 41 | 13 | 1 | 76% | $4,106,266 | +$502,940 |
 | Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
-| cosmicxbt | 28 | 9 | 0 | 76% | $3,847,814 | -$234,144 |
+| cosmicxbt | 28 | 9 | 1 | 76% | $3,888,548 | -$234,144 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | — | ⏳ Pendiente |
 | MD14 | Spurs vs. Bulls: O/U 225.5 | Over 225.5 | 1.12 (89¢) | $91,588 | — | ⏳ Pendiente |
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Gumayusi98 | Orleans: Buvaysar Gadamauri vs Daniel Altmaier | Buvaysar Gadamauri | 1.06 (94¢) | $28,500 | -$28,500 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Sonego vs Alejandro Tabilo | Alejandro Tabilo | 1.52 (66¢) | $63,842 | +$32,888 | ✅ Ganada |
 | SineNooneEI | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $28,073 | — | ⏳ Pendiente |
-| Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | -$92,328 | ❌ Perdida |
