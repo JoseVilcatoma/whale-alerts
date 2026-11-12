@@ -125495,5 +125495,20 @@
     "status": "won",
     "ultimo_fill": 1794480311,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16908,
+    "timestamp": 1794507152,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "unl-arm-cyp-2026-11-12-draw",
+    "title": "Will Armenia vs. Cyprus end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25661.7718,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794507152,
+    "fills": 1
   }
 ]

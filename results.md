@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 13:12:20 (hora de Perú)
+Actualizado: 2026-11-12 13:14:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8350**  ($472,857,246 en total)
+- Apuestas registradas: **8351**  ($472,882,907 en total)
 - Resueltas: **8324** — 5091 ganadas / 3233 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 4
 - Apostadores distintos: 723
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 583 | 331 | 3 | 64% | $60,172,088 | +$410,975 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 583 | 331 | 4 | 64% | $60,197,750 | +$410,975 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 0 | 65% | $12,820,454 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia vs. Cyprus end in a draw? | No | 1.35 (74¢) | $25,662 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.35 (74¢) | $72,979 | +$25,641 | ✅ Ganada |
 | ArturitoFilito | Counter-Strike: Spirit vs G2 - Map 1 Winner | Spirit | 1.61 (62¢) | $25,674 | -$25,674 | ❌ Perdida |
 | kjhgkltivtvriur | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.39 (72¢) | $43,500 | +$16,917 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 1.41 (71¢) | $31,561 | +$12,891 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Nets vs. Pelicans | Nets | 2.27 (44¢) | $28,217 | +$35,913 | ✅ Ganada |
 | Kluivert9 | Cavaliers vs. Knicks | Knicks | 1.59 (63¢) | $28,350 | -$28,350 | ❌ Perdida |
-| Multicoloured-Serf | Rangers vs. Flames | Flames | 2.38 (42¢) | $26,408 | -$26,408 | ❌ Perdida |
