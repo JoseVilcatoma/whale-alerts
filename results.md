@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 21:40:34 (hora de Perú)
+Actualizado: 2026-11-11 21:42:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8323**  ($471,632,691 en total)
+- Apuestas registradas: **8325**  ($471,713,645 en total)
 - Resueltas: **8252** — 5045 ganadas / 3207 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 723
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | — | ⏳ Pendiente |
+| Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | — | ⏳ Pendiente |
 | surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | — | ⏳ Pendiente |
 | mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Woaifacai | Monastir: Kilian Feldbausch vs Tiago Pereira | Tiago Pereira | 1.67 (60¢) | $92,328 | -$92,328 | ❌ Perdida |
 | Woaifacai | Thunder vs. Trail Blazers | Trail Blazers | 1.23 (81¢) | $37,326 | +$8,756 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B | MOUZ | 1.28 (78¢) | $115,995 | -$115,995 | ❌ Perdida |
-| winner877 | Magic vs. Kings | Magic | 1.08 (93¢) | $34,562 | +$2,601 | ✅ Ganada |
-| winner877 | Magic vs. Kings | Magic | 1.18 (85¢) | $35,537 | +$6,271 | ✅ Ganada |
