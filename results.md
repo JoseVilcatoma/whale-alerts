@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 16:39:58 (hora de Perú)
+Actualizado: 2026-11-12 16:42:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8366**  ($473,622,792 en total)
+- Apuestas registradas: **8367**  ($473,661,319 en total)
 - Resueltas: **8326** — 5092 ganadas / 3234 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 723
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 58 | 2 | 47% | $4,739,553 | -$227,800 |
 | 999585 | 34 | 6 | 1 | 85% | $4,520,906 | +$188,568 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
-| Woaifacai | 46 | 13 | 2 | 78% | $4,257,130 | +$681,212 |
+| Woaifacai | 46 | 13 | 3 | 78% | $4,295,657 | +$681,212 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 2.56 (39¢) | $38,527 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | — | ⏳ Pendiente |
 | Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | — | ⏳ Pendiente |
 | mokkoroo | Hornets vs. Suns | Hornets | 3.03 (33¢) | $47,110 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | -$30,297 | 💰 Vendida antes |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | -$40,490 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $57,115 | +$33,544 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Raptors | 1.56 (64¢) | $148,825 | -$148,825 | ❌ Perdida |
