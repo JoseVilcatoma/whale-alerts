@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 19:31:44 (hora de Perú)
+Actualizado: 2026-11-11 19:33:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8294**  ($469,742,129 en total)
+- Apuestas registradas: **8295**  ($469,831,129 en total)
 - Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 723
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 3 | 64% | $59,881,417 | +$291,719 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
+| Lakersfan111 | 161 | 90 | 4 | 64% | $12,368,532 | +$373,901 |
 | googleplay | 58 | 51 | 0 | 53% | $12,345,026 | -$215,976 |
-| Lakersfan111 | 161 | 90 | 3 | 64% | $12,279,532 | +$373,901 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Lakers vs. Bucks | Lakers | 1.12 (89¢) | $89,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Team Falcons | 1.41 (71¢) | $31,561 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Pelicans | Nets | 2.27 (44¢) | $28,217 | — | ⏳ Pendiente |
 | Kluivert9 | Cavaliers vs. Knicks | Knicks | 1.59 (63¢) | $28,350 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.00 (50¢) | $29,766 | -$29,766 | ❌ Perdida |
 | Mastermoney | WTA Finals, Group A: Coco Gauff vs Linda Noskova | Coco Gauff | 1.56 (64¢) | $37,673 | -$37,673 | ❌ Perdida |
 | mooseborzoi | Spread: Western Michigan (-14.5) | Akron | 2.04 (49¢) | $32,059 | -$32,059 | ❌ Perdida |
-| Multicoloured-Serf | Spread: Magic (-6.5) | Magic | 2.04 (49¢) | $32,255 | +$33,572 | ✅ Ganada |
