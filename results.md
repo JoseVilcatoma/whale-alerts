@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 17:35:39 (hora de Perú)
+Actualizado: 2026-11-12 17:37:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8371**  ($473,893,531 en total)
-- Resueltas: **8334** — 5097 ganadas / 3237 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8337** — 5098 ganadas / 3239 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,226,146** sobre $472,174,872 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,412** sobre $822,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,247,638** sobre $472,281,155 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,494** sobre $822,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 586 | 332 | 5 | 64% | $60,439,952 | +$443,996 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 587 | 332 | 4 | 64% | $60,439,952 | +$489,784 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 58 | 2 | 47% | $4,739,553 | -$227,800 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
-| Woaifacai | 48 | 13 | 1 | 79% | $4,295,657 | +$758,858 |
+| Woaifacai | 48 | 14 | 0 | 77% | $4,295,657 | +$728,099 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
-| juice-fruit | 29 | 17 | 3 | 63% | $2,812,645 | +$280,214 |
+| juice-fruit | 29 | 18 | 2 | 62% | $2,812,645 | +$243,695 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | mooseborzoi | 24 | 34 | 0 | 41% | $2,743,789 | -$502,150 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -76,8 +76,8 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.79 (56¢) | $33,198 | — | ⏳ Pendiente |
 | justwins | Raptors vs. 76ers: O/U 224.5 | Under 224.5 | 1.92 (52¢) | $26,975 | — | ⏳ Pendiente |
 | Woaifacai | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 2.56 (39¢) | $38,527 | +$60,261 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | — | ⏳ Pendiente |
-| Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | +$45,787 | ✅ Ganada |
+| Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | -$30,759 | ❌ Perdida |
 | mokkoroo | Hornets vs. Suns | Hornets | 3.03 (33¢) | $47,110 | — | ⏳ Pendiente |
 | Woaifacai | Albania vs. Finland: O/U 3.5 | Under 3.5 | 1.23 (81¢) | $74,116 | +$17,385 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | — | ⏳ Pendiente |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | -$53,031 | ❌ Perdida |
 | mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | -$26,044 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
-| juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | — | ⏳ Pendiente |
+| juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | -$36,520 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | -$32,760 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia win on 2026-11-12? | No | 1.49 (67¢) | $29,876 | +$14,715 | ✅ Ganada |
