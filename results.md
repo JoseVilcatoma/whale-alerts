@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 19:58:02 (hora de Perú)
+Actualizado: 2026-11-11 20:00:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8304**  ($470,306,925 en total)
+- Apuestas registradas: **8305**  ($470,355,925 en total)
 - Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 723
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Lakers (-14.5) | Lakers | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mooseborzoi | Nets vs. Pelicans | Nets | 2.22 (45¢) | $29,188 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 236.5 | Over 236.5 | 1.96 (51¢) | $72,891 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 237.5 | Over 237.5 | 2.17 (46¢) | $26,972 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Sassy-Bucket | Heat vs. Jazz: O/U 228.5 | Over 228.5 | 2.08 (48¢) | $31,776 | -$31,776 | ❌ Perdida |
 | Multicoloured-Serf | Heat vs. Jazz: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $25,333 | -$25,333 | ❌ Perdida |
 | MD14 | Bucks vs. Knicks: O/U 217.5 | Under 217.5 | 1.25 (80¢) | $51,308 | +$12,827 | ✅ Ganada |
-| mooseborzoi | Celtics vs. 76ers | Celtics | 1.85 (54¢) | $124,132 | +$105,742 | ✅ Ganada |
