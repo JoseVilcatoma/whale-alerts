@@ -125450,5 +125450,20 @@
     "status": "pending",
     "ultimo_fill": 1794479038,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16889,
+    "timestamp": 1794479336,
+    "username": "kjhgkltivtvriur",
+    "wallet": "0x95581a6f5045bc6c7cd8acc017df188b05a1fd3f",
+    "slug": "cs2-ts7-g2-2026-11-12",
+    "title": "Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 43500.0,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1794479336,
+    "fills": 1
   }
 ]
