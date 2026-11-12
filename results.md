@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 21:57:17 (hora de Perú)
+Actualizado: 2026-11-11 21:59:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8328**  ($471,874,815 en total)
-- Resueltas: **8253** — 5046 ganadas / 3207 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Resueltas: **8257** — 5047 ganadas / 3210 perdidas (**61%** de acierto)
+- Pendientes: 48
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,672,901** sobre $468,211,366 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,161** sobre $814,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,754,746** sobre $468,493,211 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,085** sobre $814,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 580 | 330 | 6 | 64% | $60,127,742 | +$291,719 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 581 | 331 | 4 | 64% | $60,127,742 | +$300,894 |
 | Sassy-Bucket | 118 | 118 | 2 | 50% | $16,053,182 | -$1,382,571 |
 | Lakersfan111 | 161 | 90 | 11 | 64% | $12,794,175 | +$373,901 |
 | googleplay | 58 | 51 | 1 | 53% | $12,384,077 | -$215,976 |
@@ -92,8 +92,8 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | 999585 | Buffalo vs. Ball State | Ball State | 1.59 (63¢) | $127,246 | -$30,297 | 💰 Vendida antes |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Rockets | Warriors | 3.12 (32¢) | $40,490 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $57,115 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Raptors | 1.56 (64¢) | $148,825 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Celtics | 4.76 (21¢) | $42,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Raptors | 1.56 (64¢) | $148,825 | -$148,825 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Celtics vs. Raptors | Celtics | 4.76 (21¢) | $42,000 | +$158,000 | ✅ Ganada |
 | RJW1 | Spread: Lakers (-14.5) | Lakers | 2.04 (49¢) | $49,000 | — | ⏳ Pendiente |
 | mooseborzoi | Nets vs. Pelicans | Nets | 2.22 (45¢) | $29,188 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spurs vs. Bulls: O/U 236.5 | Over 236.5 | 1.96 (51¢) | $72,891 | — | ⏳ Pendiente |
@@ -112,8 +112,8 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Zzzz87 | Rangers vs. Flames | Rangers | 1.72 (58¢) | $45,414 | — | ⏳ Pendiente |
 | Donkey14 | Rangers vs. Flames | Flames | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $63,379 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $39,915 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $51,105 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $39,915 | -$39,915 | ❌ Perdida |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $51,105 | -$51,105 | ❌ Perdida |
 | mokkoroo | Warriors vs. Rockets | Rockets | 1.45 (69¢) | $41,703 | — | ⏳ Pendiente |
 | mooseborzoi | Lightning vs. Sabres: O/U 6.5 | Under 6.5 | 2.08 (48¢) | $28,225 | -$28,225 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Rivals Group A | Legacy | 3.45 (29¢) | $71,200 | — | ⏳ Pendiente |
