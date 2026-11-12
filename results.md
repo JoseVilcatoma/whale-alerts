@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 17:27:32 (hora de Perú)
+Actualizado: 2026-11-12 17:29:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8371**  ($473,893,531 en total)
-- Resueltas: **8332** — 5095 ganadas / 3237 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **8334** — 5097 ganadas / 3237 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,303,682** sobre $472,089,639 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,605** sobre $822,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,226,146** sobre $472,174,872 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,412** sobre $822,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,9 +44,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 58 | 2 | 47% | $4,739,553 | -$227,800 |
-| 999585 | 34 | 6 | 1 | 85% | $4,520,906 | +$188,568 |
+| 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
-| Woaifacai | 47 | 13 | 2 | 78% | $4,295,657 | +$698,598 |
+| Woaifacai | 48 | 13 | 1 | 79% | $4,295,657 | +$758,858 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.75 (57¢) | $41,744 | — | ⏳ Pendiente |
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.79 (56¢) | $33,198 | — | ⏳ Pendiente |
 | justwins | Raptors vs. 76ers: O/U 224.5 | Under 224.5 | 1.92 (52¢) | $26,975 | — | ⏳ Pendiente |
-| Woaifacai | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 2.56 (39¢) | $38,527 | — | ⏳ Pendiente |
+| Woaifacai | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 2.56 (39¢) | $38,527 | +$60,261 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | — | ⏳ Pendiente |
 | Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | — | ⏳ Pendiente |
 | mokkoroo | Hornets vs. Suns | Hornets | 3.03 (33¢) | $47,110 | — | ⏳ Pendiente |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $115,901 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | +$32,468 | ✅ Ganada |
-| 999585 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 1.37 (73¢) | $46,706 | — | ⏳ Pendiente |
+| 999585 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 1.37 (73¢) | $46,706 | +$17,275 | ✅ Ganada |
 | Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | -$53,031 | ❌ Perdida |
 | mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | -$26,044 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
