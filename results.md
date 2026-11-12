@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 01:04:39 (hora de Perú)
+Actualizado: 2026-11-12 01:06:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8334**  ($472,173,304 en total)
-- Resueltas: **8299** — 5074 ganadas / 3225 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **8301** — 5075 ganadas / 3226 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,508,698** sobre $470,654,760 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,494** sobre $818,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,492,443** sobre $470,735,714 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,467** sobre $818,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,8 +80,8 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | +$29,497 | ✅ Ganada |
 | MD14 | Spurs vs. Bulls: O/U 225.5 | Over 225.5 | 1.12 (89¢) | $91,588 | +$11,320 | ✅ Ganada |
 | Donkey14 | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $28,849 | -$28,849 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | — | ⏳ Pendiente |
-| Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | +$54,437 | ✅ Ganada |
+| Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | -$38,182 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | -$55,346 | ❌ Perdida |
 | surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | +$22,386 | ✅ Ganada |
 | mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | -$28,610 | ❌ Perdida |
