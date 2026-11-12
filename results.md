@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 02:04:48 (hora de Perú)
+Actualizado: 2026-11-12 02:06:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8338**  ($472,376,646 en total)
-- Resueltas: **8302** — 5076 ganadas / 3226 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **8306** — 5078 ganadas / 3228 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 723
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,473,054** sobre $470,762,489 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,394** sobre $819,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,284,144** sobre $470,973,078 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,261** sobre $819,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 582 | 331 | 3 | 64% | $60,127,742 | +$395,394 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
-| Lakersfan111 | 168 | 91 | 4 | 65% | $12,820,454 | +$499,078 |
+| Lakersfan111 | 168 | 92 | 3 | 65% | $12,820,454 | +$472,798 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
 | 999585 | 34 | 6 | 0 | 85% | $4,474,200 | +$188,568 |
-| Thunderous-Authoritarian-Snarl | 19 | 19 | 2 | 50% | $4,349,872 | -$1,978,105 |
+| Thunderous-Authoritarian-Snarl | 21 | 19 | 0 | 52% | $4,349,872 | -$1,729,415 |
 | surfandturf | 42 | 13 | 0 | 76% | $4,106,266 | +$525,327 |
 | Woaifacai | 44 | 13 | 1 | 77% | $4,074,100 | +$644,688 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -54,7 +54,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| TAIWANNUMBERONE | 60 | 24 | 1 | 71% | $3,167,634 | -$60,102 |
+| TAIWANNUMBERONE | 60 | 25 | 0 | 71% | $3,167,634 | -$93,602 |
 | fantasy7788 | 33 | 20 | 1 | 62% | $2,976,148 | +$604,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
@@ -73,13 +73,13 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 |---|---|---|---|---|---|---|
 | 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.63 (38¢) | $113,810 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.63 (38¢) | $113,810 | +$185,690 | ✅ Ganada |
 | Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.70 (37¢) | $37,000 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
 | Woaifacai | Warriors vs. Rockets | Rockets | 1.37 (73¢) | $42,195 | +$15,607 | ✅ Ganada |
 | ethanaz | Buffalo vs. Ball State | Buffalo | 1.19 (84¢) | $47,974 | +$9,138 | ✅ Ganada |
-| PacersThreeandahalf | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.49 (67¢) | $33,500 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | — | ⏳ Pendiente |
+| PacersThreeandahalf | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.49 (67¢) | $33,500 | -$33,500 | ❌ Perdida |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | -$26,279 | ❌ Perdida |
 | Sassy-Bucket | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $111,540 | -$111,540 | ❌ Perdida |
 | cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | +$29,497 | ✅ Ganada |
 | MD14 | Spurs vs. Bulls: O/U 225.5 | Over 225.5 | 1.12 (89¢) | $91,588 | +$11,320 | ✅ Ganada |
