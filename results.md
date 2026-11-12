@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 05:22:29 (hora de Perú)
+Actualizado: 2026-11-12 05:24:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8346**  ($472,688,112 en total)
+- Apuestas registradas: **8347**  ($472,715,092 en total)
 - Resueltas: **8309** — 5081 ganadas / 3228 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 723
 
 ### Balance
@@ -53,8 +53,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
+| TAIWANNUMBERONE | 60 | 25 | 1 | 71% | $3,194,614 | -$93,602 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| TAIWANNUMBERONE | 60 | 25 | 0 | 71% | $3,167,634 | -$93,602 |
 | fantasy7788 | 33 | 20 | 2 | 62% | $3,006,148 | +$604,428 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.41 (71¢) | $26,980 | — | ⏳ Pendiente |
 | crazyoddslover | Hersonissos 3: Adrian Andreev vs Raul Brancaccio | Raul Brancaccio | 2.00 (50¢) | $27,589 | — | ⏳ Pendiente |
 | fkALG2FalconsTESMOUZ | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.37 (73¢) | $32,414 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.33 (75¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Zzzz87 | Rangers vs. Flames | Rangers | 1.72 (58¢) | $45,414 | +$32,886 | ✅ Ganada |
 | Donkey14 | Rangers vs. Flames | Flames | 2.33 (43¢) | $30,000 | -$30,000 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $63,379 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $39,915 | -$39,915 | ❌ Perdida |
