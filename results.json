@@ -125690,5 +125690,20 @@
     "status": "pending",
     "ultimo_fill": 1794517680,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16923,
+    "timestamp": 1794518930,
+    "username": "mokkoroo",
+    "wallet": "0x758c8c8204a84447aa6eb210ee8ffee05e135e64",
+    "slug": "nba-cha-phx-2026-11-12",
+    "title": "Hornets vs. Suns",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 47109.7902,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1794518930,
+    "fills": 1
   }
 ]
