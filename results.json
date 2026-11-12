@@ -125885,5 +125885,20 @@
     "status": "pending",
     "ultimo_fill": 1794526870,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16947,
+    "timestamp": 1794527018,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nba-dal-min-2026-11-12-spread-home-5pt5",
+    "title": "Spread: Timberwolves (-5.5)",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 26232.6627,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794527018,
+    "fills": 1
   }
 ]

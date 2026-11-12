@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 18:42:45 (hora de Perú)
+Actualizado: 2026-11-12 18:44:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8376**  ($474,492,175 en total)
+- Apuestas registradas: **8377**  ($474,518,408 en total)
 - Resueltas: **8337** — 5098 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 724
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | — | ⏳ Pendiente |
 | mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | — | ⏳ Pendiente |
 | surfandturf | Raptors vs. 76ers | 76ers | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $91,698 | +$17,466 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.59 (63¢) | $38,001 | +$22,318 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Map Handicap: FAL (-1.5) vs Legacy (+1.5) | Legacy | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
