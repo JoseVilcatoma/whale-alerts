@@ -124773,5 +124773,20 @@
     "status": "pending",
     "ultimo_fill": 1794443920,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16792,
+    "timestamp": 1794444593,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nba-sas-chi-2026-11-11-total-236pt5",
+    "title": "Spurs vs. Bulls: O/U 236.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 72891.1626,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794444593,
+    "fills": 1
   }
 ]
