@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 05:38:55 (hora de Perú)
+Actualizado: 2026-11-12 05:41:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8348**  ($472,758,592 en total)
+- Apuestas registradas: **8349**  ($472,784,266 en total)
 - Resueltas: **8309** — 5081 ganadas / 3228 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 723
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Counter-Strike: Spirit vs G2 - Map 1 Winner | Spirit | 1.61 (62¢) | $25,674 | — | ⏳ Pendiente |
 | kjhgkltivtvriur | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.39 (72¢) | $43,500 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.41 (71¢) | $26,980 | — | ⏳ Pendiente |
 | crazyoddslover | Hersonissos 3: Adrian Andreev vs Raul Brancaccio | Raul Brancaccio | 2.00 (50¢) | $27,589 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | Kluivert9 | Cavaliers vs. Knicks | Knicks | 1.59 (63¢) | $28,350 | -$28,350 | ❌ Perdida |
 | Multicoloured-Serf | Rangers vs. Flames | Flames | 2.38 (42¢) | $26,408 | -$26,408 | ❌ Perdida |
 | Zzzz87 | Rangers vs. Flames | Rangers | 1.72 (58¢) | $45,414 | +$32,886 | ✅ Ganada |
-| Donkey14 | Rangers vs. Flames | Flames | 2.33 (43¢) | $30,000 | -$30,000 | ❌ Perdida |
