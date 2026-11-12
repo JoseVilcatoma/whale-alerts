@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-11 19:13:11 (hora de Perú)
+Actualizado: 2026-11-11 19:15:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8288**  ($469,552,179 en total)
-- Resueltas: **8247** — 5045 ganadas / 3202 perdidas (**61%** de acierto)
+- Apuestas registradas: **8289**  ($469,582,179 en total)
+- Resueltas: **8248** — 5045 ganadas / 3203 perdidas (**61%** de acierto)
 - Pendientes: 18
 - Apostadores distintos: 722
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,465,471** sobre $467,803,319 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$7,772** sobre $813,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,550,221** sobre $467,888,069 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$7,872** sobre $813,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 57 | 2 | 47% | $4,709,553 | -$197,800 |
-| 999585 | 33 | 4 | 1 | 89% | $4,155,728 | +$127,099 |
+| 999585 | 33 | 5 | 0 | 87% | $4,155,728 | +$42,349 |
 | Thunderous-Authoritarian-Snarl | 19 | 16 | 1 | 54% | $4,079,562 | -$1,787,405 |
 | surfandturf | 41 | 13 | 0 | 76% | $4,058,695 | +$502,940 |
 | Woaifacai | 43 | 13 | 0 | 77% | $3,998,196 | +$629,082 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 722 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Rangers vs. Flames | Flames | 2.33 (43¢) | $30,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $63,379 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $39,915 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Celtics vs. Raptors | Raptors | 2.86 (35¢) | $51,105 | — | ⏳ Pendiente |
@@ -81,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 722 en total)_
 | SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | — | ⏳ Pendiente |
 | VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | — | ⏳ Pendiente |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $41,000 | — | ⏳ Pendiente |
-| 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | — | ⏳ Pendiente |
+| 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | -$84,750 | ❌ Perdida |
 | RJW1 | Spread: Magic (-4.5) | Jazz | 1.92 (52¢) | $30,539 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.27 (79¢) | $27,650 | +$7,350 | ✅ Ganada |
 | 999585 | WTA Finals, Group B: Elina Svitolina vs Karolina Muchova | Elina Svitolina | 1.37 (73¢) | $130,191 | +$48,153 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 722 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Real Madrid CF Femenino vs. Paris FC: O/U 2.5 | Under 2.5 | 1.59 (63¢) | $31,500 | -$31,500 | ❌ Perdida |
 | Vps1 | Sopo: Katrina Scott vs Andrea Lazaro Garcia | Andrea Lazaro Garcia | 1.92 (52¢) | $57,206 | +$52,806 | ✅ Ganada |
 | mooseborzoi | Spread: Heat (-8.5) | Heat | 1.96 (51¢) | $62,362 | -$62,362 | ❌ Perdida |
-| RJW1 | Spread: Heat (-8.5) | Jazz | 1.96 (51¢) | $59,820 | +$57,474 | ✅ Ganada |
