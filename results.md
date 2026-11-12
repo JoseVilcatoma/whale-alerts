@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 01:52:17 (hora de Perú)
+Actualizado: 2026-11-12 01:54:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8337**  ($472,348,822 en total)
+- Apuestas registradas: **8338**  ($472,376,646 en total)
 - Resueltas: **8302** — 5076 ganadas / 3226 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 723
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | — | ⏳ Pendiente |
 | fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.63 (38¢) | $113,810 | — | ⏳ Pendiente |
 | Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 723 en total)_
 | SineNooneEI | Celtics vs. Raptors: O/U 215.5 | Under 215.5 | 1.96 (51¢) | $32,550 | +$31,274 | ✅ Ganada |
 | VPenguin | Cavaliers vs. Knicks | Cavaliers | 2.94 (34¢) | $25,500 | +$49,500 | ✅ Ganada |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Wizards vs. Pacers | Wizards | 2.44 (41¢) | $41,000 | -$41,000 | ❌ Perdida |
-| 999585 | WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva | Aryna Sabalenka | 1.33 (75¢) | $84,750 | -$84,750 | ❌ Perdida |
