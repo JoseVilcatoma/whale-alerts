@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 16:58:53 (hora de Perú)
+Actualizado: 2026-11-13 17:00:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8409**  ($476,896,208 en total)
+- Apuestas registradas: **8410**  ($476,940,910 en total)
 - Resueltas: **8382** — 5125 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 724
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hawks vs. Bulls | Hawks | 1.41 (71¢) | $44,702 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Rangers vs. Canucks | Rangers | 1.52 (66¢) | $25,881 | — | ⏳ Pendiente |
 | Woaifacai | Sopo: Laura Samson vs Elizabeth Mandlik | Elizabeth Mandlik | 1.14 (88¢) | $76,907 | +$10,487 | ✅ Ganada |
 | Woaifacai | BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.56 (64¢) | $38,797 | +$21,823 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | +$30,770 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia win on 2026-11-12? | No | 1.49 (67¢) | $29,876 | +$14,715 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia vs. Cyprus end in a draw? | No | 1.35 (74¢) | $25,662 | -$25,662 | ❌ Perdida |
-| PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.35 (74¢) | $72,979 | +$25,641 | ✅ Ganada |
