@@ -126232,5 +126232,20 @@
     "status": "pending",
     "ultimo_fill": 1794538203,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16985,
+    "timestamp": 1794538234,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-det-was-2026-11-12",
+    "title": "Pistons vs. Wizards",
+    "outcome": "Pistons",
+    "side": "BUY",
+    "usd": 202220.2,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1794538235,
+    "fills": 3
   }
 ]

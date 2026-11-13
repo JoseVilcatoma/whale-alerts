@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 21:50:05 (hora de Perú)
+Actualizado: 2026-11-12 21:52:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8399**  ($476,043,523 en total)
+- Apuestas registradas: **8400**  ($476,245,743 en total)
 - Resueltas: **8351** — 5107 ganadas / 3244 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 724
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 589 | 332 | 7 | 64% | $60,948,517 | +$525,354 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 589 | 332 | 8 | 64% | $61,150,737 | +$525,354 |
 | Sassy-Bucket | 118 | 119 | 3 | 50% | $16,199,744 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Pistons vs. Wizards | Wizards | 1.33 (75¢) | $38,258 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | fkALG2FalconsTESMOUZ | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.37 (73¢) | $36,500 | +$13,500 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | FUT Esports | 2.27 (44¢) | $32,462 | -$32,462 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs MOUZ - Map 2 Winner | MOUZ | 1.35 (74¢) | $44,346 | +$15,581 | ✅ Ganada |
-| BrotherObama | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
