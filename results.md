@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 23:47:08 (hora de Perú)
+Actualizado: 2026-11-12 23:49:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8403**  ($476,573,016 en total)
-- Resueltas: **8369** — 5114 ganadas / 3255 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **8374** — 5118 ganadas / 3256 perdidas (**61%** de acierto)
+- Pendientes: 6
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,149,635** sobre $474,857,077 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,329** sobre $825,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,053,580** sobre $475,271,113 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,264** sobre $826,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 3 | 64% | $61,150,737 | +$861,989 |
 | Sassy-Bucket | 118 | 119 | 3 | 50% | $16,199,744 | -$1,494,111 |
-| Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
+| Lakersfan111 | 173 | 92 | 0 | 65% | $12,971,091 | +$585,738 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
-| ndb1 | 31 | 15 | 1 | 67% | $2,852,365 | +$458,403 |
+| ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Multicoloured-Serf | 26 | 29 | 0 | 47% | $2,588,465 | -$480,347 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x6db5…e279 | Commanders vs. Giants | Commanders | 1.11 (90¢) | $135,963 | +$15,107 | ✅ Ganada |
-| MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | — | ⏳ Pendiente |
+| MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | +$20,971 | ✅ Ganada |
 | ethanaz | Commanders vs. Giants | Giants | 1.32 (76¢) | $72,477 | -$72,477 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | +$20,000 | ✅ Ganada |
 | ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | -$25,021 | ❌ Perdida |
@@ -85,7 +85,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $106,813 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-6.5) | Timberwolves | 1.96 (51¢) | $204,000 | +$196,000 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spread: Timberwolves (-6.5) | Mavericks | 2.04 (49¢) | $88,335 | -$88,335 | ❌ Perdida |
-| ndb1 | Hornets vs. Suns | Suns | 1.49 (67¢) | $97,455 | — | ⏳ Pendiente |
+| ndb1 | Hornets vs. Suns | Suns | 1.49 (67¢) | $97,455 | +$48,000 | ✅ Ganada |
 | Woaifacai | Commanders vs. Giants | Giants | 1.75 (57¢) | $98,880 | -$98,880 | ❌ Perdida |
 | juice-fruit | Commanders vs. Giants | Commanders | 2.38 (42¢) | $110,592 | +$152,722 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Giants | Giants | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
@@ -110,10 +110,10 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | Woaifacai | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 2.56 (39¢) | $38,527 | +$60,261 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | +$45,787 | ✅ Ganada |
 | Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | -$30,759 | ❌ Perdida |
-| mokkoroo | Hornets vs. Suns | Hornets | 3.03 (33¢) | $47,110 | — | ⏳ Pendiente |
+| mokkoroo | Hornets vs. Suns | Hornets | 3.03 (33¢) | $47,110 | -$47,110 | ❌ Perdida |
 | Woaifacai | Albania vs. Finland: O/U 3.5 | Under 3.5 | 1.23 (81¢) | $74,116 | +$17,385 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $115,901 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | +$17,109 | ✅ Ganada |
+| robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $115,901 | +$57,086 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | +$32,468 | ✅ Ganada |
 | 999585 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 1.37 (73¢) | $46,706 | +$17,275 | ✅ Ganada |
 | Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | -$53,031 | ❌ Perdida |
