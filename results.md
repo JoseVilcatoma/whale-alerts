@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 21:35:36 (hora de Perú)
+Actualizado: 2026-11-12 21:37:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8397**  ($475,980,244 en total)
-- Resueltas: **8342** — 5100 ganadas / 3242 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Resueltas: **8344** — 5101 ganadas / 3243 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,409,897** sobre $472,605,447 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,775** sobre $822,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,430,872** sobre $472,676,422 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,862** sobre $823,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | — | ⏳ Pendiente |
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | — | ⏳ Pendiente |
-| MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
+| MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $49,447 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $106,813 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-6.5) | Timberwolves | 1.96 (51¢) | $204,000 | — | ⏳ Pendiente |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.72 (58¢) | $130,294 | -$130,294 | ❌ Perdida |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.75 (57¢) | $41,744 | -$41,744 | ❌ Perdida |
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.79 (56¢) | $33,198 | -$33,198 | ❌ Perdida |
-| justwins | Raptors vs. 76ers: O/U 224.5 | Under 224.5 | 1.92 (52¢) | $26,975 | — | ⏳ Pendiente |
+| justwins | Raptors vs. 76ers: O/U 224.5 | Under 224.5 | 1.92 (52¢) | $26,975 | -$26,975 | ❌ Perdida |
 | Woaifacai | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 2.56 (39¢) | $38,527 | +$60,261 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | +$45,787 | ✅ Ganada |
 | Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | -$30,759 | ❌ Perdida |
