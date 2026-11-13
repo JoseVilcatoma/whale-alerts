@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 20:04:07 (hora de Perú)
+Actualizado: 2026-11-12 20:06:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8380**  ($474,795,907 en total)
+- Apuestas registradas: **8381**  ($474,821,107 en total)
 - Resueltas: **8337** — 5098 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 724
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 587 | 332 | 5 | 64% | $60,635,952 | +$489,784 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 587 | 332 | 6 | 64% | $60,661,152 | +$489,784 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | -$38,182 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | -$55,346 | ❌ Perdida |
 | surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | +$22,386 | ✅ Ganada |
-| mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | -$28,610 | ❌ Perdida |
