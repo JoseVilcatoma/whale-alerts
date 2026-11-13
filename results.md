@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 20:02:03 (hora de Perú)
+Actualizado: 2026-11-12 20:04:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8379**  ($474,753,365 en total)
+- Apuestas registradas: **8380**  ($474,795,907 en total)
 - Resueltas: **8337** — 5098 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 724
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | -$55,346 | ❌ Perdida |
 | surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | +$22,386 | ✅ Ganada |
 | mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | -$28,610 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
