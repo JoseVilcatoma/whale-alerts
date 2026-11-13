@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 22:31:33 (hora de Perú)
+Actualizado: 2026-11-12 22:33:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8400**  ($476,245,743 en total)
-- Resueltas: **8351** — 5107 ganadas / 3244 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **8353** — 5108 ganadas / 3245 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,214,092** sobre $473,385,197 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,744** sobre $823,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,232,350** sobre $473,625,675 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,834** sobre $824,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 589 | 332 | 8 | 64% | $61,150,737 | +$525,354 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 590 | 332 | 7 | 64% | $61,150,737 | +$545,353 |
 | Sassy-Bucket | 118 | 119 | 3 | 50% | $16,199,744 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -71,9 +71,9 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | +$20,000 | ✅ Ganada |
 | ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Pistons vs. Wizards | Wizards | 1.33 (75¢) | $38,258 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Pistons vs. Wizards | Wizards | 1.33 (75¢) | $38,258 | -$38,258 | ❌ Perdida |
 | ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | — | ⏳ Pendiente |
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | +$26,284 | ✅ Ganada |
