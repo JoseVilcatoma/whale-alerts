@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 23:10:22 (hora de Perú)
+Actualizado: 2026-11-12 23:12:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8402**  ($476,437,054 en total)
+- Apuestas registradas: **8403**  ($476,573,016 en total)
 - Resueltas: **8359** — 5110 ganadas / 3249 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 724
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x6db5…e279 | Commanders vs. Giants | Commanders | 1.11 (90¢) | $135,963 | — | ⏳ Pendiente |
 | MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Giants | Giants | 1.32 (76¢) | $72,477 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | +$20,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | crazyoddslover | Hersonissos 3: Adrian Andreev vs Raul Brancaccio | Raul Brancaccio | 2.00 (50¢) | $27,589 | -$27,589 | ❌ Perdida |
 | fkALG2FalconsTESMOUZ | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.37 (73¢) | $32,414 | +$11,989 | ✅ Ganada |
 | fantasy7788 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.33 (75¢) | $30,000 | +$10,000 | ✅ Ganada |
-| fkALG2FalconsTESMOUZ | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.37 (73¢) | $36,500 | +$13,500 | ✅ Ganada |
