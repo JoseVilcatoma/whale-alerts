@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 23:36:59 (hora de Perú)
+Actualizado: 2026-11-12 23:39:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8403**  ($476,573,016 en total)
-- Resueltas: **8360** — 5110 ganadas / 3250 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **8362** — 5111 ganadas / 3251 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,236,306** sobre $474,079,127 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,149** sobre $824,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,080,647** sobre $474,323,468 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,145** sobre $824,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 591 | 333 | 5 | 64% | $61,150,737 | +$712,989 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 333 | 4 | 64% | $61,150,737 | +$916,989 |
 | Sassy-Bucket | 118 | 119 | 3 | 50% | $16,199,744 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
-| BrotherObama | 51 | 58 | 3 | 47% | $4,787,894 | -$227,800 |
+| BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Woaifacai | 49 | 14 | 1 | 78% | $4,488,392 | +$766,277 |
@@ -90,12 +90,12 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | juice-fruit | Commanders vs. Giants | Commanders | 2.38 (42¢) | $110,592 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Giants | Giants | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Giants | Giants | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
-| BrotherObama | Spread: Giants (-1.5) | Giants | 1.92 (52¢) | $48,341 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Giants (-1.5) | Giants | 1.92 (52¢) | $48,341 | -$48,341 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Timberwolves | Mavericks | 3.03 (33¢) | $28,365 | -$28,365 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Utah | Utah | 2.17 (46¢) | $35,023 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.19 (84¢) | $25,200 | +$4,800 | ✅ Ganada |
 | nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | -$42,542 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | +$204,000 | ✅ Ganada |
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | -$38,957 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | +$23,263 | ✅ Ganada |
 | mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | -$35,258 | ❌ Perdida |
