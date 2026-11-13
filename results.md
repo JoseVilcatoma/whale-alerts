@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 20:20:34 (hora de Perú)
+Actualizado: 2026-11-12 20:22:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8387**  ($475,128,982 en total)
+- Apuestas registradas: **8388**  ($475,227,862 en total)
 - Resueltas: **8338** — 5099 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 724
 
 ### Balance
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 58 | 3 | 47% | $4,787,894 | -$227,800 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
-| Woaifacai | 49 | 14 | 0 | 78% | $4,389,512 | +$766,277 |
+| Woaifacai | 49 | 14 | 1 | 78% | $4,488,392 | +$766,277 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 42 | 13 | 1 | 76% | $4,177,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Commanders vs. Giants | Giants | 1.75 (57¢) | $98,880 | — | ⏳ Pendiente |
 | juice-fruit | Commanders vs. Giants | Commanders | 2.38 (42¢) | $110,592 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Giants | Giants | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Giants | Giants | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | PacersThreeandahalf | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.49 (67¢) | $33,500 | -$33,500 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | -$26,279 | ❌ Perdida |
 | Sassy-Bucket | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $111,540 | -$111,540 | ❌ Perdida |
-| cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | +$29,497 | ✅ Ganada |

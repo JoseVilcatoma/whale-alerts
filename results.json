@@ -126052,5 +126052,20 @@
     "status": "pending",
     "ultimo_fill": 1794532737,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16960,
+    "timestamp": 1794532886,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "nfl-was-nyg-2026-11-13",
+    "title": "Commanders vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 98879.924,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1794532889,
+    "fills": 2
   }
 ]
