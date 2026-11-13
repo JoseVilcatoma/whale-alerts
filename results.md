@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 22:37:43 (hora de Perú)
+Actualizado: 2026-11-12 22:39:43 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8400**  ($476,245,743 en total)
-- Resueltas: **8356** — 5109 ganadas / 3247 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **8357** — 5110 ganadas / 3247 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,153,049** sobre $473,946,375 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,938** sobre $824,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,129,786** sobre $473,972,608 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,849** sobre $824,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | +$23,263 | ✅ Ganada |
 | mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | -$35,258 | ❌ Perdida |
 | mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | +$135,540 | ✅ Ganada |
 | surfandturf | Raptors vs. 76ers | 76ers | 1.41 (71¢) | $71,000 | +$29,000 | ✅ Ganada |
