@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 18:04:38 (hora de Perú)
+Actualizado: 2026-11-13 18:06:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8410**  ($476,940,910 en total)
+- Apuestas registradas: **8411**  ($476,972,484 en total)
 - Resueltas: **8382** — 5125 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 724
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
-| Woaifacai | 52 | 15 | 0 | 78% | $4,639,216 | +$708,488 |
+| Woaifacai | 52 | 15 | 1 | 78% | $4,670,790 | +$708,488 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | WTA Finals, Group B: Aryna Sabalenka vs Elina Svitolina | Aryna Sabalenka | 2.08 (48¢) | $31,574 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hawks vs. Bulls | Hawks | 1.41 (71¢) | $44,702 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Rangers vs. Canucks | Rangers | 1.52 (66¢) | $25,881 | — | ⏳ Pendiente |
 | Woaifacai | Sopo: Laura Samson vs Elizabeth Mandlik | Elizabeth Mandlik | 1.14 (88¢) | $76,907 | +$10,487 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | -$32,760 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | +$30,770 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia win on 2026-11-12? | No | 1.49 (67¢) | $29,876 | +$14,715 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia vs. Cyprus end in a draw? | No | 1.35 (74¢) | $25,662 | -$25,662 | ❌ Perdida |
