@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 01:07:36 (hora de Perú)
+Actualizado: 2026-11-13 01:09:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8405**  ($476,719,503 en total)
+- Apuestas registradas: **8406**  ($476,754,623 en total)
 - Resueltas: **8377** — 5120 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 724
 
 ### Balance
@@ -44,8 +44,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
+| Woaifacai | 49 | 15 | 1 | 77% | $4,523,512 | +$667,397 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
-| Woaifacai | 49 | 15 | 0 | 77% | $4,488,392 | +$667,397 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Brisbane 3: Bernard Tomic vs August Holmgren | August Holmgren | 1.25 (80¢) | $35,121 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $121,406 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $25,080 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Commanders vs. Giants | Commanders | 1.11 (90¢) | $135,963 | +$15,107 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | ArturitoFilito | Counter-Strike: Spirit vs G2 - Map 1 Winner | Spirit | 1.61 (62¢) | $25,674 | -$25,674 | ❌ Perdida |
 | kjhgkltivtvriur | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.39 (72¢) | $43,500 | +$16,917 | ✅ Ganada |
 | PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.41 (71¢) | $26,980 | +$11,020 | ✅ Ganada |
-| crazyoddslover | Hersonissos 3: Adrian Andreev vs Raul Brancaccio | Raul Brancaccio | 2.00 (50¢) | $27,589 | -$27,589 | ❌ Perdida |
