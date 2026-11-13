@@ -126367,5 +126367,20 @@
     "status": "won",
     "ultimo_fill": 1794585851,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17026,
+    "timestamp": 1794594674,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nhl-nyr-van-2026-11-13",
+    "title": "Rangers vs. Canucks",
+    "outcome": "Rangers",
+    "side": "BUY",
+    "usd": 25881.069999000003,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1794594674,
+    "fills": 1
   }
 ]
