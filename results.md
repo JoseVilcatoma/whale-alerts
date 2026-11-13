@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 20:37:11 (hora de Perú)
+Actualizado: 2026-11-12 20:39:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8391**  ($475,617,652 en total)
+- Apuestas registradas: **8392**  ($475,724,465 en total)
 - Resueltas: **8338** — 5099 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 724
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $106,813 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-6.5) | Timberwolves | 1.96 (51¢) | $204,000 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spread: Timberwolves (-6.5) | Mavericks | 2.04 (49¢) | $88,335 | — | ⏳ Pendiente |
 | ndb1 | Hornets vs. Suns | Suns | 1.49 (67¢) | $97,455 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | Woaifacai | Brisbane 3: Carl Overbeck vs Juncheng Shang | Juncheng Shang | 1.35 (74¢) | $33,708 | +$11,843 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | FURIA | 2.70 (37¢) | $37,000 | +$63,000 | ✅ Ganada |
 | Woaifacai | Warriors vs. Rockets | Rockets | 1.37 (73¢) | $42,195 | +$15,607 | ✅ Ganada |
-| ethanaz | Buffalo vs. Ball State | Buffalo | 1.19 (84¢) | $47,974 | +$9,138 | ✅ Ganada |
