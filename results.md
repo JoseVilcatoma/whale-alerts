@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 22:58:04 (hora de Perú)
+Actualizado: 2026-11-12 23:00:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8402**  ($476,437,054 en total)
-- Resueltas: **8357** — 5110 ganadas / 3247 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **8359** — 5110 ganadas / 3249 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,129,786** sobre $473,972,608 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,849** sobre $824,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,211,285** sobre $474,054,106 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,049** sobre $824,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 1 | 67% | $2,852,365 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Multicoloured-Serf | 26 | 28 | 1 | 48% | $2,588,465 | -$441,390 |
+| Multicoloured-Serf | 26 | 29 | 0 | 47% | $2,588,465 | -$480,347 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
@@ -93,9 +93,9 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Timberwolves | Mavericks | 3.03 (33¢) | $28,365 | -$28,365 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Utah | Utah | 2.17 (46¢) | $35,023 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.19 (84¢) | $25,200 | +$4,800 | ✅ Ganada |
-| nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | — | ⏳ Pendiente |
+| nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | -$42,542 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | -$38,957 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | +$23,263 | ✅ Ganada |
 | mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | -$35,258 | ❌ Perdida |
 | mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | +$135,540 | ✅ Ganada |
