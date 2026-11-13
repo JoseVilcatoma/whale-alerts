@@ -126337,5 +126337,20 @@
     "status": "won",
     "ultimo_fill": 1794550167,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17022,
+    "timestamp": 1794578991,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "atp-tabilo-tirante-2026-11-13",
+    "title": "BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante",
+    "outcome": "Thiago Agustin Tirante",
+    "side": "BUY",
+    "usd": 38796.56279999999,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1794578991,
+    "fills": 1
   }
 ]
