@@ -126082,5 +126082,35 @@
     "status": "pending",
     "ultimo_fill": 1794533673,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 16962,
+    "timestamp": 1794533733,
+    "username": "0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604",
+    "wallet": "0x1bc2900db79077f14d294dd24552020dfbe73391",
+    "slug": "nba-dal-min-2026-11-12-spread-home-6pt5",
+    "title": "Spread: Timberwolves (-6.5)",
+    "outcome": "Mavericks",
+    "side": "BUY",
+    "usd": 88334.9213,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794533736,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 16963,
+    "timestamp": 1794533735,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-dal-min-2026-11-12-spread-home-6pt5",
+    "title": "Spread: Timberwolves (-6.5)",
+    "outcome": "Timberwolves",
+    "side": "BUY",
+    "usd": 204000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794533735,
+    "fills": 1
   }
 ]
