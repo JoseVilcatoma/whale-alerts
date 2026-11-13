@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 22:33:37 (hora de Perú)
+Actualizado: 2026-11-12 22:35:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8400**  ($476,245,743 en total)
-- Resueltas: **8353** — 5108 ganadas / 3245 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **8356** — 5109 ganadas / 3247 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,232,350** sobre $473,625,675 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,834** sobre $824,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,153,049** sobre $473,946,375 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,938** sobre $824,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 590 | 332 | 7 | 64% | $61,150,737 | +$545,353 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 591 | 333 | 5 | 64% | $61,150,737 | +$712,989 |
 | Sassy-Bucket | 118 | 119 | 3 | 50% | $16,199,744 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -80,15 +80,15 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $49,447 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $106,813 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-6.5) | Timberwolves | 1.96 (51¢) | $204,000 | — | ⏳ Pendiente |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spread: Timberwolves (-6.5) | Mavericks | 2.04 (49¢) | $88,335 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-6.5) | Timberwolves | 1.96 (51¢) | $204,000 | +$196,000 | ✅ Ganada |
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spread: Timberwolves (-6.5) | Mavericks | 2.04 (49¢) | $88,335 | -$88,335 | ❌ Perdida |
 | ndb1 | Hornets vs. Suns | Suns | 1.49 (67¢) | $97,455 | — | ⏳ Pendiente |
 | Woaifacai | Commanders vs. Giants | Giants | 1.75 (57¢) | $98,880 | — | ⏳ Pendiente |
 | juice-fruit | Commanders vs. Giants | Commanders | 2.38 (42¢) | $110,592 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Giants | Giants | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Giants | Giants | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Giants (-1.5) | Giants | 1.92 (52¢) | $48,341 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Timberwolves | Mavericks | 3.03 (33¢) | $28,365 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Timberwolves | Mavericks | 3.03 (33¢) | $28,365 | -$28,365 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Utah | Utah | 2.17 (46¢) | $35,023 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.19 (84¢) | $25,200 | +$4,800 | ✅ Ganada |
 | nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | — | ⏳ Pendiente |
