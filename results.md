@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 18:53:15 (hora de Perú)
+Actualizado: 2026-11-13 18:55:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8415**  ($477,159,128 en total)
+- Apuestas registradas: **8416**  ($477,188,069 en total)
 - Resueltas: **8382** — 5125 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 725
 
 ### Balance
@@ -60,8 +60,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
+| Multicoloured-Serf | 26 | 29 | 1 | 47% | $2,617,406 | -$480,347 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
-| Multicoloured-Serf | 26 | 29 | 0 | 47% | $2,588,465 | -$480,347 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Spread: Pittsburgh (-3.5) | Florida State | 1.92 (52¢) | $28,941 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | — | ⏳ Pendiente |
 | 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | — | ⏳ Pendiente |
 | Woaifacai | Knoxville: Stefan Kozlov vs Michael Zheng | Stefan Kozlov | 1.67 (60¢) | $36,327 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | 999585 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 1.37 (73¢) | $46,706 | +$17,275 | ✅ Ganada |
 | Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | -$53,031 | ❌ Perdida |
 | mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | -$26,044 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |

@@ -126472,5 +126472,20 @@
     "status": "pending",
     "ultimo_fill": 1794613608,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17034,
+    "timestamp": 1794614079,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "cfb-flst-pitt-2026-11-13-spread-home-3pt5",
+    "title": "Spread: Pittsburgh (-3.5)",
+    "outcome": "Florida State",
+    "side": "BUY",
+    "usd": 28940.9952,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794614079,
+    "fills": 1
   }
 ]
