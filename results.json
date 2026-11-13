@@ -126412,5 +126412,20 @@
     "status": "pending",
     "ultimo_fill": 1794611120,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17030,
+    "timestamp": 1794612078,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-mem-nop-2026-11-13",
+    "title": "Grizzlies vs. Pelicans",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 87007.656,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1794612078,
+    "fills": 1
   }
 ]

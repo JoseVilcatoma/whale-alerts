@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 18:20:47 (hora de Perú)
+Actualizado: 2026-11-13 18:22:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8411**  ($476,972,484 en total)
+- Apuestas registradas: **8412**  ($477,059,491 en total)
 - Resueltas: **8382** — 5125 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 724
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 3 | 64% | $61,150,737 | +$861,989 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 174 | 92 | 0 | 65% | $13,092,497 | +$740,256 |
+| Lakersfan111 | 174 | 92 | 1 | 65% | $13,179,505 | +$740,256 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Grizzlies vs. Pelicans | Grizzlies | 1.67 (60¢) | $87,008 | — | ⏳ Pendiente |
 | Woaifacai | WTA Finals, Group B: Aryna Sabalenka vs Elina Svitolina | Aryna Sabalenka | 2.08 (48¢) | $31,574 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hawks vs. Bulls | Hawks | 1.41 (71¢) | $44,702 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Rangers vs. Canucks | Rangers | 1.52 (66¢) | $25,881 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | -$36,520 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | -$32,760 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | +$30,770 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia win on 2026-11-12? | No | 1.49 (67¢) | $29,876 | +$14,715 | ✅ Ganada |
