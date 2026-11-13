@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 20:18:30 (hora de Perú)
+Actualizado: 2026-11-12 20:20:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8386**  ($475,018,390 en total)
+- Apuestas registradas: **8387**  ($475,128,982 en total)
 - Resueltas: **8338** — 5099 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 724
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | mooseborzoi | 24 | 34 | 2 | 41% | $3,127,578 | -$502,150 |
 | fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
+| juice-fruit | 29 | 18 | 3 | 62% | $2,923,236 | +$243,695 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
-| juice-fruit | 29 | 18 | 2 | 62% | $2,812,645 | +$243,695 |
 | ndb1 | 31 | 15 | 0 | 67% | $2,754,910 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Multicoloured-Serf | 26 | 28 | 1 | 48% | $2,588,465 | -$441,390 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Commanders vs. Giants | Commanders | 2.38 (42¢) | $110,592 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Giants | Giants | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Giants | Giants | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Giants (-1.5) | Giants | 1.92 (52¢) | $48,341 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | robloxgamblemaster-2008-10-18 | Counter-Strike: FURIA vs Vitality (BO3) - BLAST Rivals Group A | Vitality | 1.47 (68¢) | $26,279 | -$26,279 | ❌ Perdida |
 | Sassy-Bucket | Thunder vs. Trail Blazers | Thunder | 2.38 (42¢) | $111,540 | -$111,540 | ❌ Perdida |
 | cosmicxbt | Thunder vs. Trail Blazers | Trail Blazers | 1.72 (58¢) | $40,733 | +$29,497 | ✅ Ganada |
-| MD14 | Spurs vs. Bulls: O/U 225.5 | Over 225.5 | 1.12 (89¢) | $91,588 | +$11,320 | ✅ Ganada |
