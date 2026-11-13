@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 21:41:48 (hora de Perú)
+Actualizado: 2026-11-12 21:43:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8398**  ($476,018,502 en total)
-- Resueltas: **8344** — 5101 ganadas / 3243 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **8345** — 5102 ganadas / 3243 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,430,872** sobre $472,676,422 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,862** sobre $823,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,419,872** sobre $472,715,422 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,833** sobre $823,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 |---|---|---|---|---|---|---|
 | 0x6db5…e279 | Pistons vs. Wizards | Wizards | 1.33 (75¢) | $38,258 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | — | ⏳ Pendiente |
-| MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | — | ⏳ Pendiente |
+| MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | — | ⏳ Pendiente |
 | MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $49,447 | — | ⏳ Pendiente |
