@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 23:39:03 (hora de Perú)
+Actualizado: 2026-11-12 23:41:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8403**  ($476,573,016 en total)
-- Resueltas: **8362** — 5111 ganadas / 3251 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **8369** — 5114 ganadas / 3255 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,080,647** sobre $474,323,468 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,145** sobre $824,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,149,635** sobre $474,857,077 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,329** sobre $825,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 333 | 4 | 64% | $61,150,737 | +$916,989 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 3 | 64% | $61,150,737 | +$861,989 |
 | Sassy-Bucket | 118 | 119 | 3 | 50% | $16,199,744 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -32,10 +32,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
 | 3edmond.dantes | 35 | 24 | 0 | 59% | $8,037,570 | -$1,819,866 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 93 | 1 | 52% | $7,713,984 | -$634,541 |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 94 | 0 | 51% | $7,713,984 | -$665,096 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 80 | 33 | 2 | 71% | $6,731,085 | -$119,940 |
+| ethanaz | 81 | 34 | 0 | 70% | $6,731,085 | -$172,322 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
-| Woaifacai | 49 | 14 | 1 | 78% | $4,488,392 | +$766,277 |
+| Woaifacai | 49 | 15 | 0 | 77% | $4,488,392 | +$667,397 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
-| juice-fruit | 29 | 20 | 1 | 59% | $2,923,236 | +$71,656 |
+| juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 31 | 15 | 1 | 67% | $2,852,365 | +$458,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,13 +71,13 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x6db5…e279 | Commanders vs. Giants | Commanders | 1.11 (90¢) | $135,963 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Commanders vs. Giants | Commanders | 1.11 (90¢) | $135,963 | +$15,107 | ✅ Ganada |
 | MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | — | ⏳ Pendiente |
-| ethanaz | Commanders vs. Giants | Giants | 1.32 (76¢) | $72,477 | — | ⏳ Pendiente |
+| ethanaz | Commanders vs. Giants | Giants | 1.32 (76¢) | $72,477 | -$72,477 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | +$20,000 | ✅ Ganada |
 | ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | -$25,021 | ❌ Perdida |
 | 0x6db5…e279 | Pistons vs. Wizards | Wizards | 1.33 (75¢) | $38,258 | -$38,258 | ❌ Perdida |
-| ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | — | ⏳ Pendiente |
+| ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | +$20,095 | ✅ Ganada |
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | +$26,284 | ✅ Ganada |
 | MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
@@ -86,10 +86,10 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-6.5) | Timberwolves | 1.96 (51¢) | $204,000 | +$196,000 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spread: Timberwolves (-6.5) | Mavericks | 2.04 (49¢) | $88,335 | -$88,335 | ❌ Perdida |
 | ndb1 | Hornets vs. Suns | Suns | 1.49 (67¢) | $97,455 | — | ⏳ Pendiente |
-| Woaifacai | Commanders vs. Giants | Giants | 1.75 (57¢) | $98,880 | — | ⏳ Pendiente |
-| juice-fruit | Commanders vs. Giants | Commanders | 2.38 (42¢) | $110,592 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Giants | Giants | 1.82 (55¢) | $55,000 | — | ⏳ Pendiente |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Giants | Giants | 1.82 (55¢) | $30,555 | — | ⏳ Pendiente |
+| Woaifacai | Commanders vs. Giants | Giants | 1.75 (57¢) | $98,880 | -$98,880 | ❌ Perdida |
+| juice-fruit | Commanders vs. Giants | Commanders | 2.38 (42¢) | $110,592 | +$152,722 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Commanders vs. Giants | Giants | 1.82 (55¢) | $55,000 | -$55,000 | ❌ Perdida |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Giants | Giants | 1.82 (55¢) | $30,555 | -$30,555 | ❌ Perdida |
 | BrotherObama | Spread: Giants (-1.5) | Giants | 1.92 (52¢) | $48,341 | -$48,341 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Timberwolves | Mavericks | 3.03 (33¢) | $28,365 | -$28,365 | ❌ Perdida |
 | Sassy-Bucket | Blues vs. Utah | Utah | 2.17 (46¢) | $35,023 | — | ⏳ Pendiente |
