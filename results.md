@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 20:56:01 (hora de Perú)
+Actualizado: 2026-11-12 20:58:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8396**  ($475,950,101 en total)
+- Apuestas registradas: **8397**  ($475,980,244 en total)
 - Resueltas: **8342** — 5100 ganadas / 3242 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 724
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 93 | 1 | 52% | $7,713,984 | -$634,541 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 80 | 32 | 0 | 71% | $6,603,445 | -$94,920 |
+| ethanaz | 80 | 32 | 1 | 71% | $6,633,587 | -$94,920 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | — | ⏳ Pendiente |
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | — | ⏳ Pendiente |
 | MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | BrotherObama | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Woaifacai | Brisbane 3 (Doubles): Falck/Suarez vs Puttergill/Sweeny | Falck/Suarez | 1.32 (76¢) | $78,155 | +$24,681 | ✅ Ganada |
 | 4217893367451 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.20 (83¢) | $27,825 | +$5,699 | ✅ Ganada |
-| fantasy7788 | Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5) | MOUZ | 1.69 (59¢) | $28,000 | -$28,000 | ❌ Perdida |
