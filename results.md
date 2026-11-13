@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 00:55:14 (hora de Perú)
+Actualizado: 2026-11-13 00:57:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8404**  ($476,598,096 en total)
+- Apuestas registradas: **8405**  ($476,719,503 en total)
 - Resueltas: **8377** — 5120 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 724
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 3 | 64% | $61,150,737 | +$861,989 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 173 | 92 | 0 | 65% | $12,971,091 | +$585,738 |
+| Lakersfan111 | 173 | 92 | 1 | 65% | $13,092,497 | +$585,738 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $121,406 | — | ⏳ Pendiente |
 | CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $25,080 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Commanders vs. Giants | Commanders | 1.11 (90¢) | $135,963 | +$15,107 | ✅ Ganada |
 | MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | +$20,971 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | kjhgkltivtvriur | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.39 (72¢) | $43,500 | +$16,917 | ✅ Ganada |
 | PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.41 (71¢) | $26,980 | +$11,020 | ✅ Ganada |
 | crazyoddslover | Hersonissos 3: Adrian Andreev vs Raul Brancaccio | Raul Brancaccio | 2.00 (50¢) | $27,589 | -$27,589 | ❌ Perdida |
-| fkALG2FalconsTESMOUZ | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.37 (73¢) | $32,414 | +$11,989 | ✅ Ganada |
