@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 20:06:10 (hora de Perú)
+Actualizado: 2026-11-12 20:08:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8381**  ($474,821,107 en total)
-- Resueltas: **8337** — 5098 ganadas / 3239 perdidas (**61%** de acierto)
+- Apuestas registradas: **8382**  ($474,856,129 en total)
+- Resueltas: **8338** — 5099 ganadas / 3239 perdidas (**61%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,247,638** sobre $472,281,155 apostados (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,209,460** sobre $472,375,010 apostados (ROI **-1.1%**)
 - Copiando $100 fijo en cada una: **-$7,494** sobre $822,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 587 | 332 | 6 | 64% | $60,661,152 | +$489,784 |
-| Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
+| Sassy-Bucket | 118 | 119 | 3 | 50% | $16,199,744 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | BrotherObama | 51 | 58 | 2 | 47% | $4,739,553 | -$227,800 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
-| Woaifacai | 48 | 14 | 1 | 77% | $4,389,512 | +$728,099 |
+| Woaifacai | 49 | 14 | 0 | 78% | $4,389,512 | +$766,277 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 42 | 13 | 1 | 76% | $4,177,266 | +$525,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Blues vs. Utah | Utah | 2.17 (46¢) | $35,023 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.19 (84¢) | $25,200 | — | ⏳ Pendiente |
 | nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
@@ -79,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | — | ⏳ Pendiente |
 | mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | — | ⏳ Pendiente |
 | surfandturf | Raptors vs. 76ers | 76ers | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
-| Woaifacai | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.69 (59¢) | $93,855 | — | ⏳ Pendiente |
+| Woaifacai | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.69 (59¢) | $93,855 | +$38,178 | 💰 Vendida antes |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $50,000 | — | ⏳ Pendiente |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.72 (58¢) | $130,294 | — | ⏳ Pendiente |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.75 (57¢) | $41,744 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Predators vs. Ducks | Predators | 2.27 (44¢) | $42,772 | +$54,437 | ✅ Ganada |
 | Donkey14 | Predators vs. Ducks | Ducks | 1.79 (56¢) | $38,182 | -$38,182 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Utah vs. Golden Knights | Utah | 2.22 (45¢) | $55,346 | -$55,346 | ❌ Perdida |
-| surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | +$22,386 | ✅ Ganada |
