@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 23:30:51 (hora de Perú)
+Actualizado: 2026-11-12 23:32:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8403**  ($476,573,016 en total)
-- Resueltas: **8359** — 5110 ganadas / 3249 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **8360** — 5110 ganadas / 3250 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,211,285** sobre $474,054,106 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,049** sobre $824,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,236,306** sobre $474,079,127 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,149** sobre $824,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 93 | 1 | 52% | $7,713,984 | -$634,541 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 80 | 32 | 3 | 71% | $6,731,085 | -$94,920 |
+| ethanaz | 80 | 33 | 2 | 71% | $6,731,085 | -$119,940 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Giants | Giants | 1.32 (76¢) | $72,477 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | +$20,000 | ✅ Ganada |
-| ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | — | ⏳ Pendiente |
+| ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | -$25,021 | ❌ Perdida |
 | 0x6db5…e279 | Pistons vs. Wizards | Wizards | 1.33 (75¢) | $38,258 | -$38,258 | ❌ Perdida |
 | ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | — | ⏳ Pendiente |
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
