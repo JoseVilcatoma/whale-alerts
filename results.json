@@ -126352,5 +126352,20 @@
     "status": "won",
     "ultimo_fill": 1794578991,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17024,
+    "timestamp": 1794585851,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "wta-samson-mandlik-2026-11-13",
+    "title": "Sopo: Laura Samson vs Elizabeth Mandlik",
+    "outcome": "Elizabeth Mandlik",
+    "side": "BUY",
+    "usd": 76906.8784,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1794585851,
+    "fills": 1
   }
 ]
