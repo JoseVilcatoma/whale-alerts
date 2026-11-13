@@ -126257,10 +126257,25 @@
     "title": "Commanders vs. Giants",
     "outcome": "Giants",
     "side": "BUY",
-    "usd": 35940.282999999996,
-    "odds_at_bet": 74,
+    "usd": 72476.8483,
+    "odds_at_bet": 76,
     "status": "pending",
-    "ultimo_fill": 1794542065,
+    "ultimo_fill": 1794542173,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 16993,
+    "timestamp": 1794542240,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "nba-cha-phx-2026-11-12-total-193pt5",
+    "title": "Hornets vs. Suns: O/U 193.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 118834.2075,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1794542240,
     "fills": 1
   }
 ]
