@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 18:32:59 (hora de Perú)
+Actualizado: 2026-11-13 18:35:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8413**  ($477,095,818 en total)
+- Apuestas registradas: **8414**  ($477,131,959 en total)
 - Resueltas: **8382** — 5125 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 724
+- Pendientes: 9
+- Apostadores distintos: 725
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 724 en total)_
+_(mostrando los 40 de mayor monto, de 725 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | — | ⏳ Pendiente |
 | Woaifacai | Knoxville: Stefan Kozlov vs Michael Zheng | Stefan Kozlov | 1.67 (60¢) | $36,327 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Grizzlies vs. Pelicans | Grizzlies | 1.67 (60¢) | $87,008 | — | ⏳ Pendiente |
 | Woaifacai | WTA Finals, Group B: Aryna Sabalenka vs Elina Svitolina | Aryna Sabalenka | 2.08 (48¢) | $31,574 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | -$26,044 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
 | juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | -$36,520 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | -$32,760 | ❌ Perdida |
