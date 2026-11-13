@@ -125915,5 +125915,20 @@
     "status": "pending",
     "ultimo_fill": 1794531393,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16950,
+    "timestamp": 1794531485,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-was-nyg-2026-11-13-spread-home-1pt5",
+    "title": "Spread: Giants (-1.5)",
+    "outcome": "Commanders",
+    "side": "BUY",
+    "usd": 196000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794531485,
+    "fills": 1
   }
 ]

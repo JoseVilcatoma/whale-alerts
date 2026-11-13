@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 19:57:58 (hora de Perú)
+Actualizado: 2026-11-12 20:00:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8378**  ($474,557,365 en total)
+- Apuestas registradas: **8379**  ($474,753,365 en total)
 - Resueltas: **8337** — 5098 ganadas / 3239 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 724
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 587 | 332 | 4 | 64% | $60,439,952 | +$489,784 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 587 | 332 | 5 | 64% | $60,635,952 | +$489,784 |
 | Sassy-Bucket | 118 | 119 | 2 | 50% | $16,164,722 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | surfandturf | Warriors vs. Rockets | Rockets | 1.47 (68¢) | $47,571 | +$22,386 | ✅ Ganada |
 | mooseborzoi | Magic vs. Jazz | Jazz | 2.63 (38¢) | $28,610 | -$28,610 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Magic vs. Jazz | Magic | 1.61 (62¢) | $62,000 | +$38,000 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | MOUZ | 1.19 (84¢) | $91,698 | +$17,466 | ✅ Ganada |
