@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 18:45:08 (hora de Perú)
+Actualizado: 2026-11-13 18:47:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8414**  ($477,131,959 en total)
+- Apuestas registradas: **8415**  ($477,159,128 en total)
 - Resueltas: **8382** — 5125 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 725
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | — | ⏳ Pendiente |
 | 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | — | ⏳ Pendiente |
 | Woaifacai | Knoxville: Stefan Kozlov vs Michael Zheng | Stefan Kozlov | 1.67 (60¢) | $36,327 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Grizzlies vs. Pelicans | Grizzlies | 1.67 (60¢) | $87,008 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | -$53,031 | ❌ Perdida |
 | mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | -$26,044 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
-| juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | -$36,520 | ❌ Perdida |
