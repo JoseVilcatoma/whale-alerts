@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 10:29:31 (hora de Perú)
+Actualizado: 2026-11-13 10:31:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8407**  ($476,793,420 en total)
-- Resueltas: **8380** — 5123 ganadas / 3257 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Resueltas: **8381** — 5124 ganadas / 3257 perdidas (**61%** de acierto)
+- Pendientes: 3
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,749,145** sobre $475,644,003 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,900** sobre $826,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,727,321** sobre $475,682,799 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,843** sobre $826,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
-| Woaifacai | 50 | 15 | 1 | 77% | $4,562,309 | +$676,177 |
+| Woaifacai | 51 | 15 | 0 | 77% | $4,562,309 | +$698,000 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Woaifacai | BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.56 (64¢) | $38,797 | — | ⏳ Pendiente |
+| Woaifacai | BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.56 (64¢) | $38,797 | +$21,823 | ✅ Ganada |
 | Woaifacai | Brisbane 3: Bernard Tomic vs August Holmgren | August Holmgren | 1.25 (80¢) | $35,121 | +$8,780 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $121,406 | +$154,517 | ✅ Ganada |
 | CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $25,080 | +$31,920 | ✅ Ganada |
