@@ -126292,5 +126292,20 @@
     "status": "won",
     "ultimo_fill": 1794543072,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17015,
+    "timestamp": 1794549138,
+    "username": "CORGII",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "cs2-vit-mouz-2026-11-13",
+    "title": "Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 25080.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1794549138,
+    "fills": 1
   }
 ]
