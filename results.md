@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 23:51:13 (hora de Perú)
+Actualizado: 2026-11-12 23:53:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8403**  ($476,573,016 en total)
-- Resueltas: **8374** — 5118 ganadas / 3256 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Resueltas: **8376** — 5120 ganadas / 3256 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,053,580** sobre $475,271,113 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,264** sobre $826,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,909,339** sobre $475,427,373 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,079** sobre $826,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,8 +81,8 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | +$26,284 | ✅ Ganada |
 | MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $49,447 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $106,813 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $49,447 | +$45,643 | ✅ Ganada |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $106,813 | +$98,597 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-6.5) | Timberwolves | 1.96 (51¢) | $204,000 | +$196,000 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spread: Timberwolves (-6.5) | Mavericks | 2.04 (49¢) | $88,335 | -$88,335 | ❌ Perdida |
 | ndb1 | Hornets vs. Suns | Suns | 1.49 (67¢) | $97,455 | +$48,000 | ✅ Ganada |
