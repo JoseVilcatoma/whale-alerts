@@ -126007,5 +126007,35 @@
     "status": "pending",
     "ultimo_fill": 1794532523,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 16957,
+    "timestamp": 1794532665,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-was-nyg-2026-11-13",
+    "title": "Commanders vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 55000.00000000001,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1794532665,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 16958,
+    "timestamp": 1794532665,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "nfl-was-nyg-2026-11-13",
+    "title": "Commanders vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "usd": 30555.250000000004,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1794532665,
+    "fills": 1
   }
 ]
