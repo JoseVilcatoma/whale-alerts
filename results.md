@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-12 21:48:01 (hora de Perú)
+Actualizado: 2026-11-12 21:50:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8398**  ($476,018,502 en total)
-- Resueltas: **8345** — 5102 ganadas / 3243 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Apuestas registradas: **8399**  ($476,043,523 en total)
+- Resueltas: **8351** — 5107 ganadas / 3244 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 724
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,419,872** sobre $472,715,422 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,833** sobre $823,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,214,092** sobre $473,385,197 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,744** sobre $823,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 588 | 332 | 8 | 64% | $60,948,517 | +$494,584 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 589 | 332 | 7 | 64% | $60,948,517 | +$525,354 |
 | Sassy-Bucket | 118 | 119 | 3 | 50% | $16,199,744 | -$1,494,111 |
 | Lakersfan111 | 171 | 92 | 2 | 65% | $12,971,091 | +$511,544 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 93 | 1 | 52% | $7,713,984 | -$634,541 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 80 | 32 | 1 | 71% | $6,633,587 | -$94,920 |
+| ethanaz | 80 | 32 | 2 | 71% | $6,658,608 | -$94,920 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Woaifacai | 49 | 14 | 1 | 78% | $4,488,392 | +$766,277 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
-| surfandturf | 42 | 13 | 1 | 76% | $4,177,266 | +$525,327 |
+| surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | TAIWANNUMBERONE | 62 | 25 | 0 | 71% | $3,267,593 | -$56,941 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| mooseborzoi | 24 | 34 | 2 | 41% | $3,127,578 | -$502,150 |
+| mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | fantasy7788 | 34 | 21 | 0 | 62% | $3,006,148 | +$586,428 |
 | juice-fruit | 29 | 20 | 1 | 59% | $2,923,236 | +$71,656 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
@@ -71,10 +71,11 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Pistons vs. Wizards | Wizards | 1.33 (75¢) | $38,258 | — | ⏳ Pendiente |
 | ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | — | ⏳ Pendiente |
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | +$26,284 | ✅ Ganada |
 | MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $49,447 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $106,813 | — | ⏳ Pendiente |
@@ -93,11 +94,11 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | — | ⏳ Pendiente |
-| mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | — | ⏳ Pendiente |
-| surfandturf | Raptors vs. 76ers | 76ers | 1.41 (71¢) | $71,000 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | -$35,258 | ❌ Perdida |
+| mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | +$135,540 | ✅ Ganada |
+| surfandturf | Raptors vs. 76ers | 76ers | 1.41 (71¢) | $71,000 | +$29,000 | ✅ Ganada |
 | Woaifacai | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.69 (59¢) | $93,855 | +$38,178 | 💰 Vendida antes |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $50,000 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $50,000 | +$19,444 | ✅ Ganada |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.72 (58¢) | $130,294 | -$130,294 | ❌ Perdida |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.75 (57¢) | $41,744 | -$41,744 | ❌ Perdida |
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.79 (56¢) | $33,198 | -$33,198 | ❌ Perdida |
@@ -116,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will England win on 2026-11-12? | Yes | 1.30 (77¢) | $38,500 | +$11,500 | ✅ Ganada |
 | juice-fruit | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 2.86 (35¢) | $36,520 | -$36,520 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Spread: Montenegro (-1.5) | Montenegro | 2.00 (50¢) | $32,760 | -$32,760 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Raptors vs. 76ers | 76ers | 1.43 (70¢) | $71,797 | +$30,770 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia win on 2026-11-12? | No | 1.49 (67¢) | $29,876 | +$14,715 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Armenia vs. Cyprus end in a draw? | No | 1.35 (74¢) | $25,662 | -$25,662 | ❌ Perdida |
 | PacersThreeandahalf | Counter-Strike: Spirit vs G2 (BO3) - BLAST Rivals Group B | Spirit | 1.35 (74¢) | $72,979 | +$25,641 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 724 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: FUT Esports vs MOUZ (BO3) - BLAST Rivals Group B | FUT Esports | 2.27 (44¢) | $32,462 | -$32,462 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FUT Esports vs MOUZ - Map 2 Winner | MOUZ | 1.35 (74¢) | $44,346 | +$15,581 | ✅ Ganada |
 | BrotherObama | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit | 2.17 (46¢) | $30,000 | -$30,000 | ❌ Perdida |
-| Woaifacai | Brisbane 3 (Doubles): Falck/Suarez vs Puttergill/Sweeny | Falck/Suarez | 1.32 (76¢) | $78,155 | +$24,681 | ✅ Ganada |
