@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 16:23:18 (hora de Perú)
+Actualizado: 2026-11-14 16:25:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8491**  ($481,638,754 en total)
-- Resueltas: **8434** — 5152 ganadas / 3282 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **8436** — 5153 ganadas / 3283 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 729
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,289,011** sobre $478,709,613 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,774** sobre $832,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,256,136** sobre $478,794,498 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,770** sobre $832,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
-| Kch-Temp | 48 | 19 | 5 | 72% | $4,923,752 | +$1,859,004 |
+| Kch-Temp | 49 | 19 | 4 | 72% | $4,923,752 | +$1,919,061 |
 | Thunderous-Authoritarian-Snarl | 22 | 20 | 2 | 52% | $4,873,463 | -$1,686,817 |
 | BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
 | 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.64 (61¢) | $240,456 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Denmark win on 2026-11-14? | No | 1.20 (83¢) | $36,272 | — | ⏳ Pendiente |
 | omnibus-076daa | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.61 (62¢) | $75,504 | — | ⏳ Pendiente |
-| Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | — | ⏳ Pendiente |
+| Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | +$60,058 | ✅ Ganada |
 | Kch-Temp | Tennessee vs. Texas A&M | Tennessee | 1.92 (52¢) | $39,818 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Will Norway win on 2026-11-14? | Yes | 1.28 (78¢) | $193,933 | +$54,699 | ✅ Ganada |
 | Kch-Temp | Arkansas State vs. Coastal Carolina | Arkansas State | 2.04 (49¢) | $34,701 | — | ⏳ Pendiente |
@@ -101,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | +$18,021 | ✅ Ganada |
 | Lanlanlanlan | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $103,600 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | -$27,183 | ❌ Perdida |
 | gmpm2 | Spread: Miami (FL) (-13.5) | Duke | 2.13 (47¢) | $28,585 | +$32,234 | ✅ Ganada |
 | xjbt | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $57,468 | — | ⏳ Pendiente |
 | SineNooneEI | Flames vs. Kings | Kings | 1.59 (63¢) | $33,940 | — | ⏳ Pendiente |
