@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 18:35:58 (hora de Perú)
+Actualizado: 2026-11-14 18:38:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8507**  ($482,536,434 en total)
+- Apuestas registradas: **8508**  ($482,592,503 en total)
 - Resueltas: **8442** — 5156 ganadas / 3286 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 730
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.22 (45¢) | $56,069 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.92 (52¢) | $49,556 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $91,944 | — | ⏳ Pendiente |
 | olegio | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.89 (53¢) | $46,134 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | 3648393489047 | Hersonissos 3: Francesco Maestrelli vs Philip Henning | Francesco Maestrelli | 1.18 (85¢) | $26,701 | -$26,701 | ❌ Perdida |
 | VPenguin | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 4.17 (24¢) | $36,175 | -$36,175 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: FURIA vs Team Falcons - Map 1 Winner | Team Falcons | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |
-| 4217893367451 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 2.08 (48¢) | $96,000 | -$96,000 | ❌ Perdida |
