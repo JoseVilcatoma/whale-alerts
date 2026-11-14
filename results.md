@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 10:19:24 (hora de Perú)
+Actualizado: 2026-11-14 10:21:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8463**  ($479,860,514 en total)
+- Apuestas registradas: **8464**  ($479,885,600 en total)
 - Resueltas: **8427** — 5147 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 727
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | — | ⏳ Pendiente |
 | Lanlanlanlan | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $103,600 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | Woaifacai | BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.56 (64¢) | $38,797 | +$21,823 | ✅ Ganada |
 | Woaifacai | Brisbane 3: Bernard Tomic vs August Holmgren | August Holmgren | 1.25 (80¢) | $35,121 | +$8,780 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $121,406 | +$154,517 | ✅ Ganada |
-| CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $25,080 | +$31,920 | ✅ Ganada |
