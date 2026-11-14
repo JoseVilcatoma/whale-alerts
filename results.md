@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 07:24:23 (hora de Perú)
+Actualizado: 2026-11-14 07:26:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8452**  ($479,410,691 en total)
+- Apuestas registradas: **8453**  ($479,436,367 en total)
 - Resueltas: **8418** — 5143 ganadas / 3275 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 726
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.33 (75¢) | $25,676 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.32 (76¢) | $29,347 | — | ⏳ Pendiente |
 | 3648393489047 | Hersonissos 3: Francesco Maestrelli vs Philip Henning | Francesco Maestrelli | 1.18 (85¢) | $26,701 | — | ⏳ Pendiente |
 | VPenguin | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 4.17 (24¢) | $36,175 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | +$26,284 | ✅ Ganada |
 | MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $49,447 | +$45,643 | ✅ Ganada |

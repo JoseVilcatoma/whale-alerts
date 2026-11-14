@@ -127027,5 +127027,20 @@
     "status": "pending",
     "ultimo_fill": 1794658646,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17109,
+    "timestamp": 1794659099,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "cs2-furia-fal2-2026-11-14",
+    "title": "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 25676.25,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1794659099,
+    "fills": 1
   }
 ]
