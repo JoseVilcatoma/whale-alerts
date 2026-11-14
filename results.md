@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 00:54:59 (hora de Perú)
+Actualizado: 2026-11-14 00:57:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8438**  ($478,714,649 en total)
-- Resueltas: **8407** — 5138 ganadas / 3269 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **8408** — 5139 ganadas / 3269 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,970,565** sobre $477,124,389 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,269** sobre $829,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,962,702** sobre $477,168,949 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,252** sobre $829,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,7 +52,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 13 | 0 | 62% | $3,413,715 | -$600,751 |
-| TAIWANNUMBERONE | 62 | 25 | 1 | 71% | $3,312,154 | -$56,941 |
+| TAIWANNUMBERONE | 63 | 25 | 0 | 72% | $3,312,154 | -$49,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 |---|---|---|---|---|---|---|
 | ethanaz | Houston vs. Colorado | Colorado | 1.52 (66¢) | $162,554 | — | ⏳ Pendiente |
 | MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | +$17,999 | ✅ Ganada |
-| PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | — | ⏳ Pendiente |
+| PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | +$7,864 | ✅ Ganada |
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | +$16,800 | ✅ Ganada |
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | +$27,200 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | — | ⏳ Pendiente |
