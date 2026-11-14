@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 17:46:55 (hora de Perú)
+Actualizado: 2026-11-14 17:49:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8498**  ($482,048,227 en total)
-- Resueltas: **8439** — 5154 ganadas / 3285 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **8441** — 5155 ganadas / 3286 perdidas (**61%** de acierto)
+- Pendientes: 34
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,323,093** sobre $478,892,350 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,955** sobre $832,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,218,109** sobre $479,181,556 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,991** sobre $832,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
 | Kch-Temp | 49 | 20 | 3 | 71% | $4,923,752 | +$1,884,360 |
-| Thunderous-Authoritarian-Snarl | 22 | 20 | 3 | 52% | $4,916,642 | -$1,686,817 |
+| Thunderous-Authoritarian-Snarl | 23 | 20 | 2 | 53% | $4,916,642 | -$1,533,083 |
 | BrotherObama | 51 | 59 | 4 | 46% | $4,896,652 | -$276,141 |
 | 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
@@ -94,8 +94,8 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | sabghm | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 1.64 (61¢) | $31,991 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Georgia (-16.5) | Georgia | 1.96 (51¢) | $28,422 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $26,963 | — | ⏳ Pendiente |
-| heyjason | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 2.56 (39¢) | $48,750 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.64 (61¢) | $240,456 | — | ⏳ Pendiente |
+| heyjason | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 2.56 (39¢) | $48,750 | -$48,750 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.64 (61¢) | $240,456 | +$153,734 | ✅ Ganada |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Denmark win on 2026-11-14? | No | 1.20 (83¢) | $36,272 | -$36,272 | ❌ Perdida |
 | omnibus-076daa | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.61 (62¢) | $75,504 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | +$60,058 | ✅ Ganada |
