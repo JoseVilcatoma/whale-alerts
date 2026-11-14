@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 09:23:49 (hora de Perú)
+Actualizado: 2026-11-14 09:25:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8459**  ($479,675,213 en total)
+- Apuestas registradas: **8460**  ($479,703,798 en total)
 - Resueltas: **8427** — 5147 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 727
 
 ### Balance
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
+| maz26 | 45 | 30 | 1 | 60% | $5,356,129 | +$418,557 |
 | BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Spread: Miami (FL) (-13.5) | Duke | 2.13 (47¢) | $28,585 | — | ⏳ Pendiente |
 | xjbt | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $57,468 | — | ⏳ Pendiente |
 | SineNooneEI | Flames vs. Kings | Kings | 1.59 (63¢) | $33,940 | — | ⏳ Pendiente |
 | MD14 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | 0x6db5…e279 | Commanders vs. Giants | Commanders | 1.11 (90¢) | $135,963 | +$15,107 | ✅ Ganada |
 | MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | +$20,971 | ✅ Ganada |
 | ethanaz | Commanders vs. Giants | Giants | 1.32 (76¢) | $72,477 | -$72,477 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | +$20,000 | ✅ Ganada |
