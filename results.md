@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 15:58:22 (hora de Perú)
+Actualizado: 2026-11-14 16:00:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8484**  ($481,059,109 en total)
-- Resueltas: **8432** — 5150 ganadas / 3282 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Apuestas registradas: **8489**  ($481,577,587 en total)
+- Resueltas: **8434** — 5152 ganadas / 3282 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 729
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,331,036** sobre $478,648,249 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,916** sobre $831,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,289,011** sobre $478,709,613 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,774** sobre $832,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 338 | 6 | 64% | $61,421,494 | +$737,608 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 338 | 7 | 64% | $61,480,494 | +$737,608 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 97 | 0 | 65% | $13,663,740 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -41,12 +41,12 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 45 | 30 | 1 | 60% | $5,356,129 | +$418,557 |
+| maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
 | Kch-Temp | 48 | 19 | 5 | 72% | $4,923,752 | +$1,859,004 |
+| Thunderous-Authoritarian-Snarl | 22 | 20 | 2 | 52% | $4,873,463 | -$1,686,817 |
 | BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
+| 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
-| Thunderous-Authoritarian-Snarl | 22 | 20 | 1 | 52% | $4,684,203 | -$1,686,817 |
-| 999585 | 36 | 6 | 0 | 86% | $4,630,298 | +$226,679 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,11 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
+| olegio | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.44 (41¢) | $38,022 | — | ⏳ Pendiente |
+| 999585 | Michigan vs. Oregon | Oregon | 1.11 (90¢) | $202,796 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $189,260 | — | ⏳ Pendiente |
+| zb8 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $29,400 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $48,799 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Total Kills Over/Under 24.5 in Game 2? | Under 24.5 in Game 2? | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
@@ -95,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | +$18,021 | ✅ Ganada |
 | Lanlanlanlan | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $103,600 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | — | ⏳ Pendiente |
-| gmpm2 | Spread: Miami (FL) (-13.5) | Duke | 2.13 (47¢) | $28,585 | — | ⏳ Pendiente |
+| gmpm2 | Spread: Miami (FL) (-13.5) | Duke | 2.13 (47¢) | $28,585 | +$32,234 | ✅ Ganada |
 | xjbt | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $57,468 | — | ⏳ Pendiente |
 | SineNooneEI | Flames vs. Kings | Kings | 1.59 (63¢) | $33,940 | — | ⏳ Pendiente |
 | MD14 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
@@ -112,7 +117,7 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | randomrandomrandom | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $36,484 | -$36,484 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 1 Winner | Spirit | 2.13 (47¢) | $29,000 | +$32,702 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Kraken vs. Hurricanes | Hurricanes | 1.30 (77¢) | $32,779 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Kraken vs. Hurricanes | Hurricanes | 1.30 (77¢) | $32,779 | +$9,791 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | Spirit | 2.22 (45¢) | $61,413 | +$75,060 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northwestern vs. Ohio State | Northwestern | 6.25 (16¢) | $33,526 | -$33,526 | ❌ Perdida |
 | 999585 | Northwestern vs. Ohio State | Ohio State | 1.19 (84¢) | $109,392 | +$20,837 | ✅ Ganada |
@@ -126,8 +131,3 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | -$71,731 | ❌ Perdida |
 | monkeymashingkeyboard | Jazz vs. Rockets | Rockets | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $93,253 | +$13,934 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $70,551 | -$70,551 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-14.5) | Jazz | 2.13 (47¢) | $29,970 | +$33,796 | ✅ Ganada |
-| googleplay | Spread: Rockets (-15.5) | Rockets | 2.00 (50¢) | $104,203 | -$104,203 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $71,197 | -$71,197 | ❌ Perdida |
-| milkteaboba | Hawks vs. Bulls | Hawks | 1.47 (68¢) | $31,875 | -$31,875 | ❌ Perdida |
