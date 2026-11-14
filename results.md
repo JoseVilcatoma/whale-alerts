@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 21:08:39 (hora de Perú)
+Actualizado: 2026-11-13 21:10:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8433**  ($478,201,542 en total)
+- Apuestas registradas: **8434**  ($478,344,342 en total)
 - Resueltas: **8384** — 5125 ganadas / 3259 perdidas (**61%** de acierto)
-- Pendientes: 26
-- Apostadores distintos: 725
+- Pendientes: 27
+- Apostadores distintos: 726
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 725 en total)_
+_(mostrando los 40 de mayor monto, de 726 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | — | ⏳ Pendiente |
 | winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Jazz vs. Rockets | Rockets | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | +$23,263 | ✅ Ganada |
 | mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | -$35,258 | ❌ Perdida |
 | mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | +$135,540 | ✅ Ganada |
-| surfandturf | Raptors vs. 76ers | 76ers | 1.41 (71¢) | $71,000 | +$29,000 | ✅ Ganada |
