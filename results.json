@@ -127282,5 +127282,20 @@
     "status": "pending",
     "ultimo_fill": 1794674068,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 17135,
+    "timestamp": 1794674892,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "cfb-tenn-txam-2026-11-14",
+    "title": "Tennessee vs. Texas A&M",
+    "outcome": "Tennessee",
+    "side": "BUY",
+    "usd": 39817.95480000001,
+    "odds_at_bet": 52,
+    "status": "pending",
+    "ultimo_fill": 1794674892,
+    "fills": 1
   }
 ]
