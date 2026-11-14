@@ -126922,5 +126922,20 @@
     "status": "pending",
     "ultimo_fill": 1794642445,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17095,
+    "timestamp": 1794643210,
+    "username": "randomrandomrandom",
+    "wallet": "0x9bad4efb6ef620206318b540931759f472a8861f",
+    "slug": "cs2-ts7-mouz-2026-11-14",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "usd": 36484.020000000004,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1794643210,
+    "fills": 1
   }
 ]
