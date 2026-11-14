@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 15:48:09 (hora de Perú)
+Actualizado: 2026-11-14 15:50:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8480**  ($480,906,310 en total)
+- Apuestas registradas: **8481**  ($480,936,310 en total)
 - Resueltas: **8431** — 5150 ganadas / 3281 perdidas (**61%** de acierto)
-- Pendientes: 26
-- Apostadores distintos: 728
+- Pendientes: 27
+- Apostadores distintos: 729
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 728 en total)_
+_(mostrando los 40 de mayor monto, de 729 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Ethanael02 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $52,375 | — | ⏳ Pendiente |
 | Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | — | ⏳ Pendiente |
 | sabghm | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 1.64 (61¢) | $31,991 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 728 en total)_
 | CUTJALENHURTS | Florida State vs. Pittsburgh | Florida State | 1.52 (66¢) | $47,865 | +$24,658 | ✅ Ganada |
 | fantasy7788 | Cavaliers vs. Heat | Heat | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $39,683 | +$39,683 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Hawks (-6.5) | Hawks | 2.00 (50¢) | $44,645 | -$44,645 | ❌ Perdida |
