@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 16:35:53 (hora de Perú)
+Actualizado: 2026-11-14 16:38:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8493**  ($481,867,790 en total)
-- Resueltas: **8436** — 5153 ganadas / 3283 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **8437** — 5153 ganadas / 3284 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,256,136** sobre $478,794,498 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,770** sobre $832,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,290,837** sobre $478,829,199 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,870** sobre $832,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
-| Kch-Temp | 49 | 19 | 4 | 72% | $4,923,752 | +$1,919,061 |
+| Kch-Temp | 49 | 20 | 3 | 71% | $4,923,752 | +$1,884,360 |
 | Thunderous-Authoritarian-Snarl | 22 | 20 | 2 | 52% | $4,873,463 | -$1,686,817 |
 | BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
 | 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
@@ -96,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | +$60,058 | ✅ Ganada |
 | Kch-Temp | Tennessee vs. Texas A&M | Tennessee | 1.92 (52¢) | $39,818 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Will Norway win on 2026-11-14? | Yes | 1.28 (78¢) | $193,933 | +$54,699 | ✅ Ganada |
-| Kch-Temp | Arkansas State vs. Coastal Carolina | Arkansas State | 2.04 (49¢) | $34,701 | — | ⏳ Pendiente |
+| Kch-Temp | Arkansas State vs. Coastal Carolina | Arkansas State | 2.04 (49¢) | $34,701 | -$34,701 | ❌ Perdida |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nebraska vs. Rutgers: O/U 51.5 | Over 51.5 | 2.00 (50¢) | $28,429 | -$28,429 | ❌ Perdida |
 | Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | — | ⏳ Pendiente |
