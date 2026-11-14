@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 20:29:35 (hora de Perú)
+Actualizado: 2026-11-13 20:31:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8430**  ($477,921,680 en total)
+- Apuestas registradas: **8430**  ($477,971,434 en total)
 - Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
 - Pendientes: 24
 - Apostadores distintos: 725
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $43,500 | — | ⏳ Pendiente |
+| MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $93,253 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $70,551 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-14.5) | Jazz | 2.13 (47¢) | $29,970 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-15.5) | Rockets | 2.00 (50¢) | $104,203 | — | ⏳ Pendiente |
