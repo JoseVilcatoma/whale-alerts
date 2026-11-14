@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 19:29:55 (hora de Perú)
+Actualizado: 2026-11-13 19:32:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8421**  ($477,452,836 en total)
+- Apuestas registradas: **8422**  ($477,492,520 en total)
 - Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 725
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 4 | 64% | $61,195,382 | +$861,989 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 174 | 92 | 2 | 65% | $13,228,307 | +$740,256 |
+| Lakersfan111 | 174 | 92 | 3 | 65% | $13,267,990 | +$740,256 |
 | googleplay | 59 | 51 | 2 | 54% | $12,525,959 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $39,683 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Hawks (-6.5) | Hawks | 2.00 (50¢) | $44,645 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $86,634 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $55,248 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | -$30,759 | ❌ Perdida |
 | mokkoroo | Hornets vs. Suns | Hornets | 3.03 (33¢) | $47,110 | -$47,110 | ❌ Perdida |
 | Woaifacai | Albania vs. Finland: O/U 3.5 | Under 3.5 | 1.23 (81¢) | $74,116 | +$17,385 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | +$17,109 | ✅ Ganada |
