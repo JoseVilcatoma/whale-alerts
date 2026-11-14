@@ -126502,5 +126502,35 @@
     "status": "pending",
     "ultimo_fill": 1794614841,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17037,
+    "timestamp": 1794615521,
+    "username": "CUTJALENHURTS",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "cfb-flst-pitt-2026-11-13",
+    "title": "Florida State vs. Pittsburgh",
+    "outcome": "Pittsburgh",
+    "side": "BUY",
+    "usd": 29439.103499999997,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1794615521,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17038,
+    "timestamp": 1794615560,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-atl-chi-2026-11-13-spread-away-6pt5",
+    "title": "Spread: Hawks (-6.5)",
+    "outcome": "Hawks",
+    "side": "BUY",
+    "usd": 55248.080700000006,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794615560,
+    "fills": 1
   }
 ]
