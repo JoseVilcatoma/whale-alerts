@@ -126712,5 +126712,20 @@
     "status": "pending",
     "ultimo_fill": 1794620338,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17051,
+    "timestamp": 1794620523,
+    "username": "winner877",
+    "wallet": "0x85e5669beee6b80d887493e724987dabc5f56056",
+    "slug": "nba-nyk-ind-2026-11-13",
+    "title": "Knicks vs. Pacers",
+    "outcome": "Knicks",
+    "side": "BUY",
+    "usd": 71730.9262,
+    "odds_at_bet": 55,
+    "status": "pending",
+    "ultimo_fill": 1794620523,
+    "fills": 1
   }
 ]
