@@ -126697,5 +126697,20 @@
     "status": "pending",
     "ultimo_fill": 1794619786,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17050,
+    "timestamp": 1794620338,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nba-uta-hou-2026-11-13",
+    "title": "Jazz vs. Rockets",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 27600.0,
+    "odds_at_bet": 92,
+    "status": "pending",
+    "ultimo_fill": 1794620338,
+    "fills": 1
   }
 ]

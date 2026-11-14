@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 20:37:56 (hora de Perú)
+Actualizado: 2026-11-13 20:40:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8430**  ($477,971,434 en total)
+- Apuestas registradas: **8431**  ($477,999,034 en total)
 - Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 725
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Jazz vs. Rockets | Rockets | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
 | MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $93,253 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $70,551 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-14.5) | Jazz | 2.13 (47¢) | $29,970 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | surfandturf | Raptors vs. 76ers | 76ers | 1.41 (71¢) | $71,000 | +$29,000 | ✅ Ganada |
 | Woaifacai | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.69 (59¢) | $93,855 | +$38,178 | 💰 Vendida antes |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $50,000 | +$19,444 | ✅ Ganada |
-| juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.72 (58¢) | $130,294 | -$130,294 | ❌ Perdida |
