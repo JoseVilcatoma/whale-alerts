@@ -127867,5 +127867,20 @@
     "status": "pending",
     "ultimo_fill": 1794699449,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17191,
+    "timestamp": 1794699731,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nhl-col-mon-2026-11-14",
+    "title": "Avalanche vs. Canadiens",
+    "outcome": "Avalanche",
+    "side": "BUY",
+    "usd": 35753.8404,
+    "odds_at_bet": 46,
+    "status": "pending",
+    "ultimo_fill": 1794699731,
+    "fills": 1
   }
 ]
