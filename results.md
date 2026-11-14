@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 19:05:36 (hora de Perú)
+Actualizado: 2026-11-13 19:07:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8416**  ($477,188,069 en total)
+- Apuestas registradas: **8417**  ($477,236,870 en total)
 - Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 725
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 3 | 64% | $61,150,737 | +$861,989 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 174 | 92 | 1 | 65% | $13,179,505 | +$740,256 |
+| Lakersfan111 | 174 | 92 | 2 | 65% | $13,228,307 | +$740,256 |
 | googleplay | 59 | 51 | 0 | 54% | $12,384,077 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $48,802 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Pittsburgh (-3.5) | Florida State | 1.92 (52¢) | $28,941 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | — | ⏳ Pendiente |
 | 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | +$32,468 | ✅ Ganada |
 | 999585 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 1.37 (73¢) | $46,706 | +$17,275 | ✅ Ganada |
 | Fvalp | Will France win on 2026-11-12? | Yes | 1.35 (74¢) | $53,031 | -$53,031 | ❌ Perdida |
-| mooseborzoi | Will France win on 2026-11-12? | Yes | 1.92 (52¢) | $26,044 | -$26,044 | ❌ Perdida |
