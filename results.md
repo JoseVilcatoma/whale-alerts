@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 14:55:01 (hora de Perú)
+Actualizado: 2026-11-14 14:57:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8475**  ($480,692,708 en total)
+- Apuestas registradas: **8475**  ($480,728,044 en total)
 - Resueltas: **8429** — 5149 ganadas / 3280 perdidas (**61%** de acierto)
 - Pendientes: 23
 - Apostadores distintos: 727
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 4 | 72% | $4,885,236 | +$1,859,004 |
 | BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
-| Thunderous-Authoritarian-Snarl | 22 | 20 | 1 | 52% | $4,648,868 | -$1,686,817 |
+| Thunderous-Authoritarian-Snarl | 22 | 20 | 1 | 52% | $4,684,203 | -$1,686,817 |
 | 999585 | 35 | 6 | 1 | 85% | $4,630,298 | +$205,843 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | heyjason | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 2.56 (39¢) | $48,750 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.64 (61¢) | $205,120 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.64 (61¢) | $240,456 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Denmark win on 2026-11-14? | No | 1.20 (83¢) | $36,272 | — | ⏳ Pendiente |
 | omnibus-076daa | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.61 (62¢) | $75,504 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | — | ⏳ Pendiente |
