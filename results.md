@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 15:50:14 (hora de Perú)
+Actualizado: 2026-11-14 15:52:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8481**  ($480,936,310 en total)
+- Apuestas registradas: **8483**  ($481,017,109 en total)
 - Resueltas: **8431** — 5150 ganadas / 3281 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 29
 - Apostadores distintos: 729
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 337 | 5 | 64% | $61,340,695 | +$766,037 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 337 | 7 | 64% | $61,421,494 | +$766,037 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 97 | 0 | 65% | $13,663,740 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $48,799 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Total Kills Over/Under 24.5 in Game 2? | Under 24.5 in Game 2? | 3.12 (32¢) | $32,000 | — | ⏳ Pendiente |
 | Ethanael02 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $30,000 | — | ⏳ Pendiente |
 | fantasy7788 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $52,375 | — | ⏳ Pendiente |
 | Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $71,197 | -$71,197 | ❌ Perdida |
 | milkteaboba | Hawks vs. Bulls | Hawks | 1.47 (68¢) | $31,875 | -$31,875 | ❌ Perdida |
 | CUTJALENHURTS | Florida State vs. Pittsburgh | Florida State | 1.52 (66¢) | $47,865 | +$24,658 | ✅ Ganada |
-| fantasy7788 | Cavaliers vs. Heat | Heat | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $39,683 | +$39,683 | ✅ Ganada |
