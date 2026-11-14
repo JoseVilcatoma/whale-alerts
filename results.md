@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 08:27:37 (hora de Perú)
+Actualizado: 2026-11-14 08:29:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8457**  ($479,583,806 en total)
-- Resueltas: **8419** — 5143 ganadas / 3276 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8420** — 5143 ganadas / 3277 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,228,290** sobre $477,936,150 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,587** sobre $830,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,254,991** sobre $477,962,850 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,687** sobre $830,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | Team Falcons | 2.13 (47¢) | $27,048 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.33 (75¢) | $25,676 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.32 (76¢) | $29,347 | — | ⏳ Pendiente |
-| 3648393489047 | Hersonissos 3: Francesco Maestrelli vs Philip Henning | Francesco Maestrelli | 1.18 (85¢) | $26,701 | — | ⏳ Pendiente |
+| 3648393489047 | Hersonissos 3: Francesco Maestrelli vs Philip Henning | Francesco Maestrelli | 1.18 (85¢) | $26,701 | -$26,701 | ❌ Perdida |
 | VPenguin | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 4.17 (24¢) | $36,175 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: FURIA vs Team Falcons - Map 1 Winner | Team Falcons | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
