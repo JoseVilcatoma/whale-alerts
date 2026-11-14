@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 01:13:26 (hora de Perú)
+Actualizado: 2026-11-14 01:15:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8442**  ($479,015,705 en total)
-- Resueltas: **8408** — 5139 ganadas / 3269 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **8411** — 5139 ganadas / 3272 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,962,702** sobre $477,168,949 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,252** sobre $829,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,235,227** sobre $477,441,474 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,552** sobre $829,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 335 | 4 | 64% | $61,228,908 | +$817,344 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 177 | 92 | 4 | 66% | $13,637,240 | +$886,745 |
+| Lakersfan111 | 177 | 95 | 1 | 65% | $13,637,240 | +$614,220 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -80,14 +80,14 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | +$7,864 | ✅ Ganada |
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | +$16,800 | ✅ Ganada |
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | +$27,200 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | -$130,777 | ❌ Perdida |
 | winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | -$71,731 | ❌ Perdida |
 | monkeymashingkeyboard | Jazz vs. Rockets | Rockets | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
 | MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $93,253 | +$13,934 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $70,551 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $70,551 | -$70,551 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-14.5) | Jazz | 2.13 (47¢) | $29,970 | +$33,796 | ✅ Ganada |
 | googleplay | Spread: Rockets (-15.5) | Rockets | 2.00 (50¢) | $104,203 | -$104,203 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $71,197 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $71,197 | -$71,197 | ❌ Perdida |
 | milkteaboba | Hawks vs. Bulls | Hawks | 1.47 (68¢) | $31,875 | -$31,875 | ❌ Perdida |
 | CUTJALENHURTS | Florida State vs. Pittsburgh | Florida State | 1.52 (66¢) | $47,865 | +$24,658 | ✅ Ganada |
 | fantasy7788 | Cavaliers vs. Heat | Heat | 1.75 (57¢) | $30,000 | +$22,632 | ✅ Ganada |
