@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 15:52:15 (hora de Perú)
+Actualizado: 2026-11-14 15:54:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8483**  ($481,017,109 en total)
-- Resueltas: **8431** — 5150 ganadas / 3281 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **8432** — 5150 ganadas / 3282 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 729
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,302,607** sobre $478,619,820 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,816** sobre $831,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,331,036** sobre $478,648,249 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,916** sobre $831,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 337 | 7 | 64% | $61,421,494 | +$766,037 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 338 | 6 | 64% | $61,421,494 | +$737,608 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 97 | 0 | 65% | $13,663,740 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Will Norway win on 2026-11-14? | Yes | 1.28 (78¢) | $193,933 | +$54,699 | ✅ Ganada |
 | Kch-Temp | Arkansas State vs. Coastal Carolina | Arkansas State | 2.04 (49¢) | $34,701 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nebraska vs. Rutgers: O/U 51.5 | Over 51.5 | 2.00 (50¢) | $28,429 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nebraska vs. Rutgers: O/U 51.5 | Over 51.5 | 2.00 (50¢) | $28,429 | -$28,429 | ❌ Perdida |
 | Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | — | ⏳ Pendiente |
 | justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | +$18,021 | ✅ Ganada |
