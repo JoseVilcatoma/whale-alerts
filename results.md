@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 04:02:43 (hora de Perú)
+Actualizado: 2026-11-14 04:04:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8447**  ($479,172,468 en total)
-- Resueltas: **8412** — 5140 ganadas / 3272 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **8413** — 5141 ganadas / 3272 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,151,487** sobre $477,604,028 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,500** sobre $829,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,118,785** sobre $477,633,028 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,387** sobre $830,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
-| fantasy7788 | 35 | 21 | 2 | 62% | $3,097,148 | +$609,059 |
+| fantasy7788 | 36 | 21 | 1 | 63% | $3,097,148 | +$641,761 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 |---|---|---|---|---|---|---|
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $32,000 | — | ⏳ Pendiente |
 | randomrandomrandom | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $36,484 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 1 Winner | Spirit | 2.13 (47¢) | $29,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 1 Winner | Spirit | 2.13 (47¢) | $29,000 | +$32,702 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Kraken vs. Hurricanes | Hurricanes | 1.30 (77¢) | $32,779 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | Spirit | 2.22 (45¢) | $61,413 | — | ⏳ Pendiente |
