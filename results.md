@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 18:18:02 (hora de Perú)
+Actualizado: 2026-11-14 18:20:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8503**  ($482,318,800 en total)
+- Apuestas registradas: **8505**  ($482,394,934 en total)
 - Resueltas: **8441** — 5155 ganadas / 3286 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 730
 
 ### Balance
@@ -42,9 +42,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
+| BrotherObama | 51 | 59 | 5 | 46% | $4,926,652 | -$276,141 |
 | Kch-Temp | 49 | 20 | 3 | 71% | $4,923,752 | +$1,884,360 |
 | Thunderous-Authoritarian-Snarl | 23 | 20 | 2 | 53% | $4,916,642 | -$1,533,083 |
-| BrotherObama | 51 | 59 | 4 | 46% | $4,896,652 | -$276,141 |
 | 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| olegio | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.89 (53¢) | $46,134 | — | ⏳ Pendiente |
+| BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $30,000 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pelicans | Nuggets | 1.18 (85¢) | $59,137 | — | ⏳ Pendiente |
 | Moneyloverman | Nets vs. Grizzlies | Grizzlies | 1.79 (56¢) | $38,404 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $26,315 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | 4217893367451 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 2.08 (48¢) | $96,000 | -$96,000 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $32,000 | +$25,143 | ✅ Ganada |
 | randomrandomrandom | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $36,484 | -$36,484 | ❌ Perdida |
-| fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 1 Winner | Spirit | 2.13 (47¢) | $29,000 | +$32,702 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
