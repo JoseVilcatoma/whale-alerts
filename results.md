@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 09:17:34 (hora de Perú)
+Actualizado: 2026-11-14 09:19:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8458**  ($479,617,745 en total)
+- Apuestas registradas: **8459**  ($479,675,213 en total)
 - Resueltas: **8427** — 5147 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 726
+- Pendientes: 9
+- Apostadores distintos: 727
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 726 en total)_
+_(mostrando los 40 de mayor monto, de 727 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| xjbt | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $57,468 | — | ⏳ Pendiente |
 | SineNooneEI | Flames vs. Kings | Kings | 1.59 (63¢) | $33,940 | — | ⏳ Pendiente |
 | MD14 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
 | lonmi2511 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.72 (58¢) | $36,940 | +$26,749 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | +$20,971 | ✅ Ganada |
 | ethanaz | Commanders vs. Giants | Giants | 1.32 (76¢) | $72,477 | -$72,477 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Wizards | Pistons | 1.10 (91¢) | $202,220 | +$20,000 | ✅ Ganada |
-| ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | -$25,021 | ❌ Perdida |
