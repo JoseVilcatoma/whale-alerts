@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 14:50:53 (hora de Perú)
+Actualizado: 2026-11-14 14:52:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8473**  ($480,438,838 en total)
+- Apuestas registradas: **8474**  ($480,468,006 en total)
 - Resueltas: **8429** — 5149 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 727
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | 999585 | 35 | 6 | 1 | 85% | $4,630,298 | +$205,843 |
-| Thunderous-Authoritarian-Snarl | 22 | 20 | 0 | 52% | $4,443,747 | -$1,686,817 |
+| Thunderous-Authoritarian-Snarl | 22 | 20 | 1 | 52% | $4,472,916 | -$1,686,817 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.67 (60¢) | $29,168 | — | ⏳ Pendiente |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Denmark win on 2026-11-14? | No | 1.20 (83¢) | $36,272 | — | ⏳ Pendiente |
 | omnibus-076daa | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.61 (62¢) | $75,504 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $48,802 | +$48,802 | ✅ Ganada |
 | Multicoloured-Serf | Spread: Pittsburgh (-3.5) | Florida State | 1.92 (52¢) | $28,941 | +$26,715 | ✅ Ganada |
 | monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | -$27,169 | ❌ Perdida |
-| 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | -$36,141 | ❌ Perdida |
