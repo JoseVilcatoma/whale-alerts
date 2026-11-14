@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 22:00:20 (hora de Perú)
+Actualizado: 2026-11-13 22:02:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8436**  ($478,420,102 en total)
-- Resueltas: **8385** — 5126 ganadas / 3259 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **8387** — 5126 ganadas / 3261 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,770,801** sobre $475,920,861 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,015** sobre $827,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,878,673** sobre $476,028,733 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,215** sobre $827,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | — | ⏳ Pendiente |
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | — | ⏳ Pendiente |
-| winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | — | ⏳ Pendiente |
+| winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | -$71,731 | ❌ Perdida |
 | monkeymashingkeyboard | Jazz vs. Rockets | Rockets | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
 | MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $93,253 | +$13,934 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $70,551 | — | ⏳ Pendiente |
@@ -93,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $48,802 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Pittsburgh (-3.5) | Florida State | 1.92 (52¢) | $28,941 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | — | ⏳ Pendiente |
-| 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | — | ⏳ Pendiente |
+| 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | -$36,141 | ❌ Perdida |
 | Woaifacai | Knoxville: Stefan Kozlov vs Michael Zheng | Stefan Kozlov | 1.67 (60¢) | $36,327 | -$36,327 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Grizzlies vs. Pelicans | Grizzlies | 1.67 (60¢) | $87,008 | — | ⏳ Pendiente |
 | Woaifacai | WTA Finals, Group B: Aryna Sabalenka vs Elina Svitolina | Aryna Sabalenka | 2.08 (48¢) | $31,574 | -$31,574 | ❌ Perdida |
