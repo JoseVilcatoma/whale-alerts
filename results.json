@@ -126829,7 +126829,7 @@
     "side": "BUY",
     "usd": 96724.82160000001,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794636011,
     "fills": 1
   },
@@ -126874,7 +126874,7 @@
     "side": "BUY",
     "usd": 61412.8905,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794636687,
     "fills": 1
   },
@@ -126904,7 +126904,7 @@
     "side": "BUY",
     "usd": 26500.0,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794641029,
     "fills": 1
   },
@@ -126934,7 +126934,7 @@
     "side": "BUY",
     "usd": 36484.020000000004,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794643210,
     "fills": 1
   },
@@ -126949,7 +126949,7 @@
     "side": "BUY",
     "usd": 31999.999999999996,
     "odds_at_bet": 56,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794646767,
     "fills": 1
   },
@@ -126966,6 +126966,21 @@
     "odds_at_bet": 48,
     "status": "pending",
     "ultimo_fill": 1794650787,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17104,
+    "timestamp": 1794650946,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "cs2-furia-fal2-2026-11-14-game1",
+    "title": "Counter-Strike: FURIA vs Team Falcons - Map 1 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 50000.0,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1794650946,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 05:08:04 (hora de Perú)
+Actualizado: 2026-11-14 05:10:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8448**  ($479,268,468 en total)
-- Resueltas: **8413** — 5141 ganadas / 3272 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Apuestas registradas: **8449**  ($479,318,468 en total)
+- Resueltas: **8418** — 5143 ganadas / 3275 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,118,785** sobre $477,633,028 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,387** sobre $830,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,178,290** sobre $477,886,150 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,487** sobre $830,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 335 | 4 | 64% | $61,228,908 | +$817,344 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 177 | 95 | 2 | 65% | $13,663,740 | +$614,220 |
+| Lakersfan111 | 177 | 97 | 0 | 65% | $13,663,740 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | 999585 | 35 | 6 | 1 | 85% | $4,630,298 | +$205,843 |
-| Thunderous-Authoritarian-Snarl | 21 | 20 | 1 | 51% | $4,443,747 | -$1,761,878 |
+| Thunderous-Authoritarian-Snarl | 22 | 20 | 0 | 52% | $4,443,747 | -$1,686,817 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -55,8 +55,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 63 | 25 | 0 | 72% | $3,312,154 | -$49,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
+| fantasy7788 | 37 | 21 | 1 | 64% | $3,147,148 | +$666,904 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
-| fantasy7788 | 36 | 21 | 1 | 63% | $3,097,148 | +$641,761 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -71,16 +71,17 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Counter-Strike: FURIA vs Team Falcons - Map 1 Winner | Team Falcons | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $32,000 | — | ⏳ Pendiente |
-| randomrandomrandom | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $36,484 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $32,000 | +$25,143 | ✅ Ganada |
+| randomrandomrandom | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $36,484 | -$36,484 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 1 Winner | Spirit | 2.13 (47¢) | $29,000 | +$32,702 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Kraken vs. Hurricanes | Hurricanes | 1.30 (77¢) | $32,779 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | Spirit | 2.22 (45¢) | $61,413 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | Spirit | 2.22 (45¢) | $61,413 | +$75,060 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northwestern vs. Ohio State | Northwestern | 6.25 (16¢) | $33,526 | — | ⏳ Pendiente |
 | 999585 | Northwestern vs. Ohio State | Ohio State | 1.19 (84¢) | $109,392 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $96,725 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $96,725 | -$96,725 | ❌ Perdida |
 | ethanaz | Houston vs. Colorado | Colorado | 1.52 (66¢) | $162,554 | +$83,740 | ✅ Ganada |
 | MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | +$17,999 | ✅ Ganada |
 | PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | +$7,864 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Suns (-6.5) | Hornets | 1.92 (52¢) | $106,813 | +$98,597 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-6.5) | Timberwolves | 1.96 (51¢) | $204,000 | +$196,000 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spread: Timberwolves (-6.5) | Mavericks | 2.04 (49¢) | $88,335 | -$88,335 | ❌ Perdida |
-| ndb1 | Hornets vs. Suns | Suns | 1.49 (67¢) | $97,455 | +$48,000 | ✅ Ganada |
