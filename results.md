@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 15:17:26 (hora de Perú)
+Actualizado: 2026-11-14 15:19:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8477**  ($480,783,429 en total)
+- Apuestas registradas: **8478**  ($480,815,420 en total)
 - Resueltas: **8429** — 5149 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 25
-- Apostadores distintos: 727
+- Pendientes: 26
+- Apostadores distintos: 728
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 727 en total)_
+_(mostrando los 40 de mayor monto, de 728 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sabghm | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 1.64 (61¢) | $31,991 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Georgia (-16.5) | Georgia | 1.96 (51¢) | $28,422 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $26,963 | — | ⏳ Pendiente |
 | heyjason | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 2.56 (39¢) | $48,750 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Hawks (-6.5) | Hawks | 2.00 (50¢) | $44,645 | -$44,645 | ❌ Perdida |
 | googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $86,634 | -$86,634 | ❌ Perdida |
 | googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $55,248 | -$55,248 | ❌ Perdida |
-| CUTJALENHURTS | Florida State vs. Pittsburgh | Pittsburgh | 1.75 (57¢) | $29,439 | -$29,439 | ❌ Perdida |
