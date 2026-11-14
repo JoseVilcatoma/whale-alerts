@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 08:44:26 (hora de Perú)
+Actualizado: 2026-11-14 08:46:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8458**  ($479,617,745 en total)
-- Resueltas: **8423** — 5145 ganadas / 3278 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **8427** — 5147 ganadas / 3280 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,248,289** sobre $478,069,838 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,698** sobre $831,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,362,638** sobre $478,257,035 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,833** sobre $831,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 336 | 5 | 64% | $61,285,303 | +$790,296 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 336 | 4 | 64% | $61,285,303 | +$799,564 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 97 | 0 | 65% | $13,663,740 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -76,12 +76,12 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | lonmi2511 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.72 (58¢) | $36,940 | +$26,749 | ✅ Ganada |
 | retroactivesource | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.59 (63¢) | $40,452 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | Team Falcons | 2.13 (47¢) | $27,048 | -$27,048 | ❌ Perdida |
-| ArturitoFilito | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.33 (75¢) | $25,676 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.32 (76¢) | $29,347 | — | ⏳ Pendiente |
+| ArturitoFilito | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.33 (75¢) | $25,676 | +$8,559 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.32 (76¢) | $29,347 | +$9,267 | ✅ Ganada |
 | 3648393489047 | Hersonissos 3: Francesco Maestrelli vs Philip Henning | Francesco Maestrelli | 1.18 (85¢) | $26,701 | -$26,701 | ❌ Perdida |
-| VPenguin | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 4.17 (24¢) | $36,175 | — | ⏳ Pendiente |
+| VPenguin | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 4.17 (24¢) | $36,175 | -$36,175 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: FURIA vs Team Falcons - Map 1 Winner | Team Falcons | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |
-| 4217893367451 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
+| 4217893367451 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 2.08 (48¢) | $96,000 | -$96,000 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $32,000 | +$25,143 | ✅ Ganada |
 | randomrandomrandom | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $36,484 | -$36,484 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 1 Winner | Spirit | 2.13 (47¢) | $29,000 | +$32,702 | ✅ Ganada |
