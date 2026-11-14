@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 07:26:23 (hora de Perú)
+Actualizado: 2026-11-14 07:28:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8453**  ($479,436,367 en total)
+- Apuestas registradas: **8454**  ($479,463,414 en total)
 - Resueltas: **8418** — 5143 ganadas / 3275 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 726
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 335 | 5 | 64% | $61,258,255 | +$817,344 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 335 | 6 | 64% | $61,285,303 | +$817,344 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 97 | 0 | 65% | $13,663,740 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | Team Falcons | 2.13 (47¢) | $27,048 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.33 (75¢) | $25,676 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.32 (76¢) | $29,347 | — | ⏳ Pendiente |
 | 3648393489047 | Hersonissos 3: Francesco Maestrelli vs Philip Henning | Francesco Maestrelli | 1.18 (85¢) | $26,701 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | +$20,095 | ✅ Ganada |
 | MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Raptors vs. 76ers | 76ers | 1.28 (78¢) | $93,189 | +$26,284 | ✅ Ganada |
-| MD14 | Raptors vs. 76ers: O/U 224.5 | Over 224.5 | 1.14 (88¢) | $44,000 | +$6,000 | ✅ Ganada |
