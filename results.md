@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 21:58:15 (hora de Perú)
+Actualizado: 2026-11-13 22:00:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8435**  ($478,375,542 en total)
+- Apuestas registradas: **8436**  ($478,420,102 en total)
 - Resueltas: **8385** — 5126 ganadas / 3259 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 726
 
 ### Balance
@@ -52,8 +52,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 12 | 1 | 64% | $3,413,715 | -$568,876 |
+| TAIWANNUMBERONE | 62 | 25 | 1 | 71% | $3,312,154 | -$56,941 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| TAIWANNUMBERONE | 62 | 25 | 0 | 71% | $3,267,593 | -$56,941 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | fantasy7788 | 34 | 21 | 1 | 62% | $3,036,148 | +$586,428 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | — | ⏳ Pendiente |
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | — | ⏳ Pendiente |
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | +$204,000 | ✅ Ganada |
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | -$38,957 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | +$23,263 | ✅ Ganada |
-| mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | -$35,258 | ❌ Perdida |
