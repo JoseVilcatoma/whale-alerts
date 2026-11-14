@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 17:15:49 (hora de Perú)
+Actualizado: 2026-11-14 17:17:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8494**  ($481,902,791 en total)
+- Apuestas registradas: **8495**  ($481,945,969 en total)
 - Resueltas: **8439** — 5154 ganadas / 3285 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 730
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
 | Kch-Temp | 49 | 20 | 3 | 71% | $4,923,752 | +$1,884,360 |
-| Thunderous-Authoritarian-Snarl | 22 | 20 | 2 | 52% | $4,873,463 | -$1,686,817 |
+| Thunderous-Authoritarian-Snarl | 22 | 20 | 3 | 52% | $4,916,642 | -$1,686,817 |
 | BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
 | 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.04 (49¢) | $43,179 | — | ⏳ Pendiente |
 | nigiri99 | Washington vs. Michigan State | Washington | 1.69 (59¢) | $35,001 | — | ⏳ Pendiente |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $71,698 | — | ⏳ Pendiente |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $157,339 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | ethanaz | Houston vs. Colorado | Colorado | 1.52 (66¢) | $162,554 | +$83,740 | ✅ Ganada |
 | MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | +$17,999 | ✅ Ganada |
 | PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | +$7,864 | ✅ Ganada |
-| Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | +$16,800 | ✅ Ganada |
