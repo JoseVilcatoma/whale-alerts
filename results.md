@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 17:17:57 (hora de Perú)
+Actualizado: 2026-11-14 17:20:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8495**  ($481,945,969 en total)
+- Apuestas registradas: **8497**  ($482,020,227 en total)
 - Resueltas: **8439** — 5154 ganadas / 3285 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 35
 - Apostadores distintos: 730
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
 | Kch-Temp | 49 | 20 | 3 | 71% | $4,923,752 | +$1,884,360 |
 | Thunderous-Authoritarian-Snarl | 22 | 20 | 3 | 52% | $4,916,642 | -$1,686,817 |
-| BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
+| BrotherObama | 51 | 59 | 4 | 46% | $4,896,652 | -$276,141 |
 | 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.00 (50¢) | $48,758 | — | ⏳ Pendiente |
+| SineNooneEI | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.04 (49¢) | $43,179 | — | ⏳ Pendiente |
 | nigiri99 | Washington vs. Michigan State | Washington | 1.69 (59¢) | $35,001 | — | ⏳ Pendiente |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $71,698 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | 999585 | Northwestern vs. Ohio State | Ohio State | 1.19 (84¢) | $109,392 | +$20,837 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $96,725 | -$96,725 | ❌ Perdida |
 | ethanaz | Houston vs. Colorado | Colorado | 1.52 (66¢) | $162,554 | +$83,740 | ✅ Ganada |
-| MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | +$17,999 | ✅ Ganada |
-| PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | +$7,864 | ✅ Ganada |

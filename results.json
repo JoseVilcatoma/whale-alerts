@@ -127659,7 +127659,7 @@
     "fills": 1
   },
   {
-    "telegram_msg_id": null,
+    "telegram_msg_id": 17173,
     "timestamp": 1794694677,
     "username": "Thunderous-Authoritarian-Snarl",
     "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
@@ -127671,6 +127671,36 @@
     "odds_at_bet": 49,
     "status": "pending",
     "ultimo_fill": 1794694677,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17174,
+    "timestamp": 1794694730,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "lol-blg-gen-2026-11-14-game3",
+    "title": "LoL: Bilibili Gaming vs Gen.G - Game 3 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794694730,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17175,
+    "timestamp": 1794694776,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-blg-gen-2026-11-14-game3",
+    "title": "LoL: Bilibili Gaming vs Gen.G - Game 3 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 48757.5,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794694776,
     "fills": 1
   }
 ]
