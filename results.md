@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 18:28:17 (hora de Perú)
+Actualizado: 2026-11-14 18:30:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8507**  ($482,536,434 en total)
-- Resueltas: **8441** — 5155 ganadas / 3286 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Resueltas: **8442** — 5156 ganadas / 3286 perdidas (**61%** de acierto)
+- Pendientes: 42
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,218,109** sobre $479,181,556 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,991** sobre $832,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,181,354** sobre $479,221,374 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,898** sobre $832,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
 | Thunderous-Authoritarian-Snarl | 23 | 20 | 3 | 53% | $4,966,198 | -$1,533,083 |
 | BrotherObama | 51 | 59 | 5 | 46% | $4,926,652 | -$276,141 |
-| Kch-Temp | 49 | 20 | 3 | 71% | $4,923,752 | +$1,884,360 |
+| Kch-Temp | 50 | 20 | 2 | 71% | $4,923,752 | +$1,921,115 |
 | 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -108,7 +108,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Denmark win on 2026-11-14? | No | 1.20 (83¢) | $36,272 | -$36,272 | ❌ Perdida |
 | omnibus-076daa | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.61 (62¢) | $75,504 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | +$60,058 | ✅ Ganada |
-| Kch-Temp | Tennessee vs. Texas A&M | Tennessee | 1.92 (52¢) | $39,818 | — | ⏳ Pendiente |
+| Kch-Temp | Tennessee vs. Texas A&M | Tennessee | 1.92 (52¢) | $39,818 | +$36,755 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Will Norway win on 2026-11-14? | Yes | 1.28 (78¢) | $193,933 | +$54,699 | ✅ Ganada |
 | Kch-Temp | Arkansas State vs. Coastal Carolina | Arkansas State | 2.04 (49¢) | $34,701 | -$34,701 | ❌ Perdida |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | — | ⏳ Pendiente |
