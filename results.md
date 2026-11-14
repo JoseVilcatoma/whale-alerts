@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 09:27:57 (hora de Perú)
+Actualizado: 2026-11-14 09:30:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8460**  ($479,703,798 en total)
+- Apuestas registradas: **8461**  ($479,730,981 en total)
 - Resueltas: **8427** — 5147 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 727
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Miami (FL) (-13.5) | Duke | 2.13 (47¢) | $28,585 | — | ⏳ Pendiente |
 | xjbt | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $57,468 | — | ⏳ Pendiente |
 | SineNooneEI | Flames vs. Kings | Kings | 1.59 (63¢) | $33,940 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | CORGII | Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 2.27 (44¢) | $25,080 | +$31,920 | ✅ Ganada |
 | 0x6db5…e279 | Commanders vs. Giants | Commanders | 1.11 (90¢) | $135,963 | +$15,107 | ✅ Ganada |
 | MD14 | Hornets vs. Suns: O/U 193.5 | Over 193.5 | 1.18 (85¢) | $118,834 | +$20,971 | ✅ Ganada |
-| ethanaz | Commanders vs. Giants | Giants | 1.32 (76¢) | $72,477 | -$72,477 | ❌ Perdida |
