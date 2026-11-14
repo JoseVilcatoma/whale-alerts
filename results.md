@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 17:01:04 (hora de Perú)
+Actualizado: 2026-11-14 17:03:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8494**  ($481,902,791 en total)
-- Resueltas: **8438** — 5153 ganadas / 3285 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **8439** — 5154 ganadas / 3285 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,327,110** sobre $478,865,471 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,970** sobre $832,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,323,093** sobre $478,892,350 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,955** sobre $832,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | Kch-Temp | Arkansas State vs. Coastal Carolina | Arkansas State | 2.04 (49¢) | $34,701 | -$34,701 | ❌ Perdida |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nebraska vs. Rutgers: O/U 51.5 | Over 51.5 | 2.00 (50¢) | $28,429 | -$28,429 | ❌ Perdida |
-| Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | — | ⏳ Pendiente |
+| Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | +$4,016 | ✅ Ganada |
 | justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | +$18,021 | ✅ Ganada |
 | Lanlanlanlan | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $103,600 | — | ⏳ Pendiente |
