@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 00:48:51 (hora de Perú)
+Actualizado: 2026-11-14 00:50:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8438**  ($478,714,649 en total)
-- Resueltas: **8406** — 5138 ganadas / 3268 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **8407** — 5138 ganadas / 3269 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,943,397** sobre $477,097,220 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,169** sobre $829,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,970,565** sobre $477,124,389 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,269** sobre $829,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | CUTJALENHURTS | Florida State vs. Pittsburgh | Pittsburgh | 1.75 (57¢) | $29,439 | -$29,439 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $48,802 | +$48,802 | ✅ Ganada |
 | Multicoloured-Serf | Spread: Pittsburgh (-3.5) | Florida State | 1.92 (52¢) | $28,941 | +$26,715 | ✅ Ganada |
-| monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | -$27,169 | ❌ Perdida |
 | 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | -$36,141 | ❌ Perdida |
 | Woaifacai | Knoxville: Stefan Kozlov vs Michael Zheng | Stefan Kozlov | 1.67 (60¢) | $36,327 | -$36,327 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Grizzlies vs. Pelicans | Grizzlies | 1.67 (60¢) | $87,008 | +$58,005 | ✅ Ganada |
