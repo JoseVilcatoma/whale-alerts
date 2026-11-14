@@ -127352,10 +127352,25 @@
     "title": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
     "outcome": "Gen.G",
     "side": "BUY",
-    "usd": 29168.166,
-    "odds_at_bet": 60,
+    "usd": 205120.2992,
+    "odds_at_bet": 61,
     "status": "pending",
-    "ultimo_fill": 1794685972,
+    "ultimo_fill": 1794686055,
+    "fills": 4
+  },
+  {
+    "telegram_msg_id": 17143,
+    "timestamp": 1794686076,
+    "username": "heyjason",
+    "wallet": "0x083f99393d1f03f5716cdaabd6418c1812594869",
+    "slug": "lol-blg-gen-2026-11-14-game1",
+    "title": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 48750.0,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1794686076,
     "fills": 1
   }
 ]
