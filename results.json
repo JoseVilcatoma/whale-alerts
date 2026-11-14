@@ -127252,5 +127252,20 @@
     "status": "pending",
     "ultimo_fill": 1794671637,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17133,
+    "timestamp": 1794673045,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "cfb-arkst-coast-2026-11-14",
+    "title": "Arkansas State vs. Coastal Carolina",
+    "outcome": "Arkansas State",
+    "side": "BUY",
+    "usd": 34701.00860000001,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794673045,
+    "fills": 1
   }
 ]
