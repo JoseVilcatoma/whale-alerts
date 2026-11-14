@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 21:06:39 (hora de Perú)
+Actualizado: 2026-11-13 21:08:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8433**  ($478,201,542 en total)
-- Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **8384** — 5125 ganadas / 3259 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 725
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,748,408** sobre $475,791,280 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,930** sobre $827,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,784,735** sobre $475,827,607 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,030** sobre $827,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
-| Woaifacai | 52 | 16 | 1 | 76% | $4,707,117 | +$676,914 |
+| Woaifacai | 52 | 17 | 0 | 75% | $4,707,117 | +$640,587 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | Multicoloured-Serf | Spread: Pittsburgh (-3.5) | Florida State | 1.92 (52¢) | $28,941 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | — | ⏳ Pendiente |
 | 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | — | ⏳ Pendiente |
-| Woaifacai | Knoxville: Stefan Kozlov vs Michael Zheng | Stefan Kozlov | 1.67 (60¢) | $36,327 | — | ⏳ Pendiente |
+| Woaifacai | Knoxville: Stefan Kozlov vs Michael Zheng | Stefan Kozlov | 1.67 (60¢) | $36,327 | -$36,327 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Grizzlies vs. Pelicans | Grizzlies | 1.67 (60¢) | $87,008 | — | ⏳ Pendiente |
 | Woaifacai | WTA Finals, Group B: Aryna Sabalenka vs Elina Svitolina | Aryna Sabalenka | 2.08 (48¢) | $31,574 | -$31,574 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hawks vs. Bulls | Hawks | 1.41 (71¢) | $44,702 | — | ⏳ Pendiente |
