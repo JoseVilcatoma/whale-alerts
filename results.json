@@ -127057,5 +127057,20 @@
     "status": "pending",
     "ultimo_fill": 1794659295,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17111,
+    "timestamp": 1794659417,
+    "username": "retroactivesource",
+    "wallet": "0x85d53efdd055aa88fb00a914f5615bfd585545ee",
+    "slug": "lol-blg-gen-2026-11-14",
+    "title": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 40451.769999000004,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1794659417,
+    "fills": 1
   }
 ]
