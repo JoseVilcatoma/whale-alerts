@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 16:54:47 (hora de Perú)
+Actualizado: 2026-11-14 16:56:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8493**  ($481,867,790 en total)
+- Apuestas registradas: **8494**  ($481,902,791 en total)
 - Resueltas: **8437** — 5153 ganadas / 3284 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 730
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Washington vs. Michigan State | Washington | 1.69 (59¢) | $35,001 | — | ⏳ Pendiente |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $71,698 | — | ⏳ Pendiente |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $157,339 | — | ⏳ Pendiente |
 | solo88888 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | +$17,999 | ✅ Ganada |
 | PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | +$7,864 | ✅ Ganada |
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | +$16,800 | ✅ Ganada |
-| VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | +$27,200 | ✅ Ganada |
