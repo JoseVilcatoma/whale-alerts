@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 23:53:15 (hora de Perú)
+Actualizado: 2026-11-13 23:55:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8437**  ($478,552,095 en total)
-- Resueltas: **8402** — 5134 ganadas / 3268 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **8404** — 5136 ganadas / 3268 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,018,728** sobre $476,765,347 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,307** sobre $828,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,988,596** sobre $476,822,428 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,202** sobre $829,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
-| Woaifacai | 52 | 17 | 1 | 75% | $4,738,317 | +$640,587 |
+| Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 |---|---|---|---|---|---|---|
 | MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | — | ⏳ Pendiente |
-| Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | — | ⏳ Pendiente |
+| Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | +$16,800 | ✅ Ganada |
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | — | ⏳ Pendiente |
 | winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | -$71,731 | ❌ Perdida |
@@ -99,7 +99,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | robloxgamblemaster-2008-10-18 | Grizzlies vs. Pelicans | Grizzlies | 1.67 (60¢) | $87,008 | +$58,005 | ✅ Ganada |
 | Woaifacai | WTA Finals, Group B: Aryna Sabalenka vs Elina Svitolina | Aryna Sabalenka | 2.08 (48¢) | $31,574 | -$31,574 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hawks vs. Bulls | Hawks | 1.41 (71¢) | $44,702 | -$44,702 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Rangers vs. Canucks | Rangers | 1.52 (66¢) | $25,881 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Rangers vs. Canucks | Rangers | 1.52 (66¢) | $25,881 | +$13,333 | ✅ Ganada |
 | Woaifacai | Sopo: Laura Samson vs Elizabeth Mandlik | Elizabeth Mandlik | 1.14 (88¢) | $76,907 | +$10,487 | ✅ Ganada |
 | Woaifacai | BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.56 (64¢) | $38,797 | +$21,823 | ✅ Ganada |
 | Woaifacai | Brisbane 3: Bernard Tomic vs August Holmgren | August Holmgren | 1.25 (80¢) | $35,121 | +$8,780 | ✅ Ganada |
