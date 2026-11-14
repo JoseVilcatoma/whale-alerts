@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 18:05:37 (hora de Perú)
+Actualizado: 2026-11-14 18:07:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8500**  ($482,194,944 en total)
+- Apuestas registradas: **8501**  ($482,221,259 en total)
 - Resueltas: **8441** — 5155 ganadas / 3286 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 730
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $26,315 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $120,064 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.17 (46¢) | $26,654 | — | ⏳ Pendiente |
 | llllllllloooo | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Kraken vs. Hurricanes | Hurricanes | 1.30 (77¢) | $32,779 | +$9,791 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | Spirit | 2.22 (45¢) | $61,413 | +$75,060 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northwestern vs. Ohio State | Northwestern | 6.25 (16¢) | $33,526 | -$33,526 | ❌ Perdida |
