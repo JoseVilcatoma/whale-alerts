@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 16:29:38 (hora de Perú)
+Actualizado: 2026-11-14 16:31:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8491**  ($481,638,754 en total)
+- Apuestas registradas: **8492**  ($481,796,092 en total)
 - Resueltas: **8436** — 5153 ganadas / 3283 perdidas (**61%** de acierto)
-- Pendientes: 32
-- Apostadores distintos: 729
+- Pendientes: 33
+- Apostadores distintos: 730
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 729 en total)_
+_(mostrando los 40 de mayor monto, de 730 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $157,339 | — | ⏳ Pendiente |
 | solo88888 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
 | S-Works | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $31,667 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | +$16,800 | ✅ Ganada |
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | +$27,200 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | -$130,777 | ❌ Perdida |
-| winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | -$71,731 | ❌ Perdida |

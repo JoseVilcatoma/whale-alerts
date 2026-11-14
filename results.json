@@ -127612,5 +127612,20 @@
     "status": "pending",
     "ultimo_fill": 1794690120,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17167,
+    "timestamp": 1794691830,
+    "username": "etthhhh",
+    "wallet": "0xfe29606756d56eecd16c50154497da59044c8241",
+    "slug": "cfb-oregst-boise-2026-11-14",
+    "title": "Oregon State vs. Boise State",
+    "outcome": "Boise State",
+    "side": "BUY",
+    "usd": 157338.5952,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1794691889,
+    "fills": 2
   }
 ]
