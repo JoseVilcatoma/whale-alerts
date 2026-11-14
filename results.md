@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 18:13:57 (hora de Perú)
+Actualizado: 2026-11-14 18:15:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8502**  ($482,259,663 en total)
+- Apuestas registradas: **8503**  ($482,318,800 en total)
 - Resueltas: **8441** — 5155 ganadas / 3286 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 730
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pelicans | Nuggets | 1.18 (85¢) | $59,137 | — | ⏳ Pendiente |
 | Moneyloverman | Nets vs. Grizzlies | Grizzlies | 1.79 (56¢) | $38,404 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $26,315 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $120,064 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | randomrandomrandom | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $36,484 | -$36,484 | ❌ Perdida |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 1 Winner | Spirit | 2.13 (47¢) | $29,000 | +$32,702 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.89 (53¢) | $26,500 | -$26,500 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Kraken vs. Hurricanes | Hurricanes | 1.30 (77¢) | $32,779 | +$9,791 | ✅ Ganada |
