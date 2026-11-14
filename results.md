@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 19:21:48 (hora de Perú)
+Actualizado: 2026-11-13 19:23:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8419**  ($477,321,558 en total)
+- Apuestas registradas: **8420**  ($477,408,192 en total)
 - Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 725
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 3 | 64% | $61,150,737 | +$861,989 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 174 | 92 | 2 | 65% | $13,228,307 | +$740,256 |
-| googleplay | 59 | 51 | 1 | 54% | $12,439,325 | -$176,925 |
+| googleplay | 59 | 51 | 2 | 54% | $12,525,959 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $86,634 | — | ⏳ Pendiente |
 | googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $55,248 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Florida State vs. Pittsburgh | Pittsburgh | 1.75 (57¢) | $29,439 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $48,802 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | Woaifacai | Albania vs. Finland: O/U 3.5 | Under 3.5 | 1.23 (81¢) | $74,116 | +$17,385 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $34,736 | +$17,109 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hornets vs. Suns | Suns | 1.49 (67¢) | $115,901 | +$57,086 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | England vs. Croatia: O/U 2.5 | Over 2.5 | 1.52 (66¢) | $63,026 | +$32,468 | ✅ Ganada |
