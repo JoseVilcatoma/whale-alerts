@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 12:45:24 (hora de Perú)
+Actualizado: 2026-11-14 14:40:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8472**  ($480,402,565 en total)
-- Resueltas: **8427** — 5147 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Apuestas registradas: **8473**  ($480,438,838 en total)
+- Resueltas: **8429** — 5149 ganadas / 3280 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 727
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,362,638** sobre $478,257,035 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,833** sobre $831,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,289,918** sobre $478,476,901 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,735** sobre $831,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,16 +71,17 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Denmark win on 2026-11-14? | No | 1.20 (83¢) | $36,272 | — | ⏳ Pendiente |
 | omnibus-076daa | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.61 (62¢) | $75,504 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | — | ⏳ Pendiente |
 | Kch-Temp | Tennessee vs. Texas A&M | Tennessee | 1.92 (52¢) | $39,818 | — | ⏳ Pendiente |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Will Norway win on 2026-11-14? | Yes | 1.28 (78¢) | $193,933 | — | ⏳ Pendiente |
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Will Norway win on 2026-11-14? | Yes | 1.28 (78¢) | $193,933 | +$54,699 | ✅ Ganada |
 | Kch-Temp | Arkansas State vs. Coastal Carolina | Arkansas State | 2.04 (49¢) | $34,701 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nebraska vs. Rutgers: O/U 51.5 | Over 51.5 | 2.00 (50¢) | $28,429 | — | ⏳ Pendiente |
 | Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | — | ⏳ Pendiente |
 | justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | — | ⏳ Pendiente |
-| 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | — | ⏳ Pendiente |
+| 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | +$18,021 | ✅ Ganada |
 | Lanlanlanlan | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $103,600 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | — | ⏳ Pendiente |
 | gmpm2 | Spread: Miami (FL) (-13.5) | Duke | 2.13 (47¢) | $28,585 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | Multicoloured-Serf | Spread: Pittsburgh (-3.5) | Florida State | 1.92 (52¢) | $28,941 | +$26,715 | ✅ Ganada |
 | monkeymashingkeyboard | Spread: Trail Blazers (-10.5) | Kings | 1.92 (52¢) | $27,169 | -$27,169 | ❌ Perdida |
 | 0x7d3b…55b8 | Knicks vs. Pacers | Knicks | 1.37 (73¢) | $36,141 | -$36,141 | ❌ Perdida |
-| Woaifacai | Knoxville: Stefan Kozlov vs Michael Zheng | Stefan Kozlov | 1.67 (60¢) | $36,327 | -$36,327 | ❌ Perdida |

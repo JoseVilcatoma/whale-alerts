@@ -127189,7 +127189,7 @@
     "side": "BUY",
     "usd": 25932.802200000002,
     "odds_at_bet": 59,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794668088,
     "fills": 1
   },
@@ -127279,7 +127279,7 @@
     "side": "BUY",
     "usd": 193932.7572,
     "odds_at_bet": 78,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794674068,
     "fills": 3
   },
@@ -127327,5 +127327,20 @@
     "status": "pending",
     "ultimo_fill": 1794677155,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17141,
+    "timestamp": 1794685219,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "unl-prt-den-2026-11-14-den",
+    "title": "Will Denmark win on 2026-11-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 36272.239999,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1794685219,
+    "fills": 1
   }
 ]
