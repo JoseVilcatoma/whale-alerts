@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 20:04:42 (hora de Perú)
+Actualizado: 2026-11-13 20:06:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8427**  ($477,741,782 en total)
+- Apuestas registradas: **8427**  ($477,777,659 en total)
 - Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 725
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 4 | 64% | $61,195,382 | +$861,989 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 174 | 92 | 4 | 65% | $13,339,187 | +$740,256 |
-| googleplay | 59 | 51 | 3 | 54% | $12,594,285 | -$176,925 |
+| googleplay | 59 | 51 | 3 | 54% | $12,630,163 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| googleplay | Spread: Rockets (-15.5) | Rockets | 2.00 (50¢) | $68,326 | — | ⏳ Pendiente |
+| googleplay | Spread: Rockets (-15.5) | Rockets | 2.00 (50¢) | $104,203 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $71,197 | — | ⏳ Pendiente |
 | milkteaboba | Hawks vs. Bulls | Hawks | 1.47 (68¢) | $31,875 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Florida State vs. Pittsburgh | Florida State | 1.52 (66¢) | $47,865 | — | ⏳ Pendiente |
