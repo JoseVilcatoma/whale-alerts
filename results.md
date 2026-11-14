@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 01:11:20 (hora de Perú)
+Actualizado: 2026-11-14 01:13:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8441**  ($478,954,292 en total)
+- Apuestas registradas: **8442**  ($479,015,705 en total)
 - Resueltas: **8408** — 5139 ganadas / 3269 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 726
 
 ### Balance
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | 999585 | 35 | 6 | 1 | 85% | $4,630,298 | +$205,843 |
-| Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
+| Thunderous-Authoritarian-Snarl | 21 | 20 | 1 | 51% | $4,443,747 | -$1,761,878 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | Spirit | 2.22 (45¢) | $61,413 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northwestern vs. Ohio State | Northwestern | 6.25 (16¢) | $33,526 | — | ⏳ Pendiente |
 | 999585 | Northwestern vs. Ohio State | Ohio State | 1.19 (84¢) | $109,392 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $96,725 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Giants | Giants | 1.82 (55¢) | $30,555 | -$30,555 | ❌ Perdida |
 | BrotherObama | Spread: Giants (-1.5) | Giants | 1.92 (52¢) | $48,341 | -$48,341 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Timberwolves | Mavericks | 3.03 (33¢) | $28,365 | -$28,365 | ❌ Perdida |
-| Sassy-Bucket | Blues vs. Utah | Utah | 2.17 (46¢) | $35,023 | -$35,023 | ❌ Perdida |
