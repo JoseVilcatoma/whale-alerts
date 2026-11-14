@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 00:34:25 (hora de Perú)
+Actualizado: 2026-11-14 00:36:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8437**  ($478,552,095 en total)
+- Apuestas registradas: **8438**  ($478,714,649 en total)
 - Resueltas: **8406** — 5138 ganadas / 3268 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 726
 
 ### Balance
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 94 | 0 | 51% | $7,713,984 | -$665,096 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 81 | 34 | 0 | 70% | $6,731,085 | -$172,322 |
+| ethanaz | 81 | 34 | 1 | 70% | $6,893,639 | -$172,322 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Houston vs. Colorado | Colorado | 1.52 (66¢) | $162,554 | — | ⏳ Pendiente |
 | MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | +$17,999 | ✅ Ganada |
 | PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | — | ⏳ Pendiente |
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | +$16,800 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.19 (84¢) | $25,200 | +$4,800 | ✅ Ganada |
 | nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | -$42,542 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | +$204,000 | ✅ Ganada |
-| Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | -$38,957 | ❌ Perdida |
