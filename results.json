@@ -126842,10 +126842,25 @@
     "title": "Northwestern vs. Ohio State",
     "outcome": "Ohio State",
     "side": "BUY",
-    "usd": 84000.0,
+    "usd": 109392.1416,
     "odds_at_bet": 84,
     "status": "pending",
-    "ultimo_fill": 1794636543,
+    "ultimo_fill": 1794636589,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 17086,
+    "timestamp": 1794636588,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-nw-ohiost-2026-11-14",
+    "title": "Northwestern vs. Ohio State",
+    "outcome": "Northwestern",
+    "side": "BUY",
+    "usd": 33526.4992,
+    "odds_at_bet": 16,
+    "status": "pending",
+    "ultimo_fill": 1794636588,
     "fills": 1
   }
 ]
