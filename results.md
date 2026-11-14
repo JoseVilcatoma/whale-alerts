@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 21:49:59 (hora de Perú)
+Actualizado: 2026-11-13 21:52:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8434**  ($478,344,342 en total)
-- Resueltas: **8384** — 5125 ganadas / 3259 perdidas (**61%** de acierto)
+- Apuestas registradas: **8435**  ($478,375,542 en total)
+- Resueltas: **8385** — 5126 ganadas / 3259 perdidas (**61%** de acierto)
 - Pendientes: 27
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,784,735** sobre $475,827,607 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,030** sobre $827,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,770,801** sobre $475,920,861 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,015** sobre $827,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | maz26 | 45 | 30 | 0 | 60% | $5,327,544 | +$418,557 |
 | BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
-| Woaifacai | 52 | 17 | 0 | 75% | $4,707,117 | +$640,587 |
+| Woaifacai | 52 | 17 | 1 | 75% | $4,738,317 | +$640,587 |
 | 999585 | 35 | 6 | 0 | 85% | $4,520,906 | +$205,843 |
 | Thunderous-Authoritarian-Snarl | 21 | 20 | 0 | 51% | $4,382,335 | -$1,761,878 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -71,11 +71,12 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | — | ⏳ Pendiente |
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | — | ⏳ Pendiente |
 | winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Jazz vs. Rockets | Rockets | 1.09 (92¢) | $27,600 | — | ⏳ Pendiente |
-| MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $93,253 | — | ⏳ Pendiente |
+| MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $93,253 | +$13,934 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $70,551 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-14.5) | Jazz | 2.13 (47¢) | $29,970 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-15.5) | Rockets | 2.00 (50¢) | $104,203 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | -$38,957 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | +$23,263 | ✅ Ganada |
 | mooseborzoi | Spread: 76ers (-7.5) | Raptors | 1.96 (51¢) | $35,258 | -$35,258 | ❌ Perdida |
-| mooseborzoi | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $348,531 | +$135,540 | ✅ Ganada |
