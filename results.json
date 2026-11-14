@@ -127177,5 +127177,20 @@
     "status": "pending",
     "ultimo_fill": 1794667311,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17128,
+    "timestamp": 1794668088,
+    "username": "1l2ihj34li12u34",
+    "wallet": "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c",
+    "slug": "es2-rso-spo-2026-11-14-rso",
+    "title": "Will Real Sociedad de F\u00fatbol B win on 2026-11-14?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 25932.802200000002,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1794668088,
+    "fills": 1
   }
 ]
