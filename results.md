@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 17:44:52 (hora de Perú)
+Actualizado: 2026-11-14 17:46:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8497**  ($482,020,227 en total)
+- Apuestas registradas: **8498**  ($482,048,227 en total)
 - Resueltas: **8439** — 5154 ganadas / 3285 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 730
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| llllllllloooo | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.00 (50¢) | $48,758 | — | ⏳ Pendiente |
 | SineNooneEI | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.04 (49¢) | $43,179 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northwestern vs. Ohio State | Northwestern | 6.25 (16¢) | $33,526 | -$33,526 | ❌ Perdida |
 | 999585 | Northwestern vs. Ohio State | Ohio State | 1.19 (84¢) | $109,392 | +$20,837 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $96,725 | -$96,725 | ❌ Perdida |
-| ethanaz | Houston vs. Colorado | Colorado | 1.52 (66¢) | $162,554 | +$83,740 | ✅ Ganada |

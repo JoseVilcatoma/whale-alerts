@@ -127702,5 +127702,20 @@
     "status": "pending",
     "ultimo_fill": 1794694776,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17176,
+    "timestamp": 1794696334,
+    "username": "llllllllloooo",
+    "wallet": "0x3f975d4186c87b3b4a39997cc37e71cc70ca4059",
+    "slug": "lol-blg-gen-2026-11-14-game4",
+    "title": "LoL: Bilibili Gaming vs Gen.G - Game 4 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "usd": 28000.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1794696334,
+    "fills": 1
   }
 ]
