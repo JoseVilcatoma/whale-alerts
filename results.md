@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 15:29:46 (hora de Perú)
+Actualizado: 2026-11-14 15:31:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8478**  ($480,815,420 en total)
+- Apuestas registradas: **8479**  ($480,853,936 en total)
 - Resueltas: **8429** — 5149 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 728
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 45 | 30 | 1 | 60% | $5,356,129 | +$418,557 |
-| Kch-Temp | 48 | 19 | 4 | 72% | $4,885,236 | +$1,859,004 |
+| Kch-Temp | 48 | 19 | 5 | 72% | $4,923,752 | +$1,859,004 |
 | BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | Thunderous-Authoritarian-Snarl | 22 | 20 | 1 | 52% | $4,684,203 | -$1,686,817 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 728 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | — | ⏳ Pendiente |
 | sabghm | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 1.64 (61¢) | $31,991 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Georgia (-16.5) | Georgia | 1.96 (51¢) | $28,422 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $26,963 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 728 en total)_
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $39,683 | +$39,683 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Hawks (-6.5) | Hawks | 2.00 (50¢) | $44,645 | -$44,645 | ❌ Perdida |
 | googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $86,634 | -$86,634 | ❌ Perdida |
-| googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $55,248 | -$55,248 | ❌ Perdida |
