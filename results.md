@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 02:08:46 (hora de Perú)
+Actualizado: 2026-11-14 02:10:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8443**  ($479,048,484 en total)
-- Resueltas: **8411** — 5139 ganadas / 3272 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **8412** — 5140 ganadas / 3272 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,235,227** sobre $477,441,474 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,552** sobre $829,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,151,487** sobre $477,604,028 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,500** sobre $829,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 94 | 0 | 51% | $7,713,984 | -$665,096 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 81 | 34 | 1 | 70% | $6,893,639 | -$172,322 |
+| ethanaz | 82 | 34 | 0 | 71% | $6,893,639 | -$88,582 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Northwestern vs. Ohio State | Northwestern | 6.25 (16¢) | $33,526 | — | ⏳ Pendiente |
 | 999585 | Northwestern vs. Ohio State | Ohio State | 1.19 (84¢) | $109,392 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $96,725 | — | ⏳ Pendiente |
-| ethanaz | Houston vs. Colorado | Colorado | 1.52 (66¢) | $162,554 | — | ⏳ Pendiente |
+| ethanaz | Houston vs. Colorado | Colorado | 1.52 (66¢) | $162,554 | +$83,740 | ✅ Ganada |
 | MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | +$17,999 | ✅ Ganada |
 | PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | +$7,864 | ✅ Ganada |
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | +$16,800 | ✅ Ganada |
