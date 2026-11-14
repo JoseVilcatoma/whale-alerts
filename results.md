@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 20:27:30 (hora de Perú)
+Actualizado: 2026-11-13 20:29:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8427**  ($477,777,659 en total)
+- Apuestas registradas: **8430**  ($477,921,680 en total)
 - Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 24
 - Apostadores distintos: 725
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 592 | 334 | 4 | 64% | $61,195,382 | +$861,989 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 174 | 92 | 4 | 65% | $13,339,187 | +$740,256 |
+| Lakersfan111 | 174 | 92 | 5 | 65% | $13,409,737 | +$740,256 |
 | googleplay | 59 | 51 | 3 | 54% | $12,630,163 | -$176,925 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $43,500 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $70,551 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-14.5) | Jazz | 2.13 (47¢) | $29,970 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-15.5) | Rockets | 2.00 (50¢) | $104,203 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $71,197 | — | ⏳ Pendiente |
 | milkteaboba | Hawks vs. Bulls | Hawks | 1.47 (68¢) | $31,875 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | Woaifacai | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Jessica Pegula | 1.69 (59¢) | $93,855 | +$38,178 | 💰 Vendida antes |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. 76ers | 76ers | 1.39 (72¢) | $50,000 | +$19,444 | ✅ Ganada |
 | juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.72 (58¢) | $130,294 | -$130,294 | ❌ Perdida |
-| juice-fruit | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.75 (57¢) | $41,744 | -$41,744 | ❌ Perdida |
-| 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | WTA Finals, Group A: Jessica Pegula vs Linda Noskova | Linda Noskova | 1.79 (56¢) | $33,198 | -$33,198 | ❌ Perdida |
-| justwins | Raptors vs. 76ers: O/U 224.5 | Under 224.5 | 1.92 (52¢) | $26,975 | -$26,975 | ❌ Perdida |
