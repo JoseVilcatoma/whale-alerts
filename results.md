@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 16:56:55 (hora de Perú)
+Actualizado: 2026-11-14 16:59:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8494**  ($481,902,791 en total)
-- Resueltas: **8437** — 5153 ganadas / 3284 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **8438** — 5153 ganadas / 3285 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,290,837** sobre $478,829,199 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,870** sobre $832,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,327,110** sobre $478,865,471 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,970** sobre $832,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $26,963 | — | ⏳ Pendiente |
 | heyjason | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 2.56 (39¢) | $48,750 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.64 (61¢) | $240,456 | — | ⏳ Pendiente |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Denmark win on 2026-11-14? | No | 1.20 (83¢) | $36,272 | — | ⏳ Pendiente |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Denmark win on 2026-11-14? | No | 1.20 (83¢) | $36,272 | -$36,272 | ❌ Perdida |
 | omnibus-076daa | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.61 (62¢) | $75,504 | — | ⏳ Pendiente |
 | Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | +$60,058 | ✅ Ganada |
 | Kch-Temp | Tennessee vs. Texas A&M | Tennessee | 1.92 (52¢) | $39,818 | — | ⏳ Pendiente |
