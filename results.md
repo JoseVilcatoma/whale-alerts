@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 23:41:07 (hora de Perú)
+Actualizado: 2026-11-13 23:43:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8436**  ($478,420,102 en total)
+- Apuestas registradas: **8437**  ($478,552,095 en total)
 - Resueltas: **8402** — 5134 ganadas / 3268 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 726
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Warriors vs. Spurs: O/U 198.5 | Over 198.5 | 1.14 (88¢) | $131,992 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Illinois vs. UCLA | UCLA | 1.18 (85¢) | $44,560 | — | ⏳ Pendiente |
 | Woaifacai | Rangers vs. Canucks | Rangers | 1.54 (65¢) | $31,200 | — | ⏳ Pendiente |
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | nigiri99 | Jets vs. Stars | Stars | 1.67 (60¢) | $42,542 | -$42,542 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Giants (-1.5) | Commanders | 2.04 (49¢) | $196,000 | +$204,000 | ✅ Ganada |
 | Multicoloured-Serf | Jets vs. Stars | Stars | 1.72 (58¢) | $38,957 | -$38,957 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Spread: Timberwolves (-5.5) | Timberwolves | 1.89 (53¢) | $26,233 | +$23,263 | ✅ Ganada |
