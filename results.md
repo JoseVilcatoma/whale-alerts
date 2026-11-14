@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 07:30:24 (hora de Perú)
+Actualizado: 2026-11-14 07:32:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8455**  ($479,503,866 en total)
-- Resueltas: **8418** — 5143 ganadas / 3275 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8419** — 5143 ganadas / 3276 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 726
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,178,290** sobre $477,886,150 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,487** sobre $830,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,228,290** sobre $477,936,150 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,587** sobre $830,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 63 | 25 | 0 | 72% | $3,312,154 | -$49,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
-| fantasy7788 | 37 | 21 | 1 | 64% | $3,147,148 | +$666,904 |
+| fantasy7788 | 37 | 22 | 0 | 63% | $3,147,148 | +$616,904 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.32 (76¢) | $29,347 | — | ⏳ Pendiente |
 | 3648393489047 | Hersonissos 3: Francesco Maestrelli vs Philip Henning | Francesco Maestrelli | 1.18 (85¢) | $26,701 | — | ⏳ Pendiente |
 | VPenguin | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 4.17 (24¢) | $36,175 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: FURIA vs Team Falcons - Map 1 Winner | Team Falcons | 1.85 (54¢) | $50,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: FURIA vs Team Falcons - Map 1 Winner | Team Falcons | 1.85 (54¢) | $50,000 | -$50,000 | ❌ Perdida |
 | 4217893367451 | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | Team Falcons | 2.08 (48¢) | $96,000 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Spirit vs MOUZ - Map 2 Winner | Spirit | 1.79 (56¢) | $32,000 | +$25,143 | ✅ Ganada |
 | randomrandomrandom | Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs | MOUZ | 1.85 (54¢) | $36,484 | -$36,484 | ❌ Perdida |
