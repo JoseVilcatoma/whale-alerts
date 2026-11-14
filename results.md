@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 15:13:20 (hora de Perú)
+Actualizado: 2026-11-14 15:15:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8476**  ($480,755,007 en total)
+- Apuestas registradas: **8477**  ($480,783,429 en total)
 - Resueltas: **8429** — 5149 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 727
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Spread: Georgia (-16.5) | Georgia | 1.96 (51¢) | $28,422 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $26,963 | — | ⏳ Pendiente |
 | heyjason | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 2.56 (39¢) | $48,750 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.64 (61¢) | $240,456 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $86,634 | -$86,634 | ❌ Perdida |
 | googleplay | Spread: Hawks (-6.5) | Hawks | 1.96 (51¢) | $55,248 | -$55,248 | ❌ Perdida |
 | CUTJALENHURTS | Florida State vs. Pittsburgh | Pittsburgh | 1.75 (57¢) | $29,439 | -$29,439 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $48,802 | +$48,802 | ✅ Ganada |
