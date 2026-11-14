@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-13 19:56:31 (hora de Perú)
+Actualizado: 2026-11-13 19:58:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8424**  ($477,570,384 en total)
+- Apuestas registradas: **8425**  ($477,602,259 en total)
 - Resueltas: **8383** — 5125 ganadas / 3258 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 725
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
-| milkteaboba | 21 | 12 | 0 | 64% | $3,381,840 | -$568,876 |
+| milkteaboba | 21 | 12 | 1 | 64% | $3,413,715 | -$568,876 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | TAIWANNUMBERONE | 62 | 25 | 0 | 71% | $3,267,593 | -$56,941 |
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Hawks vs. Bulls | Hawks | 1.47 (68¢) | $31,875 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Florida State vs. Pittsburgh | Florida State | 1.52 (66¢) | $47,865 | — | ⏳ Pendiente |
 | fantasy7788 | Cavaliers vs. Heat | Heat | 1.75 (57¢) | $30,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-6.5) | Bulls | 2.00 (50¢) | $39,683 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 725 en total)_
 | justwins | Raptors vs. 76ers: O/U 224.5 | Under 224.5 | 1.92 (52¢) | $26,975 | -$26,975 | ❌ Perdida |
 | Woaifacai | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | Coco Gauff | 2.56 (39¢) | $38,527 | +$60,261 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Lorenzo Musetti | 2.17 (46¢) | $39,004 | +$45,787 | ✅ Ganada |
-| Woaifacai | BNP Paribas Nordic Open: Lorenzo Musetti vs Ugo Humbert | Ugo Humbert | 1.85 (54¢) | $30,759 | -$30,759 | ❌ Perdida |

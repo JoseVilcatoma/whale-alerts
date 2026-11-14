@@ -126607,5 +126607,20 @@
     "status": "pending",
     "ultimo_fill": 1794617590,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17044,
+    "timestamp": 1794617864,
+    "username": "milkteaboba",
+    "wallet": "0xf4c95b636c71243531dfc82a97565a94c106f88c",
+    "slug": "nba-atl-chi-2026-11-13",
+    "title": "Hawks vs. Bulls",
+    "outcome": "Hawks",
+    "side": "BUY",
+    "usd": 31875.000000000004,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1794617864,
+    "fills": 1
   }
 ]
