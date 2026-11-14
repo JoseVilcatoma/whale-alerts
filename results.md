@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 07:59:08 (hora de Perú)
+Actualizado: 2026-11-14 08:01:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8455**  ($479,503,866 en total)
+- Apuestas registradas: **8456**  ($479,540,806 en total)
 - Resueltas: **8419** — 5143 ganadas / 3276 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 726
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| lonmi2511 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.72 (58¢) | $36,940 | — | ⏳ Pendiente |
 | retroactivesource | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.59 (63¢) | $40,452 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | Team Falcons | 2.13 (47¢) | $27,048 | — | ⏳ Pendiente |
 | ArturitoFilito | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.33 (75¢) | $25,676 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 726 en total)_
 | ethanaz | Commanders vs. Giants: O/U 38.5 | Under 38.5 | 1.79 (56¢) | $25,021 | -$25,021 | ❌ Perdida |
 | 0x6db5…e279 | Pistons vs. Wizards | Wizards | 1.33 (75¢) | $38,258 | -$38,258 | ❌ Perdida |
 | ethanaz | Commanders vs. Giants | Commanders | 1.67 (60¢) | $30,143 | +$20,095 | ✅ Ganada |
-| MD14 | Raptors vs. 76ers: O/U 232.5 | Over 232.5 | 1.28 (78¢) | $39,000 | +$11,000 | ✅ Ganada |

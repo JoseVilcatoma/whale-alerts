@@ -127072,5 +127072,20 @@
     "status": "pending",
     "ultimo_fill": 1794659417,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17113,
+    "timestamp": 1794661172,
+    "username": "lonmi2511",
+    "wallet": "0x997cb45c25e94b4ee58c234ce1f211496a0d51f3",
+    "slug": "cs2-furia-fal2-2026-11-14-game2",
+    "title": "Counter-Strike: FURIA vs Team Falcons - Map 2 Winner",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 36939.6664,
+    "odds_at_bet": 58,
+    "status": "pending",
+    "ultimo_fill": 1794661172,
+    "fills": 1
   }
 ]
