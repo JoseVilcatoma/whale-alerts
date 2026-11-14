@@ -126622,5 +126622,35 @@
     "status": "pending",
     "ultimo_fill": 1794617864,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17045,
+    "timestamp": 1794618222,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-okc-lac-2026-11-13",
+    "title": "Thunder vs. Clippers",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 71196.8404,
+    "odds_at_bet": 71,
+    "status": "pending",
+    "ultimo_fill": 1794618222,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17046,
+    "timestamp": 1794618242,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-uta-hou-2026-11-13-spread-home-15pt5",
+    "title": "Spread: Rockets (-15.5)",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 68325.7911,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794618242,
+    "fills": 1
   }
 ]
