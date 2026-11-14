@@ -126982,5 +126982,50 @@
     "status": "pending",
     "ultimo_fill": 1794650946,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17106,
+    "timestamp": 1794658587,
+    "username": "VPenguin",
+    "wallet": "0xfbf3d501e88815464642d0e913f15379c3eeb218",
+    "slug": "cs2-furia-fal2-2026-11-14",
+    "title": "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "usd": 36174.636,
+    "odds_at_bet": 24,
+    "status": "pending",
+    "ultimo_fill": 1794658587,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17107,
+    "timestamp": 1794658638,
+    "username": "3648393489047",
+    "wallet": "0x67ac9e1ad7d7e74ef0215d14fc8edb538e4fedf1",
+    "slug": "atp-maestre-henning-2026-11-14",
+    "title": "Hersonissos 3: Francesco Maestrelli vs Philip Henning",
+    "outcome": "Francesco Maestrelli",
+    "side": "BUY",
+    "usd": 26700.54,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1794658638,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17108,
+    "timestamp": 1794658646,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cs2-furia-fal2-2026-11-14",
+    "title": "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "usd": 29346.9136,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1794658646,
+    "fills": 1
   }
 ]
