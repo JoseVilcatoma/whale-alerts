@@ -127222,5 +127222,35 @@
     "status": "pending",
     "ultimo_fill": 1794670542,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17131,
+    "timestamp": 1794671623,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-nebr-rutger-2026-11-14-total-51pt5",
+    "title": "Nebraska vs. Rutgers: O/U 51.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 28428.965,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794671623,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17132,
+    "timestamp": 1794671637,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-blg-gen-2026-11-14",
+    "title": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "usd": 60000.00000000001,
+    "odds_at_bet": 39,
+    "status": "pending",
+    "ultimo_fill": 1794671637,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 10:52:46 (hora de Perú)
+Actualizado: 2026-11-14 10:54:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8465**  ($479,912,479 en total)
+- Apuestas registradas: **8467**  ($480,000,908 en total)
 - Resueltas: **8427** — 5147 ganadas / 3280 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 17
 - Apostadores distintos: 727
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 336 | 4 | 64% | $61,285,303 | +$799,564 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 336 | 5 | 64% | $61,313,732 | +$799,564 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 97 | 0 | 65% | $13,663,740 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 45 | 30 | 1 | 60% | $5,356,129 | +$418,557 |
-| BrotherObama | 51 | 59 | 2 | 46% | $4,787,894 | -$276,141 |
+| BrotherObama | 51 | 59 | 3 | 46% | $4,847,894 | -$276,141 |
 | Kch-Temp | 48 | 19 | 1 | 72% | $4,753,015 | +$1,859,004 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | 999585 | 35 | 6 | 1 | 85% | $4,630,298 | +$205,843 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nebraska vs. Rutgers: O/U 51.5 | Over 51.5 | 2.00 (50¢) | $28,429 | — | ⏳ Pendiente |
 | Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | — | ⏳ Pendiente |
 | justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 727 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Hawks vs. Bulls | Hawks | 1.41 (71¢) | $44,702 | -$44,702 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Rangers vs. Canucks | Rangers | 1.52 (66¢) | $25,881 | +$13,333 | ✅ Ganada |
 | Woaifacai | Sopo: Laura Samson vs Elizabeth Mandlik | Elizabeth Mandlik | 1.14 (88¢) | $76,907 | +$10,487 | ✅ Ganada |
-| Woaifacai | BNP Paribas Nordic Open: Alejandro Tabilo vs Thiago Agustin Tirante | Thiago Agustin Tirante | 1.56 (64¢) | $38,797 | +$21,823 | ✅ Ganada |
-| Woaifacai | Brisbane 3: Bernard Tomic vs August Holmgren | August Holmgren | 1.25 (80¢) | $35,121 | +$8,780 | ✅ Ganada |
