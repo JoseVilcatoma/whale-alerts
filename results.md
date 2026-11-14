@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 16:00:26 (hora de Perú)
+Actualizado: 2026-11-14 16:02:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8489**  ($481,577,587 en total)
+- Apuestas registradas: **8491**  ($481,638,754 en total)
 - Resueltas: **8434** — 5152 ganadas / 3282 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 34
 - Apostadores distintos: 729
 
 ### Balance
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 38 | 8 | 0 | 83% | $3,191,090 | -$343,357 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
-| S-Works | 21 | 8 | 1 | 72% | $2,855,799 | -$192,369 |
+| S-Works | 21 | 8 | 2 | 72% | $2,887,465 | -$192,369 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | Multicoloured-Serf | 27 | 29 | 0 | 48% | $2,617,406 | -$453,632 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| solo88888 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $29,500 | — | ⏳ Pendiente |
+| S-Works | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $31,667 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | olegio | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.44 (41¢) | $38,022 | — | ⏳ Pendiente |
 | 999585 | Michigan vs. Oregon | Oregon | 1.11 (90¢) | $202,796 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 729 en total)_
 | VirIntrepidus | Warriors vs. Spurs | Spurs | 1.19 (84¢) | $142,800 | +$27,200 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Thunder vs. Clippers | Thunder | 1.41 (71¢) | $130,777 | -$130,777 | ❌ Perdida |
 | winner877 | Knicks vs. Pacers | Knicks | 1.82 (55¢) | $71,731 | -$71,731 | ❌ Perdida |
-| monkeymashingkeyboard | Jazz vs. Rockets | Rockets | 1.09 (92¢) | $27,600 | +$2,400 | ✅ Ganada |
-| MD14 | Bucks vs. Magic: O/U 218.5 | Under 218.5 | 1.15 (87¢) | $93,253 | +$13,934 | ✅ Ganada |
