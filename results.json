@@ -128668,5 +128668,20 @@
     "status": "lost",
     "ultimo_fill": 1794737209,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17328,
+    "timestamp": 1794747595,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-zverev-jodar-2026-11-15",
+    "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 72644.488,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1794747595,
+    "fills": 1
   }
 ]

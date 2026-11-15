@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 07:57:58 (hora de Perú)
+Actualizado: 2026-11-15 08:00:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8561**  ($485,839,139 en total)
+- Apuestas registradas: **8562**  ($485,911,783 en total)
 - Resueltas: **8525** — 5204 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 731
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 600 | 346 | 8 | 63% | $62,500,589 | +$639,149 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 600 | 346 | 9 | 63% | $62,573,234 | +$639,149 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar | Alexander Zverev | 1.43 (70¢) | $72,644 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA - Map 3 Winner | Spirit | 1.92 (52¢) | $25,875 | -$25,875 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.20 (83¢) | $216,737 | +$44,392 | ✅ Ganada |
 | MD14 | Counter-Strike: Spirit vs FURIA - Map 2 Winner | Spirit | 1.52 (66¢) | $50,249 | -$50,249 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | olegio | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.89 (53¢) | $46,134 | -$46,134 | ❌ Perdida |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pelicans | Nuggets | 1.18 (85¢) | $59,137 | +$10,436 | ✅ Ganada |
-| Moneyloverman | Nets vs. Grizzlies | Grizzlies | 1.79 (56¢) | $38,404 | +$30,174 | ✅ Ganada |
