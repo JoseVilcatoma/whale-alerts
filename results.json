@@ -130003,5 +130003,20 @@
     "status": "pending",
     "ultimo_fill": 1794783259,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17480,
+    "timestamp": 1794783688,
+    "username": "0F62",
+    "wallet": "0xccd81fbd3395dc43a0531f8484b21c2462daf4de",
+    "slug": "nfl-sea-lv-2026-11-15",
+    "title": "Seahawks vs. Raiders",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "usd": 35003.7678,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1794783688,
+    "fills": 1
   }
 ]

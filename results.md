@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 18:00:43 (hora de Perú)
+Actualizado: 2026-11-15 18:02:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8650**  ($491,219,373 en total)
+- Apuestas registradas: **8651**  ($491,254,377 en total)
 - Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 732
 
 ### Balance
@@ -54,8 +54,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | fantasy7788 | 38 | 23 | 1 | 62% | $3,288,242 | +$654,231 |
+| 0F62 | 39 | 8 | 1 | 83% | $3,285,349 | -$339,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| 0F62 | 39 | 8 | 0 | 83% | $3,250,345 | -$339,575 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | Multicoloured-Serf | 29 | 32 | 2 | 48% | $2,979,786 | -$612,696 |
 | juice-fruit | 30 | 20 | 1 | 60% | $2,958,990 | +$224,378 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | — | ⏳ Pendiente |
 | 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.64 (61¢) | $29,311 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Knicks (-4.5) | Knicks | 2.08 (48¢) | $26,489 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | +$12,785 | ✅ Ganada |
 | nigiri99 | Bills vs. Jets | Bills | 1.27 (79¢) | $62,478 | +$16,608 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Spread: Chiefs (-3.5) | Falcons | 1.89 (53¢) | $32,516 | -$32,516 | ❌ Perdida |
-| googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | -$486,955 | ❌ Perdida |
