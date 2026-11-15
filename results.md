@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 15:49:21 (hora de Perú)
+Actualizado: 2026-11-15 15:51:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8626**  ($489,779,115 en total)
-- Resueltas: **8538** — 5211 ganadas / 3327 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Resueltas: **8539** — 5211 ganadas / 3328 perdidas (**61%** de acierto)
+- Pendientes: 60
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,355,478** sobre $485,123,195 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,679** sobre $842,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,385,478** sobre $485,153,195 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,779** sobre $842,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -94,7 +94,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | sinasinner | Spread: Packers (-2.5) | Vikings | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | sinasinner | Panthers vs. Saints | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
-| Donkey14 | Spread: 76ers (-7.5) | 76ers | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
+| Donkey14 | Spread: 76ers (-7.5) | 76ers | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $34,311 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $26,497 | — | ⏳ Pendiente |
 | NOO-Yes | Bills vs. Jets | Bills | 1.27 (79¢) | $61,304 | — | ⏳ Pendiente |
