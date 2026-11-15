@@ -128773,5 +128773,35 @@
     "status": "pending",
     "ultimo_fill": 1794751489,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17335,
+    "timestamp": 1794752879,
+    "username": "MigRodr",
+    "wallet": "0x9a933a2a83188b28efaf1d07d45228ea6ee82793",
+    "slug": "nfl-kc-atl-2026-11-15",
+    "title": "Chiefs vs. Falcons",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "usd": 34941.4606,
+    "odds_at_bet": 37,
+    "status": "pending",
+    "ultimo_fill": 1794752879,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17336,
+    "timestamp": 1794752895,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "nfl-ne-det-2026-11-15",
+    "title": "Patriots vs. Lions",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "usd": 49999.909999999996,
+    "odds_at_bet": 41,
+    "status": "pending",
+    "ultimo_fill": 1794752895,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 09:26:24 (hora de Perú)
+Actualizado: 2026-11-15 09:28:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8568**  ($486,201,997 en total)
+- Apuestas registradas: **8570**  ($486,286,938 en total)
 - Resueltas: **8525** — 5204 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 18
 - Apostadores distintos: 731
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| takeormake | Patriots vs. Lions | Patriots | 2.44 (41¢) | $50,000 | — | ⏳ Pendiente |
+| MigRodr | Chiefs vs. Falcons | Falcons | 2.70 (37¢) | $34,941 | — | ⏳ Pendiente |
 | MigRodr | Patriots vs. Lions | Patriots | 2.38 (42¢) | $63,000 | — | ⏳ Pendiente |
 | COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
 | 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | robloxgamblemaster-2008-10-18 | Bulls vs. Timberwolves | Timberwolves | 1.12 (89¢) | $69,876 | -$69,876 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Mavericks vs. Cavaliers | Mavericks | 1.32 (76¢) | $65,368 | -$65,368 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Spread: New Mexico (-17.5) | New Mexico | 1.92 (52¢) | $27,516 | -$27,516 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.04 (49¢) | $58,164 | +$60,538 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.17 (46¢) | $35,754 | +$41,972 | ✅ Ganada |
