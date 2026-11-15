@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 22:49:54 (hora de Perú)
+Actualizado: 2026-11-14 22:51:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8539**  ($484,482,523 en total)
+- Apuestas registradas: **8540**  ($484,532,293 en total)
 - Resueltas: **8490** — 5188 ganadas / 3302 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 731
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.64 (61¢) | $49,771 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Texas vs. LSU | Texas | 3.45 (29¢) | $51,877 | — | ⏳ Pendiente |
 | cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.67 (60¢) | $36,248 | — | ⏳ Pendiente |
 | 3648393489047 | Texas vs. LSU | LSU | 1.45 (69¢) | $41,409 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $48,799 | -$48,799 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Total Kills Over/Under 24.5 in Game 2? | Under 24.5 in Game 2? | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Ethanael02 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $30,000 | +$41,429 | ✅ Ganada |
-| fantasy7788 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $52,375 | +$72,327 | ✅ Ganada |
