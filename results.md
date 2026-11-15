@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 22:43:49 (hora de Perú)
+Actualizado: 2026-11-14 22:45:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8537**  ($484,394,398 en total)
-- Resueltas: **8486** — 5185 ganadas / 3301 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **8487** — 5186 ganadas / 3301 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,703,104** sobre $481,704,289 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,798** sobre $837,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,678,159** sobre $481,991,158 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,789** sobre $837,300 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
-| 999585 | 37 | 6 | 2 | 86% | $5,298,274 | +$249,212 |
+| 999585 | 38 | 6 | 1 | 86% | $5,298,274 | +$274,157 |
 | Thunderous-Authoritarian-Snarl | 24 | 22 | 0 | 52% | $4,966,198 | -$1,726,958 |
 | BrotherObama | 54 | 59 | 2 | 48% | $4,926,652 | -$101,037 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | RJW1 | Spread: Grizzlies (-4.5) | Grizzlies | 2.04 (49¢) | $45,074 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Nets vs. Grizzlies | Nets | 2.70 (37¢) | $125,346 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Grizzlies | Nets | 2.78 (36¢) | $37,209 | — | ⏳ Pendiente |
-| 999585 | Baylor vs. BYU | BYU | 1.09 (92¢) | $286,869 | — | ⏳ Pendiente |
+| 999585 | Baylor vs. BYU | BYU | 1.09 (92¢) | $286,869 | +$24,945 | ✅ Ganada |
 | Donkey14 | Spread: Pistons (-4.5) | Heat | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Pistons (-4.5) | Pistons | 2.04 (49¢) | $35,495 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Lions (-2.5) | Patriots | 2.13 (47¢) | $93,202 | — | ⏳ Pendiente |
