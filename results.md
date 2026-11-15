@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 20:16:29 (hora de Perú)
+Actualizado: 2026-11-14 20:18:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8523**  ($483,623,730 en total)
+- Apuestas registradas: **8524**  ($483,660,730 en total)
 - Resueltas: **8448** — 5160 ganadas / 3288 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 53
 - Apostadores distintos: 730
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Mavericks vs. Cavaliers | Mavericks | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
 | 0F62 | Will Türkiye win on 2026-11-15? | No | 1.06 (94¢) | $59,255 | — | ⏳ Pendiente |
 | nigiri99 | Sabres vs. Stars | Stars | 1.75 (57¢) | $37,005 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Grizzlies (-4.5) | Grizzlies | 2.08 (48¢) | $25,094 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nebraska vs. Rutgers: O/U 51.5 | Over 51.5 | 2.00 (50¢) | $28,429 | -$28,429 | ❌ Perdida |
 | Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | +$4,016 | ✅ Ganada |
-| justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | -$25,087 | ❌ Perdida |
