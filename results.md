@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:06:46 (hora de Perú)
+Actualizado: 2026-11-15 12:08:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8590**  ($487,280,402 en total)
+- Apuestas registradas: **8591**  ($487,767,357 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Pendientes: 37
 - Apostadores distintos: 732
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 10 | 63% | $62,659,467 | +$670,282 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
-| googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
+| googleplay | 59 | 54 | 1 | 52% | $13,117,118 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | — | ⏳ Pendiente |
 | AnonymousUsername | Seahawks vs. Raiders | Seahawks | 1.41 (71¢) | $30,645 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Türkiye win on 2026-11-15? | No | 1.08 (93¢) | $51,958 | — | ⏳ Pendiente |
 | ic4cream | Spread: Packers (-2.5) | Packers | 1.92 (52¢) | $32,318 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 999585 | Texas Tech vs. Oklahoma State | Texas Tech | 1.18 (85¢) | $178,311 | +$31,467 | ✅ Ganada |
 | PacersThreeandahalf | Texas vs. LSU | LSU | 1.23 (81¢) | $45,000 | -$45,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.59 (63¢) | $28,042 | — | ⊘ Anulada |
-| 0x6db5…e279 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.82 (55¢) | $27,643 | — | ⊘ Anulada |
