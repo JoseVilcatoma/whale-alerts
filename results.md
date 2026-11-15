@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:42:16 (hora de Perú)
+Actualizado: 2026-11-15 12:44:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8605**  ($488,368,230 en total)
+- Apuestas registradas: **8606**  ($488,393,230 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Pendientes: 52
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Spread: Packers (-2.5) | Vikings | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | sinasinner | Panthers vs. Saints | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
 | Donkey14 | Spread: 76ers (-7.5) | 76ers | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ciryl Gane win in Round 1? | No | 1.25 (80¢) | $79,304 | +$19,826 | ✅ Ganada |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will France win on 2026-11-15? | Yes | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Utah | 3.03 (33¢) | $29,631 | +$60,161 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Amanda Nunes | 2.50 (40¢) | $217,063 | -$217,063 | ❌ Perdida |
