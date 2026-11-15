@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 23:40:18 (hora de Perú)
+Actualizado: 2026-11-14 23:42:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8547**  ($484,999,497 en total)
-- Resueltas: **8501** — 5194 ganadas / 3307 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Apuestas registradas: **8548**  ($485,049,497 en total)
+- Resueltas: **8505** — 5195 ganadas / 3310 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,783,140** sobre $482,703,294 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,779** sobre $838,700 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,825,069** sobre $482,924,108 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,834** sobre $839,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -52,14 +52,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | milkteaboba | 21 | 13 | 0 | 62% | $3,413,715 | -$600,751 |
-| TAIWANNUMBERONE | 63 | 25 | 1 | 72% | $3,357,153 | -$49,077 |
+| TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 1 | 83% | $3,250,345 | -$343,357 |
 | fantasy7788 | 38 | 22 | 0 | 63% | $3,199,523 | +$689,231 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
-| Multicoloured-Serf | 28 | 29 | 4 | 49% | $2,872,933 | -$426,447 |
+| Multicoloured-Serf | 28 | 30 | 3 | 48% | $2,872,933 | -$508,975 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,21 +71,22 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will France win on 2026-11-15? | Yes | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Utah | 3.03 (33¢) | $29,631 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Amanda Nunes | 2.50 (40¢) | $217,063 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Texas vs. LSU | LSU | 1.59 (63¢) | $82,529 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Texas vs. LSU | LSU | 1.59 (63¢) | $82,529 | -$82,529 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.15 (87¢) | $42,293 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.69 (59¢) | $25,654 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $44,065 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $25,969 | — | ⏳ Pendiente |
 | cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.64 (61¢) | $49,771 | +$31,820 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Texas vs. LSU | Texas | 3.45 (29¢) | $51,877 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Texas vs. LSU | Texas | 3.45 (29¢) | $51,877 | +$127,008 | ✅ Ganada |
 | cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.67 (60¢) | $36,248 | +$24,165 | ✅ Ganada |
-| 3648393489047 | Texas vs. LSU | LSU | 1.45 (69¢) | $41,409 | — | ⏳ Pendiente |
+| 3648393489047 | Texas vs. LSU | LSU | 1.45 (69¢) | $41,409 | -$41,409 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.96 (51¢) | $73,007 | — | ⊘ Anulada |
 | MD14 | Pistons vs. Heat: O/U 247.5 | Under 247.5 | 1.16 (86¢) | $43,000 | -$43,000 | ❌ Perdida |
 | 999585 | Texas Tech vs. Oklahoma State | Texas Tech | 1.18 (85¢) | $178,311 | — | ⏳ Pendiente |
-| PacersThreeandahalf | Texas vs. LSU | LSU | 1.23 (81¢) | $45,000 | — | ⏳ Pendiente |
+| PacersThreeandahalf | Texas vs. LSU | LSU | 1.23 (81¢) | $45,000 | -$45,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.59 (63¢) | $28,042 | — | ⊘ Anulada |
 | 0x6db5…e279 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.82 (55¢) | $27,643 | — | ⊘ Anulada |
 | MD14 | Nets vs. Grizzlies: O/U 235.5 | Over 235.5 | 1.14 (88¢) | $112,099 | +$15,286 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | solo88888 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | S-Works | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $31,667 | -$31,667 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
-| olegio | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.44 (41¢) | $38,022 | +$54,714 | ✅ Ganada |

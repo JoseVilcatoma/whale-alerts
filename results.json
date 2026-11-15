@@ -128244,7 +128244,7 @@
     "side": "BUY",
     "usd": 44999.55,
     "odds_at_bet": 81,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794712882,
     "fills": 1
   },
@@ -128305,7 +128305,7 @@
     "side": "BUY",
     "usd": 41409.4254,
     "odds_at_bet": 69,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794713892,
     "fills": 1
   },
@@ -128335,7 +128335,7 @@
     "side": "BUY",
     "usd": 51876.6268,
     "odds_at_bet": 29,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794714487,
     "fills": 1
   },
@@ -128425,7 +128425,7 @@
     "side": "BUY",
     "usd": 82528.50690000001,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794715895,
     "fills": 1
   },
@@ -128457,6 +128457,21 @@
     "odds_at_bet": 33,
     "status": "pending",
     "ultimo_fill": 1794717353,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17287,
+    "timestamp": 1794717666,
+    "username": "0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816",
+    "wallet": "0x5016c48436ab3efa2ab54b117d0c08fa1a4a1eeb",
+    "slug": "unl-fra-tur-2026-11-15-fra",
+    "title": "Will France win on 2026-11-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 49999.999997,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1794717666,
     "fills": 1
   }
 ]
