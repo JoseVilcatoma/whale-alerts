@@ -129298,5 +129298,20 @@
     "status": "pending",
     "ultimo_fill": 1794764281,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17372,
+    "timestamp": 1794764301,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nfl-car-no-2026-11-15",
+    "title": "Panthers vs. Saints",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 60000.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794764301,
+    "fills": 1
   }
 ]
