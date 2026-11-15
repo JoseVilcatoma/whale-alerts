@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:11:00 (hora de Perú)
+Actualizado: 2026-11-15 12:13:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8592**  ($487,799,874 en total)
+- Apuestas registradas: **8593**  ($487,862,352 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Bills vs. Jets | Bills | 1.27 (79¢) | $62,478 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Chiefs (-3.5) | Falcons | 1.89 (53¢) | $32,516 | — | ⏳ Pendiente |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | — | ⏳ Pendiente |
 | AnonymousUsername | Seahawks vs. Raiders | Seahawks | 1.41 (71¢) | $30,645 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.96 (51¢) | $73,007 | — | ⊘ Anulada |
 | MD14 | Pistons vs. Heat: O/U 247.5 | Under 247.5 | 1.16 (86¢) | $43,000 | -$43,000 | ❌ Perdida |
 | 999585 | Texas Tech vs. Oklahoma State | Texas Tech | 1.18 (85¢) | $178,311 | +$31,467 | ✅ Ganada |
-| PacersThreeandahalf | Texas vs. LSU | LSU | 1.23 (81¢) | $45,000 | -$45,000 | ❌ Perdida |

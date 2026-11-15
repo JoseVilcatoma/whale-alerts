@@ -129133,5 +129133,20 @@
     "status": "pending",
     "ultimo_fill": 1794762564,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17361,
+    "timestamp": 1794762737,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "nfl-buf-nyj-2026-11-15",
+    "title": "Bills vs. Jets",
+    "outcome": "Bills",
+    "side": "BUY",
+    "usd": 62477.94,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1794762737,
+    "fills": 1
   }
 ]
