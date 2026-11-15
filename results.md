@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 15:06:19 (hora de Perú)
+Actualizado: 2026-11-15 15:08:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8621**  ($489,508,696 en total)
+- Apuestas registradas: **8622**  ($489,622,600 en total)
 - Resueltas: **8535** — 5208 ganadas / 3327 perdidas (**61%** de acierto)
-- Pendientes: 59
+- Pendientes: 60
 - Apostadores distintos: 732
 
 ### Balance
@@ -40,8 +40,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
+| 999585 | 40 | 6 | 1 | 87% | $5,609,347 | +$322,769 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| 999585 | 40 | 6 | 0 | 87% | $5,495,443 | +$322,769 |
 | maz26 | 46 | 30 | 1 | 61% | $5,479,682 | +$450,791 |
 | Thunderous-Authoritarian-Snarl | 25 | 22 | 1 | 53% | $5,209,334 | -$1,682,566 |
 | BrotherObama | 54 | 59 | 4 | 48% | $5,020,652 | -$101,037 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Vikings vs. Packers | Vikings | 1.12 (89¢) | $113,904 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Vikings vs. Packers | Packers | 1.79 (56¢) | $44,632 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Vikings vs. Packers | Vikings | 2.27 (44¢) | $26,400 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $32,837 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | xifutloong3 | Jaguars vs. Titans | Jaguars | 1.19 (84¢) | $54,949 | — | ⏳ Pendiente |
 | sinasinner | Spread: Lions (-2.5) | Lions | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Latvia vs. Armenia: O/U 2.5 | Under 2.5 | 1.72 (58¢) | $30,145 | +$21,829 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar | Alexander Zverev | 1.43 (70¢) | $72,644 | +$31,133 | ✅ Ganada |
