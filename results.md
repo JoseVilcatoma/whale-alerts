@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:21:30 (hora de Perú)
+Actualizado: 2026-11-15 12:23:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8597**  ($488,006,587 en total)
+- Apuestas registradas: **8598**  ($488,105,255 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 43
+- Pendientes: 44
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $98,668 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Colts (-4.5) | Dolphins | 2.00 (50¢) | $53,410 | — | ⏳ Pendiente |
 | VirIntrepidus | Spread: Jaguars (-10.5) | Titans | 2.04 (49¢) | $32,654 | — | ⏳ Pendiente |
 | OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $25,969 | — | ⏳ Pendiente |
 | cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.64 (61¢) | $49,771 | +$31,820 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Texas vs. LSU | Texas | 3.45 (29¢) | $51,877 | +$127,008 | ✅ Ganada |
-| cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.67 (60¢) | $36,248 | +$24,165 | ✅ Ganada |
