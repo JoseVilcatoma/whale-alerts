@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 15:30:35 (hora de Perú)
+Actualizado: 2026-11-15 15:32:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8624**  ($489,724,834 en total)
+- Apuestas registradas: **8625**  ($489,753,954 en total)
 - Resueltas: **8535** — 5208 ganadas / 3327 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Pendientes: 63
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | — | ⏳ Pendiente |
 | OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | — | ⏳ Pendiente |
 | surfandturf | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
 | 999585 | Vikings vs. Packers | Vikings | 1.12 (89¢) | $113,904 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | MigRodr | Patriots vs. Lions | Patriots | 2.38 (42¢) | $63,000 | -$63,000 | ❌ Perdida |
 | COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
 | 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | -$70,120 | ❌ Perdida |
-| xifutloong3 | Jaguars vs. Titans | Jaguars | 1.19 (84¢) | $54,949 | — | ⏳ Pendiente |
