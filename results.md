@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:25:00 (hora de Perú)
+Actualizado: 2026-11-15 16:27:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8633**  ($490,239,913 en total)
-- Resueltas: **8550** — 5217 ganadas / 3333 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Apuestas registradas: **8634**  ($490,286,582 en total)
+- Resueltas: **8556** — 5222 ganadas / 3334 perdidas (**61%** de acierto)
+- Pendientes: 51
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,483,860** sobre $485,689,523 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,727** sobre $843,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,359,953** sobre $486,384,034 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,695** sobre $844,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,8 +24,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 347 | 13 | 63% | $63,001,897 | +$625,650 |
-| Sassy-Bucket | 118 | 120 | 3 | 50% | $16,676,613 | -$1,529,133 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 347 | 14 | 63% | $63,048,566 | +$625,650 |
+| Sassy-Bucket | 119 | 120 | 2 | 50% | $16,676,613 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 2 | 52% | $13,160,175 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $46,669 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-14.5) | Celtics | 1.96 (51¢) | $45,398 | — | ⏳ Pendiente |
 | milkteaboba | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $28,530 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $213,111 | — | ⏳ Pendiente |
@@ -86,9 +87,9 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Vikings vs. Packers | Packers | 1.79 (56¢) | $44,632 | -$44,632 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Vikings vs. Packers | Vikings | 2.27 (44¢) | $26,400 | +$33,600 | ✅ Ganada |
 | Multicoloured-Serf | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $32,837 | — | ⏳ Pendiente |
-| Sassy-Bucket | Bills vs. Jets | Bills | 1.25 (80¢) | $476,869 | — | ⏳ Pendiente |
+| Sassy-Bucket | Bills vs. Jets | Bills | 1.25 (80¢) | $476,869 | +$119,217 | ✅ Ganada |
 | sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | -$42,000 | ❌ Perdida |
 | SuitableName | Spread: Jaguars (-10.5) | Jaguars | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | dhgreg | Vikings vs. Packers | Packers | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
 | sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
@@ -103,15 +104,15 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
 | Donkey14 | Spread: 76ers (-7.5) | 76ers | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $34,311 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $26,497 | — | ⏳ Pendiente |
-| NOO-Yes | Bills vs. Jets | Bills | 1.27 (79¢) | $61,304 | — | ⏳ Pendiente |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $25,363 | — | ⏳ Pendiente |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $26,497 | +$7,044 | ✅ Ganada |
+| NOO-Yes | Bills vs. Jets | Bills | 1.27 (79¢) | $61,304 | +$16,296 | ✅ Ganada |
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $25,363 | +$6,742 | ✅ Ganada |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $98,668 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Colts (-4.5) | Dolphins | 2.00 (50¢) | $53,410 | — | ⏳ Pendiente |
 | VirIntrepidus | Spread: Jaguars (-10.5) | Titans | 2.04 (49¢) | $32,654 | — | ⏳ Pendiente |
 | OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | +$9,837 | ✅ Ganada |
 | ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | +$12,785 | ✅ Ganada |
-| nigiri99 | Bills vs. Jets | Bills | 1.27 (79¢) | $62,478 | — | ⏳ Pendiente |
+| nigiri99 | Bills vs. Jets | Bills | 1.27 (79¢) | $62,478 | +$16,608 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Spread: Chiefs (-3.5) | Falcons | 1.89 (53¢) | $32,516 | — | ⏳ Pendiente |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | — | ⏳ Pendiente |
 | AnonymousUsername | Seahawks vs. Raiders | Seahawks | 1.41 (71¢) | $30,645 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | AnonymousUsername | Texans vs. Browns | Texans | 1.52 (66¢) | $34,436 | — | ⏳ Pendiente |
 | nigiri99 | 49ers vs. Cowboys | 49ers | 1.54 (65¢) | $44,962 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Cowboys | Cowboys | 2.86 (35¢) | $28,297 | — | ⏳ Pendiente |
