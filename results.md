@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:33:53 (hora de Perú)
+Actualizado: 2026-11-15 12:35:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8599**  ($488,130,618 en total)
+- Apuestas registradas: **8601**  ($488,218,419 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 47
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $26,497 | — | ⏳ Pendiente |
+| NOO-Yes | Bills vs. Jets | Bills | 1.27 (79¢) | $61,304 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $25,363 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $98,668 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Colts (-4.5) | Dolphins | 2.00 (50¢) | $53,410 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.15 (87¢) | $42,293 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.69 (59¢) | $25,654 | -$25,654 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $44,065 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $25,969 | — | ⏳ Pendiente |
-| cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.64 (61¢) | $49,771 | +$31,820 | ✅ Ganada |
