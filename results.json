@@ -129433,5 +129433,35 @@
     "status": "pending",
     "ultimo_fill": 1794765279,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17381,
+    "timestamp": 1794765308,
+    "username": "dhgreg",
+    "wallet": "0xf72f81c7449f1c87f7131aaebeed13bcaf75a115",
+    "slug": "nfl-min-gb-2026-11-15",
+    "title": "Vikings vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 56000.00000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1794765308,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17382,
+    "timestamp": 1794765308,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nfl-kc-atl-2026-11-15-spread-away-3pt5",
+    "title": "Spread: Chiefs (-3.5)",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794765308,
+    "fills": 1
   }
 ]

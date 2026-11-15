@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:54:51 (hora de Perú)
+Actualizado: 2026-11-15 12:56:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8612**  ($488,739,958 en total)
+- Apuestas registradas: **8614**  ($488,820,958 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 58
+- Pendientes: 60
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| dhgreg | Vikings vs. Packers | Packers | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
+| sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | — | ⏳ Pendiente |
 | milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | MegaMan-.- | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.64 (61¢) | $29,585 | -$29,585 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Arizona | 1.45 (69¢) | $103,500 | -$103,500 | ❌ Perdida |
 | bands1 | Utah vs. Arizona | Utah | 1.69 (59¢) | $30,574 | +$21,246 | ✅ Ganada |
-| 0x6db5…e279 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.08 (93¢) | $30,214 | +$2,274 | ✅ Ganada |
-| Parz1vaI | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.47 (68¢) | $28,709 | +$13,510 | ✅ Ganada |
