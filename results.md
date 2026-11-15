@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 19:12:46 (hora de Perú)
+Actualizado: 2026-11-14 19:14:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8512**  ($482,779,306 en total)
-- Resueltas: **8442** — 5156 ganadas / 3286 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **8443** — 5156 ganadas / 3287 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,181,354** sobre $479,221,374 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,898** sobre $832,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,206,441** sobre $479,246,460 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,998** sobre $833,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Nebraska vs. Rutgers: O/U 51.5 | Over 51.5 | 2.00 (50¢) | $28,429 | -$28,429 | ❌ Perdida |
 | Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | +$4,016 | ✅ Ganada |
-| justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | — | ⏳ Pendiente |
+| justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | -$25,087 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | +$18,021 | ✅ Ganada |
 | Lanlanlanlan | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $103,600 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | -$27,183 | ❌ Perdida |
