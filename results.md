@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:48:33 (hora de Perú)
+Actualizado: 2026-11-15 12:50:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8610**  ($488,660,901 en total)
+- Apuestas registradas: **8611**  ($488,703,958 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 732
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 11 | 63% | $62,698,756 | +$670,282 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
-| googleplay | 59 | 54 | 1 | 52% | $13,117,118 | -$423,010 |
+| googleplay | 59 | 54 | 2 | 52% | $13,160,175 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | — | ⏳ Pendiente |
 | milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $65,967 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x6db5…e279 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.08 (93¢) | $30,214 | +$2,274 | ✅ Ganada |
 | Parz1vaI | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.47 (68¢) | $28,709 | +$13,510 | ✅ Ganada |
 | cavvvy | O/U 3.5 Rounds | Under 3.5 Rounds | 1.59 (63¢) | $29,562 | -$29,562 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Josh Hokit | 3.12 (32¢) | $48,000 | -$48,000 | ❌ Perdida |
