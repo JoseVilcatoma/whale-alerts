@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:18:34 (hora de Perú)
+Actualizado: 2026-11-15 16:20:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8630**  ($489,952,874 en total)
-- Resueltas: **8540** — 5212 ganadas / 3328 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Resueltas: **8541** — 5213 ganadas / 3328 perdidas (**61%** de acierto)
+- Pendientes: 62
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,352,509** sobre $485,191,897 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,694** sobre $842,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,328,009** sobre $485,217,397 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,598** sobre $842,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -122,7 +122,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | BrotherObama | Vikings vs. Packers | Vikings | 2.27 (44¢) | $34,000 | — | ⏳ Pendiente |
 | MigRodr | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Elina Svitolina | 3.45 (29¢) | $26,891 | — | ⏳ Pendiente |
 | TryToEarnCash | Vikings vs. Packers | Packers | 1.79 (56¢) | $25,872 | — | ⏳ Pendiente |
-| SDTrading | Vikings vs. Packers: O/U 42.5 | Under 42.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
+| SDTrading | Vikings vs. Packers: O/U 42.5 | Under 42.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Spain win on 2026-11-15? | Yes | 2.08 (48¢) | $30,140 | — | ⏳ Pendiente |
 | AnonymousUsername | Texans vs. Browns | Texans | 1.52 (66¢) | $34,436 | — | ⏳ Pendiente |
 | nigiri99 | 49ers vs. Cowboys | 49ers | 1.54 (65¢) | $44,962 | — | ⏳ Pendiente |
