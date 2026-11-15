@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 21:45:41 (hora de Perú)
+Actualizado: 2026-11-14 21:47:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8529**  ($483,845,888 en total)
-- Resueltas: **8475** — 5176 ganadas / 3299 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **8476** — 5177 ganadas / 3299 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,979,049** sobre $481,033,305 apostados (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,978,486** sobre $481,058,353 apostados (ROI **-1.0%**)
 - Copiando $100 fijo en cada una: **-$8,243** sobre $836,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| hudson62 | Kobe: Maxim Zhukov vs Takuya Kumasaka | Takuya Kumasaka | 1.12 (89¢) | $25,047 | — | ⏳ Pendiente |
+| hudson62 | Kobe: Maxim Zhukov vs Takuya Kumasaka | Takuya Kumasaka | 1.12 (89¢) | $25,047 | +$563 | 💰 Vendida antes |
 | MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | — | ⏳ Pendiente |
 | Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | — | ⏳ Pendiente |
