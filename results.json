@@ -128863,5 +128863,35 @@
     "status": "pending",
     "ultimo_fill": 1794757050,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17342,
+    "timestamp": 1794757234,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nfl-kc-atl-2026-11-15",
+    "title": "Chiefs vs. Falcons",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 25000.0,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1794757234,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17343,
+    "timestamp": 1794757246,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "nfl-sf-dal-2026-11-15",
+    "title": "49ers vs. Cowboys",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 44961.8,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1794757246,
+    "fills": 1
   }
 ]
