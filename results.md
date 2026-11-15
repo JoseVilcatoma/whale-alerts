@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 17:44:00 (hora de Perú)
+Actualizado: 2026-11-15 17:46:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8647**  ($490,994,006 en total)
+- Apuestas registradas: **8648**  ($491,020,495 en total)
 - Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 732
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 13 | 63% | $63,073,612 | +$645,608 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
-| Lakersfan111 | 177 | 100 | 1 | 64% | $13,879,781 | +$318,542 |
+| Lakersfan111 | 177 | 100 | 2 | 64% | $13,906,270 | +$318,542 |
 | googleplay | 59 | 56 | 0 | 51% | $13,160,175 | -$953,023 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Spread: Knicks (-4.5) | Knicks | 2.08 (48¢) | $26,489 | — | ⏳ Pendiente |
 | cosmicxbt | Spread: 49ers (-3.5) | Cowboys | 1.52 (66¢) | $88,801 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Seahawks vs. Raiders | Raiders | 2.13 (47¢) | $74,016 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $33,181 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | -$486,955 | ❌ Perdida |
 | AnonymousUsername | Seahawks vs. Raiders | Seahawks | 1.41 (71¢) | $30,645 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Türkiye win on 2026-11-15? | No | 1.08 (93¢) | $51,958 | +$3,911 | ✅ Ganada |
-| ic4cream | Spread: Packers (-2.5) | Packers | 1.92 (52¢) | $32,318 | -$32,318 | ❌ Perdida |
