@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:35:58 (hora de Perú)
+Actualizado: 2026-11-15 12:38:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8601**  ($488,218,419 en total)
+- Apuestas registradas: **8603**  ($488,282,730 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Pendientes: 49
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: 76ers (-7.5) | 76ers | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $34,311 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $26,497 | — | ⏳ Pendiente |
 | NOO-Yes | Bills vs. Jets | Bills | 1.27 (79¢) | $61,304 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $25,363 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Amanda Nunes | 2.50 (40¢) | $217,063 | -$217,063 | ❌ Perdida |
 | Multicoloured-Serf | Texas vs. LSU | LSU | 1.59 (63¢) | $82,529 | -$82,529 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.15 (87¢) | $42,293 | — | ⏳ Pendiente |
-| 4217893367451 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.69 (59¢) | $25,654 | -$25,654 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $44,065 | — | ⏳ Pendiente |

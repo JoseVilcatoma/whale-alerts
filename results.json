@@ -129268,5 +129268,35 @@
     "status": "pending",
     "ultimo_fill": 1794764148,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17370,
+    "timestamp": 1794764177,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nfl-jax-ten-2026-11-15",
+    "title": "Jaguars vs. Titans",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 34310.6396,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1794764177,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17371,
+    "timestamp": 1794764281,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-ind-phi-2026-11-15-spread-home-7pt5",
+    "title": "Spread: 76ers (-7.5)",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 29999.9952,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794764281,
+    "fills": 1
   }
 ]
