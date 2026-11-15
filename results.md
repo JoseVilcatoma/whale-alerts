@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:56:06 (hora de Perú)
+Actualizado: 2026-11-15 16:58:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8642**  ($490,726,583 en total)
-- Resueltas: **8579** — 5236 ganadas / 3343 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **8583** — 5240 ganadas / 3343 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,751,411** sobre $487,849,535 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,566** sobre $846,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,725,736** sobre $488,039,868 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,506** sobre $846,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 347 | 15 | 63% | $63,073,612 | +$625,650 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 602 | 347 | 14 | 63% | $63,073,612 | +$629,561 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 56 | 0 | 51% | $13,160,175 | -$953,023 |
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | fantasy7788 | 38 | 23 | 1 | 62% | $3,288,242 | +$654,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| 0F62 | 38 | 8 | 1 | 83% | $3,250,345 | -$343,357 |
+| 0F62 | 39 | 8 | 0 | 83% | $3,250,345 | -$339,575 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 1 | 60% | $2,958,990 | +$224,378 |
 | Multicoloured-Serf | 29 | 32 | 1 | 48% | $2,905,770 | -$612,696 |
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | — | ⏳ Pendiente |
 | gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | — | ⏳ Pendiente |
-| sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | — | ⏳ Pendiente |
+| sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | +$7,741 | ✅ Ganada |
 | OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | — | ⏳ Pendiente |
 | surfandturf | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
 | 999585 | Vikings vs. Packers | Vikings | 1.12 (89¢) | $113,904 | +$14,078 | ✅ Ganada |
@@ -124,7 +124,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | keeptheblueflagflyinghigh | Spread: Chiefs (-3.5) | Falcons | 1.89 (53¢) | $32,516 | -$32,516 | ❌ Perdida |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | -$486,955 | ❌ Perdida |
 | AnonymousUsername | Seahawks vs. Raiders | Seahawks | 1.41 (71¢) | $30,645 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Türkiye win on 2026-11-15? | No | 1.08 (93¢) | $51,958 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Türkiye win on 2026-11-15? | No | 1.08 (93¢) | $51,958 | +$3,911 | ✅ Ganada |
 | ic4cream | Spread: Packers (-2.5) | Packers | 1.92 (52¢) | $32,318 | -$32,318 | ❌ Perdida |
 | AnonymousUsername | Panthers vs. Saints | Saints | 2.04 (49¢) | $25,567 | -$25,567 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Falcons: O/U 46.5 | Over 46.5 | 1.85 (54¢) | $38,703 | +$32,969 | ✅ Ganada |
