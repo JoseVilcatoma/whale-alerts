@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 23:10:18 (hora de Perú)
+Actualizado: 2026-11-14 23:12:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8544**  ($484,670,275 en total)
-- Resueltas: **8498** — 5192 ganadas / 3306 perdidas (**61%** de acierto)
+- Apuestas registradas: **8545**  ($484,752,803 en total)
+- Resueltas: **8499** — 5192 ganadas / 3307 perdidas (**61%** de acierto)
 - Pendientes: 19
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,811,609** sobre $482,589,759 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,809** sobre $838,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,839,125** sobre $482,617,276 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,909** sobre $838,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,8 +59,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
+| Multicoloured-Serf | 28 | 29 | 4 | 49% | $2,872,933 | -$426,447 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
-| Multicoloured-Serf | 28 | 29 | 3 | 49% | $2,790,405 | -$426,447 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Texas vs. LSU | LSU | 1.59 (63¢) | $82,529 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.15 (87¢) | $42,293 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.69 (59¢) | $25,654 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $44,065 | — | ⏳ Pendiente |
@@ -104,7 +105,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | Multicoloured-Serf | Spread: Lions (-2.5) | Patriots | 2.13 (47¢) | $93,202 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bulls vs. Timberwolves | Timberwolves | 1.12 (89¢) | $69,876 | -$69,876 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Mavericks vs. Cavaliers | Mavericks | 1.32 (76¢) | $65,368 | -$65,368 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Spread: New Mexico (-17.5) | New Mexico | 1.92 (52¢) | $27,516 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Spread: New Mexico (-17.5) | New Mexico | 1.92 (52¢) | $27,516 | -$27,516 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.04 (49¢) | $58,164 | +$60,538 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.17 (46¢) | $35,754 | +$41,972 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.22 (45¢) | $56,069 | +$68,529 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | olegio | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.44 (41¢) | $38,022 | +$54,714 | ✅ Ganada |
 | 999585 | Michigan vs. Oregon | Oregon | 1.11 (90¢) | $202,796 | +$22,533 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $189,260 | -$189,260 | ❌ Perdida |
-| zb8 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $29,400 | +$40,600 | ✅ Ganada |
