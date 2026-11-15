@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 17:29:30 (hora de Perú)
+Actualizado: 2026-11-15 17:31:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8646**  ($490,905,205 en total)
+- Apuestas registradas: **8647**  ($490,994,006 en total)
 - Resueltas: **8584** — 5240 ganadas / 3344 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 732
 
 ### Balance
@@ -48,7 +48,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 1 | 77% | $4,241,266 | +$554,327 |
-| cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
+| cosmicxbt | 29 | 9 | 1 | 76% | $3,977,348 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | milkteaboba | 22 | 13 | 1 | 63% | $3,564,659 | -$550,751 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cosmicxbt | Spread: 49ers (-3.5) | Cowboys | 1.52 (66¢) | $88,801 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Seahawks vs. Raiders | Raiders | 2.13 (47¢) | $74,016 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $33,181 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.35 (74¢) | $43,588 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | AnonymousUsername | Seahawks vs. Raiders | Seahawks | 1.41 (71¢) | $30,645 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Türkiye win on 2026-11-15? | No | 1.08 (93¢) | $51,958 | +$3,911 | ✅ Ganada |
 | ic4cream | Spread: Packers (-2.5) | Packers | 1.92 (52¢) | $32,318 | -$32,318 | ❌ Perdida |
-| AnonymousUsername | Panthers vs. Saints | Saints | 2.04 (49¢) | $25,567 | -$25,567 | ❌ Perdida |
