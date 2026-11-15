@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 11:07:30 (hora de Perú)
+Actualizado: 2026-11-15 11:09:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8578**  ($486,795,943 en total)
-- Resueltas: **8526** — 5205 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,140,355** sobre $484,331,974 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,367** sobre $841,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,118,526** sobre $484,362,119 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,295** sobre $841,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | — | ⏳ Pendiente |
 | xifutloong3 | Jaguars vs. Titans | Jaguars | 1.19 (84¢) | $54,949 | — | ⏳ Pendiente |
 | sinasinner | Spread: Lions (-2.5) | Lions | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Latvia vs. Armenia: O/U 2.5 | Under 2.5 | 1.72 (58¢) | $30,145 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Latvia vs. Armenia: O/U 2.5 | Under 2.5 | 1.72 (58¢) | $30,145 | +$21,829 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar | Alexander Zverev | 1.43 (70¢) | $72,644 | +$31,133 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA - Map 3 Winner | Spirit | 1.92 (52¢) | $25,875 | -$25,875 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.20 (83¢) | $216,737 | +$44,392 | ✅ Ganada |
