@@ -128149,9 +128149,10 @@
     "side": "BUY",
     "usd": 25713.0,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "anulada",
     "ultimo_fill": 1794708928,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 0.0
   },
   {
     "telegram_msg_id": 17239,
@@ -128211,9 +128212,10 @@
     "side": "BUY",
     "usd": 27642.9844,
     "odds_at_bet": 55,
-    "status": "pending",
+    "status": "anulada",
     "ultimo_fill": 1794712360,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 0.0
   },
   {
     "telegram_msg_id": 17247,
@@ -128226,9 +128228,10 @@
     "side": "BUY",
     "usd": 28041.7788,
     "odds_at_bet": 63,
-    "status": "pending",
+    "status": "anulada",
     "ultimo_fill": 1794712621,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 0.0
   },
   {
     "telegram_msg_id": 17254,
@@ -128286,9 +128289,10 @@
     "side": "BUY",
     "usd": 73006.5612,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "anulada",
     "ultimo_fill": 1794713754,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 0.0
   },
   {
     "telegram_msg_id": 17259,
@@ -128363,6 +128367,36 @@
     "odds_at_bet": 89,
     "status": "pending",
     "ultimo_fill": 1794715296,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17276,
+    "timestamp": 1794715575,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cbb-pepp-ore-2026-11-15",
+    "title": "Pepperdine Waves vs. Oregon Ducks",
+    "outcome": "Oregon Ducks",
+    "side": "BUY",
+    "usd": 44065.269499999995,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1794715575,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17277,
+    "timestamp": 1794715632,
+    "username": "4217893367451",
+    "wallet": "0xb2088bb79ba9b217a1d261ab95c8e1c6e25ec095",
+    "slug": "cs2-ts7-furia-2026-11-15",
+    "title": "Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 25653.996499999997,
+    "odds_at_bet": 59,
+    "status": "pending",
+    "ultimo_fill": 1794715632,
     "fills": 1
   }
 ]

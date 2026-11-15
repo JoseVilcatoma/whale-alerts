@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 23:06:13 (hora de Perú)
+Actualizado: 2026-11-14 23:08:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8541**  ($484,558,262 en total)
+- Apuestas registradas: **8543**  ($484,627,981 en total)
 - Resueltas: **8498** — 5192 ganadas / 3306 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 18
 - Apostadores distintos: 731
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 6 | 64% | $61,793,525 | +$920,932 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 7 | 64% | $61,837,590 | +$920,932 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,21 +71,23 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 4217893367451 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.69 (59¢) | $25,654 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $44,065 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $25,969 | — | ⏳ Pendiente |
 | cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.64 (61¢) | $49,771 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Texas vs. LSU | Texas | 3.45 (29¢) | $51,877 | — | ⏳ Pendiente |
 | cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.67 (60¢) | $36,248 | — | ⏳ Pendiente |
 | 3648393489047 | Texas vs. LSU | LSU | 1.45 (69¢) | $41,409 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.96 (51¢) | $73,007 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.96 (51¢) | $73,007 | — | ⊘ Anulada |
 | MD14 | Pistons vs. Heat: O/U 247.5 | Under 247.5 | 1.16 (86¢) | $43,000 | -$43,000 | ❌ Perdida |
 | 999585 | Texas Tech vs. Oklahoma State | Texas Tech | 1.18 (85¢) | $178,311 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Texas vs. LSU | LSU | 1.23 (81¢) | $45,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.59 (63¢) | $28,042 | — | ⏳ Pendiente |
-| 0x6db5…e279 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.82 (55¢) | $27,643 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.59 (63¢) | $28,042 | — | ⊘ Anulada |
+| 0x6db5…e279 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.82 (55¢) | $27,643 | — | ⊘ Anulada |
 | MD14 | Nets vs. Grizzlies: O/U 235.5 | Over 235.5 | 1.14 (88¢) | $112,099 | +$15,286 | ✅ Ganada |
 | hudson62 | Kobe: Maxim Zhukov vs Takuya Kumasaka | Takuya Kumasaka | 1.12 (89¢) | $25,047 | +$563 | 💰 Vendida antes |
 | MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | +$11,998 | ✅ Ganada |
-| Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⏳ Pendiente |
+| Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⊘ Anulada |
 | Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Cavaliers | Cavaliers | 3.23 (31¢) | $67,416 | +$150,054 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Mavericks vs. Cavaliers | Mavericks | 1.35 (74¢) | $37,000 | -$37,000 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $189,260 | -$189,260 | ❌ Perdida |
 | zb8 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $29,400 | +$40,600 | ✅ Ganada |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $48,799 | -$48,799 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Total Kills Over/Under 24.5 in Game 2? | Under 24.5 in Game 2? | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
