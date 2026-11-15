@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 13:01:13 (hora de Perú)
+Actualizado: 2026-11-15 13:03:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8618**  ($489,404,827 en total)
+- Apuestas registradas: **8621**  ($489,508,696 en total)
 - Resueltas: **8534** — 5208 ganadas / 3326 perdidas (**61%** de acierto)
-- Pendientes: 57
+- Pendientes: 60
 - Apostadores distintos: 732
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 11 | 63% | $62,698,756 | +$670,282 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 12 | 63% | $62,743,388 | +$670,282 |
 | Sassy-Bucket | 118 | 120 | 3 | 50% | $16,676,613 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 2 | 52% | $13,160,175 | -$423,010 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 999585 | 40 | 6 | 0 | 87% | $5,495,443 | +$322,769 |
 | maz26 | 46 | 30 | 1 | 61% | $5,479,682 | +$450,791 |
-| Thunderous-Authoritarian-Snarl | 25 | 22 | 0 | 53% | $5,182,934 | -$1,682,566 |
+| Thunderous-Authoritarian-Snarl | 25 | 22 | 1 | 53% | $5,209,334 | -$1,682,566 |
 | BrotherObama | 54 | 59 | 4 | 48% | $5,020,652 | -$101,037 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
@@ -58,8 +58,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 38 | 22 | 1 | 63% | $3,234,523 | +$689,231 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
+| Multicoloured-Serf | 28 | 32 | 2 | 47% | $2,905,770 | -$631,167 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
-| Multicoloured-Serf | 28 | 32 | 1 | 47% | $2,872,933 | -$631,167 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Vikings vs. Packers | Packers | 1.79 (56¢) | $44,632 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Vikings vs. Packers | Vikings | 2.27 (44¢) | $26,400 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $32,837 | — | ⏳ Pendiente |
 | Sassy-Bucket | Bills vs. Jets | Bills | 1.25 (80¢) | $476,869 | — | ⏳ Pendiente |
 | sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | sinasinner | Spread: Lions (-2.5) | Lions | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Latvia vs. Armenia: O/U 2.5 | Under 2.5 | 1.72 (58¢) | $30,145 | +$21,829 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar | Alexander Zverev | 1.43 (70¢) | $72,644 | +$31,133 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA - Map 3 Winner | Spirit | 1.92 (52¢) | $25,875 | -$25,875 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.20 (83¢) | $216,737 | +$44,392 | ✅ Ganada |
-| MD14 | Counter-Strike: Spirit vs FURIA - Map 2 Winner | Spirit | 1.52 (66¢) | $50,249 | -$50,249 | ❌ Perdida |

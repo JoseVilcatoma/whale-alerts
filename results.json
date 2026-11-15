@@ -129523,5 +129523,50 @@
     "status": "pending",
     "ultimo_fill": 1794765590,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17394,
+    "timestamp": 1794765695,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nfl-kc-atl-2026-11-15",
+    "title": "Chiefs vs. Falcons",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "usd": 32836.9984,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1794765695,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17395,
+    "timestamp": 1794765720,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "nfl-min-gb-2026-11-15",
+    "title": "Vikings vs. Packers",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 26400.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1794765720,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17396,
+    "timestamp": 1794765763,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-min-gb-2026-11-15",
+    "title": "Vikings vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 44632.00000000001,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1794765763,
+    "fills": 1
   }
 ]
