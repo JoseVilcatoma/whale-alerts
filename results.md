@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 22:51:58 (hora de Perú)
+Actualizado: 2026-11-14 22:53:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8540**  ($484,532,293 en total)
-- Resueltas: **8490** — 5188 ganadas / 3302 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **8494** — 5190 ganadas / 3304 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,673,937** sobre $482,131,202 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,677** sobre $837,600 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,791,031** sobre $482,444,259 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,785** sobre $838,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 5 | 64% | $61,767,556 | +$920,932 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 177 | 99 | 1 | 64% | $13,836,193 | +$355,751 |
+| Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | PacersThreeandahalf | Texas vs. LSU | LSU | 1.23 (81¢) | $45,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.59 (63¢) | $28,042 | — | ⏳ Pendiente |
 | 0x6db5…e279 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.82 (55¢) | $27,643 | — | ⏳ Pendiente |
-| MD14 | Nets vs. Grizzlies: O/U 235.5 | Over 235.5 | 1.14 (88¢) | $112,099 | — | ⏳ Pendiente |
+| MD14 | Nets vs. Grizzlies: O/U 235.5 | Over 235.5 | 1.14 (88¢) | $112,099 | +$15,286 | ✅ Ganada |
 | hudson62 | Kobe: Maxim Zhukov vs Takuya Kumasaka | Takuya Kumasaka | 1.12 (89¢) | $25,047 | +$563 | 💰 Vendida antes |
 | MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | +$11,998 | ✅ Ganada |
 | Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⏳ Pendiente |
@@ -92,8 +92,8 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | nigiri99 | Sabres vs. Stars | Stars | 1.75 (57¢) | $37,005 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Grizzlies (-4.5) | Grizzlies | 2.08 (48¢) | $25,094 | +$27,185 | ✅ Ganada |
 | RJW1 | Spread: Grizzlies (-4.5) | Grizzlies | 2.04 (49¢) | $45,074 | +$46,914 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Nets vs. Grizzlies | Nets | 2.70 (37¢) | $125,346 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Nets vs. Grizzlies | Nets | 2.78 (36¢) | $37,209 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Nets vs. Grizzlies | Nets | 2.70 (37¢) | $125,346 | -$125,346 | ❌ Perdida |
+| robloxgamblemaster-2008-10-18 | Nets vs. Grizzlies | Nets | 2.78 (36¢) | $37,209 | -$37,209 | ❌ Perdida |
 | 999585 | Baylor vs. BYU | BYU | 1.09 (92¢) | $286,869 | +$24,945 | ✅ Ganada |
 | Donkey14 | Spread: Pistons (-4.5) | Heat | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Pistons (-4.5) | Pistons | 2.04 (49¢) | $35,495 | — | ⏳ Pendiente |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | olegio | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.89 (53¢) | $46,134 | -$46,134 | ❌ Perdida |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pelicans | Nuggets | 1.18 (85¢) | $59,137 | +$10,436 | ✅ Ganada |
-| Moneyloverman | Nets vs. Grizzlies | Grizzlies | 1.79 (56¢) | $38,404 | — | ⏳ Pendiente |
+| Moneyloverman | Nets vs. Grizzlies | Grizzlies | 1.79 (56¢) | $38,404 | +$30,174 | ✅ Ganada |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $26,315 | +$10,748 | ✅ Ganada |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $120,064 | +$49,040 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.17 (46¢) | $26,654 | +$31,289 | ✅ Ganada |
