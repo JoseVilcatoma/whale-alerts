@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 18:38:19 (hora de Perú)
+Actualizado: 2026-11-15 18:40:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8656**  ($491,482,284 en total)
+- Apuestas registradas: **8657**  ($491,667,494 en total)
 - Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 732
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 82 | 34 | 2 | 71% | $6,961,930 | -$88,582 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| 999585 | 42 | 6 | 1 | 88% | $5,858,238 | +$344,693 |
+| 999585 | 42 | 6 | 2 | 88% | $6,043,449 | +$344,693 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | 49ers vs. Cowboys | 49ers | 1.08 (93¢) | $185,211 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 2.00 (50¢) | $42,500 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 2.00 (50¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.28 (78¢) | $32,871 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | NOO-Yes | Bills vs. Jets | Bills | 1.27 (79¢) | $61,304 | +$16,296 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $25,363 | +$6,742 | ✅ Ganada |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $98,668 | +$80,728 | ✅ Ganada |
-| R2D2RS | Spread: Colts (-4.5) | Dolphins | 2.00 (50¢) | $53,410 | +$53,410 | ✅ Ganada |
