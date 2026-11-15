@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 19:14:50 (hora de Perú)
+Actualizado: 2026-11-14 19:16:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8512**  ($482,779,306 en total)
+- Apuestas registradas: **8513**  ($482,849,182 en total)
 - Resueltas: **8443** — 5156 ganadas / 3287 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 730
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 338 | 9 | 64% | $61,599,092 | +$737,608 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 177 | 97 | 1 | 65% | $13,729,108 | +$490,996 |
+| Lakersfan111 | 177 | 97 | 2 | 65% | $13,798,984 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Bulls vs. Timberwolves | Timberwolves | 1.12 (89¢) | $69,876 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Mavericks vs. Cavaliers | Mavericks | 1.32 (76¢) | $65,368 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: New Mexico (-17.5) | New Mexico | 1.92 (52¢) | $27,516 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.04 (49¢) | $58,164 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | lonmi2511 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.72 (58¢) | $36,940 | +$26,749 | ✅ Ganada |
 | retroactivesource | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.59 (63¢) | $40,452 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | Team Falcons | 2.13 (47¢) | $27,048 | -$27,048 | ❌ Perdida |
-| ArturitoFilito | Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs | FURIA | 1.33 (75¢) | $25,676 | +$8,559 | ✅ Ganada |
