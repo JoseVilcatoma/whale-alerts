@@ -128044,7 +128044,7 @@
     "side": "BUY",
     "usd": 45073.8799,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794703225,
     "fills": 1
   },
@@ -128059,7 +128059,7 @@
     "side": "BUY",
     "usd": 25093.9488,
     "odds_at_bet": 48,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794704111,
     "fills": 1
   },
@@ -128318,6 +128318,21 @@
     "odds_at_bet": 60,
     "status": "pending",
     "ultimo_fill": 1794714370,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17263,
+    "timestamp": 1794714487,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "cfb-tx-lsu-2026-11-14",
+    "title": "Texas vs. LSU",
+    "outcome": "Texas",
+    "side": "BUY",
+    "usd": 51876.6268,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "ultimo_fill": 1794714487,
     "fills": 1
   }
 ]

@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 22:47:54 (hora de Perú)
+Actualizado: 2026-11-14 22:49:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8538**  ($484,430,646 en total)
-- Resueltas: **8488** — 5186 ganadas / 3302 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Apuestas registradas: **8539**  ($484,482,523 en total)
+- Resueltas: **8490** — 5188 ganadas / 3302 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,748,035** sobre $482,061,034 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,889** sobre $837,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,673,937** sobre $482,131,202 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,677** sobre $837,600 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
-| Multicoloured-Serf | 27 | 29 | 4 | 48% | $2,790,405 | -$453,632 |
+| Multicoloured-Serf | 28 | 29 | 3 | 49% | $2,790,405 | -$426,447 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Texas vs. LSU | Texas | 3.45 (29¢) | $51,877 | — | ⏳ Pendiente |
 | cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.67 (60¢) | $36,248 | — | ⏳ Pendiente |
 | 3648393489047 | Texas vs. LSU | LSU | 1.45 (69¢) | $41,409 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.96 (51¢) | $73,007 | — | ⏳ Pendiente |
@@ -88,8 +89,8 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Mavericks vs. Cavaliers | Mavericks | 1.35 (74¢) | $37,000 | -$37,000 | ❌ Perdida |
 | 0F62 | Will Türkiye win on 2026-11-15? | No | 1.06 (94¢) | $59,255 | — | ⏳ Pendiente |
 | nigiri99 | Sabres vs. Stars | Stars | 1.75 (57¢) | $37,005 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Spread: Grizzlies (-4.5) | Grizzlies | 2.08 (48¢) | $25,094 | — | ⏳ Pendiente |
-| RJW1 | Spread: Grizzlies (-4.5) | Grizzlies | 2.04 (49¢) | $45,074 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: Grizzlies (-4.5) | Grizzlies | 2.08 (48¢) | $25,094 | +$27,185 | ✅ Ganada |
+| RJW1 | Spread: Grizzlies (-4.5) | Grizzlies | 2.04 (49¢) | $45,074 | +$46,914 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Nets vs. Grizzlies | Nets | 2.70 (37¢) | $125,346 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Grizzlies | Nets | 2.78 (36¢) | $37,209 | — | ⏳ Pendiente |
 | 999585 | Baylor vs. BYU | BYU | 1.09 (92¢) | $286,869 | +$24,945 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Total Kills Over/Under 24.5 in Game 2? | Under 24.5 in Game 2? | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Ethanael02 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $30,000 | +$41,429 | ✅ Ganada |
 | fantasy7788 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $52,375 | +$72,327 | ✅ Ganada |
-| Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | +$29,056 | ✅ Ganada |
