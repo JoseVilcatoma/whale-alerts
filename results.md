@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 10:14:20 (hora de Perú)
+Actualizado: 2026-11-15 10:16:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8571**  ($486,400,938 en total)
+- Apuestas registradas: **8572**  ($486,598,107 en total)
 - Resueltas: **8525** — 5204 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 731
 
 ### Balance
@@ -41,8 +41,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
+| 999585 | 39 | 6 | 1 | 87% | $5,495,443 | +$305,624 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
-| 999585 | 39 | 6 | 0 | 87% | $5,298,274 | +$305,624 |
 | Thunderous-Authoritarian-Snarl | 25 | 22 | 0 | 53% | $5,182,934 | -$1,682,566 |
 | BrotherObama | 54 | 59 | 2 | 48% | $4,926,652 | -$101,037 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Patriots vs. Lions | Lions | 1.09 (92¢) | $197,169 | — | ⏳ Pendiente |
 | flawfence | Vikings vs. Packers | Packers | 1.75 (57¢) | $114,000 | — | ⏳ Pendiente |
 | takeormake | Patriots vs. Lions | Patriots | 2.44 (41¢) | $50,000 | — | ⏳ Pendiente |
 | MigRodr | Chiefs vs. Falcons | Falcons | 2.70 (37¢) | $34,941 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Pistons (-4.5) | Pistons | 2.04 (49¢) | $35,495 | -$35,495 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Lions (-2.5) | Patriots | 2.13 (47¢) | $93,202 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bulls vs. Timberwolves | Timberwolves | 1.12 (89¢) | $69,876 | -$69,876 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Mavericks vs. Cavaliers | Mavericks | 1.32 (76¢) | $65,368 | -$65,368 | ❌ Perdida |
