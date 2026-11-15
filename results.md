@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 00:09:02 (hora de Perú)
+Actualizado: 2026-11-15 00:11:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8549**  ($485,128,802 en total)
+- Apuestas registradas: **8550**  ($485,157,634 en total)
 - Resueltas: **8505** — 5195 ganadas / 3310 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 731
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 11 | 64% | $62,205,882 | +$920,932 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 12 | 64% | $62,234,714 | +$920,932 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fight to Go the Distance? | No | 1.37 (73¢) | $28,832 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ciryl Gane win in Round 1? | No | 1.25 (80¢) | $79,304 | — | ⏳ Pendiente |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will France win on 2026-11-15? | Yes | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Utah | 3.03 (33¢) | $29,631 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $71,698 | +$10,713 | ✅ Ganada |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $157,339 | +$23,510 | ✅ Ganada |
 | solo88888 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
-| S-Works | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $31,667 | -$31,667 | ❌ Perdida |
