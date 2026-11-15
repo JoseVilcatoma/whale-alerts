@@ -128184,5 +128184,20 @@
     "fills": 1,
     "profit_usd": 562.86,
     "precio_salida": 91
+  },
+  {
+    "telegram_msg_id": 17245,
+    "timestamp": 1794712139,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "nba-bkn-mem-2026-11-14-total-235pt5",
+    "title": "Nets vs. Grizzlies: O/U 235.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 112098.932,
+    "odds_at_bet": 88,
+    "status": "pending",
+    "ultimo_fill": 1794712139,
+    "fills": 1
   }
 ]
