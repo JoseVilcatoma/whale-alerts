@@ -128320,7 +128320,7 @@
     "side": "BUY",
     "usd": 36247.752,
     "odds_at_bet": 60,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794714370,
     "fills": 1
   },
@@ -128350,7 +128350,7 @@
     "side": "BUY",
     "usd": 49770.5222,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794714636,
     "fills": 1
   },
@@ -128443,5 +128443,20 @@
     "status": "pending",
     "ultimo_fill": 1794717036,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17286,
+    "timestamp": 1794717353,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "cfb-utah-arz-2026-11-14",
+    "title": "Utah vs. Arizona",
+    "outcome": "Utah",
+    "side": "BUY",
+    "usd": 29631.327,
+    "odds_at_bet": 33,
+    "status": "pending",
+    "ultimo_fill": 1794717353,
+    "fills": 1
   }
 ]
