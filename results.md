@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 15:24:31 (hora de Perú)
+Actualizado: 2026-11-15 15:26:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8622**  ($489,622,600 en total)
+- Apuestas registradas: **8624**  ($489,724,834 en total)
 - Resueltas: **8535** — 5208 ganadas / 3327 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 62
 - Apostadores distintos: 732
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 54 | 59 | 4 | 48% | $5,020,652 | -$101,037 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
-| surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
+| surfandturf | 43 | 13 | 1 | 77% | $4,241,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | milkteaboba | 21 | 13 | 1 | 62% | $3,536,129 | -$600,751 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | — | ⏳ Pendiente |
+| surfandturf | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
 | 999585 | Vikings vs. Packers | Vikings | 1.12 (89¢) | $113,904 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Vikings vs. Packers | Packers | 1.79 (56¢) | $44,632 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Vikings vs. Packers | Vikings | 2.27 (44¢) | $26,400 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
 | 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | -$70,120 | ❌ Perdida |
 | xifutloong3 | Jaguars vs. Titans | Jaguars | 1.19 (84¢) | $54,949 | — | ⏳ Pendiente |
-| sinasinner | Spread: Lions (-2.5) | Lions | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Latvia vs. Armenia: O/U 2.5 | Under 2.5 | 1.72 (58¢) | $30,145 | +$21,829 | ✅ Ganada |
