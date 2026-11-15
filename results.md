@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 11:44:19 (hora de Perú)
+Actualizado: 2026-11-15 11:46:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8584**  ($486,977,660 en total)
+- Apuestas registradas: **8585**  ($487,101,212 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 31
 - Apostadores distintos: 732
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | 999585 | 39 | 6 | 1 | 87% | $5,495,443 | +$305,624 |
-| maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
+| maz26 | 46 | 30 | 1 | 61% | $5,479,682 | +$450,791 |
 | Thunderous-Authoritarian-Snarl | 25 | 22 | 0 | 53% | $5,182,934 | -$1,682,566 |
 | BrotherObama | 54 | 59 | 3 | 48% | $4,960,652 | -$101,037 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Panthers vs. Saints | Saints | 2.00 (50¢) | $123,553 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-6.5) | Raiders | 1.96 (51¢) | $34,276 | — | ⏳ Pendiente |
 | AnonymousUsername | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $35,178 | — | ⏳ Pendiente |
 | BrotherObama | Vikings vs. Packers | Vikings | 2.27 (44¢) | $34,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | +$11,998 | ✅ Ganada |
 | Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⊘ Anulada |
 | Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | -$28,990 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Cavaliers | Cavaliers | 3.23 (31¢) | $67,416 | +$150,054 | ✅ Ganada |
