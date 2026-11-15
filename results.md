@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 11:52:26 (hora de Perú)
+Actualizado: 2026-11-15 11:54:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8587**  ($487,165,482 en total)
+- Apuestas registradas: **8588**  ($487,197,800 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ic4cream | Spread: Packers (-2.5) | Packers | 1.92 (52¢) | $32,318 | — | ⏳ Pendiente |
 | AnonymousUsername | Panthers vs. Saints | Saints | 2.04 (49¢) | $25,567 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Falcons: O/U 46.5 | Over 46.5 | 1.85 (54¢) | $38,703 | — | ⏳ Pendiente |
 | gmpm2 | Panthers vs. Saints | Saints | 2.00 (50¢) | $123,553 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x6db5…e279 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.82 (55¢) | $27,643 | — | ⊘ Anulada |
 | MD14 | Nets vs. Grizzlies: O/U 235.5 | Over 235.5 | 1.14 (88¢) | $112,099 | +$15,286 | ✅ Ganada |
 | hudson62 | Kobe: Maxim Zhukov vs Takuya Kumasaka | Takuya Kumasaka | 1.12 (89¢) | $25,047 | +$563 | 💰 Vendida antes |
-| MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | +$11,998 | ✅ Ganada |
