@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 09:03:23 (hora de Perú)
+Actualizado: 2026-11-15 09:05:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8567**  ($486,138,997 en total)
+- Apuestas registradas: **8568**  ($486,201,997 en total)
 - Resueltas: **8525** — 5204 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 731
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MigRodr | Patriots vs. Lions | Patriots | 2.38 (42¢) | $63,000 | — | ⏳ Pendiente |
 | COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
 | 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | — | ⏳ Pendiente |
 | xifutloong3 | Jaguars vs. Titans | Jaguars | 1.19 (84¢) | $54,949 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | keeptheblueflagflyinghigh | Spread: New Mexico (-17.5) | New Mexico | 1.92 (52¢) | $27,516 | -$27,516 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.04 (49¢) | $58,164 | +$60,538 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.17 (46¢) | $35,754 | +$41,972 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.22 (45¢) | $56,069 | +$68,529 | ✅ Ganada |
