@@ -128623,5 +128623,20 @@
     "status": "pending",
     "ultimo_fill": 1794733523,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17316,
+    "timestamp": 1794734708,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "cs2-ts7-furia-2026-11-15-game2",
+    "title": "Counter-Strike: Spirit vs FURIA - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "usd": 50248.7634,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1794734708,
+    "fills": 1
   }
 ]
