@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 21:14:31 (hora de Perú)
+Actualizado: 2026-11-14 21:16:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8526**  ($483,757,135 en total)
-- Resueltas: **8473** — 5174 ganadas / 3299 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Apuestas registradas: **8527**  ($483,782,848 en total)
+- Resueltas: **8475** — 5176 ganadas / 3299 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,032,427** sobre $480,959,789 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,388** sobre $836,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,979,049** sobre $481,033,305 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,243** sobre $836,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 999585 | 37 | 6 | 1 | 86% | $5,119,963 | +$249,212 |
 | Thunderous-Authoritarian-Snarl | 24 | 22 | 0 | 52% | $4,966,198 | -$1,726,958 |
 | BrotherObama | 54 | 59 | 2 | 48% | $4,926,652 | -$101,037 |
-| Kch-Temp | 50 | 20 | 2 | 71% | $4,923,752 | +$1,921,115 |
+| Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
-| Multicoloured-Serf | 27 | 29 | 3 | 48% | $2,764,692 | -$453,632 |
+| Multicoloured-Serf | 27 | 29 | 4 | 48% | $2,790,405 | -$453,632 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Cavaliers | Cavaliers | 3.23 (31¢) | $67,416 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Mavericks vs. Cavaliers | Mavericks | 1.35 (74¢) | $37,000 | — | ⏳ Pendiente |
@@ -103,7 +104,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.00 (50¢) | $48,758 | +$48,758 | ✅ Ganada |
 | SineNooneEI | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.04 (49¢) | $43,179 | +$44,941 | ✅ Ganada |
-| nigiri99 | Washington vs. Michigan State | Washington | 1.69 (59¢) | $35,001 | — | ⏳ Pendiente |
+| nigiri99 | Washington vs. Michigan State | Washington | 1.69 (59¢) | $35,001 | +$24,322 | ✅ Ganada |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $71,698 | — | ⏳ Pendiente |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $157,339 | — | ⏳ Pendiente |
 | solo88888 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
@@ -118,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Total Kills Over/Under 24.5 in Game 2? | Under 24.5 in Game 2? | 3.12 (32¢) | $32,000 | -$32,000 | ❌ Perdida |
 | Ethanael02 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $30,000 | +$41,429 | ✅ Ganada |
 | fantasy7788 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $52,375 | +$72,327 | ✅ Ganada |
-| Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | — | ⏳ Pendiente |
+| Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | +$29,056 | ✅ Ganada |
 | sabghm | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 1.64 (61¢) | $31,991 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Georgia (-16.5) | Georgia | 1.96 (51¢) | $28,422 | +$27,307 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $26,963 | +$42,173 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | Kch-Temp | Tennessee vs. Texas A&M | Tennessee | 1.92 (52¢) | $39,818 | +$36,755 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Will Norway win on 2026-11-14? | Yes | 1.28 (78¢) | $193,933 | +$54,699 | ✅ Ganada |
 | Kch-Temp | Arkansas State vs. Coastal Carolina | Arkansas State | 2.04 (49¢) | $34,701 | -$34,701 | ❌ Perdida |
-| BrotherObama | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $60,000 | +$93,846 | ✅ Ganada |
