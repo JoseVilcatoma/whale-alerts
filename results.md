@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:37:25 (hora de Perú)
+Actualizado: 2026-11-15 16:39:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8636**  ($490,378,953 en total)
-- Resueltas: **8576** — 5234 ganadas / 3342 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Apuestas registradas: **8637**  ($490,408,592 en total)
+- Resueltas: **8579** — 5236 ganadas / 3343 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,812,019** sobre $487,721,687 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,671** sobre $846,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,751,411** sobre $487,849,535 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,566** sobre $846,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,7 +35,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 94 | 0 | 51% | $7,713,984 | -$665,096 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 82 | 34 | 1 | 71% | $6,932,291 | -$88,582 |
+| ethanaz | 82 | 34 | 2 | 71% | $6,961,930 | -$88,582 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | — | ⏳ Pendiente |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | — | ⏳ Pendiente |
 | fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $46,669 | — | ⏳ Pendiente |
@@ -100,7 +101,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | +$50,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $65,967 | +$53,973 | ✅ Ganada |
-| SuitableName | Spread: Colts (-4.5) | Dolphins | 2.04 (49¢) | $40,002 | — | ⏳ Pendiente |
+| SuitableName | Spread: Colts (-4.5) | Dolphins | 2.04 (49¢) | $40,002 | +$41,634 | ✅ Ganada |
 | sinasinner | Spread: Packers (-2.5) | Vikings | 2.04 (49¢) | $25,000 | +$26,020 | ✅ Ganada |
 | sinasinner | Panthers vs. Saints | Panthers | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | +$57,647 | ✅ Ganada |
@@ -110,7 +111,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | NOO-Yes | Bills vs. Jets | Bills | 1.27 (79¢) | $61,304 | +$16,296 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $25,363 | +$6,742 | ✅ Ganada |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $98,668 | +$80,728 | ✅ Ganada |
-| R2D2RS | Spread: Colts (-4.5) | Dolphins | 2.00 (50¢) | $53,410 | — | ⏳ Pendiente |
+| R2D2RS | Spread: Colts (-4.5) | Dolphins | 2.00 (50¢) | $53,410 | +$53,410 | ✅ Ganada |
 | VirIntrepidus | Spread: Jaguars (-10.5) | Titans | 2.04 (49¢) | $32,654 | -$32,654 | ❌ Perdida |
 | OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | +$9,837 | ✅ Ganada |
 | ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | +$12,785 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | TryToEarnCash | Vikings vs. Packers | Packers | 1.79 (56¢) | $25,872 | -$25,872 | ❌ Perdida |
 | SDTrading | Vikings vs. Packers: O/U 42.5 | Under 42.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
 | 1l2ihj34li12u34 | Will Spain win on 2026-11-15? | Yes | 2.08 (48¢) | $30,140 | — | ⏳ Pendiente |
-| AnonymousUsername | Texans vs. Browns | Texans | 1.52 (66¢) | $34,436 | — | ⏳ Pendiente |
