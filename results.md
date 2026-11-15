@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 18:25:52 (hora de Perú)
+Actualizado: 2026-11-15 18:27:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8653**  ($491,356,913 en total)
+- Apuestas registradas: **8654**  ($491,389,784 en total)
 - Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 40
 - Apostadores distintos: 732
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 13 | 63% | $63,073,612 | +$645,608 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 14 | 63% | $63,106,482 | +$645,608 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 3 | 64% | $13,935,581 | +$318,542 |
 | googleplay | 59 | 56 | 1 | 51% | $13,229,654 | -$953,023 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.28 (78¢) | $32,871 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Wizards: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $33,058 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 2.04 (49¢) | $69,479 | — | ⏳ Pendiente |
 | 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | R2D2RS | Spread: Colts (-4.5) | Dolphins | 2.00 (50¢) | $53,410 | +$53,410 | ✅ Ganada |
 | VirIntrepidus | Spread: Jaguars (-10.5) | Titans | 2.04 (49¢) | $32,654 | -$32,654 | ❌ Perdida |
 | OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | +$9,837 | ✅ Ganada |
-| ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | +$12,785 | ✅ Ganada |
