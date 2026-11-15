@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 13:20:02 (hora de Perú)
+Actualizado: 2026-11-15 15:06:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8621**  ($489,508,696 en total)
-- Resueltas: **8534** — 5208 ganadas / 3326 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Resueltas: **8535** — 5208 ganadas / 3327 perdidas (**61%** de acierto)
+- Pendientes: 59
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,393,100** sobre $484,907,610 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,697** sobre $842,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,428,100** sobre $484,942,610 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,797** sobre $842,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -55,7 +55,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 1 | 83% | $3,250,345 | -$343,357 |
-| fantasy7788 | 38 | 22 | 1 | 63% | $3,234,523 | +$689,231 |
+| fantasy7788 | 38 | 23 | 0 | 62% | $3,234,523 | +$654,231 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | Multicoloured-Serf | 28 | 32 | 2 | 47% | $2,905,770 | -$631,167 |
@@ -119,7 +119,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | nigiri99 | 49ers vs. Cowboys | 49ers | 1.54 (65¢) | $44,962 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Cowboys | Cowboys | 2.86 (35¢) | $28,297 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Heroic vs FaZe (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | FaZe | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
+| fantasy7788 | Counter-Strike: Heroic vs FaZe (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | FaZe | 2.08 (48¢) | $35,000 | -$35,000 | ❌ Perdida |
 | 999585 | Patriots vs. Lions | Lions | 1.09 (92¢) | $197,169 | +$17,145 | ✅ Ganada |
 | flawfence | Vikings vs. Packers | Packers | 1.75 (57¢) | $114,000 | — | ⏳ Pendiente |
 | takeormake | Patriots vs. Lions | Patriots | 2.44 (41¢) | $50,000 | -$50,000 | ❌ Perdida |
