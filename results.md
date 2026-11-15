@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 17:33:40 (hora de Perú)
+Actualizado: 2026-11-15 17:35:41 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8647**  ($490,994,006 en total)
-- Resueltas: **8584** — 5240 ganadas / 3344 perdidas (**61%** de acierto)
-- Pendientes: 36
+- Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
+- Pendientes: 33
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,755,877** sobre $488,070,008 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,606** sobre $847,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,758,875** sobre $488,215,512 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,655** sobre $847,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 602 | 347 | 14 | 63% | $63,073,612 | +$629,561 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 13 | 63% | $63,073,612 | +$645,608 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 1 | 64% | $13,879,781 | +$318,542 |
 | googleplay | 59 | 56 | 0 | 51% | $13,160,175 | -$953,023 |
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| 999585 | 41 | 6 | 1 | 87% | $5,688,671 | +$336,847 |
+| 999585 | 42 | 6 | 0 | 88% | $5,688,671 | +$344,693 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 31 | 1 | 60% | $5,527,337 | +$327,238 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | Cowboys | 3.85 (26¢) | $25,046 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.35 (74¢) | $138,708 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.47 (68¢) | $39,158 | — | ⏳ Pendiente |
-| 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | — | ⏳ Pendiente |
+| 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | +$7,845 | ✅ Ganada |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | — | ⏳ Pendiente |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | — | ⏳ Pendiente |
 | fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | — | ⏳ Pendiente |
@@ -109,7 +109,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | -$43,058 | ❌ Perdida |
 | milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | +$50,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | +$16,047 | ✅ Ganada |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $65,967 | +$53,973 | ✅ Ganada |
 | SuitableName | Spread: Colts (-4.5) | Dolphins | 2.04 (49¢) | $40,002 | +$41,634 | ✅ Ganada |
 | sinasinner | Spread: Packers (-2.5) | Vikings | 2.04 (49¢) | $25,000 | +$26,020 | ✅ Ganada |
