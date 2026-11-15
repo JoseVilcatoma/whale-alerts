@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 01:12:28 (hora de Perú)
+Actualizado: 2026-11-15 01:14:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8554**  ($485,294,119 en total)
-- Resueltas: **8507** — 5196 ganadas / 3311 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **8512** — 5198 ganadas / 3314 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,021,678** sobre $483,173,162 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,870** sobre $839,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,112,288** sobre $483,338,480 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,115** sobre $839,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 342 | 12 | 64% | $62,282,714 | +$703,869 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 344 | 10 | 63% | $62,282,714 | +$627,037 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,11 +71,11 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x6db5…e279 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.08 (93¢) | $30,214 | — | ⏳ Pendiente |
-| Parz1vaI | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.47 (68¢) | $28,709 | — | ⏳ Pendiente |
-| cavvvy | O/U 3.5 Rounds | Under 3.5 Rounds | 1.59 (63¢) | $29,562 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Josh Hokit | 3.12 (32¢) | $48,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fight to Go the Distance? | No | 1.37 (73¢) | $28,832 | — | ⏳ Pendiente |
+| 0x6db5…e279 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.08 (93¢) | $30,214 | +$2,274 | ✅ Ganada |
+| Parz1vaI | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.47 (68¢) | $28,709 | +$13,510 | ✅ Ganada |
+| cavvvy | O/U 3.5 Rounds | Under 3.5 Rounds | 1.59 (63¢) | $29,562 | -$29,562 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Josh Hokit | 3.12 (32¢) | $48,000 | -$48,000 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fight to Go the Distance? | No | 1.37 (73¢) | $28,832 | -$28,832 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ciryl Gane win in Round 1? | No | 1.25 (80¢) | $79,304 | — | ⏳ Pendiente |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will France win on 2026-11-15? | Yes | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Utah | 3.03 (33¢) | $29,631 | — | ⏳ Pendiente |
