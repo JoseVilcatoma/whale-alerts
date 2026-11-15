@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 02:37:49 (hora de Perú)
+Actualizado: 2026-11-15 02:39:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8556**  ($485,428,193 en total)
-- Resueltas: **8516** — 5200 ganadas / 3316 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **8519** — 5202 ganadas / 3317 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,123,924** sobre $483,659,025 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,273** sobre $840,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,146,018** sobre $483,822,730 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,100** sobre $840,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 598 | 344 | 10 | 63% | $62,386,214 | +$646,863 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 599 | 345 | 8 | 63% | $62,386,214 | +$603,524 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,8 +71,8 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Arizona | 1.45 (69¢) | $103,500 | — | ⏳ Pendiente |
-| bands1 | Utah vs. Arizona | Utah | 1.69 (59¢) | $30,574 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Arizona | 1.45 (69¢) | $103,500 | -$103,500 | ❌ Perdida |
+| bands1 | Utah vs. Arizona | Utah | 1.69 (59¢) | $30,574 | +$21,246 | ✅ Ganada |
 | 0x6db5…e279 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.08 (93¢) | $30,214 | +$2,274 | ✅ Ganada |
 | Parz1vaI | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.47 (68¢) | $28,709 | +$13,510 | ✅ Ganada |
 | cavvvy | O/U 3.5 Rounds | Under 3.5 Rounds | 1.59 (63¢) | $29,562 | -$29,562 | ❌ Perdida |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fight to Go the Distance? | No | 1.37 (73¢) | $28,832 | -$28,832 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ciryl Gane win in Round 1? | No | 1.25 (80¢) | $79,304 | +$19,826 | ✅ Ganada |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will France win on 2026-11-15? | Yes | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Utah | 3.03 (33¢) | $29,631 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Utah | 3.03 (33¢) | $29,631 | +$60,161 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Amanda Nunes | 2.50 (40¢) | $217,063 | -$217,063 | ❌ Perdida |
 | Multicoloured-Serf | Texas vs. LSU | LSU | 1.59 (63¢) | $82,529 | -$82,529 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.15 (87¢) | $42,293 | — | ⏳ Pendiente |
