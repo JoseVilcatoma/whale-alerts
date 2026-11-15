@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 01:40:58 (hora de Perú)
+Actualizado: 2026-11-15 01:43:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8555**  ($485,324,693 en total)
-- Resueltas: **8515** — 5199 ganadas / 3316 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **8516** — 5200 ganadas / 3316 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,155,391** sobre $483,480,714 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,290** sobre $840,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,123,924** sobre $483,659,025 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,273** sobre $840,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
-| 999585 | 38 | 6 | 1 | 86% | $5,298,274 | +$274,157 |
+| 999585 | 39 | 6 | 0 | 87% | $5,298,274 | +$305,624 |
 | Thunderous-Authoritarian-Snarl | 24 | 22 | 0 | 52% | $4,966,198 | -$1,726,958 |
 | BrotherObama | 54 | 59 | 2 | 48% | $4,926,652 | -$101,037 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 3648393489047 | Texas vs. LSU | LSU | 1.45 (69¢) | $41,409 | -$41,409 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.96 (51¢) | $73,007 | — | ⊘ Anulada |
 | MD14 | Pistons vs. Heat: O/U 247.5 | Under 247.5 | 1.16 (86¢) | $43,000 | -$43,000 | ❌ Perdida |
-| 999585 | Texas Tech vs. Oklahoma State | Texas Tech | 1.18 (85¢) | $178,311 | — | ⏳ Pendiente |
+| 999585 | Texas Tech vs. Oklahoma State | Texas Tech | 1.18 (85¢) | $178,311 | +$31,467 | ✅ Ganada |
 | PacersThreeandahalf | Texas vs. LSU | LSU | 1.23 (81¢) | $45,000 | -$45,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.59 (63¢) | $28,042 | — | ⊘ Anulada |
 | 0x6db5…e279 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.82 (55¢) | $27,643 | — | ⊘ Anulada |
