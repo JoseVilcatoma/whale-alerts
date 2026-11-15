@@ -128229,5 +128229,35 @@
     "status": "pending",
     "ultimo_fill": 1794712621,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17254,
+    "timestamp": 1794712882,
+    "username": "PacersThreeandahalf",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "cfb-tx-lsu-2026-11-14",
+    "title": "Texas vs. LSU",
+    "outcome": "LSU",
+    "side": "BUY",
+    "usd": 44999.55,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1794712882,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17255,
+    "timestamp": 1794712944,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-txtech-okst-2026-11-14",
+    "title": "Texas Tech vs. Oklahoma State",
+    "outcome": "Texas Tech",
+    "side": "BUY",
+    "usd": 178310.943,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1794712946,
+    "fills": 2
   }
 ]
