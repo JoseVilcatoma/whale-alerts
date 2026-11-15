@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 18:42:22 (hora de Perú)
+Actualizado: 2026-11-15 18:44:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8659**  ($491,737,017 en total)
+- Apuestas registradas: **8660**  ($491,786,145 en total)
 - Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 45
+- Pendientes: 46
 - Apostadores distintos: 732
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 15 | 63% | $63,145,340 | +$645,608 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 3 | 64% | $13,935,581 | +$318,542 |
-| googleplay | 59 | 56 | 3 | 51% | $13,322,154 | -$953,023 |
+| googleplay | 59 | 56 | 4 | 51% | $13,371,282 | -$953,023 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Rockets (-8.5) | Rockets | 1.96 (51¢) | $49,128 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Wizards | Rockets | 1.33 (75¢) | $38,857 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Rockets (-8.5) | Wizards | 2.04 (49¢) | $30,666 | — | ⏳ Pendiente |
 | 999585 | 49ers vs. Cowboys | 49ers | 1.08 (93¢) | $185,211 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | Donkey14 | Spread: 76ers (-7.5) | 76ers | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $34,311 | +$7,027 | ✅ Ganada |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $26,497 | +$7,044 | ✅ Ganada |
-| NOO-Yes | Bills vs. Jets | Bills | 1.27 (79¢) | $61,304 | +$16,296 | ✅ Ganada |
