@@ -128833,5 +128833,20 @@
     "status": "pending",
     "ultimo_fill": 1794755775,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 17339,
+    "timestamp": 1794756365,
+    "username": "fantasy7788",
+    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
+    "slug": "cs2-hero-faze-2026-11-15",
+    "title": "Counter-Strike: Heroic vs FaZe (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "usd": 35000.0,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794756365,
+    "fills": 1
   }
 ]
