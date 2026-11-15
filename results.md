@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 19:54:02 (hora de Perú)
+Actualizado: 2026-11-14 19:56:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8520**  ($483,502,376 en total)
+- Apuestas registradas: **8522**  ($483,564,475 en total)
 - Resueltas: **8445** — 5158 ganadas / 3287 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 54
 - Apostadores distintos: 730
 
 ### Balance
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 8 | 2 | 72% | $2,887,465 | -$192,369 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
-| Multicoloured-Serf | 27 | 29 | 1 | 48% | $2,710,608 | -$453,632 |
+| Multicoloured-Serf | 27 | 29 | 2 | 48% | $2,735,702 | -$453,632 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| nigiri99 | Sabres vs. Stars | Stars | 1.75 (57¢) | $37,005 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: Grizzlies (-4.5) | Grizzlies | 2.08 (48¢) | $25,094 | — | ⏳ Pendiente |
 | RJW1 | Spread: Grizzlies (-4.5) | Grizzlies | 2.04 (49¢) | $45,074 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Nets vs. Grizzlies | Nets | 2.70 (37¢) | $125,346 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Nets vs. Grizzlies | Nets | 2.78 (36¢) | $37,209 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | Kyn008 | Will Bosnia and Herzegovina win on 2026-11-14? | No | 1.15 (87¢) | $26,879 | +$4,016 | ✅ Ganada |
 | justwins | Kansas vs. West Virginia | West Virginia | 1.79 (56¢) | $25,087 | -$25,087 | ❌ Perdida |
 | 1l2ihj34li12u34 | Will Real Sociedad de Fútbol B win on 2026-11-14? | No | 1.69 (59¢) | $25,933 | +$18,021 | ✅ Ganada |
-| Lanlanlanlan | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $103,600 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | -$27,183 | ❌ Perdida |

@@ -128047,5 +128047,35 @@
     "status": "pending",
     "ultimo_fill": 1794703225,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17206,
+    "timestamp": 1794704111,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-bkn-mem-2026-11-14-spread-home-4pt5",
+    "title": "Spread: Grizzlies (-4.5)",
+    "outcome": "Grizzlies",
+    "side": "BUY",
+    "usd": 25093.9488,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794704111,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17207,
+    "timestamp": 1794704154,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "nhl-buf-dal-2026-11-14",
+    "title": "Sabres vs. Stars",
+    "outcome": "Stars",
+    "side": "BUY",
+    "usd": 37005.359099999994,
+    "odds_at_bet": 57,
+    "status": "pending",
+    "ultimo_fill": 1794704154,
+    "fills": 1
   }
 ]
