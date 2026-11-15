@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 01:26:48 (hora de Perú)
+Actualizado: 2026-11-15 01:28:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8555**  ($485,324,693 en total)
-- Resueltas: **8514** — 5199 ganadas / 3315 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8515** — 5199 ganadas / 3316 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,126,401** sobre $483,451,724 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,190** sobre $840,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,155,391** sobre $483,480,714 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,290** sobre $840,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
-| Multicoloured-Serf | 28 | 30 | 3 | 48% | $2,872,933 | -$508,975 |
+| Multicoloured-Serf | 28 | 31 | 2 | 47% | $2,872,933 | -$537,965 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -100,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | hudson62 | Kobe: Maxim Zhukov vs Takuya Kumasaka | Takuya Kumasaka | 1.12 (89¢) | $25,047 | +$563 | 💰 Vendida antes |
 | MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | +$11,998 | ✅ Ganada |
 | Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⊘ Anulada |
-| Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | -$28,990 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Cavaliers | Cavaliers | 3.23 (31¢) | $67,416 | +$150,054 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Mavericks vs. Cavaliers | Mavericks | 1.35 (74¢) | $37,000 | -$37,000 | ❌ Perdida |
 | 0F62 | Will Türkiye win on 2026-11-15? | No | 1.06 (94¢) | $59,255 | — | ⏳ Pendiente |
