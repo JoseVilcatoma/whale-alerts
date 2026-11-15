@@ -127864,7 +127864,7 @@
     "side": "BUY",
     "usd": 56068.9065,
     "odds_at_bet": 45,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794699449,
     "fills": 2
   },
@@ -127879,7 +127879,7 @@
     "side": "BUY",
     "usd": 35753.8404,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794699731,
     "fills": 1
   },
@@ -127894,7 +127894,7 @@
     "side": "BUY",
     "usd": 58163.8571,
     "odds_at_bet": 49,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794701089,
     "fills": 1
   },
@@ -127924,7 +127924,7 @@
     "side": "BUY",
     "usd": 65368.4056,
     "odds_at_bet": 76,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794701335,
     "fills": 1
   },
@@ -128104,7 +128104,7 @@
     "side": "BUY",
     "usd": 37000.0,
     "odds_at_bet": 74,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794705496,
     "fills": 1
   },
@@ -128119,7 +128119,7 @@
     "side": "BUY",
     "usd": 67415.6349,
     "odds_at_bet": 31,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794705765,
     "fills": 1
   },
@@ -128213,6 +128213,21 @@
     "odds_at_bet": 55,
     "status": "pending",
     "ultimo_fill": 1794712360,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17247,
+    "timestamp": 1794712621,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ufc-kev-uro-2026-11-14",
+    "title": "UFC 334: Kevin Holland vs. Uro\u0161 Medic (Welterweight, Main Card)",
+    "outcome": "Kevin Holland",
+    "side": "BUY",
+    "usd": 28041.7788,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1794712621,
     "fills": 1
   }
 ]
