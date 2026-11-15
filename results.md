@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 22:23:07 (hora de Perú)
+Actualizado: 2026-11-14 22:25:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8534**  ($484,236,982 en total)
-- Resueltas: **8485** — 5184 ganadas / 3301 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **8486** — 5185 ganadas / 3301 perdidas (**61%** de acierto)
+- Pendientes: 25
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,715,102** sobre $481,666,297 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,830** sobre $837,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,703,104** sobre $481,704,289 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,798** sobre $837,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x6db5…e279 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.82 (55¢) | $27,643 | — | ⏳ Pendiente |
 | MD14 | Nets vs. Grizzlies: O/U 235.5 | Over 235.5 | 1.14 (88¢) | $112,099 | — | ⏳ Pendiente |
 | hudson62 | Kobe: Maxim Zhukov vs Takuya Kumasaka | Takuya Kumasaka | 1.12 (89¢) | $25,047 | +$563 | 💰 Vendida antes |
-| MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | — | ⏳ Pendiente |
+| MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | +$11,998 | ✅ Ganada |
 | Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Cavaliers | Cavaliers | 3.23 (31¢) | $67,416 | +$150,054 | ✅ Ganada |
