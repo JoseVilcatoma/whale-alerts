@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 21:54:00 (hora de Perú)
+Actualizado: 2026-11-14 21:56:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8529**  ($483,845,888 en total)
-- Resueltas: **8476** — 5177 ganadas / 3299 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **8477** — 5178 ganadas / 3299 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,978,486** sobre $481,058,353 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,243** sobre $836,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,968,050** sobre $481,117,490 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,226** sobre $836,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $91,944 | +$99,606 | ✅ Ganada |
 | olegio | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.89 (53¢) | $46,134 | -$46,134 | ❌ Perdida |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pelicans | Nuggets | 1.18 (85¢) | $59,137 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pelicans | Nuggets | 1.18 (85¢) | $59,137 | +$10,436 | ✅ Ganada |
 | Moneyloverman | Nets vs. Grizzlies | Grizzlies | 1.79 (56¢) | $38,404 | — | ⏳ Pendiente |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $26,315 | +$10,748 | ✅ Ganada |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $120,064 | +$49,040 | ✅ Ganada |
