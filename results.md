@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 04:05:06 (hora de Perú)
+Actualizado: 2026-11-15 04:07:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8557**  ($485,457,778 en total)
+- Apuestas registradas: **8558**  ($485,546,278 en total)
 - Resueltas: **8519** — 5202 ganadas / 3317 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 731
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 599 | 345 | 8 | 63% | $62,386,214 | +$603,524 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 599 | 345 | 9 | 63% | $62,474,714 | +$603,524 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.69 (59¢) | $88,500 | — | ⏳ Pendiente |
 | MegaMan-.- | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.64 (61¢) | $29,585 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Arizona | 1.45 (69¢) | $103,500 | -$103,500 | ❌ Perdida |
 | bands1 | Utah vs. Arizona | Utah | 1.69 (59¢) | $30,574 | +$21,246 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $26,315 | +$10,748 | ✅ Ganada |
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $120,064 | +$49,040 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.17 (46¢) | $26,654 | +$31,289 | ✅ Ganada |
-| llllllllloooo | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
