@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 22:35:32 (hora de Perú)
+Actualizado: 2026-11-14 22:37:36 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8535**  ($484,279,982 en total)
+- Apuestas registradas: **8536**  ($484,352,989 en total)
 - Resueltas: **8486** — 5185 ganadas / 3301 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 731
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 4 | 64% | $61,694,549 | +$920,932 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 5 | 64% | $61,767,556 | +$920,932 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 98 | 2 | 64% | $13,836,193 | +$425,627 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.96 (51¢) | $73,007 | — | ⏳ Pendiente |
 | MD14 | Pistons vs. Heat: O/U 247.5 | Under 247.5 | 1.16 (86¢) | $43,000 | — | ⏳ Pendiente |
 | 999585 | Texas Tech vs. Oklahoma State | Texas Tech | 1.18 (85¢) | $178,311 | — | ⏳ Pendiente |
 | PacersThreeandahalf | Texas vs. LSU | LSU | 1.23 (81¢) | $45,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | +$29,056 | ✅ Ganada |
 | sabghm | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 1.64 (61¢) | $31,991 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Georgia (-16.5) | Georgia | 1.96 (51¢) | $28,422 | +$27,307 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $26,963 | +$42,173 | ✅ Ganada |
