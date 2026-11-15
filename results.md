@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:01:55 (hora de Perú)
+Actualizado: 2026-11-15 16:04:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8626**  ($489,779,115 en total)
+- Apuestas registradas: **8627**  ($489,826,770 en total)
 - Resueltas: **8539** — 5211 ganadas / 3328 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Pendientes: 61
 - Apostadores distintos: 732
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | 999585 | 40 | 6 | 1 | 87% | $5,609,347 | +$322,769 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 46 | 30 | 1 | 61% | $5,479,682 | +$450,791 |
+| maz26 | 46 | 30 | 2 | 61% | $5,527,337 | +$450,791 |
 | Thunderous-Authoritarian-Snarl | 25 | 22 | 1 | 53% | $5,209,334 | -$1,682,566 |
 | BrotherObama | 54 | 59 | 4 | 48% | $5,020,652 | -$101,037 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | — | ⏳ Pendiente |
 | sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | — | ⏳ Pendiente |
 | OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | takeormake | Patriots vs. Lions | Patriots | 2.44 (41¢) | $50,000 | -$50,000 | ❌ Perdida |
 | MigRodr | Chiefs vs. Falcons | Falcons | 2.70 (37¢) | $34,941 | — | ⏳ Pendiente |
 | MigRodr | Patriots vs. Lions | Patriots | 2.38 (42¢) | $63,000 | -$63,000 | ❌ Perdida |
-| COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
