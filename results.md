@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 19:18:59 (hora de Perú)
+Actualizado: 2026-11-14 19:21:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8513**  ($482,849,182 en total)
-- Resueltas: **8444** — 5157 ganadas / 3287 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Resueltas: **8445** — 5158 ganadas / 3287 perdidas (**61%** de acierto)
+- Pendientes: 45
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,183,908** sobre $479,449,256 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,987** sobre $833,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,156,600** sobre $479,477,678 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,891** sobre $833,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | fantasy7788 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $52,375 | — | ⏳ Pendiente |
 | Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | — | ⏳ Pendiente |
 | sabghm | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 1.64 (61¢) | $31,991 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Spread: Georgia (-16.5) | Georgia | 1.96 (51¢) | $28,422 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Spread: Georgia (-16.5) | Georgia | 1.96 (51¢) | $28,422 | +$27,307 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 2.56 (39¢) | $26,963 | — | ⏳ Pendiente |
 | heyjason | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Bilibili Gaming | 2.56 (39¢) | $48,750 | -$48,750 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 1 Winner | Gen.G | 1.64 (61¢) | $240,456 | +$153,734 | ✅ Ganada |
