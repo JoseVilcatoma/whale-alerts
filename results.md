@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 19:33:22 (hora de Perú)
+Actualizado: 2026-11-14 19:35:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8516**  ($483,007,878 en total)
+- Apuestas registradas: **8518**  ($483,331,956 en total)
 - Resueltas: **8445** — 5158 ganadas / 3287 perdidas (**61%** de acierto)
-- Pendientes: 48
+- Pendientes: 50
 - Apostadores distintos: 730
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 593 | 338 | 9 | 64% | $61,599,092 | +$737,608 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 177 | 97 | 2 | 65% | $13,798,984 | +$490,996 |
+| Lakersfan111 | 177 | 97 | 3 | 65% | $13,836,193 | +$490,996 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -42,10 +42,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
+| 999585 | 37 | 6 | 1 | 86% | $5,119,963 | +$249,212 |
 | Thunderous-Authoritarian-Snarl | 23 | 20 | 3 | 53% | $4,966,198 | -$1,533,083 |
 | BrotherObama | 51 | 59 | 5 | 46% | $4,926,652 | -$276,141 |
 | Kch-Temp | 50 | 20 | 2 | 71% | $4,923,752 | +$1,921,115 |
-| 999585 | 37 | 6 | 0 | 86% | $4,833,094 | +$249,212 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Nets vs. Grizzlies | Nets | 2.78 (36¢) | $37,209 | — | ⏳ Pendiente |
+| 999585 | Baylor vs. BYU | BYU | 1.09 (92¢) | $286,869 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Pistons (-4.5) | Heat | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Pistons (-4.5) | Pistons | 2.04 (49¢) | $35,495 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Lions (-2.5) | Patriots | 2.13 (47¢) | $93,202 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | keeptheblueflagflyinghigh | Spread: Alabama (-14.5) | Vanderbilt | 1.89 (53¢) | $27,183 | -$27,183 | ❌ Perdida |
 | gmpm2 | Spread: Miami (FL) (-13.5) | Duke | 2.13 (47¢) | $28,585 | +$32,234 | ✅ Ganada |
 | xjbt | Games Total: O/U 3.5 | Over 3.5 | 1.37 (73¢) | $57,468 | — | ⏳ Pendiente |
-| SineNooneEI | Flames vs. Kings | Kings | 1.59 (63¢) | $33,940 | — | ⏳ Pendiente |
-| MD14 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
