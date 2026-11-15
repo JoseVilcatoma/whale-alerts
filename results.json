@@ -128428,5 +128428,20 @@
     "status": "pending",
     "ultimo_fill": 1794715895,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17283,
+    "timestamp": 1794717027,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ufc-ama1-kay4-2026-11-14",
+    "title": "UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card)",
+    "outcome": "Amanda Nunes",
+    "side": "BUY",
+    "usd": 217062.90800000002,
+    "odds_at_bet": 40,
+    "status": "pending",
+    "ultimo_fill": 1794717036,
+    "fills": 2
   }
 ]
