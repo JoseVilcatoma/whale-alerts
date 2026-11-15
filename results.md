@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 18:19:35 (hora de Perú)
+Actualizado: 2026-11-15 18:21:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8651**  ($491,254,377 en total)
+- Apuestas registradas: **8652**  ($491,323,855 en total)
 - Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 37
+- Pendientes: 38
 - Apostadores distintos: 732
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 13 | 63% | $63,073,612 | +$645,608 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 3 | 64% | $13,935,581 | +$318,542 |
-| googleplay | 59 | 56 | 0 | 51% | $13,160,175 | -$953,023 |
+| googleplay | 59 | 56 | 1 | 51% | $13,229,654 | -$953,023 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Spread: Rockets (-8.5) | Rockets | 2.04 (49¢) | $69,479 | — | ⏳ Pendiente |
 | 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | — | ⏳ Pendiente |
 | 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.64 (61¢) | $29,311 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | +$9,837 | ✅ Ganada |
 | ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | +$12,785 | ✅ Ganada |
 | nigiri99 | Bills vs. Jets | Bills | 1.27 (79¢) | $62,478 | +$16,608 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Spread: Chiefs (-3.5) | Falcons | 1.89 (53¢) | $32,516 | -$32,516 | ❌ Perdida |
