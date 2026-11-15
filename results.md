@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 09:01:20 (hora de Perú)
+Actualizado: 2026-11-15 09:03:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8565**  ($486,026,877 en total)
+- Apuestas registradas: **8567**  ($486,138,997 en total)
 - Resueltas: **8525** — 5204 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 15
 - Apostadores distintos: 731
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
+| 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | — | ⏳ Pendiente |
 | xifutloong3 | Jaguars vs. Titans | Jaguars | 1.19 (84¢) | $54,949 | — | ⏳ Pendiente |
 | sinasinner | Spread: Lions (-2.5) | Lions | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Latvia vs. Armenia: O/U 2.5 | Under 2.5 | 1.72 (58¢) | $30,145 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.04 (49¢) | $58,164 | +$60,538 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.17 (46¢) | $35,754 | +$41,972 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.22 (45¢) | $56,069 | +$68,529 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.92 (52¢) | $49,556 | -$49,556 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $91,944 | +$99,606 | ✅ Ganada |
