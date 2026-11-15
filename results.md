@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:22:56 (hora de Perú)
+Actualizado: 2026-11-15 16:25:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8631**  ($490,039,985 en total)
+- Apuestas registradas: **8633**  ($490,239,913 en total)
 - Resueltas: **8550** — 5217 ganadas / 3333 perdidas (**61%** de acierto)
-- Pendientes: 54
+- Pendientes: 56
 - Apostadores distintos: 732
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 347 | 12 | 63% | $62,830,499 | +$625,650 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 347 | 13 | 63% | $63,001,897 | +$625,650 |
 | Sassy-Bucket | 118 | 120 | 3 | 50% | $16,676,613 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 2 | 52% | $13,160,175 | -$423,010 |
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 43 | 13 | 1 | 77% | $4,241,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| milkteaboba | 22 | 13 | 0 | 63% | $3,536,129 | -$550,751 |
+| milkteaboba | 22 | 13 | 1 | 63% | $3,564,659 | -$550,751 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,7 +71,9 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $87,111 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-14.5) | Celtics | 1.96 (51¢) | $45,398 | — | ⏳ Pendiente |
+| milkteaboba | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $28,530 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $213,111 | — | ⏳ Pendiente |
 | Donkey14 | Spread: 49ers (-3.5) | 49ers | 2.08 (48¢) | $38,535 | — | ⏳ Pendiente |
 | ropetard | Spread: Celtics (-14.5) | Celtics | 2.04 (49¢) | $55,805 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | nigiri99 | 49ers vs. Cowboys | 49ers | 1.54 (65¢) | $44,962 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Cowboys | Cowboys | 2.86 (35¢) | $28,297 | — | ⏳ Pendiente |
-| fantasy7788 | Counter-Strike: Heroic vs FaZe (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | FaZe | 2.08 (48¢) | $35,000 | -$35,000 | ❌ Perdida |
-| 999585 | Patriots vs. Lions | Lions | 1.09 (92¢) | $197,169 | +$17,145 | ✅ Ganada |
