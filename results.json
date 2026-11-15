@@ -128698,5 +128698,35 @@
     "status": "pending",
     "ultimo_fill": 1794749479,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17330,
+    "timestamp": 1794750243,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nfl-ne-det-2026-11-15-spread-home-2pt5",
+    "title": "Spread: Lions (-2.5)",
+    "outcome": "Lions",
+    "side": "BUY",
+    "usd": 30000.000000000004,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794750243,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17331,
+    "timestamp": 1794750245,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "nfl-jax-ten-2026-11-15",
+    "title": "Jaguars vs. Titans",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 54948.8688,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1794750245,
+    "fills": 1
   }
 ]
