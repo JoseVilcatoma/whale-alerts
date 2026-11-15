@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:51:56 (hora de Perú)
+Actualizado: 2026-11-15 16:54:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8641**  ($490,690,829 en total)
+- Apuestas registradas: **8642**  ($490,726,583 en total)
 - Resueltas: **8579** — 5236 ganadas / 3343 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Pendientes: 36
 - Apostadores distintos: 732
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 1 | 83% | $3,250,345 | -$343,357 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
-| juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
+| juice-fruit | 30 | 20 | 1 | 60% | $2,958,990 | +$224,378 |
 | Multicoloured-Serf | 29 | 32 | 1 | 48% | $2,905,770 | -$612,696 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| juice-fruit | Rams vs. Cardinals | Rams | 1.39 (72¢) | $35,753 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | Cowboys | 3.85 (26¢) | $25,046 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.35 (74¢) | $138,708 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.47 (68¢) | $39,158 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | gmpm2 | Panthers vs. Saints | Saints | 2.00 (50¢) | $123,553 | -$123,553 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-6.5) | Raiders | 1.96 (51¢) | $34,276 | — | ⏳ Pendiente |
 | AnonymousUsername | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $35,178 | +$7,205 | ✅ Ganada |
-| BrotherObama | Vikings vs. Packers | Vikings | 2.27 (44¢) | $34,000 | +$43,273 | ✅ Ganada |
