@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 22:45:53 (hora de Perú)
+Actualizado: 2026-11-14 22:47:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8537**  ($484,394,398 en total)
-- Resueltas: **8487** — 5186 ganadas / 3301 perdidas (**61%** de acierto)
+- Apuestas registradas: **8538**  ($484,430,646 en total)
+- Resueltas: **8488** — 5186 ganadas / 3302 perdidas (**61%** de acierto)
 - Pendientes: 27
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,678,159** sobre $481,991,158 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,789** sobre $837,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,748,035** sobre $482,061,034 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,889** sobre $837,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 5 | 64% | $61,767,556 | +$920,932 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
-| Lakersfan111 | 177 | 98 | 2 | 64% | $13,836,193 | +$425,627 |
+| Lakersfan111 | 177 | 99 | 1 | 64% | $13,836,193 | +$355,751 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| cavvvy | UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) | Caio Borralho | 1.67 (60¢) | $36,248 | — | ⏳ Pendiente |
 | 3648393489047 | Texas vs. LSU | LSU | 1.45 (69¢) | $41,409 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 1.96 (51¢) | $73,007 | — | ⏳ Pendiente |
 | MD14 | Pistons vs. Heat: O/U 247.5 | Under 247.5 | 1.16 (86¢) | $43,000 | — | ⏳ Pendiente |
@@ -95,7 +96,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | Donkey14 | Spread: Pistons (-4.5) | Heat | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Pistons (-4.5) | Pistons | 2.04 (49¢) | $35,495 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Lions (-2.5) | Patriots | 2.13 (47¢) | $93,202 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Bulls vs. Timberwolves | Timberwolves | 1.12 (89¢) | $69,876 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Bulls vs. Timberwolves | Timberwolves | 1.12 (89¢) | $69,876 | -$69,876 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Mavericks vs. Cavaliers | Mavericks | 1.32 (76¢) | $65,368 | -$65,368 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Spread: New Mexico (-17.5) | New Mexico | 1.92 (52¢) | $27,516 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Canadiens | Avalanche | 2.04 (49¢) | $58,164 | +$60,538 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | Ethanael02 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $30,000 | +$41,429 | ✅ Ganada |
 | fantasy7788 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $52,375 | +$72,327 | ✅ Ganada |
 | Kch-Temp | Washington vs. Michigan State | Washington | 1.75 (57¢) | $38,515 | +$29,056 | ✅ Ganada |
-| sabghm | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Kayla Harrison | 1.64 (61¢) | $31,991 | — | ⏳ Pendiente |

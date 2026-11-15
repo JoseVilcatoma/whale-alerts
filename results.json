@@ -127939,7 +127939,7 @@
     "side": "BUY",
     "usd": 69876.0805,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794701695,
     "fills": 1
   },
@@ -128303,6 +128303,21 @@
     "odds_at_bet": 69,
     "status": "pending",
     "ultimo_fill": 1794713892,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17261,
+    "timestamp": 1794714370,
+    "username": "cavvvy",
+    "wallet": "0xc46661a5c720740d7c70fbf2cfc10c5de8c4b5cf",
+    "slug": "ufc-cai2-you1-2026-11-14",
+    "title": "UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card)",
+    "outcome": "Caio Borralho",
+    "side": "BUY",
+    "usd": 36247.752,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1794714370,
     "fills": 1
   }
 ]
