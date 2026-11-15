@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 17:23:13 (hora de Perú)
+Actualizado: 2026-11-15 17:25:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8645**  ($490,831,189 en total)
+- Apuestas registradas: **8646**  ($490,905,205 en total)
 - Resueltas: **8584** — 5240 ganadas / 3344 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 732
 
 ### Balance
@@ -57,8 +57,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 39 | 8 | 0 | 83% | $3,250,345 | -$339,575 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
+| Multicoloured-Serf | 29 | 32 | 2 | 48% | $2,979,786 | -$612,696 |
 | juice-fruit | 30 | 20 | 1 | 60% | $2,958,990 | +$224,378 |
-| Multicoloured-Serf | 29 | 32 | 1 | 48% | $2,905,770 | -$612,696 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Seahawks vs. Raiders | Raiders | 2.13 (47¢) | $74,016 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $33,181 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.35 (74¢) | $43,588 | — | ⏳ Pendiente |
 | OzornoyYebaka | Rockets vs. Wizards | Rockets | 1.35 (74¢) | $27,838 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Türkiye win on 2026-11-15? | No | 1.08 (93¢) | $51,958 | +$3,911 | ✅ Ganada |
 | ic4cream | Spread: Packers (-2.5) | Packers | 1.92 (52¢) | $32,318 | -$32,318 | ❌ Perdida |
 | AnonymousUsername | Panthers vs. Saints | Saints | 2.04 (49¢) | $25,567 | -$25,567 | ❌ Perdida |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Falcons: O/U 46.5 | Over 46.5 | 1.85 (54¢) | $38,703 | +$32,969 | ✅ Ganada |
