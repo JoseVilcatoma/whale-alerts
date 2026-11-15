@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:10:16 (hora de Perú)
+Actualizado: 2026-11-15 16:12:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8627**  ($489,826,770 en total)
+- Apuestas registradas: **8628**  ($489,858,534 en total)
 - Resueltas: **8539** — 5211 ganadas / 3328 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 62
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | — | ⏳ Pendiente |
 | gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | — | ⏳ Pendiente |
 | sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | flawfence | Vikings vs. Packers | Packers | 1.75 (57¢) | $114,000 | — | ⏳ Pendiente |
 | takeormake | Patriots vs. Lions | Patriots | 2.44 (41¢) | $50,000 | -$50,000 | ❌ Perdida |
 | MigRodr | Chiefs vs. Falcons | Falcons | 2.70 (37¢) | $34,941 | — | ⏳ Pendiente |
-| MigRodr | Patriots vs. Lions | Patriots | 2.38 (42¢) | $63,000 | -$63,000 | ❌ Perdida |

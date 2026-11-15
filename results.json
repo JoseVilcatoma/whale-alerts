@@ -129658,5 +129658,20 @@
     "status": "pending",
     "ultimo_fill": 1794776517,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17409,
+    "timestamp": 1794777023,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nfl-sf-dal-2026-11-15-total-56pt5",
+    "title": "49ers vs. Cowboys: O/U 56.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 31763.99,
+    "odds_at_bet": 48,
+    "status": "pending",
+    "ultimo_fill": 1794777023,
+    "fills": 1
   }
 ]
