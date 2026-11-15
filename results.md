@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 23:02:08 (hora de Perú)
+Actualizado: 2026-11-14 23:04:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8541**  ($484,558,262 en total)
-- Resueltas: **8496** — 5191 ganadas / 3305 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **8498** — 5192 ganadas / 3306 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,806,114** sobre $482,524,265 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,809** sobre $838,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$4,811,609** sobre $482,589,759 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,809** sobre $838,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -96,8 +96,8 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Nets vs. Grizzlies | Nets | 2.70 (37¢) | $125,346 | -$125,346 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Nets vs. Grizzlies | Nets | 2.78 (36¢) | $37,209 | -$37,209 | ❌ Perdida |
 | 999585 | Baylor vs. BYU | BYU | 1.09 (92¢) | $286,869 | +$24,945 | ✅ Ganada |
-| Donkey14 | Spread: Pistons (-4.5) | Heat | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Pistons (-4.5) | Pistons | 2.04 (49¢) | $35,495 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Pistons (-4.5) | Heat | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Pistons (-4.5) | Pistons | 2.04 (49¢) | $35,495 | -$35,495 | ❌ Perdida |
 | Multicoloured-Serf | Spread: Lions (-2.5) | Patriots | 2.13 (47¢) | $93,202 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bulls vs. Timberwolves | Timberwolves | 1.12 (89¢) | $69,876 | -$69,876 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Mavericks vs. Cavaliers | Mavericks | 1.32 (76¢) | $65,368 | -$65,368 | ❌ Perdida |
