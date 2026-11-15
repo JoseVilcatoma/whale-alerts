@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:12:16 (hora de Perú)
+Actualizado: 2026-11-15 16:14:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8628**  ($489,858,534 en total)
-- Resueltas: **8539** — 5211 ganadas / 3328 perdidas (**61%** de acierto)
-- Pendientes: 62
+- Resueltas: **8540** — 5212 ganadas / 3328 perdidas (**61%** de acierto)
+- Pendientes: 61
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,385,478** sobre $485,153,195 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,779** sobre $842,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,352,509** sobre $485,191,897 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,694** sobre $842,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -113,7 +113,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Türkiye win on 2026-11-15? | No | 1.08 (93¢) | $51,958 | — | ⏳ Pendiente |
 | ic4cream | Spread: Packers (-2.5) | Packers | 1.92 (52¢) | $32,318 | — | ⏳ Pendiente |
 | AnonymousUsername | Panthers vs. Saints | Saints | 2.04 (49¢) | $25,567 | — | ⏳ Pendiente |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Falcons: O/U 46.5 | Over 46.5 | 1.85 (54¢) | $38,703 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Falcons: O/U 46.5 | Over 46.5 | 1.85 (54¢) | $38,703 | +$32,969 | ✅ Ganada |
 | gmpm2 | Panthers vs. Saints | Saints | 2.00 (50¢) | $123,553 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-6.5) | Raiders | 1.96 (51¢) | $34,276 | — | ⏳ Pendiente |
 | AnonymousUsername | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $35,178 | — | ⏳ Pendiente |
