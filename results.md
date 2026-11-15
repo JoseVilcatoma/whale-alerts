@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 01:16:32 (hora de Perú)
+Actualizado: 2026-11-15 01:18:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8554**  ($485,294,119 en total)
-- Resueltas: **8513** — 5198 ganadas / 3315 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8514** — 5199 ganadas / 3315 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,146,227** sobre $483,372,420 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,215** sobre $839,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,126,401** sobre $483,451,724 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,190** sobre $840,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 344 | 10 | 63% | $62,282,714 | +$627,037 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 598 | 344 | 9 | 63% | $62,282,714 | +$646,863 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | cavvvy | O/U 3.5 Rounds | Under 3.5 Rounds | 1.59 (63¢) | $29,562 | -$29,562 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Josh Hokit | 3.12 (32¢) | $48,000 | -$48,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fight to Go the Distance? | No | 1.37 (73¢) | $28,832 | -$28,832 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ciryl Gane win in Round 1? | No | 1.25 (80¢) | $79,304 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ciryl Gane win in Round 1? | No | 1.25 (80¢) | $79,304 | +$19,826 | ✅ Ganada |
 | 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will France win on 2026-11-15? | Yes | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Utah | 3.03 (33¢) | $29,631 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card) | Amanda Nunes | 2.50 (40¢) | $217,063 | -$217,063 | ❌ Perdida |
