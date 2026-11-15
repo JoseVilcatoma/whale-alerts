@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:47:42 (hora de Perú)
+Actualizado: 2026-11-15 16:49:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8640**  ($490,665,784 en total)
+- Apuestas registradas: **8641**  ($490,690,829 en total)
 - Resueltas: **8579** — 5236 ganadas / 3343 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Pendientes: 35
 - Apostadores distintos: 732
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 347 | 14 | 63% | $63,048,566 | +$625,650 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 347 | 15 | 63% | $63,073,612 | +$625,650 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 56 | 0 | 51% | $13,160,175 | -$953,023 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | Cowboys | 3.85 (26¢) | $25,046 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.35 (74¢) | $138,708 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.47 (68¢) | $39,158 | — | ⏳ Pendiente |
 | 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-6.5) | Raiders | 1.96 (51¢) | $34,276 | — | ⏳ Pendiente |
 | AnonymousUsername | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $35,178 | +$7,205 | ✅ Ganada |
 | BrotherObama | Vikings vs. Packers | Vikings | 2.27 (44¢) | $34,000 | +$43,273 | ✅ Ganada |
-| MigRodr | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Elina Svitolina | 3.45 (29¢) | $26,891 | — | ⏳ Pendiente |
