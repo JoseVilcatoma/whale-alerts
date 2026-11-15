@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 19:16:55 (hora de Perú)
+Actualizado: 2026-11-14 19:18:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8513**  ($482,849,182 en total)
-- Resueltas: **8443** — 5156 ganadas / 3287 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **8444** — 5157 ganadas / 3287 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,206,441** sobre $479,246,460 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,998** sobre $833,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,183,908** sobre $479,449,256 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,987** sobre $833,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -45,7 +45,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 23 | 20 | 3 | 53% | $4,966,198 | -$1,533,083 |
 | BrotherObama | 51 | 59 | 5 | 46% | $4,926,652 | -$276,141 |
 | Kch-Temp | 50 | 20 | 2 | 71% | $4,923,752 | +$1,921,115 |
-| 999585 | 36 | 6 | 1 | 86% | $4,833,094 | +$226,679 |
+| 999585 | 37 | 6 | 0 | 86% | $4,833,094 | +$249,212 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
@@ -97,7 +97,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | S-Works | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $31,667 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $59,000 | — | ⏳ Pendiente |
 | olegio | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.44 (41¢) | $38,022 | — | ⏳ Pendiente |
-| 999585 | Michigan vs. Oregon | Oregon | 1.11 (90¢) | $202,796 | — | ⏳ Pendiente |
+| 999585 | Michigan vs. Oregon | Oregon | 1.11 (90¢) | $202,796 | +$22,533 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $189,260 | — | ⏳ Pendiente |
 | zb8 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $29,400 | — | ⏳ Pendiente |
 | PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
