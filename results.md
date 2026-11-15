@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:39:26 (hora de Perú)
+Actualizado: 2026-11-15 16:41:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8637**  ($490,408,592 en total)
+- Apuestas registradas: **8638**  ($490,487,917 en total)
 - Resueltas: **8579** — 5236 ganadas / 3343 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 732
 
 ### Balance
@@ -40,7 +40,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
-| 999585 | 41 | 6 | 0 | 87% | $5,609,347 | +$336,847 |
+| 999585 | 41 | 6 | 1 | 87% | $5,688,671 | +$336,847 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 31 | 1 | 60% | $5,527,337 | +$327,238 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | — | ⏳ Pendiente |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | — | ⏳ Pendiente |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | — | ⏳ Pendiente |
 | fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | MigRodr | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Elina Svitolina | 3.45 (29¢) | $26,891 | — | ⏳ Pendiente |
 | TryToEarnCash | Vikings vs. Packers | Packers | 1.79 (56¢) | $25,872 | -$25,872 | ❌ Perdida |
 | SDTrading | Vikings vs. Packers: O/U 42.5 | Under 42.5 | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
-| 1l2ihj34li12u34 | Will Spain win on 2026-11-15? | Yes | 2.08 (48¢) | $30,140 | — | ⏳ Pendiente |
