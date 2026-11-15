@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:56:58 (hora de Perú)
+Actualizado: 2026-11-15 12:59:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8614**  ($488,820,958 en total)
-- Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 60
+- Apuestas registradas: **8617**  ($488,927,958 en total)
+- Resueltas: **8534** — 5208 ganadas / 3326 perdidas (**61%** de acierto)
+- Pendientes: 56
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,118,526** sobre $484,362,119 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,295** sobre $841,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,393,100** sobre $484,907,610 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,697** sobre $842,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -41,7 +41,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| 999585 | 39 | 6 | 1 | 87% | $5,495,443 | +$305,624 |
+| 999585 | 40 | 6 | 0 | 87% | $5,495,443 | +$322,769 |
 | maz26 | 46 | 30 | 1 | 61% | $5,479,682 | +$450,791 |
 | Thunderous-Authoritarian-Snarl | 25 | 22 | 0 | 53% | $5,182,934 | -$1,682,566 |
 | BrotherObama | 54 | 59 | 4 | 48% | $5,020,652 | -$101,037 |
@@ -59,7 +59,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
-| Multicoloured-Serf | 28 | 31 | 2 | 47% | $2,872,933 | -$537,965 |
+| Multicoloured-Serf | 28 | 32 | 1 | 47% | $2,872,933 | -$631,167 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | — | ⏳ Pendiente |
+| SuitableName | Spread: Jaguars (-10.5) | Jaguars | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | dhgreg | Vikings vs. Packers | Packers | 1.79 (56¢) | $56,000 | — | ⏳ Pendiente |
 | sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
@@ -113,21 +116,18 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 49ers vs. Cowboys | Cowboys | 2.86 (35¢) | $28,297 | — | ⏳ Pendiente |
 | fantasy7788 | Counter-Strike: Heroic vs FaZe (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | FaZe | 2.08 (48¢) | $35,000 | — | ⏳ Pendiente |
-| 999585 | Patriots vs. Lions | Lions | 1.09 (92¢) | $197,169 | — | ⏳ Pendiente |
+| 999585 | Patriots vs. Lions | Lions | 1.09 (92¢) | $197,169 | +$17,145 | ✅ Ganada |
 | flawfence | Vikings vs. Packers | Packers | 1.75 (57¢) | $114,000 | — | ⏳ Pendiente |
-| takeormake | Patriots vs. Lions | Patriots | 2.44 (41¢) | $50,000 | — | ⏳ Pendiente |
+| takeormake | Patriots vs. Lions | Patriots | 2.44 (41¢) | $50,000 | -$50,000 | ❌ Perdida |
 | MigRodr | Chiefs vs. Falcons | Falcons | 2.70 (37¢) | $34,941 | — | ⏳ Pendiente |
-| MigRodr | Patriots vs. Lions | Patriots | 2.38 (42¢) | $63,000 | — | ⏳ Pendiente |
-| COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | — | ⏳ Pendiente |
-| 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | — | ⏳ Pendiente |
+| MigRodr | Patriots vs. Lions | Patriots | 2.38 (42¢) | $63,000 | -$63,000 | ❌ Perdida |
+| COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
+| 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | -$70,120 | ❌ Perdida |
 | xifutloong3 | Jaguars vs. Titans | Jaguars | 1.19 (84¢) | $54,949 | — | ⏳ Pendiente |
-| sinasinner | Spread: Lions (-2.5) | Lions | 1.89 (53¢) | $30,000 | — | ⏳ Pendiente |
+| sinasinner | Spread: Lions (-2.5) | Lions | 1.89 (53¢) | $30,000 | +$26,604 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Latvia vs. Armenia: O/U 2.5 | Under 2.5 | 1.72 (58¢) | $30,145 | +$21,829 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar | Alexander Zverev | 1.43 (70¢) | $72,644 | +$31,133 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA - Map 3 Winner | Spirit | 1.92 (52¢) | $25,875 | -$25,875 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.20 (83¢) | $216,737 | +$44,392 | ✅ Ganada |
 | MD14 | Counter-Strike: Spirit vs FURIA - Map 2 Winner | Spirit | 1.52 (66¢) | $50,249 | -$50,249 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
-| MegaMan-.- | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.64 (61¢) | $29,585 | -$29,585 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Arizona | 1.45 (69¢) | $103,500 | -$103,500 | ❌ Perdida |
-| bands1 | Utah vs. Arizona | Utah | 1.69 (59¢) | $30,574 | +$21,246 | ✅ Ganada |
