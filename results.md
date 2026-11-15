@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 18:23:45 (hora de Perú)
+Actualizado: 2026-11-15 18:25:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8652**  ($491,323,855 en total)
+- Apuestas registradas: **8653**  ($491,356,913 en total)
 - Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 38
+- Pendientes: 39
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Rockets vs. Wizards: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $33,058 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 2.04 (49¢) | $69,479 | — | ⏳ Pendiente |
 | 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | — | ⏳ Pendiente |
 | 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | VirIntrepidus | Spread: Jaguars (-10.5) | Titans | 2.04 (49¢) | $32,654 | -$32,654 | ❌ Perdida |
 | OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | +$9,837 | ✅ Ganada |
 | ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | +$12,785 | ✅ Ganada |
-| nigiri99 | Bills vs. Jets | Bills | 1.27 (79¢) | $62,478 | +$16,608 | ✅ Ganada |
