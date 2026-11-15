@@ -127414,7 +127414,7 @@
     "side": "BUY",
     "usd": 31991.4378,
     "odds_at_bet": 61,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794687464,
     "fills": 1
   },
@@ -128440,7 +128440,7 @@
     "side": "BUY",
     "usd": 217062.90800000002,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794717036,
     "fills": 2
   },
@@ -128532,6 +128532,21 @@
     "odds_at_bet": 63,
     "status": "pending",
     "ultimo_fill": 1794719767,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17296,
+    "timestamp": 1794719850,
+    "username": "Parz1vaI",
+    "wallet": "0xb10047d6a254b2ebb306d7a7d13bf59171ab6461",
+    "slug": "ufc-jos52-cir-2026-11-14",
+    "title": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+    "outcome": "Ciryl Gane",
+    "side": "BUY",
+    "usd": 28709.117200000004,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1794719850,
     "fills": 1
   }
 ]
