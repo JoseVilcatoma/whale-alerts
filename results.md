@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 17:04:29 (hora de Perú)
+Actualizado: 2026-11-15 17:06:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8642**  ($490,726,583 en total)
+- Apuestas registradas: **8643**  ($490,754,421 en total)
 - Resueltas: **8584** — 5240 ganadas / 3344 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Pendientes: 32
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| OzornoyYebaka | Rockets vs. Wizards | Rockets | 1.35 (74¢) | $27,838 | — | ⏳ Pendiente |
 | juice-fruit | Rams vs. Cardinals | Rams | 1.39 (72¢) | $35,753 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | Cowboys | 3.85 (26¢) | $25,046 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.35 (74¢) | $138,708 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Falcons: O/U 46.5 | Over 46.5 | 1.85 (54¢) | $38,703 | +$32,969 | ✅ Ganada |
 | gmpm2 | Panthers vs. Saints | Saints | 2.00 (50¢) | $123,553 | -$123,553 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-6.5) | Raiders | 1.96 (51¢) | $34,276 | — | ⏳ Pendiente |
-| AnonymousUsername | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $35,178 | +$7,205 | ✅ Ganada |
