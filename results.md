@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:27:02 (hora de Perú)
+Actualizado: 2026-11-15 16:29:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8634**  ($490,286,582 en total)
-- Resueltas: **8556** — 5222 ganadas / 3334 perdidas (**61%** de acierto)
-- Pendientes: 51
+- Resueltas: **8560** — 5224 ganadas / 3336 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,359,953** sobre $486,384,034 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,695** sobre $844,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,398,361** sobre $486,512,813 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,783** sobre $844,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 38 | 23 | 0 | 62% | $3,234,523 | +$654,231 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
-| Multicoloured-Serf | 28 | 32 | 2 | 47% | $2,905,770 | -$631,167 |
+| Multicoloured-Serf | 29 | 32 | 1 | 48% | $2,905,770 | -$612,696 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -86,14 +86,14 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 999585 | Vikings vs. Packers | Vikings | 1.12 (89¢) | $113,904 | +$14,078 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Vikings vs. Packers | Packers | 1.79 (56¢) | $44,632 | -$44,632 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Vikings vs. Packers | Vikings | 2.27 (44¢) | $26,400 | +$33,600 | ✅ Ganada |
-| Multicoloured-Serf | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $32,837 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $32,837 | +$18,471 | ✅ Ganada |
 | Sassy-Bucket | Bills vs. Jets | Bills | 1.25 (80¢) | $476,869 | +$119,217 | ✅ Ganada |
 | sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | -$42,000 | ❌ Perdida |
 | SuitableName | Spread: Jaguars (-10.5) | Jaguars | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | dhgreg | Vikings vs. Packers | Packers | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
 | sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
-| chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
+| chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | — | ⏳ Pendiente |
 | milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | +$50,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | — | ⏳ Pendiente |
@@ -130,4 +130,4 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 1l2ihj34li12u34 | Will Spain win on 2026-11-15? | Yes | 2.08 (48¢) | $30,140 | — | ⏳ Pendiente |
 | AnonymousUsername | Texans vs. Browns | Texans | 1.52 (66¢) | $34,436 | — | ⏳ Pendiente |
 | nigiri99 | 49ers vs. Cowboys | 49ers | 1.54 (65¢) | $44,962 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $25,000 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $25,000 | +$14,062 | ✅ Ganada |
