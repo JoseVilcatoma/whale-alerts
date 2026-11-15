@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 20:12:22 (hora de Perú)
+Actualizado: 2026-11-14 20:14:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8523**  ($483,623,730 en total)
-- Resueltas: **8445** — 5158 ganadas / 3287 perdidas (**61%** de acierto)
-- Pendientes: 55
+- Resueltas: **8448** — 5160 ganadas / 3288 perdidas (**61%** de acierto)
+- Pendientes: 52
 - Apostadores distintos: 730
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,156,600** sobre $479,477,678 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,891** sobre $833,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,088,402** sobre $479,595,114 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,787** sobre $833,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,8 +43,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
 | 999585 | 37 | 6 | 1 | 86% | $5,119,963 | +$249,212 |
-| Thunderous-Authoritarian-Snarl | 23 | 20 | 3 | 53% | $4,966,198 | -$1,533,083 |
-| BrotherObama | 51 | 59 | 5 | 46% | $4,926,652 | -$276,141 |
+| Thunderous-Authoritarian-Snarl | 24 | 20 | 2 | 55% | $4,966,198 | -$1,488,142 |
+| BrotherObama | 52 | 59 | 4 | 47% | $4,926,652 | -$227,384 |
 | Kch-Temp | 50 | 20 | 2 | 71% | $4,923,752 | +$1,921,115 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -97,9 +97,9 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $120,064 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.17 (46¢) | $26,654 | — | ⏳ Pendiente |
 | llllllllloooo | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.79 (56¢) | $28,000 | — | ⏳ Pendiente |
-| BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.00 (50¢) | $48,758 | — | ⏳ Pendiente |
-| SineNooneEI | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.04 (49¢) | $43,179 | — | ⏳ Pendiente |
+| BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.00 (50¢) | $48,758 | +$48,758 | ✅ Ganada |
+| SineNooneEI | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.04 (49¢) | $43,179 | +$44,941 | ✅ Ganada |
 | nigiri99 | Washington vs. Michigan State | Washington | 1.69 (59¢) | $35,001 | — | ⏳ Pendiente |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $71,698 | — | ⏳ Pendiente |
 | etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $157,339 | — | ⏳ Pendiente |
