@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 11:38:14 (hora de Perú)
+Actualizado: 2026-11-15 11:40:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8580**  ($486,847,315 en total)
+- Apuestas registradas: **8581**  ($486,874,206 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MigRodr | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Elina Svitolina | 3.45 (29¢) | $26,891 | — | ⏳ Pendiente |
 | TryToEarnCash | Vikings vs. Packers | Packers | 1.79 (56¢) | $25,872 | — | ⏳ Pendiente |
 | SDTrading | Vikings vs. Packers: O/U 42.5 | Under 42.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | 1l2ihj34li12u34 | Will Spain win on 2026-11-15? | Yes | 2.08 (48¢) | $30,140 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Mavericks vs. Cavaliers | Mavericks | 1.35 (74¢) | $37,000 | -$37,000 | ❌ Perdida |
 | 0F62 | Will Türkiye win on 2026-11-15? | No | 1.06 (94¢) | $59,255 | — | ⏳ Pendiente |
 | nigiri99 | Sabres vs. Stars | Stars | 1.75 (57¢) | $37,005 | +$27,916 | ✅ Ganada |
-| Multicoloured-Serf | Spread: Grizzlies (-4.5) | Grizzlies | 2.08 (48¢) | $25,094 | +$27,185 | ✅ Ganada |

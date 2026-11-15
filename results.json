@@ -128953,5 +128953,20 @@
     "status": "pending",
     "ultimo_fill": 1794760324,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17349,
+    "timestamp": 1794760732,
+    "username": "MigRodr",
+    "wallet": "0x9a933a2a83188b28efaf1d07d45228ea6ee82793",
+    "slug": "wta-svitoli-andreev-2026-11-15",
+    "title": "WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "usd": 26890.7314,
+    "odds_at_bet": 29,
+    "status": "pending",
+    "ultimo_fill": 1794760732,
+    "fills": 1
   }
 ]
