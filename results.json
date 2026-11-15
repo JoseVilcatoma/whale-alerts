@@ -128167,5 +128167,20 @@
     "status": "pending",
     "ultimo_fill": 1794710026,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17240,
+    "timestamp": 1794710291,
+    "username": "hudson62",
+    "wallet": "0xe26c692b09465b571c04cbb85015c6adb5033bfe",
+    "slug": "atp-zhukov-kumasak-2026-11-14",
+    "title": "Kobe: Maxim Zhukov vs Takuya Kumasaka",
+    "outcome": "Takuya Kumasaka",
+    "side": "BUY",
+    "usd": 25047.452100000002,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1794710291,
+    "fills": 1
   }
 ]

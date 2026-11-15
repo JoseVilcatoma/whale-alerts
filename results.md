@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 21:37:22 (hora de Perú)
+Actualizado: 2026-11-14 21:39:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8528**  ($483,820,841 en total)
+- Apuestas registradas: **8529**  ($483,845,888 en total)
 - Resueltas: **8475** — 5176 ganadas / 3299 perdidas (**61%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 730
+- Pendientes: 31
+- Apostadores distintos: 731
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 730 en total)_
+_(mostrando los 40 de mayor monto, de 731 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| hudson62 | Kobe: Maxim Zhukov vs Takuya Kumasaka | Takuya Kumasaka | 1.12 (89¢) | $25,047 | — | ⏳ Pendiente |
 | MD14 | Mavericks vs. Cavaliers: O/U 257.5 | Under 257.5 | 1.32 (76¢) | $37,992 | — | ⏳ Pendiente |
 | Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | omnibus-076daa | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.61 (62¢) | $75,504 | -$75,504 | ❌ Perdida |
 | Kch-Temp | Spread: Alabama (-14.5) | Alabama | 2.04 (49¢) | $57,702 | +$60,058 | ✅ Ganada |
 | Kch-Temp | Tennessee vs. Texas A&M | Tennessee | 1.92 (52¢) | $39,818 | +$36,755 | ✅ Ganada |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Will Norway win on 2026-11-14? | Yes | 1.28 (78¢) | $193,933 | +$54,699 | ✅ Ganada |
