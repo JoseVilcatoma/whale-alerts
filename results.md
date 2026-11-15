@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:14:23 (hora de Perú)
+Actualizado: 2026-11-15 16:16:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8628**  ($489,858,534 en total)
+- Apuestas registradas: **8630**  ($489,952,874 en total)
 - Resueltas: **8540** — 5212 ganadas / 3328 perdidas (**61%** de acierto)
-- Pendientes: 61
+- Pendientes: 63
 - Apostadores distintos: 732
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: 49ers (-3.5) | 49ers | 2.08 (48¢) | $38,535 | — | ⏳ Pendiente |
+| ropetard | Spread: Celtics (-14.5) | Celtics | 2.04 (49¢) | $55,805 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | — | ⏳ Pendiente |
 | gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | fantasy7788 | Counter-Strike: Heroic vs FaZe (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | FaZe | 2.08 (48¢) | $35,000 | -$35,000 | ❌ Perdida |
 | 999585 | Patriots vs. Lions | Lions | 1.09 (92¢) | $197,169 | +$17,145 | ✅ Ganada |
 | flawfence | Vikings vs. Packers | Packers | 1.75 (57¢) | $114,000 | — | ⏳ Pendiente |
-| takeormake | Patriots vs. Lions | Patriots | 2.44 (41¢) | $50,000 | -$50,000 | ❌ Perdida |
-| MigRodr | Chiefs vs. Falcons | Falcons | 2.70 (37¢) | $34,941 | — | ⏳ Pendiente |
