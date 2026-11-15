@@ -127957,5 +127957,20 @@
     "status": "pending",
     "ultimo_fill": 1794702292,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17200,
+    "timestamp": 1794702653,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nba-det-mia-2026-11-14-spread-away-4pt5",
+    "title": "Spread: Pistons (-4.5)",
+    "outcome": "Pistons",
+    "side": "BUY",
+    "usd": 35494.62,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794702653,
+    "fills": 1
   }
 ]

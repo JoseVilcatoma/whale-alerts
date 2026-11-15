@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 19:29:15 (hora de Perú)
+Actualizado: 2026-11-14 19:31:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8514**  ($482,942,384 en total)
+- Apuestas registradas: **8515**  ($482,977,878 en total)
 - Resueltas: **8445** — 5158 ganadas / 3287 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 730
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Pistons (-4.5) | Pistons | 2.04 (49¢) | $35,495 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Lions (-2.5) | Patriots | 2.13 (47¢) | $93,202 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bulls vs. Timberwolves | Timberwolves | 1.12 (89¢) | $69,876 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Mavericks vs. Cavaliers | Mavericks | 1.32 (76¢) | $65,368 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 730 en total)_
 | SineNooneEI | Flames vs. Kings | Kings | 1.59 (63¢) | $33,940 | — | ⏳ Pendiente |
 | MD14 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.16 (86¢) | $43,000 | +$7,000 | ✅ Ganada |
 | lonmi2511 | Counter-Strike: FURIA vs Team Falcons - Map 2 Winner | FURIA | 1.72 (58¢) | $36,940 | +$26,749 | ✅ Ganada |
-| retroactivesource | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.59 (63¢) | $40,452 | — | ⏳ Pendiente |
