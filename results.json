@@ -129160,7 +129160,7 @@
     "side": "BUY",
     "usd": 25295.1768,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794762961,
     "fills": 1
   },
@@ -129175,7 +129175,7 @@
     "side": "BUY",
     "usd": 32875.5888,
     "odds_at_bet": 72,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794762961,
     "fills": 1
   },
@@ -129400,7 +129400,7 @@
     "side": "BUY",
     "usd": 122413.93999999999,
     "odds_at_bet": 71,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794764742,
     "fills": 1
   },
@@ -129627,6 +129627,21 @@
     "odds_at_bet": 79,
     "status": "pending",
     "ultimo_fill": 1794774648,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17403,
+    "timestamp": 1794775649,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nhl-fla-dal-2026-11-15",
+    "title": "Panthers vs. Stars",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 25161.379999999997,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1794775649,
     "fills": 1
   }
 ]

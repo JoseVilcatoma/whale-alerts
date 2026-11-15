@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 15:47:15 (hora de Perú)
+Actualizado: 2026-11-15 15:49:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8625**  ($489,753,954 en total)
-- Resueltas: **8535** — 5208 ganadas / 3327 perdidas (**61%** de acierto)
-- Pendientes: 63
+- Apuestas registradas: **8626**  ($489,779,115 en total)
+- Resueltas: **8538** — 5211 ganadas / 3327 perdidas (**61%** de acierto)
+- Pendientes: 61
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,428,100** sobre $484,942,610 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,797** sobre $842,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,355,478** sobre $485,123,195 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,679** sobre $842,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -50,7 +50,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 43 | 13 | 1 | 77% | $4,241,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| milkteaboba | 21 | 13 | 1 | 62% | $3,536,129 | -$600,751 |
+| milkteaboba | 22 | 13 | 0 | 63% | $3,536,129 | -$550,751 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | — | ⏳ Pendiente |
 | sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | — | ⏳ Pendiente |
 | OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | — | ⏳ Pendiente |
 | surfandturf | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $64,000 | — | ⏳ Pendiente |
@@ -86,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | — | ⏳ Pendiente |
-| milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | — | ⏳ Pendiente |
+| milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | +$50,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $65,967 | — | ⏳ Pendiente |
 | SuitableName | Spread: Colts (-4.5) | Dolphins | 2.04 (49¢) | $40,002 | — | ⏳ Pendiente |
@@ -101,8 +102,8 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $98,668 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Colts (-4.5) | Dolphins | 2.00 (50¢) | $53,410 | — | ⏳ Pendiente |
 | VirIntrepidus | Spread: Jaguars (-10.5) | Titans | 2.04 (49¢) | $32,654 | — | ⏳ Pendiente |
-| OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | — | ⏳ Pendiente |
-| ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | — | ⏳ Pendiente |
+| OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | +$9,837 | ✅ Ganada |
+| ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | +$12,785 | ✅ Ganada |
 | nigiri99 | Bills vs. Jets | Bills | 1.27 (79¢) | $62,478 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Chiefs (-3.5) | Falcons | 1.89 (53¢) | $32,516 | — | ⏳ Pendiente |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | MigRodr | Chiefs vs. Falcons | Falcons | 2.70 (37¢) | $34,941 | — | ⏳ Pendiente |
 | MigRodr | Patriots vs. Lions | Patriots | 2.38 (42¢) | $63,000 | -$63,000 | ❌ Perdida |
 | COMEONDUDE | Patriots vs. Lions | Patriots | 2.38 (42¢) | $42,000 | -$42,000 | ❌ Perdida |
-| 123abc | Patriots vs. Lions | Patriots | 2.38 (42¢) | $70,120 | -$70,120 | ❌ Perdida |
