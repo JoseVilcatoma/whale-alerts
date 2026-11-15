@@ -128259,5 +128259,20 @@
     "status": "pending",
     "ultimo_fill": 1794712946,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17257,
+    "timestamp": 1794713710,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "nba-det-mia-2026-11-14-total-247pt5",
+    "title": "Pistons vs. Heat: O/U 247.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 43000.0,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1794713710,
+    "fills": 1
   }
 ]
