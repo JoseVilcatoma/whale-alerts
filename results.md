@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 23:08:15 (hora de Perú)
+Actualizado: 2026-11-14 23:10:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8543**  ($484,627,981 en total)
+- Apuestas registradas: **8544**  ($484,670,275 en total)
 - Resueltas: **8498** — 5192 ganadas / 3306 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 731
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 7 | 64% | $61,837,590 | +$920,932 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 597 | 341 | 8 | 64% | $61,879,883 | +$920,932 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.15 (87¢) | $42,293 | — | ⏳ Pendiente |
 | 4217893367451 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.69 (59¢) | $25,654 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $44,065 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pepperdine Waves vs. Oregon Ducks | Oregon Ducks | 1.12 (89¢) | $25,969 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 999585 | Michigan vs. Oregon | Oregon | 1.11 (90¢) | $202,796 | +$22,533 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $189,260 | -$189,260 | ❌ Perdida |
 | zb8 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $29,400 | +$40,600 | ✅ Ganada |
-| PEYZ-BIGGEST-FAN | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Bilibili Gaming | 2.38 (42¢) | $42,000 | +$58,000 | ✅ Ganada |
