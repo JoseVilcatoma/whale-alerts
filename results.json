@@ -128968,5 +128968,50 @@
     "status": "pending",
     "ultimo_fill": 1794760732,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17350,
+    "timestamp": 1794760822,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nfl-min-gb-2026-11-15",
+    "title": "Vikings vs. Packers",
+    "outcome": "Vikings",
+    "side": "BUY",
+    "usd": 34000.0,
+    "odds_at_bet": 44,
+    "status": "pending",
+    "ultimo_fill": 1794760822,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17351,
+    "timestamp": 1794760919,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-sea-lv-2026-11-15-spread-away-6pt5",
+    "title": "Spread: Seahawks (-6.5)",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "usd": 34276.069592,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794760919,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17352,
+    "timestamp": 1794760919,
+    "username": "AnonymousUsername",
+    "wallet": "0x9703676286b93c2eca71ca96e8757104519a69c2",
+    "slug": "nfl-jax-ten-2026-11-15",
+    "title": "Jaguars vs. Titans",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "usd": 35177.904159,
+    "odds_at_bet": 83,
+    "status": "pending",
+    "ultimo_fill": 1794760919,
+    "fills": 1
   }
 ]

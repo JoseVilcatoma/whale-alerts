@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 11:40:17 (hora de Perú)
+Actualizado: 2026-11-15 11:42:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8581**  ($486,874,206 en total)
+- Apuestas registradas: **8584**  ($486,977,660 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 30
 - Apostadores distintos: 732
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 8 | 63% | $62,573,234 | +$670,282 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 9 | 63% | $62,607,510 | +$670,282 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 0 | 52% | $12,630,163 | -$423,010 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 999585 | 39 | 6 | 1 | 87% | $5,495,443 | +$305,624 |
 | maz26 | 46 | 30 | 0 | 61% | $5,356,129 | +$450,791 |
 | Thunderous-Authoritarian-Snarl | 25 | 22 | 0 | 53% | $5,182,934 | -$1,682,566 |
-| BrotherObama | 54 | 59 | 2 | 48% | $4,926,652 | -$101,037 |
+| BrotherObama | 54 | 59 | 3 | 48% | $4,960,652 | -$101,037 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-6.5) | Raiders | 1.96 (51¢) | $34,276 | — | ⏳ Pendiente |
+| AnonymousUsername | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $35,178 | — | ⏳ Pendiente |
+| BrotherObama | Vikings vs. Packers | Vikings | 2.27 (44¢) | $34,000 | — | ⏳ Pendiente |
 | MigRodr | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Elina Svitolina | 3.45 (29¢) | $26,891 | — | ⏳ Pendiente |
 | TryToEarnCash | Vikings vs. Packers | Packers | 1.79 (56¢) | $25,872 | — | ⏳ Pendiente |
 | SDTrading | Vikings vs. Packers: O/U 42.5 | Under 42.5 | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | Multicoloured-Serf | UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card) | Kevin Holland | 2.50 (40¢) | $25,713 | — | ⊘ Anulada |
 | Multicoloured-Serf | Utah State vs. San Diego State: O/U 43.5 | Over 43.5 | 2.04 (49¢) | $28,990 | -$28,990 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Mavericks vs. Cavaliers | Cavaliers | 3.23 (31¢) | $67,416 | +$150,054 | ✅ Ganada |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Mavericks vs. Cavaliers | Mavericks | 1.35 (74¢) | $37,000 | -$37,000 | ❌ Perdida |
-| 0F62 | Will Türkiye win on 2026-11-15? | No | 1.06 (94¢) | $59,255 | — | ⏳ Pendiente |
-| nigiri99 | Sabres vs. Stars | Stars | 1.75 (57¢) | $37,005 | +$27,916 | ✅ Ganada |
