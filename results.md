@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 16:31:05 (hora de Perú)
+Actualizado: 2026-11-15 16:33:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8634**  ($490,286,582 en total)
-- Resueltas: **8560** — 5224 ganadas / 3336 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Apuestas registradas: **8635**  ($490,340,301 en total)
+- Resueltas: **8569** — 5228 ganadas / 3341 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,398,361** sobre $486,512,813 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,783** sobre $844,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,978,765** sobre $487,359,961 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,894** sobre $845,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 347 | 14 | 63% | $63,048,566 | +$625,650 |
 | Sassy-Bucket | 119 | 120 | 2 | 50% | $16,676,613 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
-| googleplay | 59 | 54 | 2 | 52% | $13,160,175 | -$423,010 |
+| googleplay | 59 | 56 | 0 | 51% | $13,160,175 | -$953,023 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -42,9 +42,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | 999585 | 41 | 6 | 0 | 87% | $5,609,347 | +$336,847 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 46 | 30 | 2 | 61% | $5,527,337 | +$450,791 |
+| maz26 | 46 | 31 | 1 | 60% | $5,527,337 | +$327,238 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
-| BrotherObama | 55 | 59 | 3 | 48% | $5,020,652 | -$57,765 |
+| BrotherObama | 56 | 59 | 2 | 49% | $5,020,652 | -$118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 1 | 77% | $4,241,266 | +$554,327 |
@@ -53,9 +53,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 22 | 13 | 1 | 63% | $3,564,659 | -$550,751 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
+| fantasy7788 | 38 | 23 | 1 | 62% | $3,288,242 | +$654,231 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 1 | 83% | $3,250,345 | -$343,357 |
-| fantasy7788 | 38 | 23 | 0 | 62% | $3,234,523 | +$654,231 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | juice-fruit | 30 | 20 | 0 | 60% | $2,923,236 | +$224,378 |
 | Multicoloured-Serf | 29 | 32 | 1 | 48% | $2,905,770 | -$612,696 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $46,669 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-14.5) | Celtics | 1.96 (51¢) | $45,398 | — | ⏳ Pendiente |
 | milkteaboba | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $28,530 | — | ⏳ Pendiente |
@@ -88,20 +89,20 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | Thunderous-Authoritarian-Snarl | Vikings vs. Packers | Vikings | 2.27 (44¢) | $26,400 | +$33,600 | ✅ Ganada |
 | Multicoloured-Serf | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $32,837 | +$18,471 | ✅ Ganada |
 | Sassy-Bucket | Bills vs. Jets | Bills | 1.25 (80¢) | $476,869 | +$119,217 | ✅ Ganada |
-| sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
+| sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | -$42,000 | ❌ Perdida |
 | SuitableName | Spread: Jaguars (-10.5) | Jaguars | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
 | dhgreg | Vikings vs. Packers | Packers | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
-| sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
+| sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | +$26,020 | ✅ Ganada |
 | chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
-| googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | — | ⏳ Pendiente |
+| googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | -$43,058 | ❌ Perdida |
 | milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | +$50,000 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | — | ⏳ Pendiente |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $65,967 | — | ⏳ Pendiente |
 | SuitableName | Spread: Colts (-4.5) | Dolphins | 2.04 (49¢) | $40,002 | — | ⏳ Pendiente |
 | sinasinner | Spread: Packers (-2.5) | Vikings | 2.04 (49¢) | $25,000 | +$26,020 | ✅ Ganada |
-| sinasinner | Panthers vs. Saints | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
-| BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
+| sinasinner | Panthers vs. Saints | Panthers | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
+| BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | +$57,647 | ✅ Ganada |
 | Donkey14 | Spread: 76ers (-7.5) | 76ers | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $34,311 | — | ⏳ Pendiente |
 | 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $26,497 | +$7,044 | ✅ Ganada |
@@ -113,14 +114,14 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | OzornoyYebaka | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $25,295 | +$9,837 | ✅ Ganada |
 | ticklepickles444 | Pacers vs. 76ers | 76ers | 1.39 (72¢) | $32,876 | +$12,785 | ✅ Ganada |
 | nigiri99 | Bills vs. Jets | Bills | 1.27 (79¢) | $62,478 | +$16,608 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Spread: Chiefs (-3.5) | Falcons | 1.89 (53¢) | $32,516 | — | ⏳ Pendiente |
-| googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Spread: Chiefs (-3.5) | Falcons | 1.89 (53¢) | $32,516 | -$32,516 | ❌ Perdida |
+| googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $486,955 | -$486,955 | ❌ Perdida |
 | AnonymousUsername | Seahawks vs. Raiders | Seahawks | 1.41 (71¢) | $30,645 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Türkiye win on 2026-11-15? | No | 1.08 (93¢) | $51,958 | — | ⏳ Pendiente |
 | ic4cream | Spread: Packers (-2.5) | Packers | 1.92 (52¢) | $32,318 | -$32,318 | ❌ Perdida |
-| AnonymousUsername | Panthers vs. Saints | Saints | 2.04 (49¢) | $25,567 | — | ⏳ Pendiente |
+| AnonymousUsername | Panthers vs. Saints | Saints | 2.04 (49¢) | $25,567 | -$25,567 | ❌ Perdida |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Chiefs vs. Falcons: O/U 46.5 | Over 46.5 | 1.85 (54¢) | $38,703 | +$32,969 | ✅ Ganada |
-| gmpm2 | Panthers vs. Saints | Saints | 2.00 (50¢) | $123,553 | — | ⏳ Pendiente |
+| gmpm2 | Panthers vs. Saints | Saints | 2.00 (50¢) | $123,553 | -$123,553 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Seahawks (-6.5) | Raiders | 1.96 (51¢) | $34,276 | — | ⏳ Pendiente |
 | AnonymousUsername | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $35,178 | — | ⏳ Pendiente |
 | BrotherObama | Vikings vs. Packers | Vikings | 2.27 (44¢) | $34,000 | +$43,273 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 1l2ihj34li12u34 | Will Spain win on 2026-11-15? | Yes | 2.08 (48¢) | $30,140 | — | ⏳ Pendiente |
 | AnonymousUsername | Texans vs. Browns | Texans | 1.52 (66¢) | $34,436 | — | ⏳ Pendiente |
 | nigiri99 | 49ers vs. Cowboys | 49ers | 1.54 (65¢) | $44,962 | — | ⏳ Pendiente |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $25,000 | +$14,062 | ✅ Ganada |
