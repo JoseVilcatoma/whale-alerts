@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 02:58:05 (hora de Perú)
+Actualizado: 2026-11-15 03:00:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8556**  ($485,428,193 en total)
+- Apuestas registradas: **8557**  ($485,457,778 en total)
 - Resueltas: **8519** — 5202 ganadas / 3317 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 731
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MegaMan-.- | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | Spirit | 1.64 (61¢) | $29,585 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Arizona | 1.45 (69¢) | $103,500 | -$103,500 | ❌ Perdida |
 | bands1 | Utah vs. Arizona | Utah | 1.69 (59¢) | $30,574 | +$21,246 | ✅ Ganada |
 | 0x6db5…e279 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.08 (93¢) | $30,214 | +$2,274 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | arjennnnn | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Bilibili Gaming | 1.41 (71¢) | $120,064 | +$49,040 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.17 (46¢) | $26,654 | +$31,289 | ✅ Ganada |
 | llllllllloooo | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.79 (56¢) | $28,000 | -$28,000 | ❌ Perdida |
-| BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.00 (50¢) | $48,758 | +$48,758 | ✅ Ganada |
