@@ -129838,5 +129838,20 @@
     "status": "pending",
     "ultimo_fill": 1794778912,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17461,
+    "timestamp": 1794779094,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nfl-sf-dal-2026-11-15",
+    "title": "49ers vs. Cowboys",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 67331.1274,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794779094,
+    "fills": 1
   }
 ]
