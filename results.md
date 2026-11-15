@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 08:30:39 (hora de Perú)
+Actualizado: 2026-11-15 08:32:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8562**  ($485,911,783 en total)
+- Apuestas registradas: **8563**  ($485,941,928 en total)
 - Resueltas: **8525** — 5204 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 731
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Latvia vs. Armenia: O/U 2.5 | Under 2.5 | 1.72 (58¢) | $30,145 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar | Alexander Zverev | 1.43 (70¢) | $72,644 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA - Map 3 Winner | Spirit | 1.92 (52¢) | $25,875 | -$25,875 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.20 (83¢) | $216,737 | +$44,392 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $91,944 | +$99,606 | ✅ Ganada |
 | olegio | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Gen.G | 1.89 (53¢) | $46,134 | -$46,134 | ❌ Perdida |
 | BrotherObama | LoL: Bilibili Gaming vs Gen.G - Game 4 Winner | Bilibili Gaming | 2.08 (48¢) | $30,000 | +$32,500 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Nuggets vs. Pelicans | Nuggets | 1.18 (85¢) | $59,137 | +$10,436 | ✅ Ganada |
