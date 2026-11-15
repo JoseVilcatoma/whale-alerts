@@ -129148,5 +129148,50 @@
     "status": "pending",
     "ultimo_fill": 1794762737,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17362,
+    "timestamp": 1794762961,
+    "username": "OzornoyYebaka",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "nba-ind-phi-2026-11-15",
+    "title": "Pacers vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 25295.1768,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1794762961,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17363,
+    "timestamp": 1794762961,
+    "username": "ticklepickles444",
+    "wallet": "0x7138a99d467dc98f94141f81f118a12bb950eb79",
+    "slug": "nba-ind-phi-2026-11-15",
+    "title": "Pacers vs. 76ers",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 32875.5888,
+    "odds_at_bet": 72,
+    "status": "pending",
+    "ultimo_fill": 1794762961,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17364,
+    "timestamp": 1794763008,
+    "username": "VirIntrepidus",
+    "wallet": "0x45185b026c729f2caf1b01f6230db5d22e81db24",
+    "slug": "nfl-jax-ten-2026-11-15-spread-away-10pt5",
+    "title": "Spread: Jaguars (-10.5)",
+    "outcome": "Titans",
+    "side": "BUY",
+    "usd": 32654.246800000004,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794763008,
+    "fills": 1
   }
 ]
