@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-14 21:58:10 (hora de Perú)
+Actualizado: 2026-11-14 22:00:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8529**  ($483,845,888 en total)
-- Resueltas: **8477** — 5178 ganadas / 3299 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **8479** — 5180 ganadas / 3299 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 731
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,968,050** sobre $481,117,490 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,226** sobre $836,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,933,826** sobre $481,346,526 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,196** sobre $836,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -107,8 +107,8 @@ _(mostrando los 40 de mayor monto, de 731 en total)_
 | SineNooneEI | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Gen.G | 1.96 (51¢) | $25,500 | -$25,500 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | LoL: Bilibili Gaming vs Gen.G - Game 3 Winner | Bilibili Gaming | 2.04 (49¢) | $43,179 | +$44,941 | ✅ Ganada |
 | nigiri99 | Washington vs. Michigan State | Washington | 1.69 (59¢) | $35,001 | +$24,322 | ✅ Ganada |
-| etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $71,698 | — | ⏳ Pendiente |
-| etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $157,339 | — | ⏳ Pendiente |
+| etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $71,698 | +$10,713 | ✅ Ganada |
+| etthhhh | Oregon State vs. Boise State | Boise State | 1.15 (87¢) | $157,339 | +$23,510 | ✅ Ganada |
 | solo88888 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $29,500 | -$29,500 | ❌ Perdida |
 | S-Works | LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs | Gen.G | 1.32 (76¢) | $31,667 | -$31,667 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | LoL: Bilibili Gaming vs Gen.G - Game 2 Winner | Gen.G | 1.69 (59¢) | $59,000 | -$59,000 | ❌ Perdida |
