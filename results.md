@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:44:20 (hora de Perú)
+Actualizado: 2026-11-15 12:46:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8606**  ($488,393,230 en total)
+- Apuestas registradas: **8610**  ($488,660,901 en total)
 - Resueltas: **8527** — 5206 ganadas / 3321 perdidas (**61%** de acierto)
-- Pendientes: 52
+- Pendientes: 56
 - Apostadores distintos: 732
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 10 | 63% | $62,659,467 | +$670,282 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 11 | 63% | $62,698,756 | +$670,282 |
 | Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 1 | 52% | $13,117,118 | -$423,010 |
@@ -50,8 +50,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 43 | 13 | 0 | 77% | $4,177,266 | +$554,327 |
 | cosmicxbt | 29 | 9 | 0 | 76% | $3,888,548 | -$204,648 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
+| milkteaboba | 21 | 13 | 1 | 62% | $3,536,129 | -$600,751 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
-| milkteaboba | 21 | 13 | 0 | 62% | $3,413,715 | -$600,751 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | 0F62 | 38 | 8 | 1 | 83% | $3,250,345 | -$343,357 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | — | ⏳ Pendiente |
+| R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $65,967 | — | ⏳ Pendiente |
+| SuitableName | Spread: Colts (-4.5) | Dolphins | 2.04 (49¢) | $40,002 | — | ⏳ Pendiente |
 | sinasinner | Spread: Packers (-2.5) | Vikings | 2.04 (49¢) | $25,000 | — | ⏳ Pendiente |
 | sinasinner | Panthers vs. Saints | Panthers | 1.96 (51¢) | $25,500 | — | ⏳ Pendiente |
 | BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | Parz1vaI | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Ciryl Gane | 1.47 (68¢) | $28,709 | +$13,510 | ✅ Ganada |
 | cavvvy | O/U 3.5 Rounds | Under 3.5 Rounds | 1.59 (63¢) | $29,562 | -$29,562 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card) | Josh Hokit | 3.12 (32¢) | $48,000 | -$48,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Fight to Go the Distance? | No | 1.37 (73¢) | $28,832 | -$28,832 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Ciryl Gane win in Round 1? | No | 1.25 (80¢) | $79,304 | +$19,826 | ✅ Ganada |
-| 0x5016c48436AB3eFA2Ab54b117d0C08fa1a4a1eEB-1778328420816 | Will France win on 2026-11-15? | Yes | 1.20 (83¢) | $50,000 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Utah vs. Arizona | Utah | 3.03 (33¢) | $29,631 | +$60,161 | ✅ Ganada |
