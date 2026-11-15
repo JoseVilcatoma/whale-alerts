@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 12:59:10 (hora de Perú)
+Actualizado: 2026-11-15 13:01:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8617**  ($488,927,958 en total)
+- Apuestas registradas: **8618**  ($489,404,827 en total)
 - Resueltas: **8534** — 5208 ganadas / 3326 perdidas (**61%** de acierto)
-- Pendientes: 56
+- Pendientes: 57
 - Apostadores distintos: 732
 
 ### Balance
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 601 | 346 | 11 | 63% | $62,698,756 | +$670,282 |
-| Sassy-Bucket | 118 | 120 | 2 | 50% | $16,199,744 | -$1,529,133 |
+| Sassy-Bucket | 118 | 120 | 3 | 50% | $16,676,613 | -$1,529,133 |
 | Lakersfan111 | 177 | 100 | 0 | 64% | $13,836,193 | +$318,542 |
 | googleplay | 59 | 54 | 2 | 52% | $13,160,175 | -$423,010 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Bills vs. Jets | Bills | 1.25 (80¢) | $476,869 | — | ⏳ Pendiente |
 | sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | — | ⏳ Pendiente |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | — | ⏳ Pendiente |
 | SuitableName | Spread: Jaguars (-10.5) | Jaguars | 2.00 (50¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA - Map 3 Winner | Spirit | 1.92 (52¢) | $25,875 | -$25,875 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.20 (83¢) | $216,737 | +$44,392 | ✅ Ganada |
 | MD14 | Counter-Strike: Spirit vs FURIA - Map 2 Winner | Spirit | 1.52 (66¢) | $50,249 | -$50,249 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs | FURIA | 1.69 (59¢) | $88,500 | +$61,500 | ✅ Ganada |
