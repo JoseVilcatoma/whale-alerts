@@ -128923,5 +128923,35 @@
     "status": "pending",
     "ultimo_fill": 1794758823,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17347,
+    "timestamp": 1794760309,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-min-gb-2026-11-15-total-42pt5",
+    "title": "Vikings vs. Packers: O/U 42.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 25500.0,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794760309,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17348,
+    "timestamp": 1794760324,
+    "username": "TryToEarnCash",
+    "wallet": "0x764e200cc3b09a62647a63aa777a125608c389fc",
+    "slug": "nfl-min-gb-2026-11-15",
+    "title": "Vikings vs. Packers",
+    "outcome": "Packers",
+    "side": "BUY",
+    "usd": 25872.000000000004,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1794760324,
+    "fills": 1
   }
 ]
