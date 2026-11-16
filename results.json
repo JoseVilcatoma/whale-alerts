@@ -130425,5 +130425,20 @@
     "status": "won",
     "ultimo_fill": 1794793669,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17566,
+    "timestamp": 1794812657,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "atp-alcaraz-tiafoe-2026-11-16",
+    "title": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "usd": 25204.649993999996,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1794812657,
+    "fills": 1
   }
 ]
