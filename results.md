@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 14:11:25 (hora de Perú)
+Actualizado: 2026-11-16 18:38:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8690**  ($493,371,489 en total)
-- Resueltas: **8649** — 5287 ganadas / 3362 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,093,680** sobre $491,597,436 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,846** sobre $853,400 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,115,366** sobre $491,824,461 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,004** sobre $853,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 610 | 349 | 10 | 64% | $63,539,712 | +$921,518 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 8 | 64% | $63,539,712 | +$956,767 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 180 | 102 | 2 | 64% | $14,136,031 | +$296,135 |
+| Lakersfan111 | 180 | 103 | 1 | 64% | $14,136,031 | +$268,558 |
 | googleplay | 63 | 56 | 0 | 53% | $13,371,282 | -$741,007 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,17 +71,17 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| Kyn008 | Germany vs. Netherlands: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,358 | — | ⏳ Pendiente |
+| Kyn008 | Germany vs. Netherlands: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,358 | -$29,358 | ❌ Perdida |
 | SuitableName | Rockets vs. Heat | Rockets | 1.79 (56¢) | $38,322 | — | ⏳ Pendiente |
 | rabbitfoot1 | Spread: Iceland (-1.5) | Luxembourg | 2.13 (47¢) | $27,673 | -$27,673 | ❌ Perdida |
 | Woaifacai | Faroe Islands vs. Moldova: O/U 2.5 | Under 2.5 | 1.47 (68¢) | $31,594 | +$14,868 | ✅ Ganada |
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $44,753 | — | ⏳ Pendiente |
 | Woaifacai | Colina: Rebeka Masarova vs Diletta Cherubini | Rebeka Masarova | 1.22 (82¢) | $26,846 | +$5,893 | ✅ Ganada |
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $28,283 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | -$27,577 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.27 (44¢) | $58,319 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Serbia win on 2026-11-16? | No | 1.16 (86¢) | $83,402 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Greece vs. Serbia end in a draw? | No | 1.25 (80¢) | $86,688 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Serbia win on 2026-11-16? | No | 1.16 (86¢) | $83,402 | +$13,577 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Greece vs. Serbia end in a draw? | No | 1.25 (80¢) | $86,688 | +$21,672 | ✅ Ganada |
 | keeptheblueflagflyinghigh | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $25,205 | +$3,115 | ✅ Ganada |
 | milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | +$64,988 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | -$34,156 | ❌ Perdida |
