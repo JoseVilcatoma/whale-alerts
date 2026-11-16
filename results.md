@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 19:19:16 (hora de Perú)
+Actualizado: 2026-11-15 19:21:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8664**  ($492,103,247 en total)
-- Resueltas: **8591** — 5246 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Resueltas: **8598** — 5251 ganadas / 3347 perdidas (**61%** de acierto)
+- Pendientes: 39
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,652,461** sobre $488,384,403 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,397** sobre $847,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,679,968** sobre $488,796,201 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,425** sobre $848,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 17 | 63% | $63,369,622 | +$645,608 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 348 | 16 | 63% | $63,369,622 | +$611,332 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 3 | 64% | $13,935,581 | +$318,542 |
 | googleplay | 59 | 56 | 4 | 51% | $13,371,282 | -$953,023 |
@@ -35,10 +35,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 94 | 0 | 51% | $7,713,984 | -$665,096 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 82 | 34 | 2 | 71% | $6,961,930 | -$88,582 |
+| ethanaz | 84 | 34 | 0 | 71% | $6,961,930 | -$52,872 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| 999585 | 42 | 6 | 2 | 88% | $6,043,449 | +$344,693 |
+| 999585 | 43 | 6 | 1 | 88% | $6,043,449 | +$374,616 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -54,10 +54,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
-| 0F62 | 39 | 8 | 1 | 83% | $3,285,349 | -$339,575 |
+| 0F62 | 40 | 8 | 0 | 83% | $3,285,349 | -$336,940 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
-| Multicoloured-Serf | 29 | 32 | 3 | 48% | $3,010,452 | -$612,696 |
+| Multicoloured-Serf | 29 | 33 | 2 | 47% | $3,010,452 | -$686,712 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -84,12 +84,12 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.28 (78¢) | $32,871 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Wizards: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $33,058 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 2.04 (49¢) | $69,479 | — | ⏳ Pendiente |
-| 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | — | ⏳ Pendiente |
-| 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | — | ⏳ Pendiente |
+| 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | +$2,635 | ✅ Ganada |
+| 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | +$29,924 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.64 (61¢) | $29,311 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Knicks (-4.5) | Knicks | 2.08 (48¢) | $26,489 | — | ⏳ Pendiente |
 | cosmicxbt | Spread: 49ers (-3.5) | Cowboys | 1.52 (66¢) | $88,801 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Seahawks vs. Raiders | Raiders | 2.13 (47¢) | $74,016 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Seahawks vs. Raiders | Raiders | 2.13 (47¢) | $74,016 | -$74,016 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $33,181 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.35 (74¢) | $43,588 | — | ⏳ Pendiente |
 | OzornoyYebaka | Rockets vs. Wizards | Rockets | 1.35 (74¢) | $27,838 | — | ⏳ Pendiente |
@@ -98,8 +98,8 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.35 (74¢) | $138,708 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.47 (68¢) | $39,158 | — | ⏳ Pendiente |
 | 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | +$7,845 | ✅ Ganada |
-| ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | — | ⏳ Pendiente |
-| ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | — | ⏳ Pendiente |
+| ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | +$16,672 | ✅ Ganada |
+| ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | +$19,038 | ✅ Ganada |
 | fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | +$47,638 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $46,669 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-14.5) | Celtics | 1.96 (51¢) | $45,398 | — | ⏳ Pendiente |
