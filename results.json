@@ -130168,5 +130168,35 @@
     "status": "pending",
     "ultimo_fill": 1794787567,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17491,
+    "timestamp": 1794787614,
+    "username": "0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604",
+    "wallet": "0x1bc2900db79077f14d294dd24552020dfbe73391",
+    "slug": "nba-sas-uta-2026-11-15",
+    "title": "Spurs vs. Jazz",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 66643.0738,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1794787614,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17492,
+    "timestamp": 1794787616,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nba-sas-uta-2026-11-15",
+    "title": "Spurs vs. Jazz",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 178423.5256,
+    "odds_at_bet": 62,
+    "status": "pending",
+    "ultimo_fill": 1794787616,
+    "fills": 1
   }
 ]
