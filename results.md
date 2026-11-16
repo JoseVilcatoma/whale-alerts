@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 08:37:37 (hora de Perú)
+Actualizado: 2026-11-16 08:39:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8683**  ($493,144,660 en total)
+- Apuestas registradas: **8684**  ($493,172,943 en total)
 - Resueltas: **8644** — 5283 ganadas / 3361 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $28,283 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.27 (44¢) | $58,319 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Serbia win on 2026-11-16? | No | 1.16 (86¢) | $83,402 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | +$10,461 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | -$25,161 | ❌ Perdida |
 | sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | +$7,741 | ✅ Ganada |
-| OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | +$21,507 | ✅ Ganada |
