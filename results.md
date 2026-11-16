@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 23:17:18 (hora de Perú)
+Actualizado: 2026-11-15 23:19:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8678**  ($492,863,470 en total)
-- Resueltas: **8635** — 5277 ganadas / 3358 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **8636** — 5278 ganadas / 3358 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,178,922** sobre $491,011,534 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,951** sobre $852,000 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,154,889** sobre $491,038,635 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,862** sobre $852,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | — | ⏳ Pendiente |
 | christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | — | ⏳ Pendiente |
-| DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | — | ⏳ Pendiente |
+| DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | +$24,032 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.32 (76¢) | $64,282 | +$20,299 | ✅ Ganada |
 | MD14 | Mavericks vs. Celtics: O/U 241.5 | Under 241.5 | 1.12 (89¢) | $63,667 | +$7,869 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Spread: Bengals (-3.5) | Bengals | 1.92 (52¢) | $29,599 | — | ⏳ Pendiente |
