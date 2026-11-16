@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 19:51:49 (hora de Perú)
+Actualizado: 2026-11-15 19:53:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8668**  ($492,276,786 en total)
+- Apuestas registradas: **8669**  ($492,341,067 en total)
 - Resueltas: **8601** — 5252 ganadas / 3349 perdidas (**61%** de acierto)
-- Pendientes: 40
+- Pendientes: 41
 - Apostadores distintos: 732
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 604 | 348 | 15 | 63% | $63,369,622 | +$720,689 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
-| Lakersfan111 | 177 | 100 | 4 | 64% | $13,985,854 | +$318,542 |
+| Lakersfan111 | 177 | 100 | 5 | 64% | $14,050,135 | +$318,542 |
 | googleplay | 59 | 56 | 4 | 51% | $13,371,282 | -$953,023 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.32 (76¢) | $64,282 | — | ⏳ Pendiente |
 | MD14 | Mavericks vs. Celtics: O/U 241.5 | Under 241.5 | 1.12 (89¢) | $63,667 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Spread: Bengals (-3.5) | Bengals | 1.92 (52¢) | $29,599 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-8.5) | Hawks | 1.92 (52¢) | $50,273 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
 | googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | -$43,058 | ❌ Perdida |
 | milkteaboba | Pacers vs. 76ers | 76ers | 1.41 (71¢) | $122,414 | +$50,000 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | +$16,047 | ✅ Ganada |
