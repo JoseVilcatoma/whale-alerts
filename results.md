@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 20:29:01 (hora de Perú)
+Actualizado: 2026-11-15 20:31:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8674**  ($492,562,712 en total)
-- Resueltas: **8618** — 5265 ganadas / 3353 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **8620** — 5267 ganadas / 3353 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,415,082** sobre $490,262,107 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,267** sobre $850,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,313,382** sobre $490,363,311 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,067** sobre $850,500 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 608 | 349 | 10 | 64% | $63,369,622 | +$864,949 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 609 | 349 | 9 | 64% | $63,369,622 | +$908,566 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 177 | 100 | 5 | 64% | $14,050,135 | +$318,542 |
 | googleplay | 59 | 56 | 4 | 51% | $13,371,282 | -$953,023 |
@@ -112,11 +112,11 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | +$19,038 | ✅ Ganada |
 | fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | +$47,638 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $46,669 | +$27,409 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-14.5) | Celtics | 1.96 (51¢) | $45,398 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-14.5) | Celtics | 1.96 (51¢) | $45,398 | +$43,617 | ✅ Ganada |
 | milkteaboba | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $28,530 | +$16,756 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $213,111 | +$125,160 | ✅ Ganada |
 | Donkey14 | Spread: 49ers (-3.5) | 49ers | 2.08 (48¢) | $38,535 | +$41,746 | ✅ Ganada |
-| ropetard | Spread: Celtics (-14.5) | Celtics | 2.04 (49¢) | $55,805 | — | ⏳ Pendiente |
+| ropetard | Spread: Celtics (-14.5) | Celtics | 2.04 (49¢) | $55,805 | +$58,083 | ✅ Ganada |
 | keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | +$34,411 | ✅ Ganada |
 | gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | +$10,461 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | — | ⏳ Pendiente |
