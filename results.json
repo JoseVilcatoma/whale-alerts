@@ -130605,5 +130605,20 @@
     "status": "lost",
     "ultimo_fill": 1794854526,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17589,
+    "timestamp": 1794872619,
+    "username": "Woaifacai",
+    "wallet": "0x9b89ef1f344d3e17b37ccdff3bccf62d04f04244",
+    "slug": "atp-dellave-kubler-2026-11-16",
+    "title": "Sydney: Matthew Dellavedova vs Jason Kubler",
+    "outcome": "Matthew Dellavedova",
+    "side": "BUY",
+    "usd": 32216.183999999997,
+    "odds_at_bet": 60,
+    "status": "pending",
+    "ultimo_fill": 1794872619,
+    "fills": 1
   }
 ]
