@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 20:45:29 (hora de Perú)
+Actualizado: 2026-11-15 20:47:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8676**  ($492,662,202 en total)
+- Apuestas registradas: **8677**  ($492,696,357 en total)
 - Resueltas: **8620** — 5267 ganadas / 3353 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 733
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 40 | 8 | 1 | 83% | $3,337,143 | -$336,940 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
+| mooseborzoi | 25 | 35 | 1 | 42% | $3,161,734 | -$401,869 |
 | Multicoloured-Serf | 29 | 33 | 2 | 47% | $3,010,452 | -$686,712 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | — | ⏳ Pendiente |
 | MD14 | Knicks vs. Raptors: O/U 212.5 | Over 212.5 | 1.16 (86¢) | $67,595 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Canucks vs. Golden Knights | Golden Knights | 1.27 (79¢) | $31,895 | — | ⏳ Pendiente |
 | surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Thunderous-Authoritarian-Snarl | Vikings vs. Packers | Vikings | 2.27 (44¢) | $26,400 | +$33,600 | ✅ Ganada |
 | Multicoloured-Serf | Chiefs vs. Falcons | Chiefs | 1.56 (64¢) | $32,837 | +$18,471 | ✅ Ganada |
 | Sassy-Bucket | Bills vs. Jets | Bills | 1.25 (80¢) | $476,869 | +$119,217 | ✅ Ganada |
-| sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |

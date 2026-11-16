@@ -130395,5 +130395,20 @@
     "status": "pending",
     "ultimo_fill": 1794793315,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17539,
+    "timestamp": 1794793600,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-okc-sac-2026-11-15-spread-away-12pt5",
+    "title": "Spread: Thunder (-12.5)",
+    "outcome": "Kings",
+    "side": "BUY",
+    "usd": 34155.799999999996,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794793600,
+    "fills": 1
   }
 ]
