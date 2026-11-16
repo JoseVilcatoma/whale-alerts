@@ -129925,7 +129925,7 @@
     "side": "BUY",
     "usd": 33180.5643,
     "odds_at_bet": 51,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794780468,
     "fills": 1
   },
@@ -130180,7 +130180,7 @@
     "side": "BUY",
     "usd": 66643.0738,
     "odds_at_bet": 38,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794787614,
     "fills": 1
   },
@@ -130195,7 +130195,7 @@
     "side": "BUY",
     "usd": 178423.5256,
     "odds_at_bet": 62,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794787616,
     "fills": 1
   },
@@ -130257,6 +130257,21 @@
     "odds_at_bet": 52,
     "status": "pending",
     "ultimo_fill": 1794789304,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17511,
+    "timestamp": 1794789916,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "nba-dal-bos-2026-11-15-total-241pt5",
+    "title": "Mavericks vs. Celtics: O/U 241.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 63666.6128,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1794789916,
     "fills": 1
   }
 ]
