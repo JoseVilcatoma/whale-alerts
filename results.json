@@ -130590,5 +130590,20 @@
     "status": "pending",
     "ultimo_fill": 1794848718,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17582,
+    "timestamp": 1794854526,
+    "username": "Kyn008",
+    "wallet": "0xd29312e2446a746bbd94408e1c475f1ec6d7d683",
+    "slug": "unl-ger-nld-2026-11-16-total-3pt5",
+    "title": "Germany vs. Netherlands: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 29358.471299999997,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794854526,
+    "fills": 1
   }
 ]
