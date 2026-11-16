@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 18:51:04 (hora de Perú)
+Actualizado: 2026-11-16 18:53:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8693**  ($493,560,857 en total)
+- Apuestas registradas: **8694**  ($493,685,386 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | — | ⏳ Pendiente |
 | surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | — | ⏳ Pendiente |
 | mooseborzoi | Rockets vs. Heat | Heat | 2.27 (44¢) | $109,999 | — | ⏳ Pendiente |
 | Woaifacai | Sydney: Matthew Dellavedova vs Jason Kubler | Matthew Dellavedova | 1.67 (60¢) | $32,216 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | +$16,672 | ✅ Ganada |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | +$19,038 | ✅ Ganada |
 | fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | +$47,638 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $46,669 | +$27,409 | ✅ Ganada |
