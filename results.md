@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 08:33:35 (hora de Perú)
+Actualizado: 2026-11-16 08:35:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8682**  ($493,117,083 en total)
+- Apuestas registradas: **8683**  ($493,144,660 en total)
 - Resueltas: **8644** — 5283 ganadas / 3361 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 733
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 610 | 349 | 10 | 64% | $63,539,712 | +$921,518 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 180 | 102 | 1 | 64% | $14,108,455 | +$296,135 |
+| Lakersfan111 | 180 | 102 | 2 | 64% | $14,136,031 | +$296,135 |
 | googleplay | 63 | 56 | 0 | 53% | $13,371,282 | -$741,007 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.27 (44¢) | $58,319 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Serbia win on 2026-11-16? | No | 1.16 (86¢) | $83,402 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Greece vs. Serbia end in a draw? | No | 1.25 (80¢) | $86,688 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | -$25,161 | ❌ Perdida |
 | sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | +$7,741 | ✅ Ganada |
 | OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | +$21,507 | ✅ Ganada |
-| surfandturf | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |
