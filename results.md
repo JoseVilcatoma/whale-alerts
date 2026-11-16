@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 05:08:03 (hora de Perú)
+Actualizado: 2026-11-16 05:10:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8679**  ($492,888,674 en total)
+- Apuestas registradas: **8681**  ($493,058,764 en total)
 - Resueltas: **8644** — 5283 ganadas / 3361 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 10
 - Apostadores distintos: 733
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 610 | 349 | 8 | 64% | $63,369,622 | +$921,518 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 610 | 349 | 10 | 64% | $63,539,712 | +$921,518 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 180 | 102 | 0 | 64% | $14,050,135 | +$296,135 |
 | googleplay | 63 | 56 | 0 | 53% | $13,371,282 | -$741,007 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Serbia win on 2026-11-16? | No | 1.16 (86¢) | $83,402 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Greece vs. Serbia end in a draw? | No | 1.25 (80¢) | $86,688 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $25,205 | — | ⏳ Pendiente |
 | milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | +$64,988 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | -$34,156 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | +$21,507 | ✅ Ganada |
 | surfandturf | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $64,000 | +$36,000 | ✅ Ganada |
 | 999585 | Vikings vs. Packers | Vikings | 1.12 (89¢) | $113,904 | +$14,078 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Vikings vs. Packers | Packers | 1.79 (56¢) | $44,632 | -$44,632 | ❌ Perdida |
-| Thunderous-Authoritarian-Snarl | Vikings vs. Packers | Vikings | 2.27 (44¢) | $26,400 | +$33,600 | ✅ Ganada |

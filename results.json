@@ -130440,5 +130440,35 @@
     "status": "pending",
     "ultimo_fill": 1794812657,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17567,
+    "timestamp": 1794823692,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "unl-grc-ser-2026-11-16-draw",
+    "title": "Will Greece vs. Serbia end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 86688.0,
+    "odds_at_bet": 80,
+    "status": "pending",
+    "ultimo_fill": 1794823692,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17568,
+    "timestamp": 1794823780,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "unl-grc-ser-2026-11-16-ser",
+    "title": "Will Serbia win on 2026-11-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 83401.639,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1794823780,
+    "fills": 1
   }
 ]
