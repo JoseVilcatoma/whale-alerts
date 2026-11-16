@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 18:44:57 (hora de Perú)
+Actualizado: 2026-11-16 18:46:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8691**  ($493,403,706 en total)
+- Apuestas registradas: **8692**  ($493,513,705 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 733
 
 ### Balance
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoi | 25 | 36 | 0 | 41% | $3,161,734 | -$436,025 |
+| mooseborzoi | 25 | 36 | 1 | 41% | $3,271,733 | -$436,025 |
 | Multicoloured-Serf | 29 | 34 | 1 | 46% | $3,010,452 | -$717,378 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Rockets vs. Heat | Heat | 2.27 (44¢) | $109,999 | — | ⏳ Pendiente |
 | Woaifacai | Sydney: Matthew Dellavedova vs Jason Kubler | Matthew Dellavedova | 1.67 (60¢) | $32,216 | — | ⏳ Pendiente |
 | Kyn008 | Germany vs. Netherlands: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,358 | -$29,358 | ❌ Perdida |
 | SuitableName | Rockets vs. Heat | Rockets | 1.79 (56¢) | $38,322 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | +$47,638 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $46,669 | +$27,409 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-14.5) | Celtics | 1.96 (51¢) | $45,398 | +$43,617 | ✅ Ganada |
-| milkteaboba | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $28,530 | +$16,756 | ✅ Ganada |
