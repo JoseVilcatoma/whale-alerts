@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 23:39:33 (hora de Perú)
+Actualizado: 2026-11-15 23:41:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8678**  ($492,863,470 en total)
-- Resueltas: **8636** — 5278 ganadas / 3358 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8637** — 5278 ganadas / 3359 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,154,889** sobre $491,038,635 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,862** sobre $852,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,189,045** sobre $491,072,790 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$7,962** sobre $852,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 40 | 8 | 1 | 83% | $3,337,143 | -$336,940 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoi | 25 | 35 | 1 | 42% | $3,161,734 | -$401,869 |
+| mooseborzoi | 25 | 36 | 0 | 41% | $3,161,734 | -$436,025 |
 | Multicoloured-Serf | 29 | 34 | 1 | 46% | $3,010,452 | -$717,378 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | — | ⏳ Pendiente |
-| mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | -$34,156 | ❌ Perdida |
 | MD14 | Knicks vs. Raptors: O/U 212.5 | Over 212.5 | 1.16 (86¢) | $67,595 | +$11,004 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Canucks vs. Golden Knights | Golden Knights | 1.27 (79¢) | $31,895 | — | ⏳ Pendiente |
 | surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
