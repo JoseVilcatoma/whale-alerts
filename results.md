@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 20:04:01 (hora de Perú)
+Actualizado: 2026-11-15 20:06:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8670**  ($492,368,168 en total)
+- Apuestas registradas: **8671**  ($492,418,418 en total)
 - Resueltas: **8601** — 5252 ganadas / 3349 perdidas (**61%** de acierto)
-- Pendientes: 42
+- Pendientes: 43
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | — | ⏳ Pendiente |
 | DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.32 (76¢) | $64,282 | — | ⏳ Pendiente |
 | MD14 | Mavericks vs. Celtics: O/U 241.5 | Under 241.5 | 1.12 (89¢) | $63,667 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | dhgreg | Vikings vs. Packers | Packers | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
 | sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | +$26,020 | ✅ Ganada |
 | chubbytoro | Chiefs vs. Falcons | Falcons | 2.78 (36¢) | $36,000 | -$36,000 | ❌ Perdida |
-| googleplay | Panthers vs. Saints | Saints | 2.04 (49¢) | $43,058 | -$43,058 | ❌ Perdida |
