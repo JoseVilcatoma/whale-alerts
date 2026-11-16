@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 20:22:46 (hora de Perú)
+Actualizado: 2026-11-15 20:24:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8674**  ($492,562,712 en total)
-- Resueltas: **8616** — 5264 ganadas / 3352 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **8617** — 5264 ganadas / 3353 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,421,951** sobre $490,132,441 apostados (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,422,951** sobre $490,198,441 apostados (ROI **-1.1%**)
 - Copiando $100 fijo en cada una: **-$8,279** sobre $850,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 59 | 3 | 49% | $5,050,652 | -$118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
-| surfandturf | 44 | 13 | 1 | 77% | $4,307,266 | +$590,327 |
+| surfandturf | 44 | 14 | 0 | 76% | $4,307,266 | +$589,327 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | milkteaboba | 23 | 13 | 0 | 64% | $3,564,659 | -$533,995 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
+| surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
 | sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | — | ⏳ Pendiente |
 | christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | — | ⏳ Pendiente |
