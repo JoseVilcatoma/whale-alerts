@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 19:13:04 (hora de Perú)
+Actualizado: 2026-11-15 19:15:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8663**  ($492,057,388 en total)
-- Resueltas: **8589** — 5244 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 47
+- Resueltas: **8590** — 5245 ganadas / 3345 perdidas (**61%** de acierto)
+- Pendientes: 46
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,734,510** sobre $488,298,920 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,594** sobre $847,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,700,099** sobre $488,330,684 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,486** sobre $847,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -106,7 +106,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $213,111 | — | ⏳ Pendiente |
 | Donkey14 | Spread: 49ers (-3.5) | 49ers | 2.08 (48¢) | $38,535 | — | ⏳ Pendiente |
 | ropetard | Spread: Celtics (-14.5) | Celtics | 2.04 (49¢) | $55,805 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | +$34,411 | ✅ Ganada |
 | gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | +$10,461 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | — | ⏳ Pendiente |
 | sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | +$7,741 | ✅ Ganada |
