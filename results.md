@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 20:26:56 (hora de Perú)
+Actualizado: 2026-11-15 20:29:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8674**  ($492,562,712 en total)
-- Resueltas: **8617** — 5264 ganadas / 3353 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Resueltas: **8618** — 5265 ganadas / 3353 perdidas (**61%** de acierto)
+- Pendientes: 29
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,422,951** sobre $490,198,441 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,279** sobre $850,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,415,082** sobre $490,262,107 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,267** sobre $850,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | — | ⏳ Pendiente |
 | DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.32 (76¢) | $64,282 | — | ⏳ Pendiente |
-| MD14 | Mavericks vs. Celtics: O/U 241.5 | Under 241.5 | 1.12 (89¢) | $63,667 | — | ⏳ Pendiente |
+| MD14 | Mavericks vs. Celtics: O/U 241.5 | Under 241.5 | 1.12 (89¢) | $63,667 | +$7,869 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Spread: Bengals (-3.5) | Bengals | 1.92 (52¢) | $29,599 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-8.5) | Hawks | 1.92 (52¢) | $50,273 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Bengals (-3.5) | Steelers | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
