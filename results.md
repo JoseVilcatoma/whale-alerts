@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 20:18:35 (hora de Perú)
+Actualizado: 2026-11-15 20:20:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8672**  ($492,470,212 en total)
+- Apuestas registradas: **8674**  ($492,562,712 en total)
 - Resueltas: **8616** — 5264 ganadas / 3352 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 31
 - Apostadores distintos: 733
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 59 | 3 | 49% | $5,050,652 | -$118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
-| surfandturf | 44 | 13 | 0 | 77% | $4,241,266 | +$590,327 |
+| surfandturf | 44 | 13 | 1 | 77% | $4,307,266 | +$590,327 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | milkteaboba | 23 | 13 | 0 | 64% | $3,564,659 | -$533,995 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | — | ⏳ Pendiente |
+| sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | — | ⏳ Pendiente |
 | christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | — | ⏳ Pendiente |
 | DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | -$42,000 | ❌ Perdida |
 | SuitableName | Spread: Jaguars (-10.5) | Jaguars | 2.00 (50¢) | $40,000 | +$40,000 | ✅ Ganada |
-| dhgreg | Vikings vs. Packers | Packers | 1.79 (56¢) | $56,000 | -$56,000 | ❌ Perdida |
-| sinasinner | Spread: Chiefs (-3.5) | Chiefs | 2.04 (49¢) | $25,000 | +$26,020 | ✅ Ganada |

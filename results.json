@@ -130333,5 +130333,35 @@
     "status": "pending",
     "ultimo_fill": 1794791587,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17531,
+    "timestamp": 1794791952,
+    "username": "sinasinner",
+    "wallet": "0x8a260ebadf8ef07e693dd1b0be120b3330dd73c3",
+    "slug": "nfl-pit-cin-2026-11-16-spread-home-3pt5",
+    "title": "Spread: Bengals (-3.5)",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 26500.0,
+    "odds_at_bet": 53,
+    "status": "pending",
+    "ultimo_fill": 1794791952,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17532,
+    "timestamp": 1794792001,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "nfl-pit-cin-2026-11-16",
+    "title": "Steelers vs. Bengals",
+    "outcome": "Bengals",
+    "side": "BUY",
+    "usd": 66000.132,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1794792001,
+    "fills": 1
   }
 ]
