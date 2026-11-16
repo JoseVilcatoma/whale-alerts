@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 19:08:58 (hora de Perú)
+Actualizado: 2026-11-15 19:11:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8663**  ($492,057,388 en total)
-- Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 49
+- Resueltas: **8589** — 5244 ganadas / 3345 perdidas (**61%** de acierto)
+- Pendientes: 47
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,758,875** sobre $488,215,512 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,655** sobre $847,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,734,510** sobre $488,298,920 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,594** sobre $847,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 46 | 31 | 2 | 60% | $5,553,513 | +$327,238 |
+| maz26 | 47 | 31 | 1 | 60% | $5,553,513 | +$337,699 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
 | BrotherObama | 56 | 59 | 2 | 49% | $5,020,652 | -$118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
@@ -58,7 +58,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
 | Multicoloured-Serf | 29 | 32 | 3 | 48% | $3,010,452 | -$612,696 |
-| juice-fruit | 30 | 20 | 1 | 60% | $2,958,990 | +$224,378 |
+| juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $33,181 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.35 (74¢) | $43,588 | — | ⏳ Pendiente |
 | OzornoyYebaka | Rockets vs. Wizards | Rockets | 1.35 (74¢) | $27,838 | — | ⏳ Pendiente |
-| juice-fruit | Rams vs. Cardinals | Rams | 1.39 (72¢) | $35,753 | — | ⏳ Pendiente |
+| juice-fruit | Rams vs. Cardinals | Rams | 1.39 (72¢) | $35,753 | +$13,904 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | Cowboys | 3.85 (26¢) | $25,046 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.35 (74¢) | $138,708 | — | ⏳ Pendiente |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.47 (68¢) | $39,158 | — | ⏳ Pendiente |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | Donkey14 | Spread: 49ers (-3.5) | 49ers | 2.08 (48¢) | $38,535 | — | ⏳ Pendiente |
 | ropetard | Spread: Celtics (-14.5) | Celtics | 2.04 (49¢) | $55,805 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | — | ⏳ Pendiente |
-| gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | — | ⏳ Pendiente |
+| gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | +$10,461 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | — | ⏳ Pendiente |
 | sport-intelligence | Will France win on 2026-11-15? | Yes | 1.27 (79¢) | $29,120 | +$7,741 | ✅ Ganada |
 | OzornoyYebaka | 49ers vs. Cowboys | 49ers | 1.56 (64¢) | $38,234 | — | ⏳ Pendiente |
