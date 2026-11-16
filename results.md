@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 14:09:17 (hora de Perú)
+Actualizado: 2026-11-16 14:11:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8690**  ($493,371,489 en total)
-- Resueltas: **8648** — 5287 ganadas / 3361 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8649** — 5287 ganadas / 3362 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,066,006** sobre $491,569,763 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,746** sobre $853,300 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,093,680** sobre $491,597,436 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,846** sobre $853,400 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 |---|---|---|---|---|---|---|
 | Kyn008 | Germany vs. Netherlands: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,358 | — | ⏳ Pendiente |
 | SuitableName | Rockets vs. Heat | Rockets | 1.79 (56¢) | $38,322 | — | ⏳ Pendiente |
-| rabbitfoot1 | Spread: Iceland (-1.5) | Luxembourg | 2.13 (47¢) | $27,673 | — | ⏳ Pendiente |
+| rabbitfoot1 | Spread: Iceland (-1.5) | Luxembourg | 2.13 (47¢) | $27,673 | -$27,673 | ❌ Perdida |
 | Woaifacai | Faroe Islands vs. Moldova: O/U 2.5 | Under 2.5 | 1.47 (68¢) | $31,594 | +$14,868 | ✅ Ganada |
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $44,753 | — | ⏳ Pendiente |
 | Woaifacai | Colina: Rebeka Masarova vs Diletta Cherubini | Rebeka Masarova | 1.22 (82¢) | $26,846 | +$5,893 | ✅ Ganada |
