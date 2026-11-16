@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 11:25:10 (hora de Perú)
+Actualizado: 2026-11-16 11:27:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8687**  ($493,276,136 en total)
-- Resueltas: **8646** — 5285 ganadas / 3361 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8647** — 5286 ganadas / 3361 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,086,768** sobre $491,511,322 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,815** sobre $853,100 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,080,874** sobre $491,538,168 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,793** sobre $853,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -46,7 +46,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
 | BrotherObama | 56 | 60 | 2 | 48% | $5,050,652 | -$30,118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
-| Woaifacai | 53 | 17 | 2 | 76% | $4,796,757 | +$657,387 |
+| Woaifacai | 54 | 17 | 1 | 76% | $4,796,757 | +$663,280 |
 | surfandturf | 44 | 14 | 0 | 76% | $4,307,266 | +$589,327 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 |---|---|---|---|---|---|---|
 | Woaifacai | Faroe Islands vs. Moldova: O/U 2.5 | Under 2.5 | 1.47 (68¢) | $31,594 | — | ⏳ Pendiente |
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $44,753 | — | ⏳ Pendiente |
-| Woaifacai | Colina: Rebeka Masarova vs Diletta Cherubini | Rebeka Masarova | 1.22 (82¢) | $26,846 | — | ⏳ Pendiente |
+| Woaifacai | Colina: Rebeka Masarova vs Diletta Cherubini | Rebeka Masarova | 1.22 (82¢) | $26,846 | +$5,893 | ✅ Ganada |
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $28,283 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.27 (44¢) | $58,319 | — | ⏳ Pendiente |
