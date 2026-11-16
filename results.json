@@ -130365,5 +130365,20 @@
     "fills": 1,
     "profit_usd": -1000.0,
     "precio_salida": 65
+  },
+  {
+    "telegram_msg_id": 17537,
+    "timestamp": 1794792943,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nhl-van-las-2026-11-15",
+    "title": "Canucks vs. Golden Knights",
+    "outcome": "Golden Knights",
+    "side": "BUY",
+    "usd": 31894.539999000004,
+    "odds_at_bet": 79,
+    "status": "pending",
+    "ultimo_fill": 1794792943,
+    "fills": 1
   }
 ]

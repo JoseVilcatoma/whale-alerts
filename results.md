@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 20:35:13 (hora de Perú)
+Actualizado: 2026-11-15 20:37:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8674**  ($492,562,712 en total)
+- Apuestas registradas: **8675**  ($492,594,607 en total)
 - Resueltas: **8620** — 5267 ganadas / 3353 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Canucks vs. Golden Knights | Golden Knights | 1.27 (79¢) | $31,895 | — | ⏳ Pendiente |
 | surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
 | sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
 | 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Sassy-Bucket | Bills vs. Jets | Bills | 1.25 (80¢) | $476,869 | +$119,217 | ✅ Ganada |
 | sinasinner | Panthers vs. Saints | Panthers | 1.92 (52¢) | $25,000 | +$23,077 | ✅ Ganada |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Bills vs. Jets | Jets | 4.76 (21¢) | $42,000 | -$42,000 | ❌ Perdida |
-| SuitableName | Spread: Jaguars (-10.5) | Jaguars | 2.00 (50¢) | $40,000 | +$40,000 | ✅ Ganada |
