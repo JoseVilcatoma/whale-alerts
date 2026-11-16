@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 23:45:47 (hora de Perú)
+Actualizado: 2026-11-15 23:47:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8678**  ($492,863,470 en total)
-- Resueltas: **8637** — 5278 ganadas / 3359 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8643** — 5283 ganadas / 3360 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,189,045** sobre $491,072,790 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$7,962** sobre $852,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,064,390** sobre $491,402,428 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,739** sobre $852,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -42,14 +42,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 47 | 31 | 1 | 60% | $5,553,513 | +$337,699 |
+| maz26 | 48 | 31 | 0 | 61% | $5,553,513 | +$351,794 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
-| BrotherObama | 56 | 59 | 3 | 49% | $5,050,652 | -$118 |
+| BrotherObama | 56 | 60 | 2 | 48% | $5,050,652 | -$30,118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 44 | 14 | 0 | 76% | $4,307,266 | +$589,327 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
-| milkteaboba | 23 | 13 | 1 | 64% | $3,731,771 | -$533,995 |
+| milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
@@ -71,24 +71,24 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | — | ⏳ Pendiente |
+| milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | +$64,988 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | -$34,156 | ❌ Perdida |
 | MD14 | Knicks vs. Raptors: O/U 212.5 | Over 212.5 | 1.16 (86¢) | $67,595 | +$11,004 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Canucks vs. Golden Knights | Golden Knights | 1.27 (79¢) | $31,895 | — | ⏳ Pendiente |
 | surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
-| sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | — | ⏳ Pendiente |
+| sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | — | ⏳ Pendiente |
-| christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | — | ⏳ Pendiente |
+| christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | +$24,750 | ✅ Ganada |
 | DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | +$24,032 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.32 (76¢) | $64,282 | +$20,299 | ✅ Ganada |
 | MD14 | Mavericks vs. Celtics: O/U 241.5 | Under 241.5 | 1.12 (89¢) | $63,667 | +$7,869 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Spread: Bengals (-3.5) | Bengals | 1.92 (52¢) | $29,599 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Spread: Bengals (-3.5) | Bengals | 1.92 (52¢) | $29,599 | +$27,322 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Spread: Hawks (-8.5) | Hawks | 1.92 (52¢) | $50,273 | -$50,273 | ❌ Perdida |
-| BrotherObama | Spread: Bengals (-3.5) | Steelers | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Bengals (-3.5) | Steelers | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.16 (86¢) | $45,859 | +$7,465 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Jazz | Spurs | 1.61 (62¢) | $178,424 | +$109,356 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Jazz | Jazz | 2.63 (38¢) | $66,643 | -$66,643 | ❌ Perdida |
-| gmpm2 | Steelers vs. Bengals | Bengals | 1.54 (65¢) | $26,176 | — | ⏳ Pendiente |
+| gmpm2 | Steelers vs. Bengals | Bengals | 1.54 (65¢) | $26,176 | +$14,095 | ✅ Ganada |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.96 (51¢) | $49,128 | +$47,201 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Wizards | Rockets | 1.33 (75¢) | $38,857 | +$12,952 | ✅ Ganada |
 | Multicoloured-Serf | Spread: Rockets (-8.5) | Wizards | 2.04 (49¢) | $30,666 | -$30,666 | ❌ Perdida |
