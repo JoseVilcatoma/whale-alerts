@@ -130530,5 +130530,20 @@
     "status": "pending",
     "ultimo_fill": 1794839918,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17574,
+    "timestamp": 1794840336,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "nba-hou-mia-2026-11-16",
+    "title": "Rockets vs. Heat",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 44752.624,
+    "odds_at_bet": 56,
+    "status": "pending",
+    "ultimo_fill": 1794840336,
+    "fills": 1
   }
 ]

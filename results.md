@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 09:45:05 (hora de Perú)
+Actualizado: 2026-11-16 09:47:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8685**  ($493,199,789 en total)
+- Apuestas registradas: **8686**  ($493,244,542 en total)
 - Resueltas: **8644** — 5283 ganadas / 3361 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $44,753 | — | ⏳ Pendiente |
 | Woaifacai | Colina: Rebeka Masarova vs Diletta Cherubini | Rebeka Masarova | 1.22 (82¢) | $26,846 | — | ⏳ Pendiente |
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $28,283 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | ropetard | Spread: Celtics (-14.5) | Celtics | 2.04 (49¢) | $55,805 | +$58,083 | ✅ Ganada |
 | keeptheblueflagflyinghigh | 49ers vs. Cowboys: O/U 56.5 | Over 56.5 | 2.08 (48¢) | $31,764 | +$34,411 | ✅ Ganada |
 | gmpm2 | Rams vs. Cardinals | Rams | 1.22 (82¢) | $47,655 | +$10,461 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Panthers vs. Stars | Panthers | 2.22 (45¢) | $25,161 | -$25,161 | ❌ Perdida |
