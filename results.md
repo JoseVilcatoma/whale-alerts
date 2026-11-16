@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 19:21:20 (hora de Perú)
+Actualizado: 2026-11-15 19:23:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8664**  ($492,103,247 en total)
+- Apuestas registradas: **8666**  ($492,183,520 en total)
 - Resueltas: **8598** — 5251 ganadas / 3347 perdidas (**61%** de acierto)
-- Pendientes: 39
+- Pendientes: 41
 - Apostadores distintos: 732
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 348 | 16 | 63% | $63,369,622 | +$611,332 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
-| Lakersfan111 | 177 | 100 | 3 | 64% | $13,935,581 | +$318,542 |
+| Lakersfan111 | 177 | 100 | 4 | 64% | $13,985,854 | +$318,542 |
 | googleplay | 59 | 56 | 4 | 51% | $13,371,282 | -$953,023 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 47 | 31 | 1 | 60% | $5,553,513 | +$337,699 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
-| BrotherObama | 56 | 59 | 2 | 49% | $5,020,652 | -$118 |
+| BrotherObama | 56 | 59 | 3 | 49% | $5,050,652 | -$118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 53 | 17 | 0 | 76% | $4,738,317 | +$657,387 |
 | surfandturf | 43 | 13 | 1 | 77% | $4,241,266 | +$554,327 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Spread: Hawks (-8.5) | Hawks | 1.92 (52¢) | $50,273 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Bengals (-3.5) | Steelers | 2.04 (49¢) | $30,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.16 (86¢) | $45,859 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Jazz | Spurs | 1.61 (62¢) | $178,424 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Jazz | Jazz | 2.63 (38¢) | $66,643 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.41 (71¢) | $39,289 | +$16,047 | ✅ Ganada |
 | R2D2RS | Spread: Jaguars (-9.5) | Jaguars | 1.82 (55¢) | $65,967 | +$53,973 | ✅ Ganada |
 | SuitableName | Spread: Colts (-4.5) | Dolphins | 2.04 (49¢) | $40,002 | +$41,634 | ✅ Ganada |
-| sinasinner | Spread: Packers (-2.5) | Vikings | 2.04 (49¢) | $25,000 | +$26,020 | ✅ Ganada |
-| sinasinner | Panthers vs. Saints | Panthers | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
