@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 18:55:08 (hora de Perú)
+Actualizado: 2026-11-16 18:57:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8694**  ($493,685,386 en total)
+- Apuestas registradas: **8695**  ($493,728,707 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 733
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 8 | 64% | $63,539,712 | +$956,767 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 180 | 103 | 1 | 64% | $14,136,031 | +$268,558 |
+| Lakersfan111 | 180 | 103 | 2 | 64% | $14,179,352 | +$268,558 |
 | googleplay | 63 | 56 | 0 | 53% | $13,371,282 | -$741,007 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | — | ⏳ Pendiente |
 | RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | — | ⏳ Pendiente |
 | surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | — | ⏳ Pendiente |
 | mooseborzoi | Rockets vs. Heat | Heat | 2.27 (44¢) | $109,999 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | +$7,845 | ✅ Ganada |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | +$16,672 | ✅ Ganada |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | +$19,038 | ✅ Ganada |
-| fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | +$47,638 | ✅ Ganada |
