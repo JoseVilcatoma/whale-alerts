@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 19:04:50 (hora de Perú)
+Actualizado: 2026-11-15 19:06:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8660**  ($491,786,145 en total)
+- Apuestas registradas: **8661**  ($491,812,322 en total)
 - Resueltas: **8587** — 5242 ganadas / 3345 perdidas (**61%** de acierto)
-- Pendientes: 46
+- Pendientes: 47
 - Apostadores distintos: 732
 
 ### Balance
@@ -42,7 +42,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
-| maz26 | 46 | 31 | 1 | 60% | $5,527,337 | +$327,238 |
+| maz26 | 46 | 31 | 2 | 60% | $5,553,513 | +$327,238 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
 | BrotherObama | 56 | 59 | 2 | 49% | $5,020,652 | -$118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| gmpm2 | Steelers vs. Bengals | Bengals | 1.54 (65¢) | $26,176 | — | ⏳ Pendiente |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.96 (51¢) | $49,128 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Wizards | Rockets | 1.33 (75¢) | $38,857 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Rockets (-8.5) | Wizards | 2.04 (49¢) | $30,666 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | +$57,647 | ✅ Ganada |
 | Donkey14 | Spread: 76ers (-7.5) | 76ers | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Jaguars vs. Titans | Jaguars | 1.20 (83¢) | $34,311 | +$7,027 | ✅ Ganada |
-| 0xd4aa6f8e91cfea29b66a48ebff52814 | Bills vs. Jets | Bills | 1.27 (79¢) | $26,497 | +$7,044 | ✅ Ganada |
