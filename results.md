@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 00:08:25 (hora de Perú)
+Actualizado: 2026-11-16 00:10:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8678**  ($492,863,470 en total)
-- Resueltas: **8643** — 5283 ganadas / 3360 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **8644** — 5283 ganadas / 3361 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,064,390** sobre $491,402,428 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,739** sobre $852,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,096,284** sobre $491,434,323 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,839** sobre $852,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | +$64,988 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | -$34,156 | ❌ Perdida |
 | MD14 | Knicks vs. Raptors: O/U 212.5 | Over 212.5 | 1.16 (86¢) | $67,595 | +$11,004 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Canucks vs. Golden Knights | Golden Knights | 1.27 (79¢) | $31,895 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Canucks vs. Golden Knights | Golden Knights | 1.27 (79¢) | $31,895 | -$31,895 | ❌ Perdida |
 | surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
 | sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | — | ⏳ Pendiente |
