@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 09:57:16 (hora de Perú)
+Actualizado: 2026-11-16 09:59:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8686**  ($493,244,542 en total)
-- Resueltas: **8644** — 5283 ganadas / 3361 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8646** — 5285 ganadas / 3361 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,096,284** sobre $491,434,323 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,839** sobre $852,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,086,768** sobre $491,511,322 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,815** sobre $853,100 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
-| 0F62 | 40 | 8 | 1 | 83% | $3,337,143 | -$336,940 |
+| 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoi | 25 | 36 | 0 | 41% | $3,161,734 | -$436,025 |
@@ -78,14 +78,14 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.27 (44¢) | $58,319 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Serbia win on 2026-11-16? | No | 1.16 (86¢) | $83,402 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Greece vs. Serbia end in a draw? | No | 1.25 (80¢) | $86,688 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $25,205 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $25,205 | +$3,115 | ✅ Ganada |
 | milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | +$64,988 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | -$34,156 | ❌ Perdida |
 | MD14 | Knicks vs. Raptors: O/U 212.5 | Over 212.5 | 1.16 (86¢) | $67,595 | +$11,004 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Canucks vs. Golden Knights | Golden Knights | 1.27 (79¢) | $31,895 | -$31,895 | ❌ Perdida |
 | surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
 | sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
-| 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | — | ⏳ Pendiente |
+| 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | +$6,402 | ✅ Ganada |
 | christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | +$24,750 | ✅ Ganada |
 | DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | +$24,032 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.32 (76¢) | $64,282 | +$20,299 | ✅ Ganada |
