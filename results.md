@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-15 19:17:13 (hora de Perú)
+Actualizado: 2026-11-15 19:19:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8663**  ($492,057,388 en total)
-- Resueltas: **8590** — 5245 ganadas / 3345 perdidas (**61%** de acierto)
+- Apuestas registradas: **8664**  ($492,103,247 en total)
+- Resueltas: **8591** — 5246 ganadas / 3345 perdidas (**61%** de acierto)
 - Pendientes: 46
 - Apostadores distintos: 732
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,700,099** sobre $488,330,684 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,486** sobre $847,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,652,461** sobre $488,384,403 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,397** sobre $847,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 16 | 63% | $63,323,763 | +$645,608 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 603 | 347 | 17 | 63% | $63,369,622 | +$645,608 |
 | Sassy-Bucket | 119 | 120 | 4 | 50% | $16,854,480 | -$1,409,916 |
 | Lakersfan111 | 177 | 100 | 3 | 64% | $13,935,581 | +$318,542 |
 | googleplay | 59 | 56 | 4 | 51% | $13,371,282 | -$953,023 |
@@ -53,7 +53,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | milkteaboba | 22 | 13 | 1 | 63% | $3,564,659 | -$550,751 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
-| fantasy7788 | 38 | 23 | 1 | 62% | $3,288,242 | +$654,231 |
+| fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 0F62 | 39 | 8 | 1 | 83% | $3,285,349 | -$339,575 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoi | 25 | 35 | 0 | 42% | $3,127,578 | -$401,869 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.16 (86¢) | $45,859 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Jazz | Spurs | 1.61 (62¢) | $178,424 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Jazz | Jazz | 2.63 (38¢) | $66,643 | — | ⏳ Pendiente |
 | gmpm2 | Steelers vs. Bengals | Bengals | 1.54 (65¢) | $26,176 | — | ⏳ Pendiente |
@@ -99,7 +100,7 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | +$7,845 | ✅ Ganada |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | — | ⏳ Pendiente |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | — | ⏳ Pendiente |
-| fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | — | ⏳ Pendiente |
+| fantasy7788 | Hornets vs. Clippers | Clippers | 1.89 (53¢) | $53,719 | +$47,638 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $46,669 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Celtics (-14.5) | Celtics | 1.96 (51¢) | $45,398 | — | ⏳ Pendiente |
 | milkteaboba | 49ers vs. Cowboys | 49ers | 1.59 (63¢) | $28,530 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 732 en total)_
 | SuitableName | Spread: Colts (-4.5) | Dolphins | 2.04 (49¢) | $40,002 | +$41,634 | ✅ Ganada |
 | sinasinner | Spread: Packers (-2.5) | Vikings | 2.04 (49¢) | $25,000 | +$26,020 | ✅ Ganada |
 | sinasinner | Panthers vs. Saints | Panthers | 1.96 (51¢) | $25,500 | +$24,500 | ✅ Ganada |
-| BrotherObama | Panthers vs. Saints | Panthers | 1.96 (51¢) | $60,000 | +$57,647 | ✅ Ganada |

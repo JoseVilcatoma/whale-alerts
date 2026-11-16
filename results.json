@@ -129775,7 +129775,7 @@
     "side": "BUY",
     "usd": 53719.03319999999,
     "odds_at_bet": 53,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794778342,
     "fills": 1
   },
@@ -130197,6 +130197,21 @@
     "odds_at_bet": 62,
     "status": "pending",
     "ultimo_fill": 1794787616,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17496,
+    "timestamp": 1794788254,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "nfl-sf-dal-2026-11-15",
+    "title": "49ers vs. Cowboys",
+    "outcome": "49ers",
+    "side": "BUY",
+    "usd": 45859.233400000005,
+    "odds_at_bet": 86,
+    "status": "pending",
+    "ultimo_fill": 1794788254,
     "fills": 1
   }
 ]
