@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 14:43:06 (hora de Perú)
+Actualizado: 2026-11-17 14:45:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8730**  ($495,264,424 en total)
-- Resueltas: **8690** — 5308 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **8691** — 5309 ganadas / 3382 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 734
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,350,443** sobre $493,668,589 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,687** sobre $857,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,326,573** sobre $493,700,231 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,612** sobre $857,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 613 | 350 | 9 | 64% | $63,638,103 | +$944,260 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 182 | 105 | 1 | 63% | $14,377,289 | +$225,338 |
+| Lakersfan111 | 183 | 105 | 0 | 64% | $14,377,289 | +$249,208 |
 | googleplay | 64 | 57 | 0 | 53% | $13,451,943 | -$742,366 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 734 en total)_
 | imnice | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.15 (87¢) | $26,924 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales vs. Portugal end in a draw? | No | 1.23 (81¢) | $38,052 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Inner Circle Esports vs Betclic Apogee Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 1.56 (64¢) | $51,200 | +$28,800 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B | BBL | 1.75 (57¢) | $31,641 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B | BBL | 1.75 (57¢) | $31,641 | +$23,870 | ✅ Ganada |
 | Wiretransferxyz | Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | Heroic | 1.72 (58¢) | $26,100 | -$26,100 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Chargers | 1.18 (85¢) | $35,031 | +$6,182 | ✅ Ganada |
 | VPenguin | Suns vs. Nuggets | Suns | 1.18 (85¢) | $27,159 | +$4,793 | ✅ Ganada |
