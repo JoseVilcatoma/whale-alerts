@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 14:39:06 (hora de Perú)
+Actualizado: 2026-11-17 14:41:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8729**  ($495,234,410 en total)
+- Apuestas registradas: **8730**  ($495,264,424 en total)
 - Resueltas: **8690** — 5308 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 734
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 734 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.10 (91¢) | $30,014 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields win on 2026-11-17? | No | 1.12 (89¢) | $39,142 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.11 (90¢) | $26,802 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.16 (86¢) | $25,907 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 734 en total)_
 | sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | +$6,402 | ✅ Ganada |
 | christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | +$24,750 | ✅ Ganada |
-| DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | +$24,032 | ✅ Ganada |
