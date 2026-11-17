@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 23:47:59 (hora de Perú)
+Actualizado: 2026-11-16 23:50:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8722**  ($494,994,742 en total)
-- Resueltas: **8686** — 5306 ganadas / 3380 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **8687** — 5306 ganadas / 3381 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,326,707** sobre $493,536,727 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,555** sobre $857,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,355,955** sobre $493,565,976 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,655** sobre $857,100 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 613 | 349 | 9 | 64% | $63,600,051 | +$973,508 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 613 | 350 | 8 | 64% | $63,600,051 | +$944,260 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 182 | 105 | 0 | 63% | $14,345,647 | +$225,338 |
 | googleplay | 64 | 57 | 0 | 53% | $13,451,943 | -$742,366 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Wiretransferxyz | Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | Heroic | 1.72 (58¢) | $26,100 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Chargers | 1.18 (85¢) | $35,031 | +$6,182 | ✅ Ganada |
 | VPenguin | Suns vs. Nuggets | Suns | 1.18 (85¢) | $27,159 | +$4,793 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-4.5) | Nuggets | 2.78 (36¢) | $29,249 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-4.5) | Nuggets | 2.78 (36¢) | $29,249 | -$29,249 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Ravens | 2.94 (34¢) | $32,459 | -$32,459 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | -$40,178 | ❌ Perdida |
 | googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | +$38,858 | ✅ Ganada |
