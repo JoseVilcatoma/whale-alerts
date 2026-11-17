@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 23:15:06 (hora de Perú)
+Actualizado: 2026-11-16 23:17:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8721**  ($494,968,642 en total)
+- Apuestas registradas: **8722**  ($494,994,742 en total)
 - Resueltas: **8675** — 5301 ganadas / 3374 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wiretransferxyz | Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | Heroic | 1.72 (58¢) | $26,100 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Chargers | 1.18 (85¢) | $35,031 | — | ⏳ Pendiente |
 | VPenguin | Suns vs. Nuggets | Suns | 1.18 (85¢) | $27,159 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-4.5) | Nuggets | 2.78 (36¢) | $29,249 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | BrotherObama | Spread: Bengals (-3.5) | Steelers | 2.04 (49¢) | $30,000 | -$30,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.16 (86¢) | $45,859 | +$7,465 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Jazz | Spurs | 1.61 (62¢) | $178,424 | +$109,356 | ✅ Ganada |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Jazz | Jazz | 2.63 (38¢) | $66,643 | -$66,643 | ❌ Perdida |
