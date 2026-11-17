@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 23:45:55 (hora de Perú)
+Actualizado: 2026-11-16 23:47:59 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8722**  ($494,994,742 en total)
-- Resueltas: **8683** — 5304 ganadas / 3379 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **8686** — 5306 ganadas / 3380 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,321,321** sobre $493,439,390 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,572** sobre $856,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,326,707** sobre $493,536,727 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,555** sobre $857,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,10 +73,10 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 |---|---|---|---|---|---|---|
 | Wiretransferxyz | Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | Heroic | 1.72 (58¢) | $26,100 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Chargers | 1.18 (85¢) | $35,031 | +$6,182 | ✅ Ganada |
-| VPenguin | Suns vs. Nuggets | Suns | 1.18 (85¢) | $27,159 | — | ⏳ Pendiente |
+| VPenguin | Suns vs. Nuggets | Suns | 1.18 (85¢) | $27,159 | +$4,793 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-4.5) | Nuggets | 2.78 (36¢) | $29,249 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Ravens | 2.94 (34¢) | $32,459 | -$32,459 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | -$40,178 | ❌ Perdida |
 | googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | +$38,858 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | +$16,741 | ✅ Ganada |
 | CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | +$2,915 | ✅ Ganada |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | -$50,206 | ❌ Perdida |
 | Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | -$26,642 | ❌ Perdida |
-| SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
+| SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | -$32,030 | ❌ Perdida |
 | surfandturf | 76ers vs. Nets | 76ers | 1.49 (67¢) | $201,000 | +$99,000 | ✅ Ganada |
 | Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | +$29,745 | ✅ Ganada |
