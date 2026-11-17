@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 22:01:25 (hora de Perú)
+Actualizado: 2026-11-16 22:03:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8717**  ($494,844,745 en total)
+- Apuestas registradas: **8718**  ($494,877,204 en total)
 - Resueltas: **8657** — 5291 ganadas / 3366 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Pendientes: 34
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Chargers vs. Ravens | Ravens | 2.94 (34¢) | $32,459 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | — | ⏳ Pendiente |
 | googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | gmpm2 | Steelers vs. Bengals | Bengals | 1.54 (65¢) | $26,176 | +$14,095 | ✅ Ganada |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.96 (51¢) | $49,128 | +$47,201 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Wizards | Rockets | 1.33 (75¢) | $38,857 | +$12,952 | ✅ Ganada |
-| Multicoloured-Serf | Spread: Rockets (-8.5) | Wizards | 2.04 (49¢) | $30,666 | -$30,666 | ❌ Perdida |
