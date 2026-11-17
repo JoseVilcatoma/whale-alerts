@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 22:48:26 (hora de Perú)
+Actualizado: 2026-11-16 22:50:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8719**  ($494,906,452 en total)
-- Resueltas: **8671** — 5299 ganadas / 3372 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **8674** — 5300 ganadas / 3374 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,138,844** sobre $492,973,910 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,177** sobre $855,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,182,966** sobre $493,078,032 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,277** sobre $855,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 10 | 64% | $63,600,051 | +$956,767 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 182 | 105 | 0 | 63% | $14,345,647 | +$225,338 |
-| googleplay | 63 | 56 | 2 | 53% | $13,451,943 | -$741,007 |
+| googleplay | 63 | 57 | 1 | 52% | $13,451,943 | -$781,224 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 48 | 31 | 0 | 61% | $5,553,513 | +$351,794 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
-| BrotherObama | 56 | 60 | 3 | 48% | $5,084,557 | -$30,118 |
+| BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
 | surfandturf | 46 | 14 | 0 | 77% | $4,555,419 | +$696,078 |
@@ -82,12 +82,12 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
 | thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | +$11,632 | ✅ Ganada |
-| BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | — | ⏳ Pendiente |
+| BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | -$33,905 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | -$122,353 | ❌ Perdida |
-| googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | — | ⏳ Pendiente |
+| googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | -$40,217 | ❌ Perdida |
 | VirIntrepidus | Spread: Ravens (-1.5) | Ravens | 1.54 (65¢) | $73,555 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | — | ⏳ Pendiente |
-| Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | — | ⏳ Pendiente |
 | SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | — | ⏳ Pendiente |
