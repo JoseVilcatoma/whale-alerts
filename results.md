@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 14:14:39 (hora de Perú)
+Actualizado: 2026-11-17 14:16:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8725**  ($495,115,635 en total)
+- Apuestas registradas: **8727**  ($495,168,466 en total)
 - Resueltas: **8690** — 5308 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 8
-- Apostadores distintos: 733
+- Pendientes: 10
+- Apostadores distintos: 734
 
 ### Balance
 
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 733 en total)_
+_(mostrando los 40 de mayor monto, de 734 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.16 (86¢) | $25,907 | — | ⏳ Pendiente |
+| imnice | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.15 (87¢) | $26,924 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales vs. Portugal end in a draw? | No | 1.23 (81¢) | $38,052 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Inner Circle Esports vs Betclic Apogee Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 1.56 (64¢) | $51,200 | +$28,800 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B | BBL | 1.75 (57¢) | $31,641 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | +$24,032 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.32 (76¢) | $64,282 | +$20,299 | ✅ Ganada |
 | MD14 | Mavericks vs. Celtics: O/U 241.5 | Under 241.5 | 1.12 (89¢) | $63,667 | +$7,869 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Spread: Bengals (-3.5) | Bengals | 1.92 (52¢) | $29,599 | +$27,322 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Spread: Hawks (-8.5) | Hawks | 1.92 (52¢) | $50,273 | -$50,273 | ❌ Perdida |
