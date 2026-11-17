@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 23:58:03 (hora de Perú)
+Actualizado: 2026-11-17 00:00:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8722**  ($494,994,742 en total)
-- Resueltas: **8687** — 5306 ganadas / 3381 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **8688** — 5307 ganadas / 3381 perdidas (**61%** de acierto)
+- Pendientes: 7
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,355,955** sobre $493,565,976 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,655** sobre $857,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,353,143** sobre $493,591,289 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,643** sobre $857,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | +$14,758 | ✅ Ganada |
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
-| thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | — | ⏳ Pendiente |
+| thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | +$2,813 | ✅ Ganada |
 | keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | +$11,632 | ✅ Ganada |
 | BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | -$33,905 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | -$122,353 | ❌ Perdida |
