@@ -131267,5 +131267,20 @@
     "status": "pending",
     "ultimo_fill": 1794957619,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17675,
+    "timestamp": 1794959221,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "nhl-edm-fla-2026-11-17",
+    "title": "Oilers vs. Panthers",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "usd": 34824.0006,
+    "odds_at_bet": 54,
+    "status": "pending",
+    "ultimo_fill": 1794959221,
+    "fills": 1
   }
 ]
