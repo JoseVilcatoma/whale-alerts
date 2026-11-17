@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 14:26:52 (hora de Perú)
+Actualizado: 2026-11-17 14:28:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8727**  ($495,168,466 en total)
+- Apuestas registradas: **8728**  ($495,195,268 en total)
 - Resueltas: **8690** — 5308 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 734
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 734 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.11 (90¢) | $26,802 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.16 (86¢) | $25,907 | — | ⏳ Pendiente |
 | imnice | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.15 (87¢) | $26,924 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales vs. Portugal end in a draw? | No | 1.23 (81¢) | $38,052 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 734 en total)_
 | christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | +$24,750 | ✅ Ganada |
 | DaBossHogg | Steelers vs. Bengals: O/U 48.5 | Over 48.5 | 1.89 (53¢) | $27,100 | +$24,032 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.32 (76¢) | $64,282 | +$20,299 | ✅ Ganada |
-| MD14 | Mavericks vs. Celtics: O/U 241.5 | Under 241.5 | 1.12 (89¢) | $63,667 | +$7,869 | ✅ Ganada |
