@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 15:39:59 (hora de Perú)
+Actualizado: 2026-11-17 15:42:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8730**  ($495,264,424 en total)
+- Apuestas registradas: **8731**  ($495,289,924 en total)
 - Resueltas: **8691** — 5309 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 12
-- Apostadores distintos: 734
+- Pendientes: 13
+- Apostadores distintos: 735
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 | goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
 
-_(mostrando los 40 de mayor monto, de 734 en total)_
+_(mostrando los 40 de mayor monto, de 735 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| shibaijiaoyiyuan | Dota 2: LGD Gaming vs PARIVISION - Game 2 Winner | PARIVISION | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.10 (91¢) | $30,014 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields win on 2026-11-17? | No | 1.12 (89¢) | $39,142 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.11 (90¢) | $26,802 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 734 en total)_
 | surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
 | sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
 | 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | +$6,402 | ✅ Ganada |
-| christianox | Steelers vs. Bengals | Bengals | 1.49 (67¢) | $50,250 | +$24,750 | ✅ Ganada |
