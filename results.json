@@ -130785,5 +130785,20 @@
     "status": "pending",
     "ultimo_fill": 1794876687,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17601,
+    "timestamp": 1794876823,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-gsw-nop-2026-11-16-spread-away-3pt5",
+    "title": "Spread: Warriors (-3.5)",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794876823,
+    "fills": 1
   }
 ]

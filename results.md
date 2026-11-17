@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 19:52:40 (hora de Perú)
+Actualizado: 2026-11-16 19:54:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8702**  ($494,154,272 en total)
+- Apuestas registradas: **8703**  ($494,184,272 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | — | ⏳ Pendiente |
 | SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Multicoloured-Serf | Seahawks vs. Raiders | Raiders | 2.13 (47¢) | $74,016 | -$74,016 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $33,181 | -$33,181 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.35 (74¢) | $43,588 | +$15,315 | ✅ Ganada |
-| OzornoyYebaka | Rockets vs. Wizards | Rockets | 1.35 (74¢) | $27,838 | +$9,781 | ✅ Ganada |
