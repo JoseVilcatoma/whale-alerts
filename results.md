@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 18:59:12 (hora de Perú)
+Actualizado: 2026-11-16 19:01:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8695**  ($493,728,707 en total)
+- Apuestas registradas: **8696**  ($493,792,078 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | — | ⏳ Pendiente |
 | RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | — | ⏳ Pendiente |
 | surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.47 (68¢) | $39,158 | +$18,428 | ✅ Ganada |
 | 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | +$7,845 | ✅ Ganada |
 | ethanaz | Seahawks vs. Raiders | Seahawks | 1.56 (64¢) | $29,639 | +$16,672 | ✅ Ganada |
-| ethanaz | Seahawks vs. Raiders | Seahawks | 1.49 (67¢) | $38,652 | +$19,038 | ✅ Ganada |
