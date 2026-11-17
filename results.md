@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 21:35:03 (hora de Perú)
+Actualizado: 2026-11-16 21:37:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8714**  ($494,733,032 en total)
-- Resueltas: **8654** — 5290 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 33
+- Resueltas: **8655** — 5291 ganadas / 3364 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,107,615** sobre $491,871,613 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,004** sobre $853,800 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,100,196** sobre $491,921,259 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,989** sobre $853,900 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 |---|---|---|---|---|---|---|
 | CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | — | ⏳ Pendiente |
-| MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | — | ⏳ Pendiente |
+| MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | — | ⏳ Pendiente |
 | thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | — | ⏳ Pendiente |
