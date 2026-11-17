@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 22:50:27 (hora de Perú)
+Actualizado: 2026-11-16 22:52:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8719**  ($494,906,452 en total)
-- Resueltas: **8674** — 5300 ganadas / 3374 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **8675** — 5301 ganadas / 3374 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,182,966** sobre $493,078,032 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,277** sobre $855,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,168,209** sobre $493,117,932 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,240** sobre $855,900 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | +$2,915 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | +$14,758 | ✅ Ganada |
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
 | thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | — | ⏳ Pendiente |
