@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 22:31:59 (hora de Perú)
+Actualizado: 2026-11-16 22:34:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8718**  ($494,877,204 en total)
-- Resueltas: **8664** — 5294 ganadas / 3370 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **8668** — 5298 ganadas / 3370 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,147,054** sobre $492,442,830 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,222** sobre $854,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$4,975,464** sobre $492,768,886 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$7,984** sobre $855,200 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 60 | 3 | 48% | $5,084,557 | -$30,118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
-| surfandturf | 45 | 14 | 1 | 76% | $4,555,419 | +$597,078 |
+| surfandturf | 46 | 14 | 0 | 77% | $4,555,419 | +$696,078 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoi | 26 | 36 | 0 | 42% | $3,271,733 | -$296,026 |
-| Multicoloured-Serf | 29 | 34 | 2 | 46% | $3,039,031 | -$717,378 |
+| Multicoloured-Serf | 30 | 34 | 1 | 47% | $3,039,031 | -$687,633 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
 | thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | +$11,632 | ✅ Ganada |
 | BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | — | ⏳ Pendiente |
 | googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | — | ⏳ Pendiente |
@@ -90,10 +90,10 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | — | ⏳ Pendiente |
 | SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | — | ⏳ Pendiente |
-| surfandturf | 76ers vs. Nets | 76ers | 1.49 (67¢) | $201,000 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | — | ⏳ Pendiente |
+| surfandturf | 76ers vs. Nets | 76ers | 1.49 (67¢) | $201,000 | +$99,000 | ✅ Ganada |
+| Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | +$29,745 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.67 (60¢) | $43,942 | — | ⏳ Pendiente |
-| Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | — | ⏳ Pendiente |
+| Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | +$31,213 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | +$48,851 | ✅ Ganada |
 | RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | -$124,529 | ❌ Perdida |
 | surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | +$7,751 | 💰 Vendida antes |
