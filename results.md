@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 19:27:51 (hora de Perú)
+Actualizado: 2026-11-16 19:29:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8700**  ($494,097,630 en total)
+- Apuestas registradas: **8701**  ($494,127,630 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | — | ⏳ Pendiente |
 | surfandturf | 76ers vs. Nets | 76ers | 1.49 (67¢) | $201,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | robloxgamblemaster-2008-10-18 | Hawks vs. Bucks | Hawks | 1.35 (74¢) | $43,588 | +$15,315 | ✅ Ganada |
 | OzornoyYebaka | Rockets vs. Wizards | Rockets | 1.35 (74¢) | $27,838 | +$9,781 | ✅ Ganada |
 | juice-fruit | Rams vs. Cardinals | Rams | 1.39 (72¢) | $35,753 | +$13,904 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | Cowboys | 3.85 (26¢) | $25,046 | -$25,046 | ❌ Perdida |
