@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 22:15:38 (hora de Perú)
+Actualizado: 2026-11-16 22:17:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8718**  ($494,877,204 en total)
-- Resueltas: **8657** — 5291 ganadas / 3366 perdidas (**61%** de acierto)
-- Pendientes: 34
+- Resueltas: **8664** — 5294 ganadas / 3370 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,174,242** sobre $491,995,305 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,189** sobre $854,100 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,147,054** sobre $492,442,830 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,222** sobre $854,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 9 | 64% | $63,570,802 | +$956,767 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 180 | 103 | 4 | 64% | $14,345,647 | +$268,558 |
+| Lakersfan111 | 182 | 103 | 2 | 64% | $14,345,647 | +$391,633 |
 | googleplay | 63 | 56 | 2 | 53% | $13,451,943 | -$741,007 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -56,7 +56,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoi | 25 | 36 | 1 | 41% | $3,271,733 | -$436,025 |
+| mooseborzoi | 26 | 36 | 0 | 42% | $3,271,733 | -$296,026 |
 | Multicoloured-Serf | 29 | 34 | 2 | 46% | $3,039,031 | -$717,378 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
@@ -94,20 +94,20 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.67 (60¢) | $43,942 | — | ⏳ Pendiente |
 | Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | — | ⏳ Pendiente |
-| RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | +$48,851 | ✅ Ganada |
+| RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | -$124,529 | ❌ Perdida |
 | surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | +$7,751 | 💰 Vendida antes |
-| mooseborzoi | Rockets vs. Heat | Heat | 2.27 (44¢) | $109,999 | — | ⏳ Pendiente |
+| mooseborzoi | Rockets vs. Heat | Heat | 2.27 (44¢) | $109,999 | +$139,999 | ✅ Ganada |
 | Woaifacai | Sydney: Matthew Dellavedova vs Jason Kubler | Matthew Dellavedova | 1.67 (60¢) | $32,216 | -$32,216 | ❌ Perdida |
 | Kyn008 | Germany vs. Netherlands: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,358 | -$29,358 | ❌ Perdida |
-| SuitableName | Rockets vs. Heat | Rockets | 1.79 (56¢) | $38,322 | — | ⏳ Pendiente |
+| SuitableName | Rockets vs. Heat | Rockets | 1.79 (56¢) | $38,322 | -$38,322 | ❌ Perdida |
 | rabbitfoot1 | Spread: Iceland (-1.5) | Luxembourg | 2.13 (47¢) | $27,673 | -$27,673 | ❌ Perdida |
 | Woaifacai | Faroe Islands vs. Moldova: O/U 2.5 | Under 2.5 | 1.47 (68¢) | $31,594 | +$14,868 | ✅ Ganada |
-| omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $44,753 | — | ⏳ Pendiente |
+| omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $44,753 | -$44,753 | ❌ Perdida |
 | Woaifacai | Colina: Rebeka Masarova vs Diletta Cherubini | Rebeka Masarova | 1.22 (82¢) | $26,846 | +$5,893 | ✅ Ganada |
-| omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $28,283 | — | ⏳ Pendiente |
+| omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $28,283 | -$28,283 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | -$27,577 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.27 (44¢) | $58,319 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.27 (44¢) | $58,319 | +$74,225 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Serbia win on 2026-11-16? | No | 1.16 (86¢) | $83,402 | +$13,577 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Greece vs. Serbia end in a draw? | No | 1.25 (80¢) | $86,688 | +$21,672 | ✅ Ganada |
 | keeptheblueflagflyinghigh | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $25,205 | +$3,115 | ✅ Ganada |
