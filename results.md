@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 16:24:33 (hora de Perú)
+Actualizado: 2026-11-17 16:26:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8731**  ($495,289,924 en total)
-- Resueltas: **8691** — 5309 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **8692** — 5310 ganadas / 3382 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 735
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,326,573** sobre $493,700,231 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,612** sobre $857,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,322,073** sobre $493,725,731 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,594** sobre $857,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 735 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| shibaijiaoyiyuan | Dota 2: LGD Gaming vs PARIVISION - Game 2 Winner | PARIVISION | 1.18 (85¢) | $25,500 | — | ⏳ Pendiente |
+| shibaijiaoyiyuan | Dota 2: LGD Gaming vs PARIVISION - Game 2 Winner | PARIVISION | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.10 (91¢) | $30,014 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields win on 2026-11-17? | No | 1.12 (89¢) | $39,142 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.11 (90¢) | $26,802 | — | ⏳ Pendiente |
