@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 06:53:35 (hora de Perú)
+Actualizado: 2026-11-17 13:56:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8725**  ($495,115,635 en total)
-- Resueltas: **8688** — 5307 ganadas / 3381 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **8690** — 5308 ganadas / 3382 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,353,143** sobre $493,591,289 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,643** sobre $857,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,350,443** sobre $493,668,589 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,687** sobre $857,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 48 | 31 | 0 | 61% | $5,553,513 | +$351,794 |
-| Thunderous-Authoritarian-Snarl | 26 | 22 | 1 | 54% | $5,260,534 | -$1,648,966 |
+| Thunderous-Authoritarian-Snarl | 27 | 22 | 0 | 55% | $5,260,534 | -$1,620,166 |
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
@@ -72,9 +72,9 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales vs. Portugal end in a draw? | No | 1.23 (81¢) | $38,052 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Inner Circle Esports vs Betclic Apogee Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 1.56 (64¢) | $51,200 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Inner Circle Esports vs Betclic Apogee Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 1.56 (64¢) | $51,200 | +$28,800 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B | BBL | 1.75 (57¢) | $31,641 | — | ⏳ Pendiente |
-| Wiretransferxyz | Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | Heroic | 1.72 (58¢) | $26,100 | — | ⏳ Pendiente |
+| Wiretransferxyz | Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | Heroic | 1.72 (58¢) | $26,100 | -$26,100 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Chargers | 1.18 (85¢) | $35,031 | +$6,182 | ✅ Ganada |
 | VPenguin | Suns vs. Nuggets | Suns | 1.18 (85¢) | $27,159 | +$4,793 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-4.5) | Nuggets | 2.78 (36¢) | $29,249 | -$29,249 | ❌ Perdida |
