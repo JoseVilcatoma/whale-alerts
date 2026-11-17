@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 20:02:50 (hora de Perú)
+Actualizado: 2026-11-16 20:04:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8709**  ($494,537,615 en total)
-- Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Resueltas: **8654** — 5290 ganadas / 3364 perdidas (**61%** de acierto)
+- Pendientes: 28
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,115,366** sobre $491,824,461 apostados (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,107,615** sobre $491,871,613 apostados (ROI **-1.0%**)
 - Copiando $100 fijo en cada una: **-$8,004** sobre $853,800 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 60 | 3 | 48% | $5,084,557 | -$30,118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 17 | 1 | 76% | $4,828,973 | +$678,148 |
-| surfandturf | 44 | 14 | 2 | 76% | $4,555,419 | +$589,327 |
+| surfandturf | 45 | 14 | 1 | 76% | $4,555,419 | +$597,078 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -87,7 +87,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | — | ⏳ Pendiente |
 | RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | — | ⏳ Pendiente |
-| surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | — | ⏳ Pendiente |
+| surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | +$7,751 | 💰 Vendida antes |
 | mooseborzoi | Rockets vs. Heat | Heat | 2.27 (44¢) | $109,999 | — | ⏳ Pendiente |
 | Woaifacai | Sydney: Matthew Dellavedova vs Jason Kubler | Matthew Dellavedova | 1.67 (60¢) | $32,216 | — | ⏳ Pendiente |
 | Kyn008 | Germany vs. Netherlands: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,358 | -$29,358 | ❌ Perdida |
