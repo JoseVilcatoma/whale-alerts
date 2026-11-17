@@ -130860,5 +130860,20 @@
     "status": "pending",
     "ultimo_fill": 1794877112,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17606,
+    "timestamp": 1794877248,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "nba-gsw-nop-2026-11-16-spread-away-3pt5",
+    "title": "Spread: Warriors (-3.5)",
+    "outcome": "Warriors",
+    "side": "BUY",
+    "usd": 33905.339999,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794877248,
+    "fills": 1
   }
 ]

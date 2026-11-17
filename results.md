@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 19:58:46 (hora de Perú)
+Actualizado: 2026-11-16 20:00:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8707**  ($494,470,604 en total)
+- Apuestas registradas: **8708**  ($494,504,509 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Pendientes: 28
 - Apostadores distintos: 733
 
 ### Balance
@@ -44,7 +44,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 48 | 31 | 0 | 61% | $5,553,513 | +$351,794 |
 | Thunderous-Authoritarian-Snarl | 26 | 22 | 0 | 54% | $5,209,334 | -$1,648,966 |
-| BrotherObama | 56 | 60 | 2 | 48% | $5,050,652 | -$30,118 |
+| BrotherObama | 56 | 60 | 3 | 48% | $5,084,557 | -$30,118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 17 | 1 | 76% | $4,828,973 | +$678,148 |
 | surfandturf | 44 | 14 | 2 | 76% | $4,555,419 | +$589,327 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | — | ⏳ Pendiente |
 | googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | — | ⏳ Pendiente |
 | VirIntrepidus | Spread: Ravens (-1.5) | Ravens | 1.54 (65¢) | $73,555 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | +$2,635 | ✅ Ganada |
 | 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | +$29,924 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.64 (61¢) | $29,311 | +$18,740 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Spread: Knicks (-4.5) | Knicks | 2.08 (48¢) | $26,489 | -$26,489 | ❌ Perdida |
