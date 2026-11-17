@@ -130952,5 +130952,20 @@
     "status": "pending",
     "ultimo_fill": 1794881526,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17613,
+    "timestamp": 1794881862,
+    "username": "CUTJALENHURTS",
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "slug": "nba-gsw-nop-2026-11-16",
+    "title": "Warriors vs. Pelicans",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 38727.738900000004,
+    "odds_at_bet": 93,
+    "status": "pending",
+    "ultimo_fill": 1794881862,
+    "fills": 1
   }
 ]
