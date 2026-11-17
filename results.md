@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 23:43:55 (hora de Perú)
+Actualizado: 2026-11-16 23:45:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8722**  ($494,994,742 en total)
-- Resueltas: **8676** — 5301 ganadas / 3375 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8683** — 5304 ganadas / 3379 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,241,764** sobre $493,191,487 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,340** sobre $856,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,321,321** sobre $493,439,390 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,572** sobre $856,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 10 | 64% | $63,600,051 | +$956,767 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 613 | 349 | 9 | 64% | $63,600,051 | +$973,508 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 182 | 105 | 0 | 63% | $14,345,647 | +$225,338 |
-| googleplay | 63 | 57 | 1 | 52% | $13,451,943 | -$781,224 |
+| googleplay | 64 | 57 | 0 | 53% | $13,451,943 | -$742,366 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -72,13 +72,13 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Wiretransferxyz | Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | Heroic | 1.72 (58¢) | $26,100 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Chargers vs. Ravens | Chargers | 1.18 (85¢) | $35,031 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Chargers vs. Ravens | Chargers | 1.18 (85¢) | $35,031 | +$6,182 | ✅ Ganada |
 | VPenguin | Suns vs. Nuggets | Suns | 1.18 (85¢) | $27,159 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-4.5) | Nuggets | 2.78 (36¢) | $29,249 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Chargers vs. Ravens | Ravens | 2.94 (34¢) | $32,459 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Chargers vs. Ravens | Ravens | 2.94 (34¢) | $32,459 | -$32,459 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | — | ⏳ Pendiente |
-| googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | — | ⏳ Pendiente |
+| googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | +$38,858 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | +$16,741 | ✅ Ganada |
 | CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | +$2,915 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | +$14,758 | ✅ Ganada |
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
@@ -89,11 +89,11 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | -$122,353 | ❌ Perdida |
 | googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | -$40,217 | ❌ Perdida |
 | VirIntrepidus | Spread: Ravens (-1.5) | Ravens | 1.54 (65¢) | $73,555 | -$73,555 | ❌ Perdida |
-| VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | — | ⏳ Pendiente |
+| VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | -$50,206 | ❌ Perdida |
 | Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
-| VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | — | ⏳ Pendiente |
+| VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | -$26,642 | ❌ Perdida |
 | SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
-| VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | — | ⏳ Pendiente |
+| VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | -$32,030 | ❌ Perdida |
 | surfandturf | 76ers vs. Nets | 76ers | 1.49 (67¢) | $201,000 | +$99,000 | ✅ Ganada |
 | Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | +$29,745 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.67 (60¢) | $43,942 | -$43,942 | ❌ Perdida |
