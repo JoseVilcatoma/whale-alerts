@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 23:41:51 (hora de Perú)
+Actualizado: 2026-11-16 23:43:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8722**  ($494,994,742 en total)
-- Resueltas: **8675** — 5301 ganadas / 3374 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **8676** — 5301 ganadas / 3375 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,168,209** sobre $493,117,932 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$8,240** sobre $855,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,241,764** sobre $493,191,487 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,340** sobre $856,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -88,7 +88,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | -$33,905 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | -$122,353 | ❌ Perdida |
 | googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | -$40,217 | ❌ Perdida |
-| VirIntrepidus | Spread: Ravens (-1.5) | Ravens | 1.54 (65¢) | $73,555 | — | ⏳ Pendiente |
+| VirIntrepidus | Spread: Ravens (-1.5) | Ravens | 1.54 (65¢) | $73,555 | -$73,555 | ❌ Perdida |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | — | ⏳ Pendiente |
