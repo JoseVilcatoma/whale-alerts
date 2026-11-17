@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 22:42:19 (hora de Perú)
+Actualizado: 2026-11-16 22:44:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8718**  ($494,877,204 en total)
-- Resueltas: **8668** — 5298 ganadas / 3370 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **8671** — 5299 ganadas / 3372 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$4,975,464** sobre $492,768,886 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,984** sobre $855,200 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,138,844** sobre $492,973,910 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,177** sobre $855,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 9 | 64% | $63,570,802 | +$956,767 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 182 | 103 | 2 | 64% | $14,345,647 | +$391,633 |
+| Lakersfan111 | 182 | 105 | 0 | 63% | $14,345,647 | +$225,338 |
 | googleplay | 63 | 56 | 2 | 53% | $13,451,943 | -$741,007 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -75,14 +75,14 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | — | ⏳ Pendiente |
 | googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | — | ⏳ Pendiente |
-| CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | — | ⏳ Pendiente |
+| CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | +$2,915 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | — | ⏳ Pendiente |
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
 | thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | +$11,632 | ✅ Ganada |
 | BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | -$122,353 | ❌ Perdida |
 | googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | — | ⏳ Pendiente |
 | VirIntrepidus | Spread: Ravens (-1.5) | Ravens | 1.54 (65¢) | $73,555 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | — | ⏳ Pendiente |
@@ -92,7 +92,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | — | ⏳ Pendiente |
 | surfandturf | 76ers vs. Nets | 76ers | 1.49 (67¢) | $201,000 | +$99,000 | ✅ Ganada |
 | Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | +$29,745 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.67 (60¢) | $43,942 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.67 (60¢) | $43,942 | -$43,942 | ❌ Perdida |
 | Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | +$31,213 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | +$48,851 | ✅ Ganada |
 | RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | -$124,529 | ❌ Perdida |
