@@ -130875,5 +130875,20 @@
     "status": "pending",
     "ultimo_fill": 1794877248,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17607,
+    "timestamp": 1794877313,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-phi-bkn-2026-11-16",
+    "title": "76ers vs. Nets",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 33106.12,
+    "odds_at_bet": 74,
+    "status": "pending",
+    "ultimo_fill": 1794877313,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 20:00:50 (hora de Perú)
+Actualizado: 2026-11-16 20:02:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8708**  ($494,504,509 en total)
+- Apuestas registradas: **8709**  ($494,537,615 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 29
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | — | ⏳ Pendiente |
 | googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | googleplay | Spread: Rockets (-8.5) | Rockets | 2.04 (49¢) | $69,479 | +$72,314 | ✅ Ganada |
 | 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | +$2,635 | ✅ Ganada |
 | 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | +$29,924 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.64 (61¢) | $29,311 | +$18,740 | ✅ Ganada |
