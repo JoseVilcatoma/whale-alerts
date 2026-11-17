@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 21:53:16 (hora de Perú)
+Actualizado: 2026-11-16 21:55:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8716**  ($494,804,566 en total)
-- Resueltas: **8655** — 5291 ganadas / 3364 perdidas (**61%** de acierto)
+- Apuestas registradas: **8717**  ($494,844,745 en total)
+- Resueltas: **8656** — 5291 ganadas / 3365 perdidas (**61%** de acierto)
 - Pendientes: 34
 - Apostadores distintos: 733
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,100,196** sobre $491,921,259 apostados (ROI **-1.0%**)
-- Copiando $100 fijo en cada una: **-$7,989** sobre $853,900 (ROI **-0.9%**)
+- **Resultado de los apostadores: -$5,142,026** sobre $491,963,088 apostados (ROI **-1.0%**)
+- Copiando $100 fijo en cada una: **-$8,089** sobre $854,000 (ROI **-0.9%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,12 +71,13 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | — | ⏳ Pendiente |
 | googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | — | ⏳ Pendiente |
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
 | thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | googleplay | Spread: Rockets (-8.5) | Rockets | 1.96 (51¢) | $49,128 | +$47,201 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rockets vs. Wizards | Rockets | 1.33 (75¢) | $38,857 | +$12,952 | ✅ Ganada |
 | Multicoloured-Serf | Spread: Rockets (-8.5) | Wizards | 2.04 (49¢) | $30,666 | -$30,666 | ❌ Perdida |
-| 999585 | 49ers vs. Cowboys | 49ers | 1.08 (93¢) | $185,211 | +$13,941 | ✅ Ganada |
