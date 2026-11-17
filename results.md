@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 22:58:39 (hora de Perú)
+Actualizado: 2026-11-16 23:00:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8719**  ($494,906,452 en total)
+- Apuestas registradas: **8720**  ($494,933,611 en total)
 - Resueltas: **8675** — 5301 ganadas / 3374 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| VPenguin | Suns vs. Nuggets | Suns | 1.18 (85¢) | $27,159 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-4.5) | Nuggets | 2.78 (36¢) | $29,249 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Ravens | 2.94 (34¢) | $32,459 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spurs vs. Jazz | Spurs | 1.61 (62¢) | $178,424 | +$109,356 | ✅ Ganada |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Spurs vs. Jazz | Jazz | 2.63 (38¢) | $66,643 | -$66,643 | ❌ Perdida |
 | gmpm2 | Steelers vs. Bengals | Bengals | 1.54 (65¢) | $26,176 | +$14,095 | ✅ Ganada |
-| googleplay | Spread: Rockets (-8.5) | Rockets | 1.96 (51¢) | $49,128 | +$47,201 | ✅ Ganada |
