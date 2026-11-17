@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 19:56:44 (hora de Perú)
+Actualizado: 2026-11-16 19:58:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8704**  ($494,234,478 en total)
+- Apuestas registradas: **8707**  ($494,470,604 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 27
 - Apostadores distintos: 733
 
 ### Balance
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 8 | 64% | $63,539,712 | +$956,767 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 180 | 103 | 3 | 64% | $14,223,294 | +$268,558 |
-| googleplay | 63 | 56 | 0 | 53% | $13,371,282 | -$741,007 |
+| Lakersfan111 | 180 | 103 | 4 | 64% | $14,345,647 | +$268,558 |
+| googleplay | 63 | 56 | 1 | 53% | $13,411,499 | -$741,007 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | — | ⏳ Pendiente |
+| googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | — | ⏳ Pendiente |
+| VirIntrepidus | Spread: Ravens (-1.5) | Ravens | 1.54 (65¢) | $73,555 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | +$29,924 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.64 (61¢) | $29,311 | +$18,740 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Spread: Knicks (-4.5) | Knicks | 2.08 (48¢) | $26,489 | -$26,489 | ❌ Perdida |
-| cosmicxbt | Spread: 49ers (-3.5) | Cowboys | 1.52 (66¢) | $88,801 | -$88,801 | ❌ Perdida |
-| Multicoloured-Serf | Seahawks vs. Raiders | Raiders | 2.13 (47¢) | $74,016 | -$74,016 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-14.5) | Spurs | 1.96 (51¢) | $33,181 | -$33,181 | ❌ Perdida |
