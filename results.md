@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 19:19:38 (hora de Perú)
+Actualizado: 2026-11-16 19:21:42 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8697**  ($493,836,020 en total)
+- Apuestas registradas: **8699**  ($494,065,600 en total)
 - Resueltas: **8653** — 5289 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 19
 - Apostadores distintos: 733
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 60 | 2 | 48% | $5,050,652 | -$30,118 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 17 | 1 | 76% | $4,828,973 | +$678,148 |
-| surfandturf | 44 | 14 | 1 | 76% | $4,354,419 | +$589,327 |
+| surfandturf | 44 | 14 | 2 | 76% | $4,555,419 | +$589,327 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | mooseborzoi | 25 | 36 | 1 | 41% | $3,271,733 | -$436,025 |
-| Multicoloured-Serf | 29 | 34 | 1 | 46% | $3,010,452 | -$717,378 |
+| Multicoloured-Serf | 29 | 34 | 2 | 46% | $3,039,031 | -$717,378 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | 76ers vs. Nets | 76ers | 1.49 (67¢) | $201,000 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.67 (60¢) | $43,942 | — | ⏳ Pendiente |
 | Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | juice-fruit | Rams vs. Cardinals | Rams | 1.39 (72¢) | $35,753 | +$13,904 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | Cowboys | 3.85 (26¢) | $25,046 | -$25,046 | ❌ Perdida |
 | Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.35 (74¢) | $138,708 | +$48,735 | ✅ Ganada |
-| Sassy-Bucket | 49ers vs. Cowboys | 49ers | 1.47 (68¢) | $39,158 | +$18,428 | ✅ Ganada |
-| 999585 | WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva | Mirra Andreeva | 1.10 (91¢) | $79,324 | +$7,845 | ✅ Ganada |

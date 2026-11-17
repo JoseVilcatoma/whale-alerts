@@ -130710,5 +130710,35 @@
     "status": "pending",
     "ultimo_fill": 1794874704,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17596,
+    "timestamp": 1794874828,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-phi-bkn-2026-11-16-spread-away-5pt5",
+    "title": "Spread: 76ers (-5.5)",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 28578.9952,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794874828,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17597,
+    "timestamp": 1794874854,
+    "username": "surfandturf",
+    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
+    "slug": "nba-phi-bkn-2026-11-16",
+    "title": "76ers vs. Nets",
+    "outcome": "76ers",
+    "side": "BUY",
+    "usd": 201000.268,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794874854,
+    "fills": 2
   }
 ]
