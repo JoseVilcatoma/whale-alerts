@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 21:02:15 (hora de Perú)
+Actualizado: 2026-11-16 21:04:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8709**  ($494,537,615 en total)
+- Apuestas registradas: **8711**  ($494,604,758 en total)
 - Resueltas: **8654** — 5290 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Pendientes: 30
 - Apostadores distintos: 733
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | — | ⏳ Pendiente |
+| thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | — | ⏳ Pendiente |
 | BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.64 (61¢) | $122,353 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 49ers vs. Cowboys | 49ers | 1.28 (78¢) | $32,871 | +$9,271 | ✅ Ganada |
 | monkeymashingkeyboard | Rockets vs. Wizards: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $33,058 | -$33,058 | ❌ Perdida |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 2.04 (49¢) | $69,479 | +$72,314 | ✅ Ganada |
-| 0F62 | Seahawks vs. Raiders | Seahawks | 1.08 (93¢) | $35,004 | +$2,635 | ✅ Ganada |
-| 999585 | Seahawks vs. Raiders | Seahawks | 1.18 (85¢) | $169,566 | +$29,924 | ✅ Ganada |

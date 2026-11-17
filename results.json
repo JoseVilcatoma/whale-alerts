@@ -130892,5 +130892,35 @@
     "status": "pending",
     "ultimo_fill": 1794877313,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17609,
+    "timestamp": 1794881022,
+    "username": "thetesterguy",
+    "wallet": "0xad494094e355999ad09bd07e51861c2a1541c53e",
+    "slug": "conl-can-gua-2026-11-16-total-3pt5",
+    "title": "Canada vs. Guatemala: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 25313.616,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794881022,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17610,
+    "timestamp": 1794881051,
+    "username": "keeptheblueflagflyinghigh",
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "slug": "nba-orl-bos-2026-11-16",
+    "title": "Magic vs. Celtics",
+    "outcome": "Celtics",
+    "side": "BUY",
+    "usd": 41829.64,
+    "odds_at_bet": 76,
+    "status": "pending",
+    "ultimo_fill": 1794881051,
+    "fills": 1
   }
 ]
