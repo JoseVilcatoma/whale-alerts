@@ -130740,5 +130740,20 @@
     "status": "pending",
     "ultimo_fill": 1794874854,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17598,
+    "timestamp": 1794875263,
+    "username": "VirIntrepidus",
+    "wallet": "0x45185b026c729f2caf1b01f6230db5d22e81db24",
+    "slug": "nfl-lac-bal-2026-11-17",
+    "title": "Chargers vs. Ravens",
+    "outcome": "Ravens",
+    "side": "BUY",
+    "usd": 32030.060607,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1794875263,
+    "fills": 1
   }
 ]
