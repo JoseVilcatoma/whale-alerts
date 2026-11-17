@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 16:42:46 (hora de Perú)
+Actualizado: 2026-11-17 16:44:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8731**  ($495,289,924 en total)
+- Apuestas registradas: **8732**  ($495,362,459 en total)
 - Resueltas: **8692** — 5310 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 735
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 613 | 350 | 9 | 64% | $63,638,103 | +$944,260 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 183 | 105 | 0 | 64% | $14,377,289 | +$249,208 |
+| Lakersfan111 | 183 | 105 | 1 | 64% | $14,449,823 | +$249,208 |
 | googleplay | 64 | 57 | 0 | 53% | $13,451,943 | -$742,366 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 735 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Pistons vs. Spurs | Spurs | 1.27 (79¢) | $72,535 | — | ⏳ Pendiente |
 | shibaijiaoyiyuan | Dota 2: LGD Gaming vs PARIVISION - Game 2 Winner | PARIVISION | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.10 (91¢) | $30,014 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields win on 2026-11-17? | No | 1.12 (89¢) | $39,142 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 735 en total)_
 | keeptheblueflagflyinghigh | Canucks vs. Golden Knights | Golden Knights | 1.27 (79¢) | $31,895 | -$31,895 | ❌ Perdida |
 | surfandturf | Steelers vs. Bengals | Bengals | 1.52 (66¢) | $66,000 | -$1,000 | 💰 Vendida antes |
 | sinasinner | Spread: Bengals (-3.5) | Bengals | 1.89 (53¢) | $26,500 | +$23,500 | ✅ Ganada |
-| 0F62 | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $51,795 | +$6,402 | ✅ Ganada |
