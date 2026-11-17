@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-16 21:49:13 (hora de Perú)
+Actualizado: 2026-11-16 21:51:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8714**  ($494,733,032 en total)
+- Apuestas registradas: **8715**  ($494,764,122 en total)
 - Resueltas: **8655** — 5291 ganadas / 3364 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 33
 - Apostadores distintos: 733
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 8 | 64% | $63,539,712 | +$956,767 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 612 | 349 | 9 | 64% | $63,570,802 | +$956,767 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 180 | 103 | 4 | 64% | $14,345,647 | +$268,558 |
 | googleplay | 63 | 56 | 1 | 53% | $13,411,499 | -$741,007 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | — | ⏳ Pendiente |
 | CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | — | ⏳ Pendiente |
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 733 en total)_
 | Multicoloured-Serf | Spread: Rockets (-8.5) | Wizards | 2.04 (49¢) | $30,666 | -$30,666 | ❌ Perdida |
 | 999585 | 49ers vs. Cowboys | 49ers | 1.08 (93¢) | $185,211 | +$13,941 | ✅ Ganada |
 | googleplay | Spread: Rockets (-8.5) | Rockets | 2.00 (50¢) | $42,500 | +$42,500 | ✅ Ganada |
-| googleplay | Spread: Rockets (-8.5) | Rockets | 2.00 (50¢) | $50,000 | +$50,000 | ✅ Ganada |
