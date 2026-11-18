@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 01:56:53 (hora de Perú)
+Actualizado: 2026-11-18 01:58:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8760**  ($497,110,300 en total)
-- Resueltas: **8712** — 5320 ganadas / 3392 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **8713** — 5321 ganadas / 3392 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,538,309** sobre $494,794,329 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,818** sobre $859,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,532,859** sobre $494,843,378 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,807** sobre $859,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | — | ⏳ Pendiente |
 | Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Hornets vs. Lakers | Hornets | 1.10 (91¢) | $120,000 | — | ⏳ Pendiente |
-| MD14 | Hornets vs. Lakers: O/U 216.5 | Over 216.5 | 1.11 (90¢) | $49,049 | — | ⏳ Pendiente |
+| MD14 | Hornets vs. Lakers: O/U 216.5 | Over 216.5 | 1.11 (90¢) | $49,049 | +$5,450 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 2.04 (49¢) | $49,490 | -$49,490 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Hornets vs. Lakers | Lakers | 1.72 (58¢) | $31,944 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 1.56 (64¢) | $164,573 | -$164,573 | ❌ Perdida |
