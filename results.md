@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 22:14:24 (hora de Perú)
+Actualizado: 2026-11-17 22:16:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8746**  ($495,974,596 en total)
-- Resueltas: **8696** — 5313 ganadas / 3383 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Apuestas registradas: **8747**  ($496,097,023 en total)
+- Resueltas: **8699** — 5315 ganadas / 3384 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 736
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,257,608** sobre $493,887,805 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,478** sobre $858,000 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,236,303** sobre $493,979,243 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,417** sobre $858,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 614 | 350 | 9 | 64% | $63,667,086 | +$953,186 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 614 | 351 | 8 | 64% | $63,667,086 | +$924,203 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 183 | 105 | 2 | 64% | $14,487,279 | +$249,208 |
+| Lakersfan111 | 184 | 105 | 1 | 64% | $14,487,279 | +$279,853 |
 | googleplay | 64 | 57 | 1 | 53% | $13,496,961 | -$742,366 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $122,428 | — | ⏳ Pendiente |
 | MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | — | ⏳ Pendiente |
 | yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | — | ⏳ Pendiente |
 | nigiri99 | Stars vs. Golden Knights | Stars | 2.08 (48¢) | $46,825 | — | ⏳ Pendiente |
@@ -79,11 +80,11 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 | MD14 | Knicks vs. Raptors: O/U 214.5 | Over 214.5 | 2.50 (40¢) | $48,709 | — | ⏳ Pendiente |
 | VeryLucky888 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Ducks vs. Blues | Blues | 1.82 (55¢) | $98,042 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Raptors | Raptors | 2.22 (45¢) | $28,983 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.82 (55¢) | $37,455 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Raptors | Raptors | 2.22 (45¢) | $28,983 | -$28,983 | ❌ Perdida |
+| robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.82 (55¢) | $37,455 | +$30,645 | ✅ Ganada |
 | sinasinner | Senators vs. Jets | Senators | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | -$34,824 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | +$19,643 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Oilers vs. Panthers | Oilers | 2.17 (46¢) | $54,998 | +$64,563 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pistons vs. Spurs | Spurs | 1.27 (79¢) | $72,535 | — | ⏳ Pendiente |
 | shibaijiaoyiyuan | Dota 2: LGD Gaming vs PARIVISION - Game 2 Winner | PARIVISION | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 | Kyn008 | Germany vs. Netherlands: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,358 | -$29,358 | ❌ Perdida |
 | SuitableName | Rockets vs. Heat | Rockets | 1.79 (56¢) | $38,322 | -$38,322 | ❌ Perdida |
 | rabbitfoot1 | Spread: Iceland (-1.5) | Luxembourg | 2.13 (47¢) | $27,673 | -$27,673 | ❌ Perdida |
-| Woaifacai | Faroe Islands vs. Moldova: O/U 2.5 | Under 2.5 | 1.47 (68¢) | $31,594 | +$14,868 | ✅ Ganada |
