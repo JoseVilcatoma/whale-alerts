@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 01:46:17 (hora de Perú)
+Actualizado: 2026-11-18 01:48:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8759**  ($497,066,317 en total)
+- Apuestas registradas: **8760**  ($497,110,300 en total)
 - Resueltas: **8712** — 5320 ganadas / 3392 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Pendientes: 21
 - Apostadores distintos: 737
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | — | ⏳ Pendiente |
 | Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Hornets vs. Lakers | Hornets | 1.10 (91¢) | $120,000 | — | ⏳ Pendiente |
 | MD14 | Hornets vs. Lakers: O/U 216.5 | Over 216.5 | 1.11 (90¢) | $49,049 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | -$26,642 | ❌ Perdida |
 | SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
-| VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $32,030 | -$32,030 | ❌ Perdida |
