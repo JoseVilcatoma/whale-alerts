@@ -1,19 +1,19 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 12:52:33 (hora de Perú)
+Actualizado: 2026-11-18 12:54:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8764**  ($497,250,540 en total)
-- Resueltas: **8722** — 5326 ganadas / 3396 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **8723** — 5327 ganadas / 3396 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,734,009** sobre $495,584,159 apostados (ROI **-1.2%**)
+- **Resultado de los apostadores: -$5,732,064** sobre $495,618,520 apostados (ROI **-1.2%**)
 - Copiando $100 fijo en cada una: **-$8,900** sobre $860,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 |---|---|---|---|---|---|---|
 | MigRodr | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Flavio Cobolli | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | MD14 | Counter-Strike: Inner Circle Esports vs Sangal - Map 2 Winner | Inner Circle Esports | 1.72 (58¢) | $44,428 | — | ⏳ Pendiente |
-| ropetard | Spread: Raptors (-6.5) | Wizards | 1.89 (53¢) | $34,361 | — | ⏳ Pendiente |
+| ropetard | Spread: Raptors (-6.5) | Wizards | 1.89 (53¢) | $34,361 | +$1,945 | 💰 Vendida antes |
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $31,451 | — | ⏳ Pendiente |
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | -$43,983 | ❌ Perdida |
 | Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | +$17,437 | ✅ Ganada |
