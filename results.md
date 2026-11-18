@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 18:52:48 (hora de Perú)
+Actualizado: 2026-11-18 18:54:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8780**  ($497,966,545 en total)
+- Apuestas registradas: **8781**  ($497,998,545 en total)
 - Resueltas: **8731** — 5333 ganadas / 3398 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 738
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 11 | 64% | $64,058,635 | +$715,438 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 184 | 106 | 0 | 63% | $14,487,279 | +$207,318 |
+| Lakersfan111 | 184 | 106 | 1 | 63% | $14,519,279 | +$207,318 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | 76ers vs. Magic | Magic | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.96 (51¢) | $31,496 | — | ⏳ Pendiente |
 | mooseborzoi | 76ers vs. Magic | Magic | 1.56 (64¢) | $96,252 | — | ⏳ Pendiente |
 | VPenguin | 76ers vs. Magic | 76ers | 2.78 (36¢) | $36,364 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Inner Circle Esports vs Betclic Apogee Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 1.56 (64¢) | $51,200 | +$28,800 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B | BBL | 1.75 (57¢) | $31,641 | +$23,870 | ✅ Ganada |
 | Wiretransferxyz | Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | Heroic | 1.72 (58¢) | $26,100 | -$26,100 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Chargers vs. Ravens | Chargers | 1.18 (85¢) | $35,031 | +$6,182 | ✅ Ganada |

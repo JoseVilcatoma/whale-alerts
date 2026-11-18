@@ -131962,5 +131962,20 @@
     "status": "pending",
     "ultimo_fill": 1795045840,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17762,
+    "timestamp": 1795045998,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-phi-orl-2026-11-18",
+    "title": "76ers vs. Magic",
+    "outcome": "Magic",
+    "side": "BUY",
+    "usd": 32000.064,
+    "odds_at_bet": 64,
+    "status": "pending",
+    "ultimo_fill": 1795045998,
+    "fills": 1
   }
 ]
