@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 17:53:02 (hora de Perú)
+Actualizado: 2026-11-18 17:55:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8772**  ($497,580,063 en total)
+- Apuestas registradas: **8775**  ($497,720,610 en total)
 - Resueltas: **8730** — 5332 ganadas / 3398 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 15
 - Apostadores distintos: 738
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 9 | 64% | $63,945,543 | +$715,438 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 11 | 64% | $64,058,635 | +$715,438 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 184 | 106 | 0 | 63% | $14,487,279 | +$207,318 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | Magic | 1.82 (55¢) | $65,092 | — | ⏳ Pendiente |
+| ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | 76ers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
 | googleplay | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $34,996 | +$25,342 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pistons (-6.5) | Pelicans | 1.82 (55¢) | $38,527 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Ravens | 2.94 (34¢) | $32,459 | -$32,459 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | -$40,178 | ❌ Perdida |
 | googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | +$38,858 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | +$16,741 | ✅ Ganada |
-| CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | +$2,915 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | +$14,758 | ✅ Ganada |
