@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 12:48:22 (hora de Perú)
+Actualizado: 2026-11-18 12:50:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8762**  ($497,176,113 en total)
+- Apuestas registradas: **8763**  ($497,220,540 en total)
 - Resueltas: **8722** — 5326 ganadas / 3396 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 737
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Counter-Strike: Inner Circle Esports vs Sangal - Map 2 Winner | Inner Circle Esports | 1.72 (58¢) | $44,428 | — | ⏳ Pendiente |
 | ropetard | Spread: Raptors (-6.5) | Wizards | 1.89 (53¢) | $34,361 | — | ⏳ Pendiente |
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $31,451 | — | ⏳ Pendiente |
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | -$43,983 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | googleplay | Spread: Warriors (-3.5) | Warriors | 2.00 (50¢) | $40,217 | -$40,217 | ❌ Perdida |
 | VirIntrepidus | Spread: Ravens (-1.5) | Ravens | 1.54 (65¢) | $73,555 | -$73,555 | ❌ Perdida |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | -$50,206 | ❌ Perdida |
-| Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
