@@ -131522,5 +131522,20 @@
     "status": "pending",
     "ultimo_fill": 1794972291,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17700,
+    "timestamp": 1794972886,
+    "username": "LetsGo1337",
+    "wallet": "0x6f49b65d7c0bfcb5e783ec2209c7dd67c9a1ab64",
+    "slug": "nba-cha-lal-2026-11-17",
+    "title": "Hornets vs. Lakers",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 27402.775799,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1794972886,
+    "fills": 1
   }
 ]
