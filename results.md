@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 22:24:38 (hora de Perú)
+Actualizado: 2026-11-17 22:26:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8750**  ($496,530,991 en total)
+- Apuestas registradas: **8751**  ($496,556,858 en total)
 - Resueltas: **8700** — 5315 ganadas / 3385 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 736
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 614 | 351 | 8 | 64% | $63,667,086 | +$924,203 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 614 | 351 | 9 | 64% | $63,692,953 | +$924,203 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 184 | 105 | 1 | 64% | $14,487,279 | +$279,853 |
 | googleplay | 64 | 57 | 1 | 53% | $13,496,961 | -$742,366 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Spurs | Pistons | 1.20 (83¢) | $25,867 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.96 (51¢) | $74,747 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 | RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | -$124,529 | ❌ Perdida |
 | surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | +$7,751 | 💰 Vendida antes |
 | mooseborzoi | Rockets vs. Heat | Heat | 2.27 (44¢) | $109,999 | +$139,999 | ✅ Ganada |
-| Woaifacai | Sydney: Matthew Dellavedova vs Jason Kubler | Matthew Dellavedova | 1.67 (60¢) | $32,216 | -$32,216 | ❌ Perdida |
