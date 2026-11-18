@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 01:12:44 (hora de Perú)
+Actualizado: 2026-11-18 01:14:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8756**  ($496,866,268 en total)
-- Resueltas: **8710** — 5319 ganadas / 3391 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8712** — 5320 ganadas / 3392 perdidas (**61%** de acierto)
+- Pendientes: 17
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,563,589** sobre $494,722,056 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,826** sobre $859,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,538,309** sobre $494,794,329 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,818** sobre $859,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,8 +82,8 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $208,000 | — | ⏳ Pendiente |
 | MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | -$77,388 | ❌ Perdida |
-| yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | — | ⏳ Pendiente |
-| nigiri99 | Stars vs. Golden Knights | Stars | 2.08 (48¢) | $46,825 | — | ⏳ Pendiente |
+| yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | -$25,447 | ❌ Perdida |
+| nigiri99 | Stars vs. Golden Knights | Stars | 2.08 (48¢) | $46,825 | +$50,727 | ✅ Ganada |
 | googleplay | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.00 (50¢) | $45,018 | -$45,018 | ❌ Perdida |
 | mooseborzoi | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.04 (49¢) | $29,696 | -$29,696 | ❌ Perdida |
 | MD14 | Knicks vs. Raptors: O/U 214.5 | Over 214.5 | 2.50 (40¢) | $48,709 | -$48,709 | ❌ Perdida |
