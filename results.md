@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 22:16:25 (hora de Perú)
+Actualizado: 2026-11-17 22:18:27 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8747**  ($496,097,023 en total)
+- Apuestas registradas: **8747**  ($496,182,596 en total)
 - Resueltas: **8699** — 5315 ganadas / 3384 perdidas (**61%** de acierto)
 - Pendientes: 21
 - Apostadores distintos: 736
@@ -63,7 +63,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| goshkam | 1 | 2 | 0 | ⚠️ 33% (3) | $2,470,204 | -$1,951,402 |
+| RJW1 | 19 | 23 | 1 | 45% | $2,523,211 | -$246,697 |
 
 _(mostrando los 40 de mayor monto, de 736 en total)_
 
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $122,428 | — | ⏳ Pendiente |
+| RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $208,000 | — | ⏳ Pendiente |
 | MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | — | ⏳ Pendiente |
 | yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | — | ⏳ Pendiente |
 | nigiri99 | Stars vs. Golden Knights | Stars | 2.08 (48¢) | $46,825 | — | ⏳ Pendiente |
