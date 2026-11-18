@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 18:58:48 (hora de Perú)
+Actualizado: 2026-11-17 19:00:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8735**  ($495,477,281 en total)
+- Apuestas registradas: **8736**  ($495,511,481 en total)
 - Resueltas: **8693** — 5311 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 735
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 735 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| sinasinner | Senators vs. Jets | Senators | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Oilers vs. Panthers | Oilers | 2.17 (46¢) | $54,998 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 735 en total)_
 | keeptheblueflagflyinghigh | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $25,205 | +$3,115 | ✅ Ganada |
 | milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | +$64,988 | ✅ Ganada |
 | mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | -$34,156 | ❌ Perdida |
-| MD14 | Knicks vs. Raptors: O/U 212.5 | Over 212.5 | 1.16 (86¢) | $67,595 | +$11,004 | ✅ Ganada |
