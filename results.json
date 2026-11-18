@@ -131249,7 +131249,7 @@
     "side": "BUY",
     "usd": 54998.2946,
     "odds_at_bet": 46,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794952144,
     "fills": 1
   },
@@ -131279,7 +131279,7 @@
     "side": "BUY",
     "usd": 34824.0006,
     "odds_at_bet": 54,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794959221,
     "fills": 1
   },
@@ -131294,7 +131294,7 @@
     "side": "BUY",
     "usd": 34200.0,
     "odds_at_bet": 57,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794959997,
     "fills": 1
   },
@@ -131371,6 +131371,21 @@
     "odds_at_bet": 40,
     "status": "pending",
     "ultimo_fill": 1794969281,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17683,
+    "timestamp": 1794970526,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-uta-lac-2026-11-17-total-226pt5",
+    "title": "Jazz vs. Clippers: O/U 226.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 29696.45,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794970526,
     "fills": 1
   }
 ]

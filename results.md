@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 21:53:51 (hora de Perú)
+Actualizado: 2026-11-17 21:55:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8741**  ($495,750,220 en total)
-- Resueltas: **8693** — 5311 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Apuestas registradas: **8742**  ($495,779,917 en total)
+- Resueltas: **8696** — 5313 ganadas / 3383 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 736
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,313,147** sobre $493,763,783 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,571** sobre $857,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,257,608** sobre $493,887,805 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,478** sobre $858,000 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -54,9 +54,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
+| mooseborzoi | 26 | 36 | 1 | 42% | $3,301,430 | -$296,026 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| mooseborzoi | 26 | 36 | 0 | 42% | $3,271,733 | -$296,026 |
 | Multicoloured-Serf | 30 | 34 | 1 | 47% | $3,039,031 | -$687,633 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
@@ -71,15 +71,16 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.04 (49¢) | $29,696 | — | ⏳ Pendiente |
 | MD14 | Knicks vs. Raptors: O/U 214.5 | Over 214.5 | 2.50 (40¢) | $48,709 | — | ⏳ Pendiente |
 | VeryLucky888 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Ducks vs. Blues | Blues | 1.82 (55¢) | $98,042 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Raptors | Raptors | 2.22 (45¢) | $28,983 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.82 (55¢) | $37,455 | — | ⏳ Pendiente |
-| sinasinner | Senators vs. Jets | Senators | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
-| omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | — | ⏳ Pendiente |
+| sinasinner | Senators vs. Jets | Senators | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
+| omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | -$34,824 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Oilers vs. Panthers | Oilers | 2.17 (46¢) | $54,998 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Oilers vs. Panthers | Oilers | 2.17 (46¢) | $54,998 | +$64,563 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pistons vs. Spurs | Spurs | 1.27 (79¢) | $72,535 | — | ⏳ Pendiente |
 | shibaijiaoyiyuan | Dota 2: LGD Gaming vs PARIVISION - Game 2 Winner | PARIVISION | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.10 (91¢) | $30,014 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 | Woaifacai | Colina: Rebeka Masarova vs Diletta Cherubini | Rebeka Masarova | 1.22 (82¢) | $26,846 | +$5,893 | ✅ Ganada |
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $28,283 | -$28,283 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | -$27,577 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.27 (44¢) | $58,319 | +$74,225 | ✅ Ganada |
