@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 23:42:21 (hora de Perú)
+Actualizado: 2026-11-17 23:44:24 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8754**  ($496,784,834 en total)
+- Apuestas registradas: **8755**  ($496,816,778 en total)
 - Resueltas: **8705** — 5318 ganadas / 3387 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 737
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | Hornets vs. Lakers | Lakers | 1.72 (58¢) | $31,944 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 1.56 (64¢) | $164,573 | — | ⏳ Pendiente |
 | MD14 | Jazz vs. Clippers | Jazz | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
 | LetsGo1337 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $27,403 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | Multicoloured-Serf | Spread: 76ers (-5.5) | 76ers | 2.04 (49¢) | $28,579 | +$29,745 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.67 (60¢) | $43,942 | -$43,942 | ❌ Perdida |
 | Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | +$31,213 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | +$48,851 | ✅ Ganada |
