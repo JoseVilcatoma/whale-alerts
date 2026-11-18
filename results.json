@@ -131369,7 +131369,7 @@
     "side": "BUY",
     "usd": 48709.364,
     "odds_at_bet": 40,
-    "status": "pending",
+    "status": "lost",
     "ultimo_fill": 1794969281,
     "fills": 1
   },
@@ -131462,5 +131462,35 @@
     "status": "pending",
     "ultimo_fill": 1794971805,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17695,
+    "timestamp": 1794971921,
+    "username": "mooseborzoi",
+    "wallet": "0x84cfffc3f16dcc353094de30d4a45226eccd2f63",
+    "slug": "nba-cha-lal-2026-11-17-spread-home-6pt5",
+    "title": "Spread: Lakers (-6.5)",
+    "outcome": "Hornets",
+    "side": "BUY",
+    "usd": 178154.2,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1794971992,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 17697,
+    "timestamp": 1794972000,
+    "username": "0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604",
+    "wallet": "0x1bc2900db79077f14d294dd24552020dfbe73391",
+    "slug": "nba-det-sas-2026-11-17",
+    "title": "Pistons vs. Spurs",
+    "outcome": "Pistons",
+    "side": "BUY",
+    "usd": 95494.023,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794972000,
+    "fills": 1
   }
 ]
