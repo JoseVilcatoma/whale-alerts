@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 02:52:22 (hora de Perú)
+Actualizado: 2026-11-18 08:38:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8760**  ($497,110,300 en total)
-- Resueltas: **8721** — 5325 ganadas / 3396 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **8722** — 5326 ganadas / 3396 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,751,446** sobre $495,553,159 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,956** sobre $860,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,734,009** sobre $495,584,159 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,900** sobre $860,600 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | -$43,983 | ❌ Perdida |
-| Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | — | ⏳ Pendiente |
+| Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | +$17,437 | ✅ Ganada |
 | 0x6db5…e279 | Hornets vs. Lakers | Hornets | 1.10 (91¢) | $120,000 | -$120,000 | ❌ Perdida |
 | MD14 | Hornets vs. Lakers: O/U 216.5 | Over 216.5 | 1.11 (90¢) | $49,049 | +$5,450 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 2.04 (49¢) | $49,490 | -$49,490 | ❌ Perdida |

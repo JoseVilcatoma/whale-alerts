@@ -131642,7 +131642,7 @@
     "side": "BUY",
     "usd": 30999.999999000003,
     "odds_at_bet": 64,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1794983821,
     "fills": 1
   },
