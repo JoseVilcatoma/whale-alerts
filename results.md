@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 19:09:01 (hora de Perú)
+Actualizado: 2026-11-17 19:11:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8736**  ($495,511,481 en total)
+- Apuestas registradas: **8737**  ($495,548,936 en total)
 - Resueltas: **8693** — 5311 ganadas / 3382 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 735
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 614 | 350 | 8 | 64% | $63,638,103 | +$953,186 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 183 | 105 | 1 | 64% | $14,449,823 | +$249,208 |
+| Lakersfan111 | 183 | 105 | 2 | 64% | $14,487,279 | +$249,208 |
 | googleplay | 64 | 57 | 0 | 53% | $13,451,943 | -$742,366 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 735 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.82 (55¢) | $37,455 | — | ⏳ Pendiente |
 | sinasinner | Senators vs. Jets | Senators | 1.75 (57¢) | $34,200 | — | ⏳ Pendiente |
 | omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 735 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Greece vs. Serbia end in a draw? | No | 1.25 (80¢) | $86,688 | +$21,672 | ✅ Ganada |
 | keeptheblueflagflyinghigh | ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe | Carlos Alcaraz | 1.12 (89¢) | $25,205 | +$3,115 | ✅ Ganada |
 | milkteaboba | Steelers vs. Bengals | Bengals | 1.39 (72¢) | $167,112 | +$64,988 | ✅ Ganada |
-| mooseborzoi | Spread: Thunder (-12.5) | Kings | 2.00 (50¢) | $34,156 | -$34,156 | ❌ Perdida |
