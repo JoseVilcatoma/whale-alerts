@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 22:55:26 (hora de Perú)
+Actualizado: 2026-11-17 22:57:29 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8754**  ($496,784,834 en total)
-- Resueltas: **8703** — 5317 ganadas / 3386 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **8704** — 5317 ganadas / 3387 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,341,638** sobre $494,221,849 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,586** sobre $858,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,419,026** sobre $494,299,237 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,686** sobre $858,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | +$10,610 | ✅ Ganada |
 | mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $208,000 | — | ⏳ Pendiente |
-| MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | — | ⏳ Pendiente |
+| MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | -$77,388 | ❌ Perdida |
 | yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | — | ⏳ Pendiente |
 | nigiri99 | Stars vs. Golden Knights | Stars | 2.08 (48¢) | $46,825 | — | ⏳ Pendiente |
 | googleplay | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.00 (50¢) | $45,018 | — | ⏳ Pendiente |
