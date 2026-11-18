@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 01:04:37 (hora de Perú)
+Actualizado: 2026-11-18 01:06:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8756**  ($496,866,268 en total)
-- Resueltas: **8705** — 5318 ganadas / 3387 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **8710** — 5319 ganadas / 3391 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,338,811** sobre $494,397,278 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,604** sobre $858,900 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,563,589** sobre $494,722,056 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,826** sobre $859,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,10 +24,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 351 | 10 | 64% | $63,907,017 | +$929,501 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 8 | 64% | $63,907,017 | +$715,438 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 184 | 106 | 0 | 63% | $14,487,279 | +$207,318 |
-| googleplay | 64 | 57 | 1 | 53% | $13,496,961 | -$742,366 |
+| googleplay | 64 | 58 | 0 | 52% | $13,496,961 | -$787,385 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoi | 26 | 36 | 2 | 42% | $3,479,584 | -$296,026 |
+| mooseborzoi | 26 | 37 | 1 | 41% | $3,479,584 | -$325,722 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
@@ -71,10 +71,10 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 2.04 (49¢) | $49,490 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 2.04 (49¢) | $49,490 | -$49,490 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Hornets vs. Lakers | Lakers | 1.72 (58¢) | $31,944 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 1.56 (64¢) | $164,573 | — | ⏳ Pendiente |
-| MD14 | Jazz vs. Clippers | Jazz | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 1.56 (64¢) | $164,573 | -$164,573 | ❌ Perdida |
+| MD14 | Jazz vs. Clippers | Jazz | 2.78 (36¢) | $36,000 | +$64,000 | ✅ Ganada |
 | LetsGo1337 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $27,403 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Spurs | Pistons | 1.20 (83¢) | $25,867 | +$5,298 | ✅ Ganada |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.96 (51¢) | $74,747 | — | ⏳ Pendiente |
@@ -84,8 +84,8 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | -$77,388 | ❌ Perdida |
 | yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | — | ⏳ Pendiente |
 | nigiri99 | Stars vs. Golden Knights | Stars | 2.08 (48¢) | $46,825 | — | ⏳ Pendiente |
-| googleplay | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.00 (50¢) | $45,018 | — | ⏳ Pendiente |
-| mooseborzoi | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.04 (49¢) | $29,696 | — | ⏳ Pendiente |
+| googleplay | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.00 (50¢) | $45,018 | -$45,018 | ❌ Perdida |
+| mooseborzoi | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.04 (49¢) | $29,696 | -$29,696 | ❌ Perdida |
 | MD14 | Knicks vs. Raptors: O/U 214.5 | Over 214.5 | 2.50 (40¢) | $48,709 | -$48,709 | ❌ Perdida |
 | VeryLucky888 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Ducks vs. Blues | Blues | 1.82 (55¢) | $98,042 | +$80,216 | ✅ Ganada |
