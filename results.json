@@ -128365,9 +128365,10 @@
     "side": "BUY",
     "usd": 25968.6692,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "anulada",
     "ultimo_fill": 1794715296,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 0.0
   },
   {
     "telegram_msg_id": 17276,
@@ -128380,9 +128381,10 @@
     "side": "BUY",
     "usd": 44065.269499999995,
     "odds_at_bet": 89,
-    "status": "pending",
+    "status": "anulada",
     "ultimo_fill": 1794715575,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 0.0
   },
   {
     "telegram_msg_id": 17277,
@@ -128410,9 +128412,10 @@
     "side": "BUY",
     "usd": 42293.4927,
     "odds_at_bet": 87,
-    "status": "pending",
+    "status": "anulada",
     "ultimo_fill": 1794715792,
-    "fills": 1
+    "fills": 1,
+    "profit_usd": 0.0
   },
   {
     "telegram_msg_id": 17279,
