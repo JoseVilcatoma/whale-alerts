@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 18:19:49 (hora de Perú)
+Actualizado: 2026-11-18 18:21:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8775**  ($497,720,610 en total)
+- Apuestas registradas: **8776**  ($497,751,611 en total)
 - Resueltas: **8731** — 5333 ganadas / 3398 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 738
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
-| surfandturf | 46 | 14 | 0 | 77% | $4,555,419 | +$696,078 |
+| surfandturf | 46 | 14 | 1 | 77% | $4,586,419 | +$696,078 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Grizzlies vs. Cavaliers | Cavaliers | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | Magic | 1.82 (55¢) | $65,092 | — | ⏳ Pendiente |
 | ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | 76ers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Nuggets (-4.5) | Nuggets | 2.78 (36¢) | $29,249 | -$29,249 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Chargers vs. Ravens | Ravens | 2.94 (34¢) | $32,459 | -$32,459 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Suns vs. Nuggets | Nuggets | 1.37 (73¢) | $40,178 | -$40,178 | ❌ Perdida |
-| googleplay | Spread: Chargers (-3.5) | Ravens | 1.96 (51¢) | $40,444 | +$38,858 | ✅ Ganada |
