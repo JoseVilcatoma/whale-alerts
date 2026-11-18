@@ -131797,5 +131797,20 @@
     "status": "pending",
     "ultimo_fill": 1795027864,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17742,
+    "timestamp": 1795028409,
+    "username": "ropetard",
+    "wallet": "0x2c866881290c2197960f06448d3a236d9f20d939",
+    "slug": "nba-det-nop-2026-11-18-spread-away-6pt5",
+    "title": "Spread: Pistons (-6.5)",
+    "outcome": "Pelicans",
+    "side": "BUY",
+    "usd": 28926.5266,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1795028409,
+    "fills": 1
   }
 ]

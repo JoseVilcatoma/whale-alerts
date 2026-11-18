@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 13:58:33 (hora de Perú)
+Actualizado: 2026-11-18 14:00:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8769**  ($497,477,614 en total)
+- Apuestas registradas: **8770**  ($497,506,541 en total)
 - Resueltas: **8723** — 5327 ganadas / 3396 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 738
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | — | ⏳ Pendiente |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $65,018 | — | ⏳ Pendiente |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | — | ⏳ Pendiente |
 | obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | +$14,758 | ✅ Ganada |
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
-| thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | +$2,813 | ✅ Ganada |
