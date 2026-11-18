@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 18:09:30 (hora de Perú)
+Actualizado: 2026-11-18 18:11:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8775**  ($497,720,610 en total)
-- Resueltas: **8730** — 5332 ganadas / 3398 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8731** — 5333 ganadas / 3398 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,637,404** sobre $495,913,545 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,740** sobre $861,300 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,633,313** sobre $495,943,545 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,727** sobre $861,400 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -80,7 +80,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $65,018 | +$62,468 | ✅ Ganada |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | +$51,295 | ✅ Ganada |
 | obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | +$7,207 | ✅ Ganada |
-| tony1919 | Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs | PARIVISION | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
+| tony1919 | Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs | PARIVISION | 1.14 (88¢) | $30,000 | +$4,091 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B | Envy | 1.89 (53¢) | $42,924 | — | ⏳ Pendiente |
 | MigRodr | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Flavio Cobolli | 2.22 (45¢) | $30,000 | -$30,000 | ❌ Perdida |
 | MD14 | Counter-Strike: Inner Circle Esports vs Sangal - Map 2 Winner | Inner Circle Esports | 1.72 (58¢) | $44,428 | -$44,428 | ❌ Perdida |
