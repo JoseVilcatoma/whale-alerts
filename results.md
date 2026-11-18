@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 22:51:21 (hora de Perú)
+Actualizado: 2026-11-17 22:53:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8752**  ($496,584,261 en total)
-- Resueltas: **8700** — 5315 ganadas / 3385 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Apuestas registradas: **8754**  ($496,784,834 en total)
+- Resueltas: **8703** — 5317 ganadas / 3386 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,285,012** sobre $494,027,953 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,517** sobre $858,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,341,638** sobre $494,221,849 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,586** sobre $858,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 614 | 351 | 9 | 64% | $63,692,953 | +$924,203 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 351 | 9 | 64% | $63,857,527 | +$929,501 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
-| Lakersfan111 | 184 | 105 | 1 | 64% | $14,487,279 | +$279,853 |
+| Lakersfan111 | 184 | 106 | 0 | 63% | $14,487,279 | +$207,318 |
 | googleplay | 64 | 57 | 1 | 53% | $13,496,961 | -$742,366 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,10 +71,12 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 1.56 (64¢) | $164,573 | — | ⏳ Pendiente |
+| MD14 | Jazz vs. Clippers | Jazz | 2.78 (36¢) | $36,000 | — | ⏳ Pendiente |
 | LetsGo1337 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $27,403 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Spurs | Pistons | 1.20 (83¢) | $25,867 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Spurs | Pistons | 1.20 (83¢) | $25,867 | +$5,298 | ✅ Ganada |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.96 (51¢) | $74,747 | — | ⏳ Pendiente |
-| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | — | ⏳ Pendiente |
+| 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | +$10,610 | ✅ Ganada |
 | mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $208,000 | — | ⏳ Pendiente |
 | MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | — | ⏳ Pendiente |
@@ -91,7 +93,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | -$34,824 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | +$19,643 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Oilers vs. Panthers | Oilers | 2.17 (46¢) | $54,998 | +$64,563 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Pistons vs. Spurs | Spurs | 1.27 (79¢) | $72,535 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Pistons vs. Spurs | Spurs | 1.27 (79¢) | $72,535 | -$72,535 | ❌ Perdida |
 | shibaijiaoyiyuan | Dota 2: LGD Gaming vs PARIVISION - Game 2 Winner | PARIVISION | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.10 (91¢) | $30,014 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields win on 2026-11-17? | No | 1.12 (89¢) | $39,142 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | robloxgamblemaster-2008-10-18 | Warriors vs. Pelicans | Warriors | 1.67 (60¢) | $43,942 | -$43,942 | ❌ Perdida |
 | Wal1 | 76ers vs. Nets | 76ers | 1.49 (67¢) | $63,371 | +$31,213 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Rockets vs. Heat | Heat | 2.13 (47¢) | $43,321 | +$48,851 | ✅ Ganada |
-| RJW1 | Rockets vs. Heat | Rockets | 1.85 (54¢) | $124,529 | -$124,529 | ❌ Perdida |
-| surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | +$7,751 | 💰 Vendida antes |
