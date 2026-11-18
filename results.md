@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 02:23:20 (hora de Perú)
+Actualizado: 2026-11-18 02:25:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8760**  ($497,110,300 en total)
-- Resueltas: **8718** — 5324 ganadas / 3394 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **8721** — 5325 ganadas / 3396 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,654,125** sobre $495,092,257 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,860** sobre $860,200 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,751,446** sobre $495,553,159 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$8,956** sobre $860,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoi | 26 | 37 | 1 | 41% | $3,479,584 | -$325,722 |
+| mooseborzoi | 27 | 37 | 0 | 42% | $3,479,584 | -$140,296 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
-| RJW1 | 19 | 23 | 2 | 45% | $2,597,958 | -$246,697 |
+| RJW1 | 19 | 25 | 0 | 43% | $2,597,958 | -$529,444 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 
@@ -81,10 +81,10 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | MD14 | Jazz vs. Clippers | Jazz | 2.78 (36¢) | $36,000 | +$64,000 | ✅ Ganada |
 | LetsGo1337 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $27,403 | +$10,135 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Spurs | Pistons | 1.20 (83¢) | $25,867 | +$5,298 | ✅ Ganada |
-| RJW1 | Spread: Lakers (-6.5) | Lakers | 1.96 (51¢) | $74,747 | — | ⏳ Pendiente |
+| RJW1 | Spread: Lakers (-6.5) | Lakers | 1.96 (51¢) | $74,747 | -$74,747 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | +$10,610 | ✅ Ganada |
-| mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | — | ⏳ Pendiente |
-| RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $208,000 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | +$185,426 | ✅ Ganada |
+| RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $208,000 | -$208,000 | ❌ Perdida |
 | MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | -$77,388 | ❌ Perdida |
 | yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | -$25,447 | ❌ Perdida |
 | nigiri99 | Stars vs. Golden Knights | Stars | 2.08 (48¢) | $46,825 | +$50,727 | ✅ Ganada |
