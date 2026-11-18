@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 14:19:31 (hora de Perú)
+Actualizado: 2026-11-18 14:21:37 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8770**  ($497,506,541 en total)
+- Apuestas registradas: **8771**  ($497,545,068 en total)
 - Resueltas: **8724** — 5327 ganadas / 3397 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 738
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 8 | 64% | $63,907,017 | +$715,438 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 9 | 64% | $63,945,543 | +$715,438 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 184 | 106 | 0 | 63% | $14,487,279 | +$207,318 |
 | googleplay | 64 | 58 | 0 | 52% | $13,496,961 | -$787,385 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pistons (-6.5) | Pelicans | 1.82 (55¢) | $38,527 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | — | ⏳ Pendiente |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $65,018 | — | ⏳ Pendiente |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | +$2,915 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | +$14,758 | ✅ Ganada |
 | MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
