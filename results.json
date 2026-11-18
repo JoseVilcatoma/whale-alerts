@@ -131492,5 +131492,20 @@
     "status": "pending",
     "ultimo_fill": 1794972000,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17698,
+    "timestamp": 1794972063,
+    "username": "RJW1",
+    "wallet": "0x85f031d069de300055900c4055c1baeb6bde3f67",
+    "slug": "nba-cha-lal-2026-11-17-spread-home-6pt5",
+    "title": "Spread: Lakers (-6.5)",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 74747.1657,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1794972063,
+    "fills": 1
   }
 ]

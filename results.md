@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 22:20:31 (hora de Perú)
+Actualizado: 2026-11-17 22:22:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8749**  ($496,456,244 en total)
+- Apuestas registradas: **8750**  ($496,530,991 en total)
 - Resueltas: **8700** — 5315 ganadas / 3385 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 736
 
 ### Balance
@@ -61,9 +61,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
+| RJW1 | 19 | 23 | 2 | 45% | $2,597,958 | -$246,697 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
-| RJW1 | 19 | 23 | 1 | 45% | $2,523,211 | -$246,697 |
 
 _(mostrando los 40 de mayor monto, de 736 en total)_
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| RJW1 | Spread: Lakers (-6.5) | Lakers | 1.96 (51¢) | $74,747 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | — | ⏳ Pendiente |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $208,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 | surfandturf | Bulls vs. Cavaliers | Cavaliers | 1.37 (73¢) | $47,152 | +$7,751 | 💰 Vendida antes |
 | mooseborzoi | Rockets vs. Heat | Heat | 2.27 (44¢) | $109,999 | +$139,999 | ✅ Ganada |
 | Woaifacai | Sydney: Matthew Dellavedova vs Jason Kubler | Matthew Dellavedova | 1.67 (60¢) | $32,216 | -$32,216 | ❌ Perdida |
-| Kyn008 | Germany vs. Netherlands: O/U 3.5 | Under 3.5 | 1.96 (51¢) | $29,358 | -$29,358 | ❌ Perdida |
