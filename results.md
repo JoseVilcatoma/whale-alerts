@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 09:44:33 (hora de Perú)
+Actualizado: 2026-11-18 09:46:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8760**  ($497,110,300 en total)
+- Apuestas registradas: **8761**  ($497,141,752 en total)
 - Resueltas: **8722** — 5326 ganadas / 3396 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Pendientes: 9
 - Apostadores distintos: 737
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $31,451 | — | ⏳ Pendiente |
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | -$43,983 | ❌ Perdida |
 | Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | +$17,437 | ✅ Ganada |
 | 0x6db5…e279 | Hornets vs. Lakers | Hornets | 1.10 (91¢) | $120,000 | -$120,000 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $50,206 | -$50,206 | ❌ Perdida |
 | Donkey14 | Spread: Warriors (-3.5) | Pelicans | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | VirIntrepidus | Chargers vs. Ravens | Ravens | 1.49 (67¢) | $26,642 | -$26,642 | ❌ Perdida |
-| SDTrading | Spread: Ravens (-4.5) | Chargers | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
