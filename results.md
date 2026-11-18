@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 14:30:05 (hora de Perú)
+Actualizado: 2026-11-18 17:28:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8772**  ($497,580,063 en total)
-- Resueltas: **8724** — 5327 ganadas / 3397 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Resueltas: **8730** — 5332 ganadas / 3398 perdidas (**61%** de acierto)
+- Pendientes: 12
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,776,491** sobre $495,662,947 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,000** sobre $860,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,637,404** sobre $495,913,545 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,740** sobre $861,300 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 9 | 64% | $63,945,543 | +$715,438 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 184 | 106 | 0 | 63% | $14,487,279 | +$207,318 |
-| googleplay | 64 | 58 | 1 | 52% | $13,531,957 | -$787,385 |
+| googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,18 +71,18 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| googleplay | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $34,996 | — | ⏳ Pendiente |
+| googleplay | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $34,996 | +$25,342 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pistons (-6.5) | Pelicans | 1.82 (55¢) | $38,527 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | — | ⏳ Pendiente |
-| MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $65,018 | — | ⏳ Pendiente |
-| MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | — | ⏳ Pendiente |
-| obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | — | ⏳ Pendiente |
+| MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $65,018 | +$62,468 | ✅ Ganada |
+| MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | +$51,295 | ✅ Ganada |
+| obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | +$7,207 | ✅ Ganada |
 | tony1919 | Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs | PARIVISION | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B | Envy | 1.89 (53¢) | $42,924 | — | ⏳ Pendiente |
-| MigRodr | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Flavio Cobolli | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
+| MigRodr | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Flavio Cobolli | 2.22 (45¢) | $30,000 | -$30,000 | ❌ Perdida |
 | MD14 | Counter-Strike: Inner Circle Esports vs Sangal - Map 2 Winner | Inner Circle Esports | 1.72 (58¢) | $44,428 | -$44,428 | ❌ Perdida |
 | ropetard | Spread: Raptors (-6.5) | Wizards | 1.89 (53¢) | $34,361 | +$1,945 | 💰 Vendida antes |
-| 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $31,451 | — | ⏳ Pendiente |
+| 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $31,451 | +$22,775 | ✅ Ganada |
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | -$43,983 | ❌ Perdida |
 | Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | +$17,437 | ✅ Ganada |
 | 0x6db5…e279 | Hornets vs. Lakers | Hornets | 1.10 (91¢) | $120,000 | -$120,000 | ❌ Perdida |
