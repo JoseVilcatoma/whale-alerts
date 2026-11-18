@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 14:21:37 (hora de Perú)
+Actualizado: 2026-11-18 14:23:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8771**  ($497,545,068 en total)
+- Apuestas registradas: **8772**  ($497,580,063 en total)
 - Resueltas: **8724** — 5327 ganadas / 3397 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 738
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 9 | 64% | $63,945,543 | +$715,438 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 184 | 106 | 0 | 63% | $14,487,279 | +$207,318 |
-| googleplay | 64 | 58 | 0 | 52% | $13,496,961 | -$787,385 |
+| googleplay | 64 | 58 | 1 | 52% | $13,531,957 | -$787,385 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $34,996 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pistons (-6.5) | Pelicans | 1.82 (55¢) | $38,527 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | — | ⏳ Pendiente |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $65,018 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chargers vs. Ravens | Chargers | 1.54 (65¢) | $31,090 | +$16,741 | ✅ Ganada |
 | CUTJALENHURTS | Warriors vs. Pelicans | Pelicans | 1.08 (93¢) | $38,728 | +$2,915 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Trail Blazers vs. Timberwolves | Timberwolves | 1.37 (73¢) | $39,900 | +$14,758 | ✅ Ganada |
-| MD14 | Magic vs. Celtics: O/U 199.5 | Over 199.5 | 1.15 (87¢) | $49,646 | +$7,418 | ✅ Ganada |
