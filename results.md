@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 13:45:55 (hora de Perú)
+Actualizado: 2026-11-18 13:48:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8767**  ($497,361,302 en total)
+- Apuestas registradas: **8768**  ($497,412,597 en total)
 - Resueltas: **8723** — 5327 ganadas / 3396 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 738
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | — | ⏳ Pendiente |
 | obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | — | ⏳ Pendiente |
 | tony1919 | Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs | PARIVISION | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B | Envy | 1.89 (53¢) | $42,924 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | keeptheblueflagflyinghigh | Magic vs. Celtics | Celtics | 1.32 (76¢) | $41,830 | -$41,830 | ❌ Perdida |
 | thetesterguy | Canada vs. Guatemala: O/U 3.5 | Over 3.5 | 1.11 (90¢) | $25,314 | +$2,813 | ✅ Ganada |
 | keeptheblueflagflyinghigh | 76ers vs. Nets | 76ers | 1.35 (74¢) | $33,106 | +$11,632 | ✅ Ganada |
-| BrotherObama | Spread: Warriors (-3.5) | Warriors | 1.96 (51¢) | $33,905 | -$33,905 | ❌ Perdida |
