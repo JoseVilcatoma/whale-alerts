@@ -131597,5 +131597,20 @@
     "status": "lost",
     "ultimo_fill": 1794978525,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17717,
+    "timestamp": 1794983163,
+    "username": "MD14",
+    "wallet": "0x7d787c72c8317046fda90814a93c87fc192529a5",
+    "slug": "nba-cha-lal-2026-11-17-total-216pt5",
+    "title": "Hornets vs. Lakers: O/U 216.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 49049.16959,
+    "odds_at_bet": 90,
+    "status": "pending",
+    "ultimo_fill": 1794983163,
+    "fills": 1
   }
 ]
