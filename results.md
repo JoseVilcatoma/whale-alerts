@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 02:19:14 (hora de Perú)
+Actualizado: 2026-11-18 02:21:19 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8760**  ($497,110,300 en total)
-- Resueltas: **8714** — 5321 ganadas / 3393 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8718** — 5324 ganadas / 3394 perdidas (**61%** de acierto)
+- Pendientes: 15
 - Apostadores distintos: 737
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,576,842** sobre $494,887,361 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,907** sobre $859,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,654,125** sobre $495,092,257 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,860** sobre $860,200 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,13 +73,13 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 |---|---|---|---|---|---|---|
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | -$43,983 | ❌ Perdida |
 | Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | — | ⏳ Pendiente |
-| 0x6db5…e279 | Hornets vs. Lakers | Hornets | 1.10 (91¢) | $120,000 | — | ⏳ Pendiente |
+| 0x6db5…e279 | Hornets vs. Lakers | Hornets | 1.10 (91¢) | $120,000 | -$120,000 | ❌ Perdida |
 | MD14 | Hornets vs. Lakers: O/U 216.5 | Over 216.5 | 1.11 (90¢) | $49,049 | +$5,450 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 2.04 (49¢) | $49,490 | -$49,490 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Hornets vs. Lakers | Lakers | 1.72 (58¢) | $31,944 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Hornets vs. Lakers | Lakers | 1.72 (58¢) | $31,944 | +$23,132 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 1.56 (64¢) | $164,573 | -$164,573 | ❌ Perdida |
 | MD14 | Jazz vs. Clippers | Jazz | 2.78 (36¢) | $36,000 | +$64,000 | ✅ Ganada |
-| LetsGo1337 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $27,403 | — | ⏳ Pendiente |
+| LetsGo1337 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $27,403 | +$10,135 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Spurs | Pistons | 1.20 (83¢) | $25,867 | +$5,298 | ✅ Ganada |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.96 (51¢) | $74,747 | — | ⏳ Pendiente |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | +$10,610 | ✅ Ganada |
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 737 en total)_
 | googleplay | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.00 (50¢) | $45,018 | -$45,018 | ❌ Perdida |
 | mooseborzoi | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.04 (49¢) | $29,696 | -$29,696 | ❌ Perdida |
 | MD14 | Knicks vs. Raptors: O/U 214.5 | Over 214.5 | 2.50 (40¢) | $48,709 | -$48,709 | ❌ Perdida |
-| VeryLucky888 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
+| VeryLucky888 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $25,550 | +$9,450 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Ducks vs. Blues | Blues | 1.82 (55¢) | $98,042 | +$80,216 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Raptors | Raptors | 2.22 (45¢) | $28,983 | -$28,983 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.82 (55¢) | $37,455 | +$30,645 | ✅ Ganada |
