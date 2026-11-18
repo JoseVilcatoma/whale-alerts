@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 14:09:02 (hora de Perú)
+Actualizado: 2026-11-18 14:11:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8770**  ($497,506,541 en total)
-- Resueltas: **8723** — 5327 ganadas / 3396 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Resueltas: **8724** — 5327 ganadas / 3397 perdidas (**61%** de acierto)
+- Pendientes: 16
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,732,064** sobre $495,618,520 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$8,900** sobre $860,600 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,776,491** sobre $495,662,947 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,000** sobre $860,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -78,7 +78,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | tony1919 | Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs | PARIVISION | 1.14 (88¢) | $30,000 | — | ⏳ Pendiente |
 | lllllllIlll | Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B | Envy | 1.89 (53¢) | $42,924 | — | ⏳ Pendiente |
 | MigRodr | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Flavio Cobolli | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
-| MD14 | Counter-Strike: Inner Circle Esports vs Sangal - Map 2 Winner | Inner Circle Esports | 1.72 (58¢) | $44,428 | — | ⏳ Pendiente |
+| MD14 | Counter-Strike: Inner Circle Esports vs Sangal - Map 2 Winner | Inner Circle Esports | 1.72 (58¢) | $44,428 | -$44,428 | ❌ Perdida |
 | ropetard | Spread: Raptors (-6.5) | Wizards | 1.89 (53¢) | $34,361 | +$1,945 | 💰 Vendida antes |
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $31,451 | — | ⏳ Pendiente |
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | -$43,983 | ❌ Perdida |
