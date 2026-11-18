@@ -131387,5 +131387,20 @@
     "status": "pending",
     "ultimo_fill": 1794970526,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17687,
+    "timestamp": 1794970733,
+    "username": "googleplay",
+    "wallet": "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+    "slug": "nba-uta-lac-2026-11-17-total-226pt5",
+    "title": "Jazz vs. Clippers: O/U 226.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 45018.469999999994,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1794970733,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-17 21:57:59 (hora de Perú)
+Actualizado: 2026-11-17 22:00:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8742**  ($495,779,917 en total)
+- Apuestas registradas: **8743**  ($495,824,935 en total)
 - Resueltas: **8696** — 5313 ganadas / 3383 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 736
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 614 | 350 | 9 | 64% | $63,667,086 | +$953,186 |
 | Sassy-Bucket | 121 | 120 | 2 | 50% | $16,854,480 | -$1,342,753 |
 | Lakersfan111 | 183 | 105 | 2 | 64% | $14,487,279 | +$249,208 |
-| googleplay | 64 | 57 | 0 | 53% | $13,451,943 | -$742,366 |
+| googleplay | 64 | 57 | 1 | 53% | $13,496,961 | -$742,366 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.00 (50¢) | $45,018 | — | ⏳ Pendiente |
 | mooseborzoi | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.04 (49¢) | $29,696 | — | ⏳ Pendiente |
 | MD14 | Knicks vs. Raptors: O/U 214.5 | Over 214.5 | 2.50 (40¢) | $48,709 | — | ⏳ Pendiente |
 | VeryLucky888 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $25,550 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 736 en total)_
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $44,753 | -$44,753 | ❌ Perdida |
 | Woaifacai | Colina: Rebeka Masarova vs Diletta Cherubini | Rebeka Masarova | 1.22 (82¢) | $26,846 | +$5,893 | ✅ Ganada |
 | omnibus-076daa | Rockets vs. Heat | Rockets | 1.79 (56¢) | $28,283 | -$28,283 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs | PARIVISION | 1.89 (53¢) | $27,577 | -$27,577 | ❌ Perdida |
