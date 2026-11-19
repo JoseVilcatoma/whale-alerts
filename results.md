@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 19:40:16 (hora de Perú)
+Actualizado: 2026-11-18 19:42:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8785**  ($498,169,886 en total)
+- Apuestas registradas: **8786**  ($498,202,480 en total)
 - Resueltas: **8732** — 5333 ganadas / 3399 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Pendientes: 24
 - Apostadores distintos: 738
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Multicoloured-Serf | 30 | 34 | 1 | 47% | $3,039,031 | -$687,633 |
+| Multicoloured-Serf | 30 | 34 | 2 | 47% | $3,071,625 | -$687,633 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Warriors vs. Mavericks: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $32,594 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | aenews2 | Will South Shields win on 2026-11-17? | No | 1.12 (89¢) | $39,142 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.11 (90¢) | $26,802 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.16 (86¢) | $25,907 | — | ⏳ Pendiente |
-| imnice | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.15 (87¢) | $26,924 | — | ⏳ Pendiente |

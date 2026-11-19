@@ -132037,5 +132037,20 @@
     "status": "pending",
     "ultimo_fill": 1795048209,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17768,
+    "timestamp": 1795048864,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "nba-gsw-dal-2026-11-18-total-223pt5",
+    "title": "Warriors vs. Mavericks: O/U 223.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "usd": 32594.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1795048864,
+    "fills": 1
   }
 ]
