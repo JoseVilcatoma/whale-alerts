@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 01:17:19 (hora de Perú)
+Actualizado: 2026-11-19 01:19:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8796**  ($498,749,423 en total)
-- Resueltas: **8757** — 5341 ganadas / 3416 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **8758** — 5341 ganadas / 3417 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,191,481** sobre $497,187,383 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,066** sobre $864,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,227,379** sobre $497,223,282 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$10,166** sobre $864,100 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -76,7 +76,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | Moneymethod | Celtics vs. Nuggets | Celtics | 1.45 (69¢) | $37,028 | -$37,028 | ❌ Perdida |
 | MD14 | Hawks vs. Thunder: O/U 217.5 | Over 217.5 | 1.18 (85¢) | $93,464 | +$16,494 | ✅ Ganada |
 | mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | -$27,350 | ❌ Perdida |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | -$35,899 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | +$7,573 | ✅ Ganada |
 | MD14 | 76ers vs. Magic: O/U 233.5 | Over 233.5 | 1.16 (86¢) | $102,342 | +$16,660 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Mavericks | Warriors | 2.86 (35¢) | $35,000 | -$35,000 | ❌ Perdida |
