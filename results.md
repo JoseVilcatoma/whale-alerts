@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 21:55:01 (hora de Perú)
+Actualizado: 2026-11-18 21:57:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8792**  ($498,475,982 en total)
-- Resueltas: **8737** — 5335 ganadas / 3402 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Resueltas: **8743** — 5337 ganadas / 3406 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,747,907** sobre $496,227,624 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,093** sobre $862,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,852,058** sobre $496,532,788 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,206** sobre $862,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 615 | 353 | 12 | 64% | $64,093,635 | +$715,438 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 616 | 354 | 10 | 64% | $64,093,635 | +$702,346 |
 | Sassy-Bucket | 121 | 120 | 3 | 50% | $16,915,296 | -$1,342,753 |
-| Lakersfan111 | 184 | 106 | 2 | 63% | $14,571,322 | +$207,318 |
+| Lakersfan111 | 184 | 107 | 1 | 63% | $14,571,322 | +$175,318 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoi | 27 | 37 | 2 | 42% | $3,603,186 | -$140,296 |
+| mooseborzoi | 27 | 38 | 1 | 42% | $3,603,186 | -$236,549 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
@@ -82,15 +82,15 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.92 (52¢) | $33,406 | -$33,406 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | 76ers vs. Magic | Magic | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | 76ers vs. Magic | Magic | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.96 (51¢) | $31,496 | -$31,496 | ❌ Perdida |
-| mooseborzoi | 76ers vs. Magic | Magic | 1.56 (64¢) | $96,252 | — | ⏳ Pendiente |
-| VPenguin | 76ers vs. Magic | 76ers | 2.78 (36¢) | $36,364 | — | ⏳ Pendiente |
+| mooseborzoi | 76ers vs. Magic | Magic | 1.56 (64¢) | $96,252 | -$96,252 | ❌ Perdida |
+| VPenguin | 76ers vs. Magic | 76ers | 2.78 (36¢) | $36,364 | +$64,648 | ✅ Ganada |
 | Moneymethod | Akron vs. UMass | UMass | 1.67 (60¢) | $50,822 | — | ⏳ Pendiente |
 | surfandturf | Grizzlies vs. Cavaliers | Cavaliers | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | Magic | 1.82 (55¢) | $65,092 | — | ⏳ Pendiente |
-| ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | 76ers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | Magic | 1.82 (55¢) | $65,092 | -$65,092 | ❌ Perdida |
+| ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | -$27,455 | ❌ Perdida |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | 76ers | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
 | googleplay | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $34,996 | +$25,342 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pistons (-6.5) | Pelicans | 1.82 (55¢) | $38,527 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | — | ⏳ Pendiente |
