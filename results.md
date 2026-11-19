@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 05:22:05 (hora de Perú)
+Actualizado: 2026-11-19 05:24:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8797**  ($498,795,877 en total)
+- Apuestas registradas: **8798**  ($498,827,315 en total)
 - Resueltas: **8758** — 5341 ganadas / 3417 perdidas (**61%** de acierto)
-- Pendientes: 9
-- Apostadores distintos: 738
+- Pendientes: 10
+- Apostadores distintos: 739
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 | Talvez10 | 28 | 27 | 0 | 51% | $2,588,270 | +$20,358 |
 
-_(mostrando los 40 de mayor monto, de 738 en total)_
+_(mostrando los 40 de mayor monto, de 739 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| TopHolder1 | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | GamerLegion | 1.72 (58¢) | $31,439 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $46,454 | — | ⏳ Pendiente |
 | MD14 | Celtics vs. Nuggets | Celtics | 1.32 (76¢) | $68,208 | -$68,208 | ❌ Perdida |
 | MD14 | Warriors vs. Mavericks: O/U 206.5 | Over 206.5 | 1.06 (94¢) | $74,741 | +$4,771 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | MD14 | Knicks vs. Raptors: O/U 214.5 | Over 214.5 | 2.50 (40¢) | $48,709 | -$48,709 | ❌ Perdida |
 | VeryLucky888 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $25,550 | +$9,450 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Ducks vs. Blues | Blues | 1.82 (55¢) | $98,042 | +$80,216 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Raptors | Raptors | 2.22 (45¢) | $28,983 | -$28,983 | ❌ Perdida |
