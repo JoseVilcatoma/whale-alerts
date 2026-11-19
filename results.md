@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 21:59:09 (hora de Perú)
+Actualizado: 2026-11-18 22:01:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8792**  ($498,475,982 en total)
+- Apuestas registradas: **8793**  ($498,569,445 en total)
 - Resueltas: **8743** — 5337 ganadas / 3406 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Pendientes: 20
 - Apostadores distintos: 738
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Hawks vs. Thunder: O/U 217.5 | Over 217.5 | 1.18 (85¢) | $93,464 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | +$7,573 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | sinasinner | Senators vs. Jets | Senators | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
 | omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | -$34,824 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | +$19,643 | ✅ Ganada |
-| keeptheblueflagflyinghigh | Oilers vs. Panthers | Oilers | 2.17 (46¢) | $54,998 | +$64,563 | ✅ Ganada |
