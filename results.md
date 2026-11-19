@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 18:23:58 (hora de Perú)
+Actualizado: 2026-11-19 18:25:58 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8807**  ($499,306,490 en total)
+- Apuestas registradas: **8808**  ($499,511,307 en total)
 - Resueltas: **8767** — 5348 ganadas / 3419 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 739
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 618 | 356 | 8 | 63% | $64,191,195 | +$662,313 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
-| Lakersfan111 | 185 | 107 | 1 | 63% | $14,644,596 | +$183,791 |
+| Lakersfan111 | 185 | 107 | 2 | 63% | $14,849,413 | +$183,791 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Knicks vs. Timberwolves | Knicks | 2.00 (50¢) | $204,817 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Clippers vs. Spurs | Spurs | 1.14 (88¢) | $73,274 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $104,882 | +$27,880 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $51,107 | +$13,585 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Spurs | Pistons | 1.20 (83¢) | $25,867 | +$5,298 | ✅ Ganada |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.96 (51¢) | $74,747 | -$74,747 | ❌ Perdida |
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | +$10,610 | ✅ Ganada |
-| mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | +$185,426 | ✅ Ganada |
