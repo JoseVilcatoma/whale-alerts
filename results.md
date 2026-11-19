@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 16:17:55 (hora de Perú)
+Actualizado: 2026-11-19 16:19:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8804**  ($499,077,228 en total)
+- Apuestas registradas: **8806**  ($499,233,216 en total)
 - Resueltas: **8760** — 5342 ganadas / 3418 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 16
 - Apostadores distintos: 739
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 616 | 356 | 9 | 63% | $64,140,089 | +$628,819 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 616 | 356 | 10 | 63% | $64,191,195 | +$628,819 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 185 | 107 | 0 | 63% | $14,571,322 | +$183,791 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| keeptheblueflagflyinghigh | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $104,882 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $51,107 | — | ⏳ Pendiente |
 | Zombie77 | Clippers vs. Spurs | Spurs | 1.12 (89¢) | $37,720 | — | ⏳ Pendiente |
 | robustmst | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Arthur Fils | 2.94 (34¢) | $29,034 | — | ⏳ Pendiente |
 | DonaldinhoTrumpito | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $33,815 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | 0x1bc2900db79077f14d294dd24552020dfbe73391-1793687708604 | Pistons vs. Spurs | Pistons | 1.11 (90¢) | $95,494 | +$10,610 | ✅ Ganada |
 | mooseborzoi | Spread: Lakers (-6.5) | Hornets | 2.04 (49¢) | $178,154 | +$185,426 | ✅ Ganada |
 | RJW1 | Spread: Lakers (-6.5) | Lakers | 1.92 (52¢) | $208,000 | -$208,000 | ❌ Perdida |
-| MD14 | Trail Blazers vs. Timberwolves: O/U 213.5 | Over 213.5 | 2.08 (48¢) | $77,388 | -$77,388 | ❌ Perdida |
-| yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | -$25,447 | ❌ Perdida |
