@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 22:46:56 (hora de Perú)
+Actualizado: 2026-11-18 22:49:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8795**  ($498,681,215 en total)
-- Resueltas: **8751** — 5341 ganadas / 3410 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8752** — 5341 ganadas / 3411 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,966,365** sobre $496,962,268 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,466** sobre $863,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,991,440** sobre $496,987,343 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,566** sobre $863,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -81,7 +81,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Mavericks | Warriors | 2.86 (35¢) | $35,000 | -$35,000 | ❌ Perdida |
 | Donkey14 | Warriors vs. Mavericks | Warriors | 2.78 (36¢) | $30,000 | -$30,000 | ❌ Perdida |
 | Multicoloured-Serf | Warriors vs. Mavericks: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $32,594 | +$32,594 | ✅ Ganada |
-| ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | — | ⏳ Pendiente |
+| ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | -$25,075 | ❌ Perdida |
 | Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | -$60,816 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | +$8,472 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.92 (52¢) | $33,406 | -$33,406 | ❌ Perdida |
