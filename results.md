@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 19:29:58 (hora de Perú)
+Actualizado: 2026-11-18 19:32:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8784**  ($498,144,811 en total)
+- Apuestas registradas: **8785**  ($498,169,886 en total)
 - Resueltas: **8732** — 5333 ganadas / 3399 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 738
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.92 (52¢) | $33,406 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.11 (90¢) | $26,802 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.16 (86¢) | $25,907 | — | ⏳ Pendiente |
 | imnice | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.15 (87¢) | $26,924 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Will Wales vs. Portugal end in a draw? | No | 1.23 (81¢) | $38,052 | +$8,926 | ✅ Ganada |
