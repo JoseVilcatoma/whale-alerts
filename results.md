@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 21:46:53 (hora de Perú)
+Actualizado: 2026-11-18 21:48:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8790**  ($498,412,733 en total)
+- Apuestas registradas: **8791**  ($498,448,631 en total)
 - Resueltas: **8734** — 5333 ganadas / 3401 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Pendientes: 27
 - Apostadores distintos: 738
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | — | ⏳ Pendiente |
 | MD14 | 76ers vs. Magic: O/U 233.5 | Over 233.5 | 1.16 (86¢) | $102,342 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Mavericks | Warriors | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | +$19,643 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Oilers vs. Panthers | Oilers | 2.17 (46¢) | $54,998 | +$64,563 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Pistons vs. Spurs | Spurs | 1.27 (79¢) | $72,535 | -$72,535 | ❌ Perdida |
-| shibaijiaoyiyuan | Dota 2: LGD Gaming vs PARIVISION - Game 2 Winner | PARIVISION | 1.18 (85¢) | $25,500 | +$4,500 | ✅ Ganada |
