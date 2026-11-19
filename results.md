@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 21:42:48 (hora de Perú)
+Actualizado: 2026-11-18 21:44:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8790**  ($498,412,733 en total)
-- Resueltas: **8732** — 5333 ganadas / 3399 perdidas (**61%** de acierto)
-- Pendientes: 28
+- Resueltas: **8734** — 5333 ganadas / 3401 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,676,237** sobre $495,986,469 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,827** sobre $861,500 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,741,139** sobre $496,051,371 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,027** sobre $861,700 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,9 +79,9 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.92 (52¢) | $33,406 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.92 (52¢) | $33,406 | -$33,406 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | 76ers vs. Magic | Magic | 1.56 (64¢) | $32,000 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.96 (51¢) | $31,496 | — | ⏳ Pendiente |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.96 (51¢) | $31,496 | -$31,496 | ❌ Perdida |
 | mooseborzoi | 76ers vs. Magic | Magic | 1.56 (64¢) | $96,252 | — | ⏳ Pendiente |
 | VPenguin | 76ers vs. Magic | 76ers | 2.78 (36¢) | $36,364 | — | ⏳ Pendiente |
 | Moneymethod | Akron vs. UMass | UMass | 1.67 (60¢) | $50,822 | — | ⏳ Pendiente |
