@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 21:53:00 (hora de Perú)
+Actualizado: 2026-11-18 21:55:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8791**  ($498,448,631 en total)
+- Apuestas registradas: **8792**  ($498,475,982 en total)
 - Resueltas: **8737** — 5335 ganadas / 3402 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 738
 
 ### Balance
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoi | 27 | 37 | 1 | 42% | $3,575,836 | -$140,296 |
+| mooseborzoi | 27 | 37 | 2 | 42% | $3,603,186 | -$140,296 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | +$7,573 | ✅ Ganada |
 | MD14 | 76ers vs. Magic: O/U 233.5 | Over 233.5 | 1.16 (86¢) | $102,342 | +$16,660 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | -$34,824 | ❌ Perdida |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | +$19,643 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Oilers vs. Panthers | Oilers | 2.17 (46¢) | $54,998 | +$64,563 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Pistons vs. Spurs | Spurs | 1.27 (79¢) | $72,535 | -$72,535 | ❌ Perdida |
