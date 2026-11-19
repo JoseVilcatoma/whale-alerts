@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 21:50:57 (hora de Perú)
+Actualizado: 2026-11-18 21:53:00 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8791**  ($498,448,631 en total)
-- Resueltas: **8735** — 5334 ganadas / 3401 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **8737** — 5335 ganadas / 3402 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,724,479** sobre $496,153,713 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,010** sobre $861,800 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,747,907** sobre $496,227,624 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,093** sobre $862,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
-| surfandturf | 46 | 14 | 1 | 77% | $4,586,419 | +$696,078 |
+| surfandturf | 46 | 15 | 0 | 75% | $4,586,419 | +$665,078 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
@@ -72,7 +72,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | +$7,573 | ✅ Ganada |
 | MD14 | 76ers vs. Magic: O/U 233.5 | Over 233.5 | 1.16 (86¢) | $102,342 | +$16,660 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Mavericks | Warriors | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | Donkey14 | Warriors vs. Mavericks | Warriors | 2.78 (36¢) | $30,000 | — | ⏳ Pendiente |
@@ -86,7 +86,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | mooseborzoi | 76ers vs. Magic | Magic | 1.56 (64¢) | $96,252 | — | ⏳ Pendiente |
 | VPenguin | 76ers vs. Magic | 76ers | 2.78 (36¢) | $36,364 | — | ⏳ Pendiente |
 | Moneymethod | Akron vs. UMass | UMass | 1.67 (60¢) | $50,822 | — | ⏳ Pendiente |
-| surfandturf | Grizzlies vs. Cavaliers | Cavaliers | 1.61 (62¢) | $31,000 | — | ⏳ Pendiente |
+| surfandturf | Grizzlies vs. Cavaliers | Cavaliers | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | Magic | 1.82 (55¢) | $65,092 | — | ⏳ Pendiente |
 | ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | 76ers | 2.08 (48¢) | $48,000 | — | ⏳ Pendiente |
