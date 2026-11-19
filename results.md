@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 22:22:03 (hora de Perú)
+Actualizado: 2026-11-18 22:24:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8795**  ($498,681,215 en total)
-- Resueltas: **8744** — 5338 ganadas / 3406 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Resueltas: **8745** — 5338 ganadas / 3407 perdidas (**61%** de acierto)
+- Pendientes: 20
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,843,586** sobre $496,584,831 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,190** sobre $862,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,904,402** sobre $496,645,648 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,290** sobre $862,800 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 616 | 354 | 10 | 64% | $64,093,635 | +$702,346 |
-| Sassy-Bucket | 121 | 120 | 3 | 50% | $16,915,296 | -$1,342,753 |
+| Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 185 | 107 | 0 | 63% | $14,571,322 | +$183,791 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | Donkey14 | Warriors vs. Mavericks | Warriors | 2.78 (36¢) | $30,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Warriors vs. Mavericks: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $32,594 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | — | ⏳ Pendiente |
-| Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | — | ⏳ Pendiente |
+| Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | -$60,816 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | +$8,472 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.92 (52¢) | $33,406 | -$33,406 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | 76ers vs. Magic | Magic | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
