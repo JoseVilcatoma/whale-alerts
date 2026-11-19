@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 19:52:41 (hora de Perú)
+Actualizado: 2026-11-18 19:54:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8786**  ($498,202,480 en total)
+- Apuestas registradas: **8787**  ($498,232,480 en total)
 - Resueltas: **8732** — 5333 ganadas / 3399 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 738
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Donkey14 | Warriors vs. Mavericks | Warriors | 2.78 (36¢) | $30,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Warriors vs. Mavericks: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $32,594 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.10 (91¢) | $30,014 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields win on 2026-11-17? | No | 1.12 (89¢) | $39,142 | — | ⏳ Pendiente |
 | aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.11 (90¢) | $26,802 | — | ⏳ Pendiente |
-| aenews2 | Will South Shields vs. Harborough Town FC end in a draw? | Yes | 1.16 (86¢) | $25,907 | — | ⏳ Pendiente |
