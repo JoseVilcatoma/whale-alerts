@@ -132247,5 +132247,20 @@
     "status": "lost",
     "ultimo_fill": 1795085929,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17812,
+    "timestamp": 1795116942,
+    "username": "Novelty8",
+    "wallet": "0x5c035da7d3df55a0458706830c542eda097a31bb",
+    "slug": "atp-zverev-fils-2026-11-17",
+    "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "usd": 43800.0,
+    "odds_at_bet": 73,
+    "status": "pending",
+    "ultimo_fill": 1795116942,
+    "fills": 1
   }
 ]
