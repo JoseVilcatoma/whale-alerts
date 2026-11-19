@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 22:49:00 (hora de Perú)
+Actualizado: 2026-11-18 22:51:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8795**  ($498,681,215 en total)
-- Resueltas: **8752** — 5341 ganadas / 3411 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Resueltas: **8754** — 5341 ganadas / 3413 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,991,440** sobre $496,987,343 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,566** sobre $863,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,058,894** sobre $497,054,796 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,766** sobre $863,700 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 616 | 355 | 9 | 63% | $64,093,635 | +$667,346 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 616 | 356 | 8 | 63% | $64,093,635 | +$628,819 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 185 | 107 | 0 | 63% | $14,571,322 | +$183,791 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -95,8 +95,8 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | -$27,455 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | 76ers | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
 | googleplay | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $34,996 | +$25,342 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pistons (-6.5) | Pelicans | 1.82 (55¢) | $38,527 | — | ⏳ Pendiente |
-| ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pistons (-6.5) | Pelicans | 1.82 (55¢) | $38,527 | -$38,527 | ❌ Perdida |
+| ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | -$28,927 | ❌ Perdida |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $65,018 | +$62,468 | ✅ Ganada |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | +$51,295 | ✅ Ganada |
 | obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | +$7,207 | ✅ Ganada |
