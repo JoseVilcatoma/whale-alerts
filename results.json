@@ -132007,5 +132007,20 @@
     "status": "pending",
     "ultimo_fill": 1795046275,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17766,
+    "timestamp": 1795048175,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "nba-was-tor-2026-11-18-total-223pt5",
+    "title": "Wizards vs. Raptors: O/U 223.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 60816.082200000004,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1795048175,
+    "fills": 1
   }
 ]
