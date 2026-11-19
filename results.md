@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 16:54:35 (hora de Perú)
+Actualizado: 2026-11-19 16:56:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8806**  ($499,233,216 en total)
-- Resueltas: **8760** — 5342 ganadas / 3418 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Resueltas: **8767** — 5348 ganadas / 3419 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 739
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,277,713** sobre $497,327,820 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$10,194** sobre $864,300 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,202,681** sobre $497,669,355 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,081** sobre $865,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 616 | 356 | 10 | 63% | $64,191,195 | +$628,819 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 618 | 356 | 8 | 63% | $64,191,195 | +$662,313 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 185 | 107 | 0 | 63% | $14,571,322 | +$183,791 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -71,16 +71,16 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| keeptheblueflagflyinghigh | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $104,882 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $51,107 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $104,882 | +$27,880 | ✅ Ganada |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $51,107 | +$13,585 | ✅ Ganada |
 | Zombie77 | Clippers vs. Spurs | Spurs | 1.12 (89¢) | $37,720 | — | ⏳ Pendiente |
-| robustmst | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Arthur Fils | 2.94 (34¢) | $29,034 | — | ⏳ Pendiente |
-| DonaldinhoTrumpito | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $33,815 | — | ⏳ Pendiente |
-| ArturitoFilito | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.37 (73¢) | $32,444 | — | ⏳ Pendiente |
-| Novelty8 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.37 (73¢) | $43,800 | — | ⏳ Pendiente |
+| robustmst | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Arthur Fils | 2.94 (34¢) | $29,034 | -$29,034 | ❌ Perdida |
+| DonaldinhoTrumpito | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $33,815 | +$14,492 | ✅ Ganada |
+| ArturitoFilito | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.37 (73¢) | $32,444 | +$12,000 | ✅ Ganada |
+| Novelty8 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.37 (73¢) | $43,800 | +$16,200 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 2.33 (43¢) | $73,100 | -$73,100 | ❌ Perdida |
 | TopHolder1 | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | GamerLegion | 1.72 (58¢) | $31,439 | +$22,766 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $46,454 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $46,454 | +$19,909 | ✅ Ganada |
 | MD14 | Celtics vs. Nuggets | Celtics | 1.32 (76¢) | $68,208 | -$68,208 | ❌ Perdida |
 | MD14 | Warriors vs. Mavericks: O/U 206.5 | Over 206.5 | 1.06 (94¢) | $74,741 | +$4,771 | ✅ Ganada |
 | Moneymethod | Celtics vs. Nuggets | Celtics | 1.45 (69¢) | $37,028 | -$37,028 | ❌ Perdida |
