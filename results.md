@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 14:46:13 (hora de Perú)
+Actualizado: 2026-11-19 14:48:13 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8801**  ($498,976,659 en total)
+- Apuestas registradas: **8802**  ($499,010,475 en total)
 - Resueltas: **8760** — 5342 ganadas / 3418 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 739
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| DonaldinhoTrumpito | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $33,815 | — | ⏳ Pendiente |
 | ArturitoFilito | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.37 (73¢) | $32,444 | — | ⏳ Pendiente |
 | Novelty8 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.37 (73¢) | $43,800 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 2.33 (43¢) | $73,100 | -$73,100 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | yabanci | Stars vs. Golden Knights | Golden Knights | 1.96 (51¢) | $25,447 | -$25,447 | ❌ Perdida |
 | nigiri99 | Stars vs. Golden Knights | Stars | 2.08 (48¢) | $46,825 | +$50,727 | ✅ Ganada |
 | googleplay | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.00 (50¢) | $45,018 | -$45,018 | ❌ Perdida |
-| mooseborzoi | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.04 (49¢) | $29,696 | -$29,696 | ❌ Perdida |
