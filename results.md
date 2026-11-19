@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 19:13:21 (hora de Perú)
+Actualizado: 2026-11-18 19:15:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8783**  ($498,083,995 en total)
-- Resueltas: **8731** — 5333 ganadas / 3398 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **8732** — 5333 ganadas / 3399 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,633,313** sobre $495,943,545 apostados (ROI **-1.1%**)
-- Copiando $100 fijo en cada una: **-$8,727** sobre $861,400 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,676,237** sobre $495,986,469 apostados (ROI **-1.1%**)
+- Copiando $100 fijo en cada una: **-$8,827** sobre $861,500 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | +$51,295 | ✅ Ganada |
 | obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | +$7,207 | ✅ Ganada |
 | tony1919 | Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs | PARIVISION | 1.14 (88¢) | $30,000 | +$4,091 | ✅ Ganada |
-| lllllllIlll | Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B | Envy | 1.89 (53¢) | $42,924 | — | ⏳ Pendiente |
+| lllllllIlll | Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B | Envy | 1.89 (53¢) | $42,924 | -$42,924 | ❌ Perdida |
 | MigRodr | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Flavio Cobolli | 2.22 (45¢) | $30,000 | -$30,000 | ❌ Perdida |
 | MD14 | Counter-Strike: Inner Circle Esports vs Sangal - Map 2 Winner | Inner Circle Esports | 1.72 (58¢) | $44,428 | -$44,428 | ❌ Perdida |
 | ropetard | Spread: Raptors (-6.5) | Wizards | 1.89 (53¢) | $34,361 | +$1,945 | 💰 Vendida antes |
