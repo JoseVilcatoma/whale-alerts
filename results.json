@@ -132307,5 +132307,20 @@
     "status": "pending",
     "ultimo_fill": 1795117900,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17816,
+    "timestamp": 1795122118,
+    "username": "Zombie77",
+    "wallet": "0x958e910fa82c5d0f0825710817cf7635ba7cf76a",
+    "slug": "nba-lac-sas-2026-11-19",
+    "title": "Clippers vs. Spurs",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 37719.9355,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1795122118,
+    "fills": 1
   }
 ]
