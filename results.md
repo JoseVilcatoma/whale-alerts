@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 00:34:10 (hora de Perú)
+Actualizado: 2026-11-19 00:36:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8796**  ($498,749,423 en total)
-- Resueltas: **8754** — 5341 ganadas / 3413 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Resueltas: **8757** — 5341 ganadas / 3416 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,058,894** sobre $497,054,796 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,766** sobre $863,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,191,481** sobre $497,187,383 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$10,066** sobre $864,000 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -51,7 +51,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoi | 27 | 38 | 1 | 42% | $3,603,186 | -$236,549 |
+| mooseborzoi | 27 | 39 | 0 | 41% | $3,603,186 | -$263,899 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
@@ -71,11 +71,11 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| MD14 | Celtics vs. Nuggets | Celtics | 1.32 (76¢) | $68,208 | — | ⏳ Pendiente |
+| MD14 | Celtics vs. Nuggets | Celtics | 1.32 (76¢) | $68,208 | -$68,208 | ❌ Perdida |
 | MD14 | Warriors vs. Mavericks: O/U 206.5 | Over 206.5 | 1.06 (94¢) | $74,741 | +$4,771 | ✅ Ganada |
-| Moneymethod | Celtics vs. Nuggets | Celtics | 1.45 (69¢) | $37,028 | — | ⏳ Pendiente |
+| Moneymethod | Celtics vs. Nuggets | Celtics | 1.45 (69¢) | $37,028 | -$37,028 | ❌ Perdida |
 | MD14 | Hawks vs. Thunder: O/U 217.5 | Over 217.5 | 1.18 (85¢) | $93,464 | +$16,494 | ✅ Ganada |
-| mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | — | ⏳ Pendiente |
+| mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | -$27,350 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | +$7,573 | ✅ Ganada |
 | MD14 | 76ers vs. Magic: O/U 233.5 | Over 233.5 | 1.16 (86¢) | $102,342 | +$16,660 | ✅ Ganada |
