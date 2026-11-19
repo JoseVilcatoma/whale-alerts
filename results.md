@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 21:48:55 (hora de Perú)
+Actualizado: 2026-11-18 21:50:57 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8791**  ($498,448,631 en total)
-- Resueltas: **8734** — 5333 ganadas / 3401 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **8735** — 5334 ganadas / 3401 perdidas (**61%** de acierto)
+- Pendientes: 26
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,741,139** sobre $496,051,371 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,027** sobre $861,700 (ROI **-1.0%**)
+- **Resultado de los apostadores: -$5,724,479** sobre $496,153,713 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,010** sobre $861,800 (ROI **-1.0%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 |---|---|---|---|---|---|---|
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | — | ⏳ Pendiente |
-| MD14 | 76ers vs. Magic: O/U 233.5 | Over 233.5 | 1.16 (86¢) | $102,342 | — | ⏳ Pendiente |
+| MD14 | 76ers vs. Magic: O/U 233.5 | Over 233.5 | 1.16 (86¢) | $102,342 | +$16,660 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Mavericks | Warriors | 2.86 (35¢) | $35,000 | — | ⏳ Pendiente |
 | Donkey14 | Warriors vs. Mavericks | Warriors | 2.78 (36¢) | $30,000 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Warriors vs. Mavericks: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $32,594 | — | ⏳ Pendiente |
