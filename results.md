@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 22:34:25 (hora de Perú)
+Actualizado: 2026-11-18 22:36:31 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8795**  ($498,681,215 en total)
-- Resueltas: **8746** — 5339 ganadas / 3407 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8747** — 5339 ganadas / 3408 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,887,909** sobre $496,739,111 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,273** sobre $862,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,938,730** sobre $496,789,933 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,373** sobre $863,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -89,7 +89,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.96 (51¢) | $31,496 | -$31,496 | ❌ Perdida |
 | mooseborzoi | 76ers vs. Magic | Magic | 1.56 (64¢) | $96,252 | -$96,252 | ❌ Perdida |
 | VPenguin | 76ers vs. Magic | 76ers | 2.78 (36¢) | $36,364 | +$64,648 | ✅ Ganada |
-| Moneymethod | Akron vs. UMass | UMass | 1.67 (60¢) | $50,822 | — | ⏳ Pendiente |
+| Moneymethod | Akron vs. UMass | UMass | 1.67 (60¢) | $50,822 | -$50,822 | ❌ Perdida |
 | surfandturf | Grizzlies vs. Cavaliers | Cavaliers | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | Magic | 1.82 (55¢) | $65,092 | -$65,092 | ❌ Perdida |
 | ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | -$27,455 | ❌ Perdida |
