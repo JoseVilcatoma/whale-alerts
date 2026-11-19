@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 22:30:20 (hora de Perú)
+Actualizado: 2026-11-18 22:32:20 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8795**  ($498,681,215 en total)
-- Resueltas: **8745** — 5338 ganadas / 3407 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Resueltas: **8746** — 5339 ganadas / 3407 perdidas (**61%** de acierto)
+- Pendientes: 19
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,904,402** sobre $496,645,648 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,290** sobre $862,800 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,887,909** sobre $496,739,111 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,273** sobre $862,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 |---|---|---|---|---|---|---|
 | MD14 | Warriors vs. Mavericks: O/U 206.5 | Over 206.5 | 1.06 (94¢) | $74,741 | — | ⏳ Pendiente |
 | Moneymethod | Celtics vs. Nuggets | Celtics | 1.45 (69¢) | $37,028 | — | ⏳ Pendiente |
-| MD14 | Hawks vs. Thunder: O/U 217.5 | Over 217.5 | 1.18 (85¢) | $93,464 | — | ⏳ Pendiente |
+| MD14 | Hawks vs. Thunder: O/U 217.5 | Over 217.5 | 1.18 (85¢) | $93,464 | +$16,494 | ✅ Ganada |
 | mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | +$7,573 | ✅ Ganada |
