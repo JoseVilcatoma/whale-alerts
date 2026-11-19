@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-18 22:15:50 (hora de Perú)
+Actualizado: 2026-11-18 22:17:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8793**  ($498,569,445 en total)
-- Resueltas: **8743** — 5337 ganadas / 3406 perdidas (**61%** de acierto)
-- Pendientes: 20
+- Apuestas registradas: **8795**  ($498,681,215 en total)
+- Resueltas: **8744** — 5338 ganadas / 3406 perdidas (**61%** de acierto)
+- Pendientes: 21
 - Apostadores distintos: 738
 
 ### Balance
 
-- **Resultado de los apostadores: -$5,852,058** sobre $496,532,788 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,206** sobre $862,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,843,586** sobre $496,584,831 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,190** sobre $862,700 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 616 | 354 | 10 | 64% | $64,093,635 | +$702,346 |
 | Sassy-Bucket | 121 | 120 | 3 | 50% | $16,915,296 | -$1,342,753 |
-| Lakersfan111 | 184 | 107 | 1 | 63% | $14,571,322 | +$175,318 |
+| Lakersfan111 | 185 | 107 | 0 | 63% | $14,571,322 | +$183,791 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| MD14 | Warriors vs. Mavericks: O/U 206.5 | Over 206.5 | 1.06 (94¢) | $74,741 | — | ⏳ Pendiente |
+| Moneymethod | Celtics vs. Nuggets | Celtics | 1.45 (69¢) | $37,028 | — | ⏳ Pendiente |
 | MD14 | Hawks vs. Thunder: O/U 217.5 | Over 217.5 | 1.18 (85¢) | $93,464 | — | ⏳ Pendiente |
 | mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | — | ⏳ Pendiente |
@@ -81,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | Multicoloured-Serf | Warriors vs. Mavericks: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $32,594 | — | ⏳ Pendiente |
 | ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | — | ⏳ Pendiente |
 | Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | +$8,472 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.92 (52¢) | $33,406 | -$33,406 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | 76ers vs. Magic | Magic | 1.56 (64¢) | $32,000 | -$32,000 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.96 (51¢) | $31,496 | -$31,496 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 738 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Knicks vs. Raptors | Raptors | 2.22 (45¢) | $28,983 | -$28,983 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Raptors | Knicks | 1.82 (55¢) | $37,455 | +$30,645 | ✅ Ganada |
 | sinasinner | Senators vs. Jets | Senators | 1.75 (57¢) | $34,200 | +$25,800 | ✅ Ganada |
-| omnibus-076daa | Oilers vs. Panthers | Panthers | 1.85 (54¢) | $34,824 | -$34,824 | ❌ Perdida |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Knicks vs. Raptors | Knicks | 1.79 (56¢) | $25,000 | +$19,643 | ✅ Ganada |
