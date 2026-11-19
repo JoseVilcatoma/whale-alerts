@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 05:58:44 (hora de Perú)
+Actualizado: 2026-11-19 06:00:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8798**  ($498,827,315 en total)
+- Apuestas registradas: **8799**  ($498,900,415 en total)
 - Resueltas: **8758** — 5341 ganadas / 3417 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Pendientes: 11
 - Apostadores distintos: 739
 
 ### Balance
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 48 | 31 | 0 | 61% | $5,553,513 | +$351,794 |
-| Thunderous-Authoritarian-Snarl | 27 | 22 | 0 | 55% | $5,260,534 | -$1,620,166 |
+| Thunderous-Authoritarian-Snarl | 27 | 22 | 1 | 55% | $5,333,634 | -$1,620,166 |
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 2.33 (43¢) | $73,100 | — | ⏳ Pendiente |
 | TopHolder1 | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | GamerLegion | 1.72 (58¢) | $31,439 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $46,454 | — | ⏳ Pendiente |
 | MD14 | Celtics vs. Nuggets | Celtics | 1.32 (76¢) | $68,208 | -$68,208 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | mooseborzoi | Jazz vs. Clippers: O/U 226.5 | Under 226.5 | 2.04 (49¢) | $29,696 | -$29,696 | ❌ Perdida |
 | MD14 | Knicks vs. Raptors: O/U 214.5 | Over 214.5 | 2.50 (40¢) | $48,709 | -$48,709 | ❌ Perdida |
 | VeryLucky888 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $25,550 | +$9,450 | ✅ Ganada |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Ducks vs. Blues | Blues | 1.82 (55¢) | $98,042 | +$80,216 | ✅ Ganada |
