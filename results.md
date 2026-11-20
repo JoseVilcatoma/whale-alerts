@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 12:49:52 (hora de Perú)
+Actualizado: 2026-11-20 12:51:55 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8833**  ($501,095,591 en total)
+- Apuestas registradas: **8834**  ($501,195,600 en total)
 - Resueltas: **8794** — 5369 ganadas / 3425 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 740
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | — | ⏳ Pendiente |
 | 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | — | ⏳ Pendiente |
 | Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | Moneymethod | Akron vs. UMass | UMass | 1.67 (60¢) | $50,822 | -$50,822 | ❌ Perdida |
 | surfandturf | Grizzlies vs. Cavaliers | Cavaliers | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | Magic | 1.82 (55¢) | $65,092 | -$65,092 | ❌ Perdida |
-| ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | -$27,455 | ❌ Perdida |

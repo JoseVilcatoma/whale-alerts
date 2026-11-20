@@ -132757,5 +132757,20 @@
     "status": "pending",
     "ultimo_fill": 1795196698,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17883,
+    "timestamp": 1795197079,
+    "username": "ukowna",
+    "wallet": "0x8fbc899fe286351fb21f23c32710e3facb8a5c63",
+    "slug": "bun-bay-koe-2026-11-20-bay",
+    "title": "Will FC Bayern M\u00fcnchen win on 2026-11-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 100009.0,
+    "odds_at_bet": 91,
+    "status": "pending",
+    "ultimo_fill": 1795197079,
+    "fills": 1
   }
 ]
