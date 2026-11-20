@@ -1,12 +1,12 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 12:43:45 (hora de Perú)
+Actualizado: 2026-11-20 12:45:47 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8833**  ($501,068,990 en total)
+- Apuestas registradas: **8833**  ($501,095,591 en total)
 - Resueltas: **8794** — 5369 ganadas / 3425 perdidas (**61%** de acierto)
 - Pendientes: 9
 - Apostadores distintos: 740
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
-| 3edmond.dantes | 35 | 24 | 1 | 59% | $8,087,495 | -$1,819,866 |
+| 3edmond.dantes | 35 | 24 | 1 | 59% | $8,114,097 | -$1,819,866 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 94 | 0 | 51% | $7,713,984 | -$665,096 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,7 +71,7 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $49,925 | — | ⏳ Pendiente |
+| 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | — | ⏳ Pendiente |
 | Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | — | ⏳ Pendiente |
