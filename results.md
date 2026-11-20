@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 11:26:18 (hora de Perú)
+Actualizado: 2026-11-20 11:28:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8831**  ($500,941,611 en total)
-- Resueltas: **8791** — 5367 ganadas / 3424 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **8792** — 5368 ganadas / 3424 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 740
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,063,126** sobre $499,360,491 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,545** sobre $867,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,053,760** sobre $499,388,590 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,512** sobre $867,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 620 | 357 | 9 | 63% | $64,399,716 | +$722,234 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 621 | 357 | 8 | 63% | $64,399,716 | +$731,600 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 188 | 108 | 2 | 64% | $15,115,178 | +$260,078 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -75,7 +75,7 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | — | ⏳ Pendiente |
 | VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | — | ⏳ Pendiente |
 | Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | +$9,366 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | — | ⏳ Pendiente |
