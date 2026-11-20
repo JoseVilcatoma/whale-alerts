@@ -132577,5 +132577,35 @@
     "status": "won",
     "ultimo_fill": 1795143349,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17865,
+    "timestamp": 1795182511,
+    "username": "Moneymethod",
+    "wallet": "0xbe23032d56a012c531b372c7739bc1dbd4dfb587",
+    "slug": "atp-kwon-prizmic-2026-11-20",
+    "title": "Metz: Soon-Woo Kwon vs Dino Prizmic",
+    "outcome": "Soon-Woo Kwon",
+    "side": "BUY",
+    "usd": 30369.610500000003,
+    "odds_at_bet": 68,
+    "status": "pending",
+    "ultimo_fill": 1795182511,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17866,
+    "timestamp": 1795182547,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "atp-kwon-prizmic-2026-11-20",
+    "title": "Metz: Soon-Woo Kwon vs Dino Prizmic",
+    "outcome": "Soon-Woo Kwon",
+    "side": "BUY",
+    "usd": 36411.9954,
+    "odds_at_bet": 66,
+    "status": "pending",
+    "ultimo_fill": 1795182547,
+    "fills": 1
   }
 ]

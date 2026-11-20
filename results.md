@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 08:47:49 (hora de Perú)
+Actualizado: 2026-11-20 08:49:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8821**  ($500,449,894 en total)
+- Apuestas registradas: **8823**  ($500,516,676 en total)
 - Resueltas: **8788** — 5364 ganadas / 3424 perdidas (**61%** de acierto)
-- Pendientes: 3
+- Pendientes: 5
 - Apostadores distintos: 739
 
 ### Balance
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ArturitoFilito | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.52 (66¢) | $36,412 | — | ⏳ Pendiente |
+| Moneymethod | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.47 (68¢) | $30,370 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Knicks vs. Timberwolves | Knicks | 1.10 (91¢) | $28,420 | +$2,811 | ✅ Ganada |
 | mentionmarket | Clippers vs. Spurs | Clippers | 3.33 (30¢) | $62,106 | -$62,106 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ducks vs. Avalanche | Ducks | 2.17 (46¢) | $57,496 | -$57,496 | ❌ Perdida |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | tony1919 | Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs | PARIVISION | 1.14 (88¢) | $30,000 | +$4,091 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B | Envy | 1.89 (53¢) | $42,924 | -$42,924 | ❌ Perdida |
 | MigRodr | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Flavio Cobolli | 2.22 (45¢) | $30,000 | -$30,000 | ❌ Perdida |
-| MD14 | Counter-Strike: Inner Circle Esports vs Sangal - Map 2 Winner | Inner Circle Esports | 1.72 (58¢) | $44,428 | -$44,428 | ❌ Perdida |
-| ropetard | Spread: Raptors (-6.5) | Wizards | 1.89 (53¢) | $34,361 | +$1,945 | 💰 Vendida antes |
