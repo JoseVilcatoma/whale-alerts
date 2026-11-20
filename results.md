@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 23:24:36 (hora de Perú)
+Actualizado: 2026-11-19 23:26:39 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8821**  ($500,449,894 en total)
-- Resueltas: **8780** — 5357 ganadas / 3423 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **8782** — 5359 ganadas / 3423 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 739
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,104,491** sobre $498,750,869 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,667** sobre $866,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,071,822** sobre $498,866,257 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,614** sobre $866,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -35,10 +35,10 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 94 | 0 | 51% | $7,713,984 | -$665,096 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
-| ethanaz | 84 | 34 | 1 | 71% | $7,032,302 | -$52,872 |
+| ethanaz | 85 | 34 | 0 | 71% | $7,032,302 | -$28,147 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| 999585 | 44 | 6 | 1 | 88% | $6,088,465 | +$388,557 |
+| 999585 | 45 | 6 | 0 | 88% | $6,088,465 | +$396,501 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -74,14 +74,14 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | 0x6db5…e279 | Knicks vs. Timberwolves | Knicks | 1.10 (91¢) | $28,420 | +$2,811 | ✅ Ganada |
 | mentionmarket | Clippers vs. Spurs | Clippers | 3.33 (30¢) | $62,106 | -$62,106 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ducks vs. Avalanche | Ducks | 2.17 (46¢) | $57,496 | — | ⏳ Pendiente |
-| ethanaz | Colts vs. Texans | Texans | 1.35 (74¢) | $70,372 | — | ⏳ Pendiente |
+| ethanaz | Colts vs. Texans | Texans | 1.35 (74¢) | $70,372 | +$24,725 | ✅ Ganada |
 | Donkey14 | Spread: Spurs (-15.5) | Clippers | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-16.5) | Spurs | 2.13 (47¢) | $135,882 | -$135,882 | ❌ Perdida |
 | mooseborzoi | Spread: Grizzlies (-5.5) | Warriors | 2.00 (50¢) | $124,999 | -$124,999 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Grizzlies (-5.5) | Grizzlies | 2.00 (50¢) | $74,260 | +$74,260 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-1.5) | Knicks | 1.89 (53¢) | $48,665 | +$43,156 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Grizzlies: O/U 225.5 | Over 225.5 | 2.08 (48¢) | $164,919 | -$164,919 | ❌ Perdida |
-| 999585 | Colts vs. Texans | Texans | 1.18 (85¢) | $45,016 | — | ⏳ Pendiente |
+| 999585 | Colts vs. Texans | Texans | 1.18 (85¢) | $45,016 | +$7,944 | ✅ Ganada |
 | justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | +$190,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | +$26,397 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Timberwolves | Knicks | 2.00 (50¢) | $204,817 | +$204,817 | ✅ Ganada |
