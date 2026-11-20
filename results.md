@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 23:53:50 (hora de Perú)
+Actualizado: 2026-11-19 23:55:56 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8821**  ($500,449,894 en total)
-- Resueltas: **8782** — 5359 ganadas / 3423 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **8783** — 5359 ganadas / 3424 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 739
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,071,822** sobre $498,866,257 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,614** sobre $866,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,129,317** sobre $498,923,753 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,714** sobre $866,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 620 | 356 | 9 | 64% | $64,371,616 | +$779,729 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 620 | 357 | 8 | 63% | $64,371,616 | +$722,234 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 188 | 108 | 0 | 64% | $15,050,784 | +$260,078 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -73,7 +73,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 |---|---|---|---|---|---|---|
 | 0x6db5…e279 | Knicks vs. Timberwolves | Knicks | 1.10 (91¢) | $28,420 | +$2,811 | ✅ Ganada |
 | mentionmarket | Clippers vs. Spurs | Clippers | 3.33 (30¢) | $62,106 | -$62,106 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ducks vs. Avalanche | Ducks | 2.17 (46¢) | $57,496 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ducks vs. Avalanche | Ducks | 2.17 (46¢) | $57,496 | -$57,496 | ❌ Perdida |
 | ethanaz | Colts vs. Texans | Texans | 1.35 (74¢) | $70,372 | +$24,725 | ✅ Ganada |
 | Donkey14 | Spread: Spurs (-15.5) | Clippers | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-16.5) | Spurs | 2.13 (47¢) | $135,882 | -$135,882 | ❌ Perdida |
