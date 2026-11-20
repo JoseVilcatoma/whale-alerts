@@ -132487,5 +132487,35 @@
     "status": "pending",
     "ultimo_fill": 1795134683,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17835,
+    "timestamp": 1795134996,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nba-lac-sas-2026-11-19-spread-home-16pt5",
+    "title": "Spread: Spurs (-16.5)",
+    "outcome": "Spurs",
+    "side": "BUY",
+    "usd": 135881.73359999998,
+    "odds_at_bet": 47,
+    "status": "pending",
+    "ultimo_fill": 1795134996,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 17836,
+    "timestamp": 1795135001,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-lac-sas-2026-11-19-spread-home-15pt5",
+    "title": "Spread: Spurs (-15.5)",
+    "outcome": "Clippers",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1795135001,
+    "fills": 1
   }
 ]
