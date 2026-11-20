@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 22:21:12 (hora de Perú)
+Actualizado: 2026-11-19 22:23:10 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8821**  ($500,449,894 en total)
-- Resueltas: **8768** — 5349 ganadas / 3419 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **8769** — 5350 ganadas / 3419 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 739
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,012,681** sobre $497,729,355 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,764** sobre $865,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$5,986,284** sobre $497,765,808 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,692** sobre $865,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 618 | 356 | 11 | 63% | $64,371,616 | +$662,313 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
-| Lakersfan111 | 185 | 107 | 4 | 63% | $15,050,784 | +$183,791 |
+| Lakersfan111 | 186 | 107 | 3 | 63% | $15,050,784 | +$210,187 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | robloxgamblemaster-2008-10-18 | Warriors vs. Grizzlies: O/U 225.5 | Over 225.5 | 2.08 (48¢) | $164,919 | — | ⏳ Pendiente |
 | 999585 | Colts vs. Texans | Texans | 1.18 (85¢) | $45,016 | — | ⏳ Pendiente |
 | justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | +$190,000 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | +$26,397 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Timberwolves | Knicks | 2.00 (50¢) | $204,817 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Clippers vs. Spurs | Spurs | 1.14 (88¢) | $73,274 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $104,882 | +$27,880 | ✅ Ganada |
