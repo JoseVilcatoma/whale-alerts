@@ -132847,5 +132847,20 @@
     "status": "lost",
     "ultimo_fill": 1795202545,
     "fills": 2
+  },
+  {
+    "telegram_msg_id": 17896,
+    "timestamp": 1795218022,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-cha-atl-2026-11-20-spread-home-7pt5",
+    "title": "Spread: Hawks (-7.5)",
+    "outcome": "Hawks",
+    "side": "BUY",
+    "usd": 30000.0,
+    "odds_at_bet": 50,
+    "status": "pending",
+    "ultimo_fill": 1795218022,
+    "fills": 1
   }
 ]
