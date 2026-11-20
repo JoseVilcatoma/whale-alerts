@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 13:47:12 (hora de Perú)
+Actualizado: 2026-11-20 13:49:15 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8836**  ($501,332,205 en total)
+- Apuestas registradas: **8837**  ($501,357,369 en total)
 - Resueltas: **8794** — 5369 ganadas / 3425 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 740
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| tankfest2027 | Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage | Shopify Rebellion Black | 1.16 (86¢) | $25,164 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. Pistons: O/U 216.5 | Over 216.5 | 1.96 (51¢) | $48,703 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $87,903 | — | ⏳ Pendiente |
 | ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Rockets (-8.5) | Pacers | 1.96 (51¢) | $31,496 | -$31,496 | ❌ Perdida |
 | mooseborzoi | 76ers vs. Magic | Magic | 1.56 (64¢) | $96,252 | -$96,252 | ❌ Perdida |
 | VPenguin | 76ers vs. Magic | 76ers | 2.78 (36¢) | $36,364 | +$64,648 | ✅ Ganada |
-| Moneymethod | Akron vs. UMass | UMass | 1.67 (60¢) | $50,822 | -$50,822 | ❌ Perdida |
