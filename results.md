@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 08:49:50 (hora de Perú)
+Actualizado: 2026-11-20 08:51:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8823**  ($500,516,676 en total)
+- Apuestas registradas: **8824**  ($500,543,228 en total)
 - Resueltas: **8788** — 5364 ganadas / 3424 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 739
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 620 | 357 | 8 | 63% | $64,371,616 | +$722,234 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
-| Lakersfan111 | 188 | 108 | 0 | 64% | $15,050,784 | +$260,078 |
+| Lakersfan111 | 188 | 108 | 1 | 64% | $15,077,337 | +$260,078 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | — | ⏳ Pendiente |
 | ArturitoFilito | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.52 (66¢) | $36,412 | — | ⏳ Pendiente |
 | Moneymethod | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.47 (68¢) | $30,370 | — | ⏳ Pendiente |
 | 0x6db5…e279 | Knicks vs. Timberwolves | Knicks | 1.10 (91¢) | $28,420 | +$2,811 | ✅ Ganada |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | +$7,207 | ✅ Ganada |
 | tony1919 | Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs | PARIVISION | 1.14 (88¢) | $30,000 | +$4,091 | ✅ Ganada |
 | lllllllIlll | Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B | Envy | 1.89 (53¢) | $42,924 | -$42,924 | ❌ Perdida |
-| MigRodr | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Flavio Cobolli | 2.22 (45¢) | $30,000 | -$30,000 | ❌ Perdida |
