@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 20:51:35 (hora de Perú)
+Actualizado: 2026-11-19 20:53:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8818**  ($500,301,873 en total)
+- Apuestas registradas: **8819**  ($500,359,368 en total)
 - Resueltas: **8767** — 5348 ganadas / 3419 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 739
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 618 | 356 | 10 | 63% | $64,314,121 | +$662,313 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 618 | 356 | 11 | 63% | $64,371,616 | +$662,313 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 185 | 107 | 4 | 63% | $15,050,784 | +$183,791 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ducks vs. Avalanche | Ducks | 2.17 (46¢) | $57,496 | — | ⏳ Pendiente |
 | ethanaz | Colts vs. Texans | Texans | 1.35 (74¢) | $70,372 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Spurs (-15.5) | Clippers | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-16.5) | Spurs | 2.13 (47¢) | $135,882 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | ropetard | Spread: Raptors (-6.5) | Wizards | 1.89 (53¢) | $34,361 | +$1,945 | 💰 Vendida antes |
 | 0x9bFe3B19BDBB654414dd167624cbE2DddaB54a26-1782575243960 | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $31,451 | +$22,775 | ✅ Ganada |
 | MD14 | Hornets vs. Lakers: O/U 238.5 | Over 238.5 | 1.18 (85¢) | $43,983 | -$43,983 | ❌ Perdida |
-| Moneymethod | England Tour of Australia ODIs: Australia vs England | England | 1.56 (64¢) | $31,000 | +$17,437 | ✅ Ganada |
