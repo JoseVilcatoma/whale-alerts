@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 14:40:49 (hora de Perú)
+Actualizado: 2026-11-20 17:06:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8839**  ($501,472,622 en total)
-- Resueltas: **8794** — 5369 ganadas / 3425 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8799** — 5370 ganadas / 3429 perdidas (**61%** de acierto)
+- Pendientes: 10
 - Apostadores distintos: 740
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,062,966** sobre $499,445,979 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,545** sobre $867,700 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,333,333** sobre $499,825,669 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,902** sobre $868,200 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -31,7 +31,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
-| 3edmond.dantes | 35 | 24 | 1 | 59% | $8,114,097 | -$1,819,866 |
+| 3edmond.dantes | 36 | 24 | 0 | 60% | $8,114,097 | -$1,787,069 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 99 | 94 | 0 | 51% | $7,713,984 | -$665,096 |
 | joseph00677 | 21 | 6 | 0 | 78% | $7,392,031 | +$1,986,427 |
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
@@ -71,13 +71,13 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
-| ipop00 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $69,752 | — | ⏳ Pendiente |
-| Zzzz87 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $45,501 | — | ⏳ Pendiente |
+| ipop00 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $69,752 | -$69,752 | ❌ Perdida |
+| Zzzz87 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $45,501 | -$45,501 | ❌ Perdida |
 | tankfest2027 | Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage | Shopify Rebellion Black | 1.16 (86¢) | $25,164 | — | ⏳ Pendiente |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. Pistons: O/U 216.5 | Over 216.5 | 1.96 (51¢) | $48,703 | — | ⏳ Pendiente |
-| Zombie77 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $87,903 | — | ⏳ Pendiente |
-| ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | — | ⏳ Pendiente |
-| 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | — | ⏳ Pendiente |
+| Zombie77 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $87,903 | -$87,903 | ❌ Perdida |
+| ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | -$100,009 | ❌ Perdida |
+| 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | +$32,797 | ✅ Ganada |
 | Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | — | ⏳ Pendiente |
