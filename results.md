@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 12:13:13 (hora de Perú)
+Actualizado: 2026-11-20 12:15:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8832**  ($501,019,065 en total)
-- Resueltas: **8792** — 5368 ganadas / 3424 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **8794** — 5369 ganadas / 3425 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 740
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,053,760** sobre $499,388,590 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,512** sobre $867,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,062,966** sobre $499,445,979 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,545** sobre $867,700 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -74,8 +74,8 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | — | ⏳ Pendiente |
-| VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | — | ⏳ Pendiente |
-| Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | — | ⏳ Pendiente |
+| VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | -$28,479 | ❌ Perdida |
+| Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | +$19,273 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | +$9,366 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
