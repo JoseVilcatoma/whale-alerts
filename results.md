@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 19:02:50 (hora de Perú)
+Actualizado: 2026-11-19 19:04:52 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8811**  ($499,652,776 en total)
+- Apuestas registradas: **8812**  ($499,817,695 en total)
 - Resueltas: **8767** — 5348 ganadas / 3419 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 739
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 618 | 356 | 8 | 63% | $64,191,195 | +$662,313 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
-| Lakersfan111 | 185 | 107 | 3 | 63% | $14,885,866 | +$183,791 |
+| Lakersfan111 | 185 | 107 | 4 | 63% | $15,050,784 | +$183,791 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Warriors vs. Grizzlies: O/U 225.5 | Over 225.5 | 2.08 (48¢) | $164,919 | — | ⏳ Pendiente |
 | 999585 | Colts vs. Texans | Texans | 1.18 (85¢) | $45,016 | — | ⏳ Pendiente |
 | justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | keeptheblueflagflyinghigh | Hornets vs. Lakers | Lakers | 1.72 (58¢) | $31,944 | +$23,132 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 1.56 (64¢) | $164,573 | -$164,573 | ❌ Perdida |
 | MD14 | Jazz vs. Clippers | Jazz | 2.78 (36¢) | $36,000 | +$64,000 | ✅ Ganada |
-| LetsGo1337 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $27,403 | +$10,135 | ✅ Ganada |
