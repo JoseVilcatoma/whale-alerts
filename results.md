@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 19:31:22 (hora de Perú)
+Actualizado: 2026-11-19 19:33:25 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8814**  ($499,940,620 en total)
+- Apuestas registradas: **8815**  ($500,065,619 en total)
 - Resueltas: **8767** — 5348 ganadas / 3419 perdidas (**61%** de acierto)
-- Pendientes: 17
+- Pendientes: 18
 - Apostadores distintos: 739
 
 ### Balance
@@ -50,8 +50,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | surfandturf | 46 | 15 | 0 | 75% | $4,586,419 | +$665,078 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
+| mooseborzoi | 27 | 39 | 1 | 41% | $3,728,185 | -$263,899 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
-| mooseborzoi | 27 | 39 | 0 | 41% | $3,603,186 | -$263,899 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| mooseborzoi | Spread: Grizzlies (-5.5) | Warriors | 2.00 (50¢) | $124,999 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Grizzlies (-5.5) | Grizzlies | 2.00 (50¢) | $74,260 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-1.5) | Knicks | 1.89 (53¢) | $48,665 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Grizzlies: O/U 225.5 | Over 225.5 | 2.08 (48¢) | $164,919 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | 0x6db5…e279 | Hornets vs. Lakers | Hornets | 1.10 (91¢) | $120,000 | -$120,000 | ❌ Perdida |
 | MD14 | Hornets vs. Lakers: O/U 216.5 | Over 216.5 | 1.11 (90¢) | $49,049 | +$5,450 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 2.04 (49¢) | $49,490 | -$49,490 | ❌ Perdida |
-| keeptheblueflagflyinghigh | Hornets vs. Lakers | Lakers | 1.72 (58¢) | $31,944 | +$23,132 | ✅ Ganada |
