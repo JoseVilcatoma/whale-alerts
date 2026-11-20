@@ -132787,5 +132787,20 @@
     "status": "pending",
     "ultimo_fill": 1795197408,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17885,
+    "timestamp": 1795199559,
+    "username": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+    "wallet": "0xf5592765133941c40c77e52bc56bbe7ec167f462",
+    "slug": "nba-tor-det-2026-11-20-total-216pt5",
+    "title": "Raptors vs. Pistons: O/U 216.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "usd": 48702.50750000001,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1795199559,
+    "fills": 1
   }
 ]

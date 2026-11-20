@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 13:30:47 (hora de Perú)
+Actualizado: 2026-11-20 13:32:51 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8835**  ($501,283,503 en total)
+- Apuestas registradas: **8836**  ($501,332,205 en total)
 - Resueltas: **8794** — 5369 ganadas / 3425 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Pendientes: 12
 - Apostadores distintos: 740
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. Pistons: O/U 216.5 | Over 216.5 | 1.96 (51¢) | $48,703 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $87,903 | — | ⏳ Pendiente |
 | ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | — | ⏳ Pendiente |
 | 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | mooseborzoi | 76ers vs. Magic | Magic | 1.56 (64¢) | $96,252 | -$96,252 | ❌ Perdida |
 | VPenguin | 76ers vs. Magic | 76ers | 2.78 (36¢) | $36,364 | +$64,648 | ✅ Ganada |
 | Moneymethod | Akron vs. UMass | UMass | 1.67 (60¢) | $50,822 | -$50,822 | ❌ Perdida |
-| surfandturf | Grizzlies vs. Cavaliers | Cavaliers | 1.61 (62¢) | $31,000 | -$31,000 | ❌ Perdida |
