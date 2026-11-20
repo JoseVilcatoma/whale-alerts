@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 10:57:42 (hora de Perú)
+Actualizado: 2026-11-20 10:59:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8830**  ($500,903,770 en total)
+- Apuestas registradas: **8831**  ($500,941,611 en total)
 - Resueltas: **8791** — 5367 ganadas / 3424 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 10
 - Apostadores distintos: 740
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 620 | 357 | 9 | 63% | $64,399,716 | +$722,234 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
-| Lakersfan111 | 188 | 108 | 1 | 64% | $15,077,337 | +$260,078 |
+| Lakersfan111 | 188 | 108 | 2 | 64% | $15,115,178 | +$260,078 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | — | ⏳ Pendiente |
 | VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | — | ⏳ Pendiente |
 | Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | ropetard | Spread: 76ers (-1.5) | Magic | 1.82 (55¢) | $27,455 | -$27,455 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 76ers vs. Magic | 76ers | 2.08 (48¢) | $48,000 | +$52,000 | ✅ Ganada |
 | googleplay | ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe | Frances Tiafoe | 1.72 (58¢) | $34,996 | +$25,342 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Pistons (-6.5) | Pelicans | 1.82 (55¢) | $38,527 | -$38,527 | ❌ Perdida |
