@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 19:00:48 (hora de Perú)
+Actualizado: 2026-11-19 19:02:50 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8810**  ($499,607,760 en total)
+- Apuestas registradas: **8811**  ($499,652,776 en total)
 - Resueltas: **8767** — 5348 ganadas / 3419 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 739
 
 ### Balance
@@ -38,7 +38,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ethanaz | 84 | 34 | 0 | 71% | $6,961,930 | -$52,872 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| 999585 | 44 | 6 | 0 | 88% | $6,043,449 | +$388,557 |
+| 999585 | 44 | 6 | 1 | 88% | $6,088,465 | +$388,557 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | Colts vs. Texans | Texans | 1.18 (85¢) | $45,016 | — | ⏳ Pendiente |
 | justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Timberwolves | Knicks | 2.00 (50¢) | $204,817 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Jazz vs. Clippers | Clippers | 1.56 (64¢) | $164,573 | -$164,573 | ❌ Perdida |
 | MD14 | Jazz vs. Clippers | Jazz | 2.78 (36¢) | $36,000 | +$64,000 | ✅ Ganada |
 | LetsGo1337 | Hornets vs. Lakers | Lakers | 1.37 (73¢) | $27,403 | +$10,135 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Pistons vs. Spurs | Pistons | 1.20 (83¢) | $25,867 | +$5,298 | ✅ Ganada |

@@ -132412,5 +132412,20 @@
     "status": "pending",
     "ultimo_fill": 1795132666,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17830,
+    "timestamp": 1795132927,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "nfl-ind-hou-2026-11-20",
+    "title": "Colts vs. Texans",
+    "outcome": "Texans",
+    "side": "BUY",
+    "usd": 45016.0,
+    "odds_at_bet": 85,
+    "status": "pending",
+    "ultimo_fill": 1795132927,
+    "fills": 1
   }
 ]
