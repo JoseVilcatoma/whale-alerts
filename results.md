@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-19 22:02:51 (hora de Perú)
+Actualizado: 2026-11-19 22:04:54 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8821**  ($500,449,894 en total)
-- Resueltas: **8767** — 5348 ganadas / 3419 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Resueltas: **8768** — 5349 ganadas / 3419 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 739
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,202,681** sobre $497,669,355 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$10,081** sobre $865,000 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,012,681** sobre $497,729,355 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,764** sobre $865,100 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -82,7 +82,7 @@ _(mostrando los 40 de mayor monto, de 739 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-1.5) | Knicks | 1.89 (53¢) | $48,665 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Grizzlies: O/U 225.5 | Over 225.5 | 2.08 (48¢) | $164,919 | — | ⏳ Pendiente |
 | 999585 | Colts vs. Texans | Texans | 1.18 (85¢) | $45,016 | — | ⏳ Pendiente |
-| justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | — | ⏳ Pendiente |
+| justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | +$190,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Timberwolves | Knicks | 2.00 (50¢) | $204,817 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Clippers vs. Spurs | Spurs | 1.14 (88¢) | $73,274 | — | ⏳ Pendiente |
