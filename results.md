@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 10:10:56 (hora de Perú)
+Actualizado: 2026-11-20 10:13:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8826**  ($500,791,196 en total)
-- Resueltas: **8788** — 5364 ganadas / 3424 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **8791** — 5367 ganadas / 3424 perdidas (**61%** de acierto)
+- Pendientes: 5
 - Apostadores distintos: 740
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,110,292** sobre $499,072,542 apostados (ROI **-1.2%**)
-- Copiando $100 fijo en cada una: **-$9,650** sobre $867,100 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,063,126** sobre $499,360,491 apostados (ROI **-1.2%**)
+- Copiando $100 fijo en cada una: **-$9,545** sobre $867,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -72,10 +72,10 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
-| dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | — | ⏳ Pendiente |
+| dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | — | ⏳ Pendiente |
-| ArturitoFilito | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.52 (66¢) | $36,412 | — | ⏳ Pendiente |
-| Moneymethod | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.47 (68¢) | $30,370 | — | ⏳ Pendiente |
+| ArturitoFilito | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.52 (66¢) | $36,412 | +$18,758 | ✅ Ganada |
+| Moneymethod | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.47 (68¢) | $30,370 | +$14,292 | ✅ Ganada |
 | 0x6db5…e279 | Knicks vs. Timberwolves | Knicks | 1.10 (91¢) | $28,420 | +$2,811 | ✅ Ganada |
 | mentionmarket | Clippers vs. Spurs | Clippers | 3.33 (30¢) | $62,106 | -$62,106 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ducks vs. Avalanche | Ducks | 2.17 (46¢) | $57,496 | -$57,496 | ❌ Perdida |
