@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 18:11:01 (hora de Perú)
+Actualizado: 2026-11-20 18:13:06 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8839**  ($501,472,622 en total)
-- Resueltas: **8799** — 5370 ganadas / 3429 perdidas (**61%** de acierto)
-- Pendientes: 10
+- Resueltas: **8800** — 5371 ganadas / 3429 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 740
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,333,333** sobre $499,825,669 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,902** sobre $868,200 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,320,133** sobre $499,852,469 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,853** sobre $868,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 48 | 31 | 0 | 61% | $5,553,513 | +$351,794 |
-| Thunderous-Authoritarian-Snarl | 27 | 23 | 1 | 54% | $5,360,434 | -$1,693,266 |
+| Thunderous-Authoritarian-Snarl | 28 | 23 | 0 | 55% | $5,360,434 | -$1,680,066 |
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | -$28,479 | ❌ Perdida |
 | Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | +$19,273 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | +$9,366 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | — | ⏳ Pendiente |
 | ArturitoFilito | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.52 (66¢) | $36,412 | +$18,758 | ✅ Ganada |
