@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 10:21:07 (hora de Perú)
+Actualizado: 2026-11-20 10:23:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8826**  ($500,791,196 en total)
+- Apuestas registradas: **8827**  ($500,819,295 en total)
 - Resueltas: **8791** — 5367 ganadas / 3424 perdidas (**61%** de acierto)
-- Pendientes: 5
+- Pendientes: 6
 - Apostadores distintos: 740
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 620 | 357 | 8 | 63% | $64,371,616 | +$722,234 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 620 | 357 | 9 | 63% | $64,399,716 | +$722,234 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 188 | 108 | 1 | 64% | $15,077,337 | +$260,078 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | — | ⏳ Pendiente |
 | dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 740 en total)_
 | ropetard | Spread: Pistons (-6.5) | Pelicans | 1.96 (51¢) | $28,927 | -$28,927 | ❌ Perdida |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 1.96 (51¢) | $65,018 | +$62,468 | ✅ Ganada |
 | MD14 | Real Madrid CF Femenino vs. FC Internazionale Milano: O/U 4.5 | Under 4.5 | 2.00 (50¢) | $51,295 | +$51,295 | ✅ Ganada |
-| obadazy | Will Real Madrid CF Femenino win on 2026-11-18? | Yes | 1.19 (84¢) | $37,838 | +$7,207 | ✅ Ganada |

@@ -132652,5 +132652,20 @@
     "status": "pending",
     "ultimo_fill": 1795187358,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17873,
+    "timestamp": 1795188180,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-gueymar-nardi-2026-11-20",
+    "title": "Metz: Sascha Gueymard-Wayenburg vs Luca Nardi",
+    "outcome": "Sascha Gueymard-Wayenburg",
+    "side": "BUY",
+    "usd": 28099.1538,
+    "odds_at_bet": 75,
+    "status": "pending",
+    "ultimo_fill": 1795188180,
+    "fills": 1
   }
 ]
