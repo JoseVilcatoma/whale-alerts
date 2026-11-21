@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 22:45:01 (hora de Perú)
+Actualizado: 2026-11-20 22:47:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8873**  ($503,253,622 en total)
-- Resueltas: **8820** — 5385 ganadas / 3435 perdidas (**61%** de acierto)
-- Pendientes: 23
+- Resueltas: **8821** — 5385 ganadas / 3436 perdidas (**61%** de acierto)
+- Pendientes: 22
 - Apostadores distintos: 743
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,410,173** sobre $500,688,068 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,841** sobre $870,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,451,061** sobre $500,728,955 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,941** sobre $870,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -91,7 +91,7 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | Multicoloured-Serf | Pelicans vs. Thunder | Thunder | 1.25 (80¢) | $32,128 | +$8,032 | ✅ Ganada |
 | surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | +$6,634 | ✅ Ganada |
 | ax2026 | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $61,265 | +$14,371 | ✅ Ganada |
-| Moneymethod | Wizards vs. Bulls: O/U 237.5 | Over 237.5 | 1.92 (52¢) | $40,887 | — | ⏳ Pendiente |
+| Moneymethod | Wizards vs. Bulls: O/U 237.5 | Over 237.5 | 1.92 (52¢) | $40,887 | -$40,887 | ❌ Perdida |
 | googleplay | Wizards vs. Bulls | Bulls | 1.82 (55¢) | $48,657 | -$48,657 | ❌ Perdida |
 | Donkey14 | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $30,000 | +$36,667 | ✅ Ganada |
 | TheOpportunist | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $27,000 | +$33,000 | ✅ Ganada |
