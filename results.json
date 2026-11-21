@@ -133417,5 +133417,35 @@
     "status": "pending",
     "ultimo_fill": 1795281455,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17976,
+    "timestamp": 1795281949,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-ohiost-nebr-2026-11-21",
+    "title": "Ohio State vs. Nebraska",
+    "outcome": "Ohio State",
+    "side": "BUY",
+    "usd": 61135.537037,
+    "odds_at_bet": 78,
+    "status": "pending",
+    "ultimo_fill": 1795281956,
+    "fills": 2
+  },
+  {
+    "telegram_msg_id": 17977,
+    "timestamp": 1795281992,
+    "username": "JudgeLance",
+    "wallet": "0xfed8ff0b541ce9a66d632aedebe81bdd1b2c4388",
+    "slug": "cfb-txtech-bayl-2026-11-21-spread-away-5pt5",
+    "title": "Spread: Texas Tech (-5.5)",
+    "outcome": "Texas Tech",
+    "side": "BUY",
+    "usd": 81637.74,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1795281992,
+    "fills": 1
   }
 ]

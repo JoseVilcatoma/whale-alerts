@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:24:36 (hora de Perú)
+Actualizado: 2026-11-21 12:26:40 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8877**  ($503,397,482 en total)
+- Apuestas registradas: **8879**  ($503,540,256 en total)
 - Resueltas: **8840** — 5393 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 7
-- Apostadores distintos: 744
+- Pendientes: 9
+- Apostadores distintos: 745
 
 ### Balance
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ethanaz | 85 | 34 | 0 | 71% | $7,032,302 | -$28,147 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| 999585 | 47 | 6 | 0 | 89% | $6,163,349 | +$406,258 |
+| 999585 | 47 | 6 | 1 | 89% | $6,224,484 | +$406,258 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | Thunderous-Authoritarian-Snarl | 28 | 26 | 0 | 52% | $5,783,800 | -$2,103,432 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -65,12 +65,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | RJW1 | 19 | 25 | 0 | 43% | $2,597,958 | -$529,444 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 
-_(mostrando los 40 de mayor monto, de 744 en total)_
+_(mostrando los 40 de mayor monto, de 745 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| JudgeLance | Spread: Texas Tech (-5.5) | Texas Tech | 1.96 (51¢) | $81,638 | — | ⏳ Pendiente |
+| 999585 | Ohio State vs. Nebraska | Ohio State | 1.28 (78¢) | $61,136 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Texas Tech (-5.5) | Baylor | 2.00 (50¢) | $34,782 | — | ⏳ Pendiente |
 | streajjkti888 | Will Chelsea FC win on 2026-11-21? | No | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | AML | UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card) | Kevin Vallejos | 1.82 (55¢) | $42,569 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 744 en total)_
 | Moneymethod | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.47 (68¢) | $30,370 | +$14,292 | ✅ Ganada |
 | 0x6db5…e279 | Knicks vs. Timberwolves | Knicks | 1.10 (91¢) | $28,420 | +$2,811 | ✅ Ganada |
 | mentionmarket | Clippers vs. Spurs | Clippers | 3.33 (30¢) | $62,106 | -$62,106 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ducks vs. Avalanche | Ducks | 2.17 (46¢) | $57,496 | -$57,496 | ❌ Perdida |
-| ethanaz | Colts vs. Texans | Texans | 1.35 (74¢) | $70,372 | +$24,725 | ✅ Ganada |
