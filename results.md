@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 22:28:09 (hora de Perú)
+Actualizado: 2026-11-20 22:30:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8872**  ($503,182,600 en total)
-- Resueltas: **8811** — 5379 ganadas / 3432 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **8812** — 5379 ganadas / 3433 perdidas (**61%** de acierto)
+- Pendientes: 30
 - Apostadores distintos: 742
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,389,432** sobre $500,360,164 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,875** sobre $869,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,438,135** sobre $500,408,867 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,975** sobre $869,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | ipop00 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $69,752 | -$69,752 | ❌ Perdida |
 | Zzzz87 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $45,501 | -$45,501 | ❌ Perdida |
 | tankfest2027 | Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage | Shopify Rebellion Black | 1.16 (86¢) | $25,164 | +$4,096 | ✅ Ganada |
-| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. Pistons: O/U 216.5 | Over 216.5 | 1.96 (51¢) | $48,703 | — | ⏳ Pendiente |
+| 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. Pistons: O/U 216.5 | Over 216.5 | 1.96 (51¢) | $48,703 | -$48,703 | ❌ Perdida |
 | Zombie77 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $87,903 | -$87,903 | ❌ Perdida |
 | ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | -$100,009 | ❌ Perdida |
 | 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | +$32,797 | ✅ Ganada |
