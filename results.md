@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 13:07:26 (hora de Perú)
+Actualizado: 2026-11-21 13:09:32 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8888**  ($503,985,282 en total)
+- Apuestas registradas: **8889**  ($504,035,898 en total)
 - Resueltas: **8842** — 5394 ganadas / 3448 perdidas (**61%** de acierto)
-- Pendientes: 16
+- Pendientes: 17
 - Apostadores distintos: 745
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 358 | 9 | 63% | $64,484,958 | +$711,462 |
 | Sassy-Bucket | 121 | 122 | 2 | 50% | $16,940,858 | -$1,429,131 |
-| Lakersfan111 | 193 | 109 | 1 | 64% | $15,428,230 | +$367,189 |
+| Lakersfan111 | 193 | 109 | 2 | 64% | $15,478,847 | +$367,189 |
 | googleplay | 65 | 60 | 0 | 52% | $13,631,614 | -$861,700 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Bucks vs. 76ers | 76ers | 1.20 (83¢) | $50,617 | — | ⏳ Pendiente |
 | Gumayusi98 | Will Arsenal FC win on 2026-11-21? | Yes | 1.19 (84¢) | $26,161 | — | ⏳ Pendiente |
 | 999585 | BYU vs. Kansas | BYU | 1.54 (65¢) | $169,115 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Oilers vs. Hurricanes | Hurricanes | 1.45 (69¢) | $28,659 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | -$77,454 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | +$23,193 | ✅ Ganada |
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | +$26,024 | ✅ Ganada |
-| VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | -$28,479 | ❌ Perdida |
