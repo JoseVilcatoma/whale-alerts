@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 00:56:10 (hora de Perú)
+Actualizado: 2026-11-21 00:58:14 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8874**  ($503,288,331 en total)
-- Resueltas: **8836** — 5392 ganadas / 3444 perdidas (**61%** de acierto)
-- Pendientes: 8
+- Resueltas: **8840** — 5393 ganadas / 3447 perdidas (**61%** de acierto)
+- Pendientes: 4
 - Apostadores distintos: 743
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,801,447** sobre $501,712,537 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$10,243** sobre $871,900 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,820,236** sobre $501,876,269 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$10,439** sobre $872,300 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
-| surfandturf | 47 | 15 | 1 | 76% | $4,640,702 | +$671,712 |
+| surfandturf | 47 | 16 | 0 | 75% | $4,640,702 | +$645,712 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | mooseborzoi | 27 | 40 | 0 | 40% | $3,728,185 | -$388,898 |
@@ -72,11 +72,11 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
 | Kyn008 | Will Rayo Vallecano de Madrid win on 2026-11-21? | Yes | 2.00 (50¢) | $34,709 | — | ⏳ Pendiente |
-| 8893cc | Rockets vs. Nuggets | Nuggets | 2.04 (49¢) | $71,022 | — | ⏳ Pendiente |
-| yabanci | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $27,180 | — | ⏳ Pendiente |
-| surfandturf | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| 8893cc | Rockets vs. Nuggets | Nuggets | 2.04 (49¢) | $71,022 | +$73,921 | ✅ Ganada |
+| yabanci | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $27,180 | -$27,180 | ❌ Perdida |
+| surfandturf | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
 | 0F62 | Pelicans vs. Thunder | Thunder | 1.18 (85¢) | $25,316 | +$4,468 | ✅ Ganada |
-| monkeymashingkeyboard | Rockets vs. Nuggets | Rockets | 1.96 (51¢) | $39,530 | — | ⏳ Pendiente |
+| monkeymashingkeyboard | Rockets vs. Nuggets | Rockets | 1.96 (51¢) | $39,530 | -$39,530 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Kings vs. Lakers | Lakers | 1.15 (87¢) | $92,704 | +$13,852 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $25,941 | -$25,941 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Suns vs. Jazz | Jazz | 2.63 (38¢) | $295,965 | -$295,965 | ❌ Perdida |
