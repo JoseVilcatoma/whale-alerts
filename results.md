@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:51:17 (hora de Perú)
+Actualizado: 2026-11-21 12:53:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8885**  ($503,761,347 en total)
+- Apuestas registradas: **8886**  ($503,790,006 en total)
 - Resueltas: **8841** — 5394 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 745
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 358 | 9 | 63% | $64,484,958 | +$711,462 |
 | Sassy-Bucket | 121 | 122 | 2 | 50% | $16,940,858 | -$1,429,131 |
-| Lakersfan111 | 193 | 109 | 0 | 64% | $15,399,571 | +$367,189 |
+| Lakersfan111 | 193 | 109 | 1 | 64% | $15,428,230 | +$367,189 |
 | googleplay | 65 | 60 | 0 | 52% | $13,631,614 | -$861,700 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Oilers vs. Hurricanes | Hurricanes | 1.45 (69¢) | $28,659 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Hurricanes (-1.5) | Hurricanes | 2.22 (45¢) | $43,437 | — | ⏳ Pendiente |
 | ndb1 | Oilers vs. Hurricanes | Oilers | 3.12 (32¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card) | Aleksandre Topuria | 1.43 (70¢) | $32,863 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | -$28,479 | ❌ Perdida |
 | Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | +$19,273 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | +$9,366 | ✅ Ganada |
-| Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
