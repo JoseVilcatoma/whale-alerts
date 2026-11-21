@@ -132814,7 +132814,7 @@
     "side": "BUY",
     "usd": 25164.1934,
     "odds_at_bet": 86,
-    "status": "pending",
+    "status": "won",
     "ultimo_fill": 1795200506,
     "fills": 1
   },
@@ -133281,6 +133281,21 @@
     "odds_at_bet": 87,
     "status": "pending",
     "ultimo_fill": 1795228839,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17931,
+    "timestamp": 1795229880,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "nba-hou-den-2026-11-20",
+    "title": "Rockets vs. Nuggets",
+    "outcome": "Rockets",
+    "side": "BUY",
+    "usd": 39530.1816,
+    "odds_at_bet": 51,
+    "status": "pending",
+    "ultimo_fill": 1795229880,
     "fills": 1
   }
 ]

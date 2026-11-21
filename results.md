@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 21:56:55 (hora de Perú)
+Actualizado: 2026-11-20 21:59:02 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8868**  ($503,064,574 en total)
-- Resueltas: **8806** — 5375 ganadas / 3431 perdidas (**61%** de acierto)
+- Apuestas registradas: **8869**  ($503,104,104 en total)
+- Resueltas: **8807** — 5376 ganadas / 3431 perdidas (**61%** de acierto)
 - Pendientes: 32
 - Apostadores distintos: 742
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,385,463** sobre $500,094,683 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,906** sobre $868,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,381,367** sobre $500,119,847 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,890** sobre $869,000 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Rockets vs. Nuggets | Rockets | 1.96 (51¢) | $39,530 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Kings vs. Lakers | Lakers | 1.15 (87¢) | $92,704 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Suns vs. Jazz | Jazz | 2.63 (38¢) | $295,965 | — | ⏳ Pendiente |
@@ -102,7 +103,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | Donkey14 | Spread: Hawks (-7.5) | Hawks | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | ipop00 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $69,752 | -$69,752 | ❌ Perdida |
 | Zzzz87 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $45,501 | -$45,501 | ❌ Perdida |
-| tankfest2027 | Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage | Shopify Rebellion Black | 1.16 (86¢) | $25,164 | — | ⏳ Pendiente |
+| tankfest2027 | Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage | Shopify Rebellion Black | 1.16 (86¢) | $25,164 | +$4,096 | ✅ Ganada |
 | 0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740 | Raptors vs. Pistons: O/U 216.5 | Over 216.5 | 1.96 (51¢) | $48,703 | — | ⏳ Pendiente |
 | Zombie77 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $87,903 | -$87,903 | ❌ Perdida |
 | ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | -$100,009 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | robloxgamblemaster-2008-10-18 | Warriors vs. Grizzlies: O/U 225.5 | Over 225.5 | 2.08 (48¢) | $164,919 | -$164,919 | ❌ Perdida |
 | 999585 | Colts vs. Texans | Texans | 1.18 (85¢) | $45,016 | +$7,944 | ✅ Ganada |
 | justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | +$190,000 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | +$26,397 | ✅ Ganada |
