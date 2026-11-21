@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 13:09:32 (hora de Perú)
+Actualizado: 2026-11-21 13:11:38 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8889**  ($504,035,898 en total)
+- Apuestas registradas: **8890**  ($504,063,863 en total)
 - Resueltas: **8842** — 5394 ganadas / 3448 perdidas (**61%** de acierto)
-- Pendientes: 17
-- Apostadores distintos: 745
+- Pendientes: 18
+- Apostadores distintos: 746
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | RJW1 | 19 | 25 | 0 | 43% | $2,597,958 | -$529,444 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 
-_(mostrando los 40 de mayor monto, de 745 en total)_
+_(mostrando los 40 de mayor monto, de 746 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| McLovin4 | Will Real Madrid CF win on 2026-11-21? | Yes | 1.18 (85¢) | $27,965 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Bucks vs. 76ers | 76ers | 1.20 (83¢) | $50,617 | — | ⏳ Pendiente |
 | Gumayusi98 | Will Arsenal FC win on 2026-11-21? | Yes | 1.19 (84¢) | $26,161 | — | ⏳ Pendiente |
 | 999585 | BYU vs. Kansas | BYU | 1.54 (65¢) | $169,115 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | +$32,797 | ✅ Ganada |
 | Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | -$77,454 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | +$23,193 | ✅ Ganada |
-| Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | +$26,024 | ✅ Ganada |
