@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 21:25:40 (hora de Perú)
+Actualizado: 2026-11-20 21:27:46 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8862**  ($502,466,977 en total)
+- Apuestas registradas: **8864**  ($502,620,563 en total)
 - Resueltas: **8802** — 5372 ganadas / 3430 perdidas (**61%** de acierto)
-- Pendientes: 30
+- Pendientes: 32
 - Apostadores distintos: 742
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 8 | 64% | $64,426,154 | +$737,403 |
 | Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
-| Lakersfan111 | 188 | 108 | 4 | 64% | $15,251,281 | +$260,078 |
+| Lakersfan111 | 188 | 108 | 5 | 64% | $15,306,866 | +$260,078 |
 | googleplay | 65 | 58 | 2 | 53% | $13,631,614 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -43,7 +43,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 48 | 31 | 0 | 61% | $5,553,513 | +$351,794 |
-| Thunderous-Authoritarian-Snarl | 28 | 23 | 0 | 55% | $5,360,434 | -$1,680,066 |
+| Thunderous-Authoritarian-Snarl | 28 | 23 | 1 | 55% | $5,458,434 | -$1,680,066 |
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $55,585 | — | ⏳ Pendiente |
 | googleplay | Rockets vs. Nuggets: O/U 227.5 | Under 227.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Rockets vs. Nuggets: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $76,359 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Clemson vs. Duke | Duke | 1.72 (58¢) | $31,887 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | robloxgamblemaster-2008-10-18 | Clippers vs. Spurs | Spurs | 1.14 (88¢) | $73,274 | +$9,992 | ✅ Ganada |
 | keeptheblueflagflyinghigh | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $104,882 | +$27,880 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $51,107 | +$13,585 | ✅ Ganada |
-| Zombie77 | Clippers vs. Spurs | Spurs | 1.12 (89¢) | $37,720 | +$4,662 | ✅ Ganada |
-| robustmst | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Arthur Fils | 2.94 (34¢) | $29,034 | -$29,034 | ❌ Perdida |

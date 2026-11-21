@@ -133192,5 +133192,35 @@
     "status": "pending",
     "ultimo_fill": 1795227796,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17921,
+    "timestamp": 1795227972,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-phx-uta-2026-11-20",
+    "title": "Suns vs. Jazz",
+    "outcome": "Suns",
+    "side": "BUY",
+    "usd": 55585.309499999996,
+    "odds_at_bet": 63,
+    "status": "pending",
+    "ultimo_fill": 1795227972,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17922,
+    "timestamp": 1795227973,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "nba-phx-uta-2026-11-20-spread-away-4pt5",
+    "title": "Spread: Suns (-4.5)",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 98000.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1795227973,
+    "fills": 1
   }
 ]
