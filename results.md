@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 00:21:42 (hora de Perú)
+Actualizado: 2026-11-21 00:23:44 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8873**  ($503,253,622 en total)
+- Apuestas registradas: **8874**  ($503,288,331 en total)
 - Resueltas: **8825** — 5386 ganadas / 3439 perdidas (**61%** de acierto)
-- Pendientes: 18
+- Pendientes: 19
 - Apostadores distintos: 743
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Kyn008 | Will Rayo Vallecano de Madrid win on 2026-11-21? | Yes | 2.00 (50¢) | $34,709 | — | ⏳ Pendiente |
 | 8893cc | Rockets vs. Nuggets | Nuggets | 2.04 (49¢) | $71,022 | — | ⏳ Pendiente |
 | yabanci | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $27,180 | — | ⏳ Pendiente |
 | surfandturf | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | Donkey14 | Spread: Spurs (-15.5) | Clippers | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-16.5) | Spurs | 2.13 (47¢) | $135,882 | -$135,882 | ❌ Perdida |
 | mooseborzoi | Spread: Grizzlies (-5.5) | Warriors | 2.00 (50¢) | $124,999 | -$124,999 | ❌ Perdida |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Grizzlies (-5.5) | Grizzlies | 2.00 (50¢) | $74,260 | +$74,260 | ✅ Ganada |
