@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:45:16 (hora de Perú)
+Actualizado: 2026-11-21 12:47:17 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8884**  ($503,717,911 en total)
-- Resueltas: **8840** — 5393 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Resueltas: **8841** — 5394 ganadas / 3447 perdidas (**61%** de acierto)
+- Pendientes: 13
 - Apostadores distintos: 745
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,820,236** sobre $501,876,269 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$10,439** sobre $872,300 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,792,036** sobre $501,908,069 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$10,350** sobre $872,400 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -79,7 +79,7 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | JudgeLance | Spread: Texas Tech (-5.5) | Texas Tech | 1.96 (51¢) | $81,638 | — | ⏳ Pendiente |
 | 999585 | Ohio State vs. Nebraska | Ohio State | 1.28 (78¢) | $61,136 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Texas Tech (-5.5) | Baylor | 2.00 (50¢) | $34,782 | — | ⏳ Pendiente |
-| streajjkti888 | Will Chelsea FC win on 2026-11-21? | No | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
+| streajjkti888 | Will Chelsea FC win on 2026-11-21? | No | 1.89 (53¢) | $31,800 | +$28,200 | ✅ Ganada |
 | AML | UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card) | Kevin Vallejos | 1.82 (55¢) | $42,569 | — | ⏳ Pendiente |
 | Kyn008 | Will Rayo Vallecano de Madrid win on 2026-11-21? | Yes | 2.00 (50¢) | $34,709 | — | ⏳ Pendiente |
 | 8893cc | Rockets vs. Nuggets | Nuggets | 2.04 (49¢) | $71,022 | +$73,921 | ✅ Ganada |
