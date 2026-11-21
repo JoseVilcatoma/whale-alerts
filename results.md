@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 20:19:25 (hora de Perú)
+Actualizado: 2026-11-20 20:21:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8856**  ($502,207,972 en total)
+- Apuestas registradas: **8857**  ($502,243,523 en total)
 - Resueltas: **8802** — 5372 ganadas / 3430 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 742
 
 ### Balance
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 8 | 64% | $64,426,154 | +$737,403 |
 | Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
-| Lakersfan111 | 188 | 108 | 3 | 64% | $15,215,730 | +$260,078 |
+| Lakersfan111 | 188 | 108 | 4 | 64% | $15,251,281 | +$260,078 |
 | googleplay | 65 | 58 | 1 | 53% | $13,580,614 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $35,550 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Pelicans vs. Thunder | Thunder | 1.25 (80¢) | $32,128 | — | ⏳ Pendiente |
 | surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | — | ⏳ Pendiente |
 | ax2026 | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $61,265 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | Novelty8 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.37 (73¢) | $43,800 | +$16,200 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 2.33 (43¢) | $73,100 | -$73,100 | ❌ Perdida |
 | TopHolder1 | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | GamerLegion | 1.72 (58¢) | $31,439 | +$22,766 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $46,454 | +$19,909 | ✅ Ganada |
