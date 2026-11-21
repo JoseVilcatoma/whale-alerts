@@ -132997,5 +132997,35 @@
     "status": "pending",
     "ultimo_fill": 1795220977,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17906,
+    "timestamp": 1795221194,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "nba-was-chi-2026-11-20",
+    "title": "Wizards vs. Bulls",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 29999.997000000003,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1795221194,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17907,
+    "timestamp": 1795221194,
+    "username": "TheOpportunist",
+    "wallet": "0x7d2f82da7ae8c910bd1e89475be705d313daef1a",
+    "slug": "nba-was-chi-2026-11-20",
+    "title": "Wizards vs. Bulls",
+    "outcome": "Wizards",
+    "side": "BUY",
+    "usd": 27000.0,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1795221194,
+    "fills": 1
   }
 ]
