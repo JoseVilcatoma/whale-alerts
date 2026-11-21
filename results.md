@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 20:09:05 (hora de Perú)
+Actualizado: 2026-11-20 20:11:09 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8855**  ($502,175,844 en total)
+- Apuestas registradas: **8856**  ($502,207,972 en total)
 - Resueltas: **8800** — 5371 ganadas / 3429 perdidas (**61%** de acierto)
-- Pendientes: 25
+- Pendientes: 26
 - Apostadores distintos: 742
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Multicoloured-Serf | 31 | 34 | 3 | 48% | $3,174,268 | -$655,039 |
+| Multicoloured-Serf | 31 | 34 | 4 | 48% | $3,206,396 | -$655,039 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Pelicans vs. Thunder | Thunder | 1.25 (80¢) | $32,128 | — | ⏳ Pendiente |
 | surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | — | ⏳ Pendiente |
 | ax2026 | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $61,265 | — | ⏳ Pendiente |
 | Moneymethod | Wizards vs. Bulls: O/U 237.5 | Over 237.5 | 1.92 (52¢) | $40,887 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | Inner Circle Esports | 2.33 (43¢) | $73,100 | -$73,100 | ❌ Perdida |
 | TopHolder1 | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | GamerLegion | 1.72 (58¢) | $31,439 | +$22,766 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $46,454 | +$19,909 | ✅ Ganada |
-| MD14 | Celtics vs. Nuggets | Celtics | 1.32 (76¢) | $68,208 | -$68,208 | ❌ Perdida |
