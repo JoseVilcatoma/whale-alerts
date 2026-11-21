@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 22:57:22 (hora de Perú)
+Actualizado: 2026-11-21 00:09:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8873**  ($503,253,622 en total)
-- Resueltas: **8821** — 5385 ganadas / 3436 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Resueltas: **8825** — 5386 ganadas / 3439 perdidas (**61%** de acierto)
+- Pendientes: 18
 - Apostadores distintos: 743
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,451,061** sobre $500,728,955 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,941** sobre $870,400 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,497,210** sobre $500,887,104 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$10,137** sobre $870,800 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -25,7 +25,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 9 | 64% | $64,452,095 | +$737,403 |
-| Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
+| Sassy-Bucket | 121 | 122 | 2 | 50% | $16,940,858 | -$1,429,131 |
 | Lakersfan111 | 189 | 109 | 4 | 63% | $15,399,571 | +$276,619 |
 | googleplay | 65 | 59 | 1 | 52% | $13,631,614 | -$810,700 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Multicoloured-Serf | 32 | 35 | 3 | 48% | $3,238,283 | -$722,564 |
+| Multicoloured-Serf | 32 | 36 | 2 | 47% | $3,238,283 | -$754,451 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -84,7 +84,7 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $55,585 | — | ⏳ Pendiente |
 | googleplay | Rockets vs. Nuggets: O/U 227.5 | Under 227.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Rockets vs. Nuggets: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $76,359 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Clemson vs. Duke | Duke | 1.72 (58¢) | $31,887 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Clemson vs. Duke | Duke | 1.72 (58¢) | $31,887 | -$31,887 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.20 (83¢) | $27,967 | +$5,728 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.52 (66¢) | $36,241 | +$18,670 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $35,550 | — | ⏳ Pendiente |
@@ -95,9 +95,9 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | googleplay | Wizards vs. Bulls | Bulls | 1.82 (55¢) | $48,657 | -$48,657 | ❌ Perdida |
 | Donkey14 | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $30,000 | +$36,667 | ✅ Ganada |
 | TheOpportunist | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $27,000 | +$33,000 | ✅ Ganada |
-| Sassy-Bucket | Clemson vs. Duke: O/U 43.5 | Over 43.5 | 2.22 (45¢) | $25,562 | — | ⏳ Pendiente |
-| yabanci | Clemson vs. Duke: O/U 41.5 | Under 41.5 | 2.04 (49¢) | $54,880 | — | ⏳ Pendiente |
-| yabanci | Clemson vs. Duke | Duke | 1.27 (79¢) | $45,820 | — | ⏳ Pendiente |
+| Sassy-Bucket | Clemson vs. Duke: O/U 43.5 | Over 43.5 | 2.22 (45¢) | $25,562 | -$25,562 | ❌ Perdida |
+| yabanci | Clemson vs. Duke: O/U 41.5 | Under 41.5 | 2.04 (49¢) | $54,880 | +$57,120 | ✅ Ganada |
+| yabanci | Clemson vs. Duke | Duke | 1.27 (79¢) | $45,820 | -$45,820 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Magic vs. Nets | Magic | 1.43 (70¢) | $100,552 | +$43,094 | ✅ Ganada |
 | 999585 | Iowa State vs. UCF | UCF | 1.15 (87¢) | $46,538 | +$6,954 | ✅ Ganada |
 | 999585 | Iowa State vs. UCF | UCF | 1.10 (91¢) | $28,346 | +$2,803 | ✅ Ganada |
