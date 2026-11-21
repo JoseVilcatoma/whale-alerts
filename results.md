@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 22:11:29 (hora de Perú)
+Actualizado: 2026-11-20 22:13:30 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8869**  ($503,104,104 en total)
+- Apuestas registradas: **8871**  ($503,155,420 en total)
 - Resueltas: **8807** — 5376 ganadas / 3431 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 34
 - Apostadores distintos: 742
 
 ### Balance
@@ -47,14 +47,14 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
-| surfandturf | 46 | 15 | 1 | 75% | $4,614,701 | +$665,078 |
+| surfandturf | 46 | 15 | 2 | 75% | $4,640,702 | +$665,078 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | mooseborzoi | 27 | 40 | 0 | 40% | $3,728,185 | -$388,898 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
+| 0F62 | 41 | 8 | 1 | 84% | $3,362,459 | -$330,539 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
-| 0F62 | 41 | 8 | 0 | 84% | $3,337,143 | -$330,539 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | Multicoloured-Serf | 31 | 34 | 5 | 48% | $3,238,283 | -$655,039 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
+| 0F62 | Pelicans vs. Thunder | Thunder | 1.18 (85¢) | $25,316 | — | ⏳ Pendiente |
 | monkeymashingkeyboard | Rockets vs. Nuggets | Rockets | 1.96 (51¢) | $39,530 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Kings vs. Lakers | Lakers | 1.15 (87¢) | $92,704 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Grizzlies (-5.5) | Grizzlies | 2.00 (50¢) | $74,260 | +$74,260 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-1.5) | Knicks | 1.89 (53¢) | $48,665 | +$43,156 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Warriors vs. Grizzlies: O/U 225.5 | Over 225.5 | 2.08 (48¢) | $164,919 | -$164,919 | ❌ Perdida |
-| 999585 | Colts vs. Texans | Texans | 1.18 (85¢) | $45,016 | +$7,944 | ✅ Ganada |
-| justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | +$190,000 | ✅ Ganada |
