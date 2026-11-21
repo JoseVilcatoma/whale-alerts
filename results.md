@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 00:37:58 (hora de Perú)
+Actualizado: 2026-11-21 00:40:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8874**  ($503,288,331 en total)
-- Resueltas: **8833** — 5390 ganadas / 3443 perdidas (**61%** de acierto)
-- Pendientes: 11
+- Resueltas: **8835** — 5391 ganadas / 3444 perdidas (**61%** de acierto)
+- Pendientes: 9
 - Apostadores distintos: 743
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,843,775** sobre $501,492,474 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$10,262** sobre $871,600 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,815,299** sobre $501,619,833 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$10,258** sobre $871,800 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 358 | 8 | 63% | $64,452,095 | +$711,462 |
 | Sassy-Bucket | 121 | 122 | 2 | 50% | $16,940,858 | -$1,429,131 |
 | Lakersfan111 | 192 | 109 | 1 | 64% | $15,399,571 | +$353,336 |
-| googleplay | 65 | 59 | 1 | 52% | $13,631,614 | -$810,700 |
+| googleplay | 65 | 60 | 0 | 52% | $13,631,614 | -$861,700 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -61,7 +61,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | 23 | 19 | 1 | 55% | $2,684,993 | +$154,290 |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | 24 | 19 | 0 | 56% | $2,684,993 | +$233,766 |
 | RJW1 | 19 | 25 | 0 | 43% | $2,597,958 | -$529,444 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 
@@ -83,8 +83,8 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $98,000 | -$98,000 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $55,585 | +$32,645 | ✅ Ganada |
-| googleplay | Rockets vs. Nuggets: O/U 227.5 | Under 227.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
-| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Rockets vs. Nuggets: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $76,359 | — | ⏳ Pendiente |
+| googleplay | Rockets vs. Nuggets: O/U 227.5 | Under 227.5 | 1.96 (51¢) | $51,000 | -$51,000 | ❌ Perdida |
+| 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Rockets vs. Nuggets: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $76,359 | +$79,476 | ✅ Ganada |
 | Multicoloured-Serf | Clemson vs. Duke | Duke | 1.72 (58¢) | $31,887 | -$31,887 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.20 (83¢) | $27,967 | +$5,728 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.52 (66¢) | $36,241 | +$18,670 | ✅ Ganada |
