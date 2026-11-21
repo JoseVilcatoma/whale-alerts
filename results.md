@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 22:42:53 (hora de Perú)
+Actualizado: 2026-11-20 22:45:01 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8873**  ($503,253,622 en total)
-- Resueltas: **8816** — 5381 ganadas / 3435 perdidas (**61%** de acierto)
-- Pendientes: 27
+- Resueltas: **8820** — 5385 ganadas / 3435 perdidas (**61%** de acierto)
+- Pendientes: 23
 - Apostadores distintos: 743
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,443,678** sobre $500,541,076 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,930** sobre $869,900 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,410,173** sobre $500,688,068 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,841** sobre $870,300 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -47,17 +47,17 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
-| surfandturf | 46 | 15 | 2 | 75% | $4,640,702 | +$665,078 |
+| surfandturf | 47 | 15 | 1 | 76% | $4,640,702 | +$671,712 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | mooseborzoi | 27 | 40 | 0 | 40% | $3,728,185 | -$388,898 |
 | SmartPredictOrNot | 6 | 5 | 0 | 55% | $3,705,357 | -$741,231 |
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
-| 0F62 | 41 | 8 | 1 | 84% | $3,362,459 | -$330,539 |
+| 0F62 | 42 | 8 | 0 | 84% | $3,362,459 | -$326,071 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Multicoloured-Serf | 31 | 35 | 4 | 47% | $3,238,283 | -$730,596 |
+| Multicoloured-Serf | 32 | 35 | 3 | 48% | $3,238,283 | -$722,564 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -74,7 +74,7 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | 8893cc | Rockets vs. Nuggets | Nuggets | 2.04 (49¢) | $71,022 | — | ⏳ Pendiente |
 | yabanci | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $27,180 | — | ⏳ Pendiente |
 | surfandturf | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
-| 0F62 | Pelicans vs. Thunder | Thunder | 1.18 (85¢) | $25,316 | — | ⏳ Pendiente |
+| 0F62 | Pelicans vs. Thunder | Thunder | 1.18 (85¢) | $25,316 | +$4,468 | ✅ Ganada |
 | monkeymashingkeyboard | Rockets vs. Nuggets | Rockets | 1.96 (51¢) | $39,530 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Kings vs. Lakers | Lakers | 1.15 (87¢) | $92,704 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
@@ -88,9 +88,9 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.20 (83¢) | $27,967 | +$5,728 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.52 (66¢) | $36,241 | +$18,670 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $35,550 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Pelicans vs. Thunder | Thunder | 1.25 (80¢) | $32,128 | — | ⏳ Pendiente |
-| surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | — | ⏳ Pendiente |
-| ax2026 | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $61,265 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Pelicans vs. Thunder | Thunder | 1.25 (80¢) | $32,128 | +$8,032 | ✅ Ganada |
+| surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | +$6,634 | ✅ Ganada |
+| ax2026 | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $61,265 | +$14,371 | ✅ Ganada |
 | Moneymethod | Wizards vs. Bulls: O/U 237.5 | Over 237.5 | 1.92 (52¢) | $40,887 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Bulls | Bulls | 1.82 (55¢) | $48,657 | -$48,657 | ❌ Perdida |
 | Donkey14 | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $30,000 | +$36,667 | ✅ Ganada |
