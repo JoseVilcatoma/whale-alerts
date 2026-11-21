@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 21:44:25 (hora de Perú)
+Actualizado: 2026-11-20 21:46:35 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8868**  ($503,064,574 en total)
-- Resueltas: **8803** — 5373 ganadas / 3430 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **8806** — 5375 ganadas / 3431 perdidas (**61%** de acierto)
+- Pendientes: 32
 - Apostadores distintos: 742
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,317,767** sobre $499,942,345 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,831** sobre $868,600 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,385,463** sobre $500,094,683 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,906** sobre $868,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ethanaz | 85 | 34 | 0 | 71% | $7,032,302 | -$28,147 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| 999585 | 45 | 6 | 2 | 88% | $6,163,349 | +$396,501 |
+| 999585 | 47 | 6 | 0 | 89% | $6,163,349 | +$406,258 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | Thunderous-Authoritarian-Snarl | 28 | 23 | 3 | 55% | $5,783,800 | -$1,680,066 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -94,8 +94,8 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | yabanci | Clemson vs. Duke: O/U 41.5 | Under 41.5 | 2.04 (49¢) | $54,880 | — | ⏳ Pendiente |
 | yabanci | Clemson vs. Duke | Duke | 1.27 (79¢) | $45,820 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Magic vs. Nets | Magic | 1.43 (70¢) | $100,552 | — | ⏳ Pendiente |
-| 999585 | Iowa State vs. UCF | UCF | 1.15 (87¢) | $46,538 | — | ⏳ Pendiente |
-| 999585 | Iowa State vs. UCF | UCF | 1.10 (91¢) | $28,346 | — | ⏳ Pendiente |
+| 999585 | Iowa State vs. UCF | UCF | 1.15 (87¢) | $46,538 | +$6,954 | ✅ Ganada |
+| 999585 | Iowa State vs. UCF | UCF | 1.10 (91¢) | $28,346 | +$2,803 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Champaign: Lui Maxted vs Shunsuke Mitsui | Shunsuke Mitsui | 1.22 (82¢) | $26,438 | +$5,804 | ✅ Ganada |
 | Multicoloured-Serf | Magic vs. Nets: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $75,557 | — | ⏳ Pendiente |
 | Iwdjcweuicnweiucnewciuwen | Champaign: Lui Maxted vs Shunsuke Mitsui | Lui Maxted | 1.79 (56¢) | $33,437 | -$33,437 | ❌ Perdida |
@@ -107,7 +107,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | Zombie77 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $87,903 | -$87,903 | ❌ Perdida |
 | ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | -$100,009 | ❌ Perdida |
 | 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | +$32,797 | ✅ Ganada |
-| Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | — | ⏳ Pendiente |
+| Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | -$77,454 | ❌ Perdida |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | — | ⏳ Pendiente |
 | VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | -$28,479 | ❌ Perdida |
