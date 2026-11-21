@@ -133507,5 +133507,20 @@
     "status": "pending",
     "ultimo_fill": 1795282655,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17982,
+    "timestamp": 1795283008,
+    "username": "ndb1",
+    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
+    "slug": "nhl-edm-car-2026-11-21",
+    "title": "Oilers vs. Hurricanes",
+    "outcome": "Oilers",
+    "side": "BUY",
+    "usd": 40000.0,
+    "odds_at_bet": 32,
+    "status": "pending",
+    "ultimo_fill": 1795283008,
+    "fills": 1
   }
 ]

@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:43:11 (hora de Perú)
+Actualizado: 2026-11-21 12:45:16 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8883**  ($503,677,911 en total)
+- Apuestas registradas: **8884**  ($503,717,911 en total)
 - Resueltas: **8840** — 5393 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 13
+- Pendientes: 14
 - Apostadores distintos: 745
 
 ### Balance
@@ -60,7 +60,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 2 | 70% | $2,929,074 | -$224,035 |
-| ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
+| ndb1 | 32 | 15 | 1 | 68% | $2,892,365 | +$506,403 |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | 24 | 19 | 0 | 56% | $2,684,993 | +$233,766 |
 | RJW1 | 19 | 25 | 0 | 43% | $2,597,958 | -$529,444 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| ndb1 | Oilers vs. Hurricanes | Oilers | 3.12 (32¢) | $40,000 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card) | Aleksandre Topuria | 1.43 (70¢) | $32,863 | — | ⏳ Pendiente |
 | S-Works | Will Real Madrid CF vs. RC Celta de Vigo end in a draw? | No | 1.12 (89¢) | $41,609 | — | ⏳ Pendiente |
 | chubbytoro | Oilers vs. Hurricanes | Hurricanes | 1.49 (67¢) | $25,857 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | +$9,366 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | -$26,553 | ❌ Perdida |
