@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 19:38:18 (hora de Perú)
+Actualizado: 2026-11-20 19:40:21 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8851**  ($501,996,753 en total)
+- Apuestas registradas: **8852**  ($502,045,410 en total)
 - Resueltas: **8800** — 5371 ganadas / 3429 perdidas (**61%** de acierto)
-- Pendientes: 21
+- Pendientes: 22
 - Apostadores distintos: 741
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 621 | 357 | 9 | 63% | $64,426,154 | +$731,600 |
 | Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
 | Lakersfan111 | 188 | 108 | 3 | 64% | $15,215,730 | +$260,078 |
-| googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
+| googleplay | 65 | 58 | 1 | 53% | $13,580,614 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 741 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Wizards vs. Bulls | Bulls | 1.82 (55¢) | $48,657 | — | ⏳ Pendiente |
 | Donkey14 | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | TheOpportunist | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
 | Sassy-Bucket | Clemson vs. Duke: O/U 43.5 | Over 43.5 | 2.22 (45¢) | $25,562 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 741 en total)_
 | MD14 | Warriors vs. Mavericks: O/U 206.5 | Over 206.5 | 1.06 (94¢) | $74,741 | +$4,771 | ✅ Ganada |
 | Moneymethod | Celtics vs. Nuggets | Celtics | 1.45 (69¢) | $37,028 | -$37,028 | ❌ Perdida |
 | MD14 | Hawks vs. Thunder: O/U 217.5 | Over 217.5 | 1.18 (85¢) | $93,464 | +$16,494 | ✅ Ganada |
-| mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | -$27,350 | ❌ Perdida |
