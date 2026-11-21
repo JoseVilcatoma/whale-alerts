@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 00:44:02 (hora de Perú)
+Actualizado: 2026-11-21 00:46:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8874**  ($503,288,331 en total)
-- Resueltas: **8835** — 5391 ganadas / 3444 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Resueltas: **8836** — 5392 ganadas / 3444 perdidas (**61%** de acierto)
+- Pendientes: 8
 - Apostadores distintos: 743
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,815,299** sobre $501,619,833 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$10,258** sobre $871,800 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,801,447** sobre $501,712,537 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$10,243** sobre $871,900 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 358 | 8 | 63% | $64,452,095 | +$711,462 |
 | Sassy-Bucket | 121 | 122 | 2 | 50% | $16,940,858 | -$1,429,131 |
-| Lakersfan111 | 192 | 109 | 1 | 64% | $15,399,571 | +$353,336 |
+| Lakersfan111 | 193 | 109 | 0 | 64% | $15,399,571 | +$367,189 |
 | googleplay | 65 | 60 | 0 | 52% | $13,631,614 | -$861,700 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -77,7 +77,7 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | surfandturf | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 0F62 | Pelicans vs. Thunder | Thunder | 1.18 (85¢) | $25,316 | +$4,468 | ✅ Ganada |
 | monkeymashingkeyboard | Rockets vs. Nuggets | Rockets | 1.96 (51¢) | $39,530 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Kings vs. Lakers | Lakers | 1.15 (87¢) | $92,704 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Kings vs. Lakers | Lakers | 1.15 (87¢) | $92,704 | +$13,852 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $25,941 | -$25,941 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Suns vs. Jazz | Jazz | 2.63 (38¢) | $295,965 | -$295,965 | ❌ Perdida |
 | Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
