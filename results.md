@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 20:07:00 (hora de Perú)
+Actualizado: 2026-11-20 20:09:05 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8854**  ($502,147,562 en total)
+- Apuestas registradas: **8855**  ($502,175,844 en total)
 - Resueltas: **8800** — 5371 ganadas / 3429 perdidas (**61%** de acierto)
-- Pendientes: 24
+- Pendientes: 25
 - Apostadores distintos: 742
 
 ### Balance
@@ -47,7 +47,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
-| surfandturf | 46 | 15 | 0 | 75% | $4,586,419 | +$665,078 |
+| surfandturf | 46 | 15 | 1 | 75% | $4,614,701 | +$665,078 |
 | cosmicxbt | 29 | 10 | 0 | 74% | $3,977,348 | -$293,449 |
 | milkteaboba | 24 | 13 | 0 | 65% | $3,731,771 | -$469,007 |
 | mooseborzoi | 27 | 40 | 0 | 40% | $3,728,185 | -$388,898 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | — | ⏳ Pendiente |
 | ax2026 | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $61,265 | — | ⏳ Pendiente |
 | Moneymethod | Wizards vs. Bulls: O/U 237.5 | Over 237.5 | 1.92 (52¢) | $40,887 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Bulls | Bulls | 1.82 (55¢) | $48,657 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | TopHolder1 | Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs | GamerLegion | 1.72 (58¢) | $31,439 | +$22,766 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $46,454 | +$19,909 | ✅ Ganada |
 | MD14 | Celtics vs. Nuggets | Celtics | 1.32 (76¢) | $68,208 | -$68,208 | ❌ Perdida |
-| MD14 | Warriors vs. Mavericks: O/U 206.5 | Over 206.5 | 1.06 (94¢) | $74,741 | +$4,771 | ✅ Ganada |
