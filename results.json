@@ -132892,5 +132892,20 @@
     "status": "pending",
     "ultimo_fill": 1795219456,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17899,
+    "timestamp": 1795219972,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-maxted-mitsui-2026-11-20",
+    "title": "Champaign: Lui Maxted vs Shunsuke Mitsui",
+    "outcome": "Shunsuke Mitsui",
+    "side": "BUY",
+    "usd": 26438.259599999998,
+    "odds_at_bet": 82,
+    "status": "pending",
+    "ultimo_fill": 1795219972,
+    "fills": 1
   }
 ]

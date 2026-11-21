@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 19:11:39 (hora de Perú)
+Actualizado: 2026-11-20 19:13:45 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8842**  ($501,611,616 en total)
+- Apuestas registradas: **8843**  ($501,638,055 en total)
 - Resueltas: **8800** — 5371 ganadas / 3429 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 741
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 621 | 357 | 8 | 63% | $64,399,716 | +$731,600 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 621 | 357 | 9 | 63% | $64,426,154 | +$731,600 |
 | Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
 | Lakersfan111 | 188 | 108 | 2 | 64% | $15,115,178 | +$260,078 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 741 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Champaign: Lui Maxted vs Shunsuke Mitsui | Shunsuke Mitsui | 1.22 (82¢) | $26,438 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Magic vs. Nets: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $75,557 | — | ⏳ Pendiente |
 | Iwdjcweuicnweiucnewciuwen | Champaign: Lui Maxted vs Shunsuke Mitsui | Lui Maxted | 1.79 (56¢) | $33,437 | — | ⏳ Pendiente |
 | Donkey14 | Spread: Hawks (-7.5) | Hawks | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 741 en total)_
 | Multicoloured-Serf | Warriors vs. Mavericks: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $32,594 | +$32,594 | ✅ Ganada |
 | ropetard | Spread: Pistons (-5.5) | Pelicans | 2.00 (50¢) | $25,075 | -$25,075 | ❌ Perdida |
 | Sassy-Bucket | Wizards vs. Raptors: O/U 223.5 | Over 223.5 | 1.96 (51¢) | $60,816 | -$60,816 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Bucks vs. Heat | Heat | 1.16 (86¢) | $52,043 | +$8,472 | ✅ Ganada |
