@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:59:18 (hora de Perú)
+Actualizado: 2026-11-21 13:01:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8886**  ($503,790,006 en total)
+- Apuestas registradas: **8887**  ($503,959,121 en total)
 - Resueltas: **8842** — 5394 ganadas / 3448 perdidas (**61%** de acierto)
-- Pendientes: 14
+- Pendientes: 15
 - Apostadores distintos: 745
 
 ### Balance
@@ -37,7 +37,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Diabolical-Prize | 70 | 62 | 0 | 53% | $7,213,563 | +$602,454 |
 | ethanaz | 85 | 34 | 0 | 71% | $7,032,302 | -$28,147 |
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
-| 999585 | 47 | 6 | 1 | 89% | $6,224,484 | +$406,258 |
+| 999585 | 47 | 6 | 2 | 89% | $6,393,599 | +$406,258 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
 | Thunderous-Authoritarian-Snarl | 28 | 26 | 0 | 52% | $5,783,800 | -$2,103,432 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 999585 | BYU vs. Kansas | BYU | 1.54 (65¢) | $169,115 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Oilers vs. Hurricanes | Hurricanes | 1.45 (69¢) | $28,659 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Hurricanes (-1.5) | Hurricanes | 2.22 (45¢) | $43,437 | — | ⏳ Pendiente |
 | ndb1 | Oilers vs. Hurricanes | Oilers | 3.12 (32¢) | $40,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | +$26,024 | ✅ Ganada |
 | VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | -$28,479 | ❌ Perdida |
 | Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | +$19,273 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | +$9,366 | ✅ Ganada |

@@ -133552,5 +133552,20 @@
     "status": "pending",
     "ultimo_fill": 1795283533,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17987,
+    "timestamp": 1795284004,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-byu-kan-2026-11-21",
+    "title": "BYU vs. Kansas",
+    "outcome": "BYU",
+    "side": "BUY",
+    "usd": 169114.56162300002,
+    "odds_at_bet": 65,
+    "status": "pending",
+    "ultimo_fill": 1795284060,
+    "fills": 3
   }
 ]
