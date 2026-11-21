@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 19:44:25 (hora de Perú)
+Actualizado: 2026-11-20 19:46:28 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8852**  ($502,045,410 en total)
+- Apuestas registradas: **8853**  ($502,086,297 en total)
 - Resueltas: **8800** — 5371 ganadas / 3429 perdidas (**61%** de acierto)
-- Pendientes: 22
+- Pendientes: 23
 - Apostadores distintos: 741
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 741 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Moneymethod | Wizards vs. Bulls: O/U 237.5 | Over 237.5 | 1.92 (52¢) | $40,887 | — | ⏳ Pendiente |
 | googleplay | Wizards vs. Bulls | Bulls | 1.82 (55¢) | $48,657 | — | ⏳ Pendiente |
 | Donkey14 | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
 | TheOpportunist | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 741 en total)_
 | MD14 | Celtics vs. Nuggets | Celtics | 1.32 (76¢) | $68,208 | -$68,208 | ❌ Perdida |
 | MD14 | Warriors vs. Mavericks: O/U 206.5 | Over 206.5 | 1.06 (94¢) | $74,741 | +$4,771 | ✅ Ganada |
 | Moneymethod | Celtics vs. Nuggets | Celtics | 1.45 (69¢) | $37,028 | -$37,028 | ❌ Perdida |
-| MD14 | Hawks vs. Thunder: O/U 217.5 | Over 217.5 | 1.18 (85¢) | $93,464 | +$16,494 | ✅ Ganada |
