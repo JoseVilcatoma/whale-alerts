@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 20:11:09 (hora de Perú)
+Actualizado: 2026-11-20 20:13:12 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8856**  ($502,207,972 en total)
-- Resueltas: **8800** — 5371 ganadas / 3429 perdidas (**61%** de acierto)
-- Pendientes: 26
+- Resueltas: **8802** — 5372 ganadas / 3430 perdidas (**61%** de acierto)
+- Pendientes: 24
 - Apostadores distintos: 742
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,320,133** sobre $499,852,469 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,853** sobre $868,300 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,347,767** sobre $499,912,345 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,931** sobre $868,500 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 621 | 357 | 9 | 63% | $64,426,154 | +$731,600 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 8 | 64% | $64,426,154 | +$737,403 |
 | Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
 | Lakersfan111 | 188 | 108 | 3 | 64% | $15,215,730 | +$260,078 |
 | googleplay | 65 | 58 | 1 | 53% | $13,580,614 | -$762,043 |
@@ -84,9 +84,9 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | robloxgamblemaster-2008-10-18 | Magic vs. Nets | Magic | 1.43 (70¢) | $100,552 | — | ⏳ Pendiente |
 | 999585 | Iowa State vs. UCF | UCF | 1.15 (87¢) | $46,538 | — | ⏳ Pendiente |
 | 999585 | Iowa State vs. UCF | UCF | 1.10 (91¢) | $28,346 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Champaign: Lui Maxted vs Shunsuke Mitsui | Shunsuke Mitsui | 1.22 (82¢) | $26,438 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Champaign: Lui Maxted vs Shunsuke Mitsui | Shunsuke Mitsui | 1.22 (82¢) | $26,438 | +$5,804 | ✅ Ganada |
 | Multicoloured-Serf | Magic vs. Nets: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $75,557 | — | ⏳ Pendiente |
-| Iwdjcweuicnweiucnewciuwen | Champaign: Lui Maxted vs Shunsuke Mitsui | Lui Maxted | 1.79 (56¢) | $33,437 | — | ⏳ Pendiente |
+| Iwdjcweuicnweiucnewciuwen | Champaign: Lui Maxted vs Shunsuke Mitsui | Lui Maxted | 1.79 (56¢) | $33,437 | -$33,437 | ❌ Perdida |
 | Donkey14 | Spread: Hawks (-7.5) | Hawks | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
 | ipop00 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $69,752 | -$69,752 | ❌ Perdida |
 | Zzzz87 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $45,501 | -$45,501 | ❌ Perdida |
