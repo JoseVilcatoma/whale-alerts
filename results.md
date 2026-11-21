@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 21:34:01 (hora de Perú)
+Actualizado: 2026-11-20 21:36:04 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8866**  ($502,945,928 en total)
-- Resueltas: **8802** — 5372 ganadas / 3430 perdidas (**61%** de acierto)
+- Apuestas registradas: **8867**  ($502,971,869 en total)
+- Resueltas: **8803** — 5373 ganadas / 3430 perdidas (**61%** de acierto)
 - Pendientes: 34
 - Apostadores distintos: 742
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,347,767** sobre $499,912,345 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,931** sobre $868,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,317,767** sobre $499,942,345 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,831** sobre $868,600 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 8 | 64% | $64,426,154 | +$737,403 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 9 | 64% | $64,452,095 | +$737,403 |
 | Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
 | Lakersfan111 | 188 | 108 | 5 | 64% | $15,306,866 | +$260,078 |
 | googleplay | 65 | 58 | 2 | 53% | $13,631,614 | -$762,043 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Suns vs. Jazz | Jazz | 2.63 (38¢) | $295,965 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
@@ -97,7 +98,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Champaign: Lui Maxted vs Shunsuke Mitsui | Shunsuke Mitsui | 1.22 (82¢) | $26,438 | +$5,804 | ✅ Ganada |
 | Multicoloured-Serf | Magic vs. Nets: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $75,557 | — | ⏳ Pendiente |
 | Iwdjcweuicnweiucnewciuwen | Champaign: Lui Maxted vs Shunsuke Mitsui | Lui Maxted | 1.79 (56¢) | $33,437 | -$33,437 | ❌ Perdida |
-| Donkey14 | Spread: Hawks (-7.5) | Hawks | 2.00 (50¢) | $30,000 | — | ⏳ Pendiente |
+| Donkey14 | Spread: Hawks (-7.5) | Hawks | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | ipop00 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $69,752 | -$69,752 | ❌ Perdida |
 | Zzzz87 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $45,501 | -$45,501 | ❌ Perdida |
 | tankfest2027 | Valorant: Shopify Rebellion Black vs Xora Esports (BO3) - VCT Americas Kickoff: North America Swiss Stage | Shopify Rebellion Black | 1.16 (86¢) | $25,164 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | justwins | Canadiens vs. Hurricanes | Canadiens | 4.17 (24¢) | $60,000 | +$190,000 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | +$26,397 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Timberwolves | Knicks | 2.00 (50¢) | $204,817 | +$204,817 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Clippers vs. Spurs | Spurs | 1.14 (88¢) | $73,274 | +$9,992 | ✅ Ganada |
