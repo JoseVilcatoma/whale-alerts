@@ -133222,5 +133222,35 @@
     "status": "pending",
     "ultimo_fill": 1795227973,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17923,
+    "timestamp": 1795228098,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "nba-phx-uta-2026-11-20-spread-away-4pt5",
+    "title": "Spread: Suns (-4.5)",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 29400.0,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1795228098,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17924,
+    "timestamp": 1795228180,
+    "username": "Thunderous-Authoritarian-Snarl",
+    "wallet": "0x549b491ac7f6a675b56ff0a261d147daa73ac0ae",
+    "slug": "nba-phx-uta-2026-11-20",
+    "title": "Suns vs. Jazz",
+    "outcome": "Jazz",
+    "side": "BUY",
+    "usd": 295965.337,
+    "odds_at_bet": 38,
+    "status": "pending",
+    "ultimo_fill": 1795228180,
+    "fills": 2
   }
 ]

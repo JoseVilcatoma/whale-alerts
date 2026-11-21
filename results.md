@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 21:27:46 (hora de Perú)
+Actualizado: 2026-11-20 21:29:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8864**  ($502,620,563 en total)
+- Apuestas registradas: **8866**  ($502,945,928 en total)
 - Resueltas: **8802** — 5372 ganadas / 3430 perdidas (**61%** de acierto)
-- Pendientes: 32
+- Pendientes: 34
 - Apostadores distintos: 742
 
 ### Balance
@@ -39,11 +39,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 999585 | 45 | 6 | 2 | 88% | $6,163,349 | +$396,501 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
+| Thunderous-Authoritarian-Snarl | 28 | 23 | 3 | 55% | $5,783,800 | -$1,680,066 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
 | maz26 | 48 | 31 | 0 | 61% | $5,553,513 | +$351,794 |
-| Thunderous-Authoritarian-Snarl | 28 | 23 | 1 | 55% | $5,458,434 | -$1,680,066 |
 | BrotherObama | 56 | 61 | 2 | 48% | $5,084,557 | -$64,023 |
 | Kch-Temp | 51 | 20 | 1 | 72% | $4,923,752 | +$1,950,171 |
 | Woaifacai | 55 | 18 | 0 | 75% | $4,828,973 | +$645,931 |
@@ -71,6 +71,8 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Thunderous-Authoritarian-Snarl | Suns vs. Jazz | Jazz | 2.63 (38¢) | $295,965 | — | ⏳ Pendiente |
+| Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
 | Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $55,585 | — | ⏳ Pendiente |
 | googleplay | Rockets vs. Nuggets: O/U 227.5 | Under 227.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
@@ -129,5 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | robloxgamblemaster-2008-10-18 | Oilers vs. Lightning | Lightning | 1.72 (58¢) | $36,453 | +$26,397 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Knicks vs. Timberwolves | Knicks | 2.00 (50¢) | $204,817 | +$204,817 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Clippers vs. Spurs | Spurs | 1.14 (88¢) | $73,274 | +$9,992 | ✅ Ganada |
-| keeptheblueflagflyinghigh | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $104,882 | +$27,880 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $51,107 | +$13,585 | ✅ Ganada |
