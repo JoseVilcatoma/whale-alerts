@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 02:00:28 (hora de Perú)
+Actualizado: 2026-11-21 02:02:33 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8874**  ($503,288,331 en total)
+- Apuestas registradas: **8875**  ($503,330,900 en total)
 - Resueltas: **8840** — 5393 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 4
+- Pendientes: 5
 - Apostadores distintos: 743
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| AML | UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card) | Kevin Vallejos | 1.82 (55¢) | $42,569 | — | ⏳ Pendiente |
 | Kyn008 | Will Rayo Vallecano de Madrid win on 2026-11-21? | Yes | 2.00 (50¢) | $34,709 | — | ⏳ Pendiente |
 | 8893cc | Rockets vs. Nuggets | Nuggets | 2.04 (49¢) | $71,022 | +$73,921 | ✅ Ganada |
 | yabanci | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $27,180 | -$27,180 | ❌ Perdida |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | ethanaz | Colts vs. Texans | Texans | 1.35 (74¢) | $70,372 | +$24,725 | ✅ Ganada |
 | Donkey14 | Spread: Spurs (-15.5) | Clippers | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-16.5) | Spurs | 2.13 (47¢) | $135,882 | -$135,882 | ❌ Perdida |
-| mooseborzoi | Spread: Grizzlies (-5.5) | Warriors | 2.00 (50¢) | $124,999 | -$124,999 | ❌ Perdida |
