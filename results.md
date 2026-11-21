@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 00:25:47 (hora de Perú)
+Actualizado: 2026-11-21 00:27:49 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8874**  ($503,288,331 en total)
-- Resueltas: **8825** — 5386 ganadas / 3439 perdidas (**61%** de acierto)
-- Pendientes: 19
+- Resueltas: **8833** — 5390 ganadas / 3443 perdidas (**61%** de acierto)
+- Pendientes: 11
 - Apostadores distintos: 743
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,497,210** sobre $500,887,104 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$10,137** sobre $870,800 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,843,775** sobre $501,492,474 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$10,262** sobre $871,600 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -24,9 +24,9 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 9 | 64% | $64,452,095 | +$737,403 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 358 | 8 | 63% | $64,452,095 | +$711,462 |
 | Sassy-Bucket | 121 | 122 | 2 | 50% | $16,940,858 | -$1,429,131 |
-| Lakersfan111 | 189 | 109 | 4 | 63% | $15,399,571 | +$276,619 |
+| Lakersfan111 | 192 | 109 | 1 | 64% | $15,399,571 | +$353,336 |
 | googleplay | 65 | 59 | 1 | 52% | $13,631,614 | -$810,700 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -39,7 +39,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | wr0ngw4yb3tt0r | 69 | 47 | 0 | 59% | $6,413,774 | +$55,380 |
 | 999585 | 47 | 6 | 0 | 89% | $6,163,349 | +$406,258 |
 | Mooseborzoiii | 47 | 23 | 0 | 67% | $6,123,781 | +$1,120,968 |
-| Thunderous-Authoritarian-Snarl | 28 | 23 | 3 | 55% | $5,783,800 | -$1,680,066 |
+| Thunderous-Authoritarian-Snarl | 28 | 26 | 0 | 52% | $5,783,800 | -$2,103,432 |
 | pleaseplease123 | 72 | 53 | 0 | 58% | $5,782,046 | +$681,473 |
 | ripley86alien | 31 | 21 | 0 | 60% | $5,770,414 | +$1,020,556 |
 | AV23IUa | 54 | 45 | 0 | 55% | $5,561,069 | -$303,527 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Multicoloured-Serf | 32 | 36 | 2 | 47% | $3,238,283 | -$754,451 |
+| Multicoloured-Serf | 33 | 36 | 1 | 48% | $3,238,283 | -$728,427 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -78,17 +78,17 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | 0F62 | Pelicans vs. Thunder | Thunder | 1.18 (85¢) | $25,316 | +$4,468 | ✅ Ganada |
 | monkeymashingkeyboard | Rockets vs. Nuggets | Rockets | 1.96 (51¢) | $39,530 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Kings vs. Lakers | Lakers | 1.15 (87¢) | $92,704 | — | ⏳ Pendiente |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $25,941 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Suns vs. Jazz | Jazz | 2.63 (38¢) | $295,965 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $29,400 | — | ⏳ Pendiente |
-| Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $98,000 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $55,585 | — | ⏳ Pendiente |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $25,941 | -$25,941 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | Suns vs. Jazz | Jazz | 2.63 (38¢) | $295,965 | -$295,965 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $29,400 | -$29,400 | ❌ Perdida |
+| Thunderous-Authoritarian-Snarl | Spread: Suns (-4.5) | Jazz | 2.04 (49¢) | $98,000 | -$98,000 | ❌ Perdida |
+| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $55,585 | +$32,645 | ✅ Ganada |
 | googleplay | Rockets vs. Nuggets: O/U 227.5 | Under 227.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Rockets vs. Nuggets: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $76,359 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Clemson vs. Duke | Duke | 1.72 (58¢) | $31,887 | -$31,887 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.20 (83¢) | $27,967 | +$5,728 | ✅ Ganada |
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.52 (66¢) | $36,241 | +$18,670 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $35,550 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $35,550 | +$20,879 | ✅ Ganada |
 | Multicoloured-Serf | Pelicans vs. Thunder | Thunder | 1.25 (80¢) | $32,128 | +$8,032 | ✅ Ganada |
 | surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | +$6,634 | ✅ Ganada |
 | ax2026 | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $61,265 | +$14,371 | ✅ Ganada |
@@ -114,8 +114,8 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | ukowna | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $100,009 | -$100,009 | ❌ Perdida |
 | 3edmond.dantes | ATP World Tour Finals, Ivan Lendl Group: Daniil Medvedev vs Frances Tiafoe | Daniil Medvedev | 1.43 (70¢) | $76,526 | +$32,797 | ✅ Ganada |
 | Moneymethod | Iowa State vs. UCF | Iowa State | 1.96 (51¢) | $77,454 | -$77,454 | ❌ Perdida |
-| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | — | ⏳ Pendiente |
-| Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | +$23,193 | ✅ Ganada |
+| Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | +$26,024 | ✅ Ganada |
 | VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | -$28,479 | ❌ Perdida |
 | Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | +$19,273 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | +$9,366 | ✅ Ganada |
