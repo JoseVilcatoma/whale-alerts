@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 21:21:28 (hora de Perú)
+Actualizado: 2026-11-20 21:23:34 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8861**  ($502,415,977 en total)
+- Apuestas registradas: **8862**  ($502,466,977 en total)
 - Resueltas: **8802** — 5372 ganadas / 3430 perdidas (**61%** de acierto)
-- Pendientes: 29
+- Pendientes: 30
 - Apostadores distintos: 742
 
 ### Balance
@@ -27,7 +27,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 8 | 64% | $64,426,154 | +$737,403 |
 | Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
 | Lakersfan111 | 188 | 108 | 4 | 64% | $15,251,281 | +$260,078 |
-| googleplay | 65 | 58 | 1 | 53% | $13,580,614 | -$762,043 |
+| googleplay | 65 | 58 | 2 | 53% | $13,631,614 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| googleplay | Rockets vs. Nuggets: O/U 227.5 | Under 227.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Rockets vs. Nuggets: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $76,359 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Clemson vs. Duke | Duke | 1.72 (58¢) | $31,887 | — | ⏳ Pendiente |
 | keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.20 (83¢) | $27,967 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.27 (79¢) | $51,107 | +$13,585 | ✅ Ganada |
 | Zombie77 | Clippers vs. Spurs | Spurs | 1.12 (89¢) | $37,720 | +$4,662 | ✅ Ganada |
 | robustmst | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Arthur Fils | 2.94 (34¢) | $29,034 | -$29,034 | ❌ Perdida |
-| DonaldinhoTrumpito | ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils | Alexander Zverev | 1.43 (70¢) | $33,815 | +$14,492 | ✅ Ganada |
