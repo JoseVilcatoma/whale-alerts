@@ -133267,5 +133267,20 @@
     "status": "pending",
     "ultimo_fill": 1795228443,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17927,
+    "timestamp": 1795228839,
+    "username": "robloxgamblemaster-2008-10-18",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "nba-sac-lal-2026-11-20",
+    "title": "Kings vs. Lakers",
+    "outcome": "Lakers",
+    "side": "BUY",
+    "usd": 92704.45079999999,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1795228839,
+    "fills": 1
   }
 ]
