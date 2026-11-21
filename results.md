@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 22:23:59 (hora de Perú)
+Actualizado: 2026-11-20 22:26:03 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8872**  ($503,182,600 en total)
-- Resueltas: **8807** — 5376 ganadas / 3431 perdidas (**61%** de acierto)
-- Pendientes: 35
+- Resueltas: **8811** — 5379 ganadas / 3432 perdidas (**61%** de acierto)
+- Pendientes: 31
 - Apostadores distintos: 742
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,381,367** sobre $500,119,847 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,890** sobre $869,000 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,389,432** sobre $500,360,164 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,875** sobre $869,400 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,7 +26,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 9 | 64% | $64,452,095 | +$737,403 |
 | Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
-| Lakersfan111 | 188 | 108 | 6 | 64% | $15,399,571 | +$260,078 |
+| Lakersfan111 | 189 | 108 | 5 | 64% | $15,399,571 | +$303,171 |
 | googleplay | 65 | 58 | 2 | 53% | $13,631,614 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Multicoloured-Serf | 31 | 34 | 5 | 48% | $3,238,283 | -$655,039 |
+| Multicoloured-Serf | 31 | 35 | 4 | 47% | $3,238,283 | -$730,596 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -84,8 +84,8 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | googleplay | Rockets vs. Nuggets: O/U 227.5 | Under 227.5 | 1.96 (51¢) | $51,000 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Rockets vs. Nuggets: O/U 227.5 | Over 227.5 | 2.04 (49¢) | $76,359 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Clemson vs. Duke | Duke | 1.72 (58¢) | $31,887 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.20 (83¢) | $27,967 | — | ⏳ Pendiente |
-| keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.52 (66¢) | $36,241 | — | ⏳ Pendiente |
+| keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.20 (83¢) | $27,967 | +$5,728 | ✅ Ganada |
+| keeptheblueflagflyinghigh | Magic vs. Nets | Magic | 1.52 (66¢) | $36,241 | +$18,670 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.59 (63¢) | $35,550 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Pelicans vs. Thunder | Thunder | 1.25 (80¢) | $32,128 | — | ⏳ Pendiente |
 | surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | — | ⏳ Pendiente |
@@ -97,11 +97,11 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | Sassy-Bucket | Clemson vs. Duke: O/U 43.5 | Over 43.5 | 2.22 (45¢) | $25,562 | — | ⏳ Pendiente |
 | yabanci | Clemson vs. Duke: O/U 41.5 | Under 41.5 | 2.04 (49¢) | $54,880 | — | ⏳ Pendiente |
 | yabanci | Clemson vs. Duke | Duke | 1.27 (79¢) | $45,820 | — | ⏳ Pendiente |
-| robloxgamblemaster-2008-10-18 | Magic vs. Nets | Magic | 1.43 (70¢) | $100,552 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Magic vs. Nets | Magic | 1.43 (70¢) | $100,552 | +$43,094 | ✅ Ganada |
 | 999585 | Iowa State vs. UCF | UCF | 1.15 (87¢) | $46,538 | +$6,954 | ✅ Ganada |
 | 999585 | Iowa State vs. UCF | UCF | 1.10 (91¢) | $28,346 | +$2,803 | ✅ Ganada |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Champaign: Lui Maxted vs Shunsuke Mitsui | Shunsuke Mitsui | 1.22 (82¢) | $26,438 | +$5,804 | ✅ Ganada |
-| Multicoloured-Serf | Magic vs. Nets: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $75,557 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Magic vs. Nets: O/U 223.5 | Under 223.5 | 2.04 (49¢) | $75,557 | -$75,557 | ❌ Perdida |
 | Iwdjcweuicnweiucnewciuwen | Champaign: Lui Maxted vs Shunsuke Mitsui | Lui Maxted | 1.79 (56¢) | $33,437 | -$33,437 | ❌ Perdida |
 | Donkey14 | Spread: Hawks (-7.5) | Hawks | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
 | ipop00 | Will FC Bayern München win on 2026-11-20? | Yes | 1.10 (91¢) | $69,752 | -$69,752 | ❌ Perdida |
