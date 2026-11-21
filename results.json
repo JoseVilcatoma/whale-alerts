@@ -133492,5 +133492,20 @@
     "status": "pending",
     "ultimo_fill": 1795282239,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17981,
+    "timestamp": 1795282655,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "ufc-ale58-san6-2026-11-21",
+    "title": "UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card)",
+    "outcome": "Aleksandre Topuria",
+    "side": "BUY",
+    "usd": 32863.193999999996,
+    "odds_at_bet": 70,
+    "status": "pending",
+    "ultimo_fill": 1795282655,
+    "fills": 1
   }
 ]

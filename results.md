@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:37:02 (hora de Perú)
+Actualizado: 2026-11-21 12:39:07 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8882**  ($503,645,048 en total)
+- Apuestas registradas: **8883**  ($503,677,911 en total)
 - Resueltas: **8840** — 5393 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 12
+- Pendientes: 13
 - Apostadores distintos: 745
 
 ### Balance
@@ -24,7 +24,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 358 | 8 | 63% | $64,452,095 | +$711,462 |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 358 | 9 | 63% | $64,484,958 | +$711,462 |
 | Sassy-Bucket | 121 | 122 | 2 | 50% | $16,940,858 | -$1,429,131 |
 | Lakersfan111 | 193 | 109 | 0 | 64% | $15,399,571 | +$367,189 |
 | googleplay | 65 | 60 | 0 | 52% | $13,631,614 | -$861,700 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | UFC Fight Night: Aleksandre Topuria vs. Santiago Luna (Bantamweight, Main Card) | Aleksandre Topuria | 1.43 (70¢) | $32,863 | — | ⏳ Pendiente |
 | S-Works | Will Real Madrid CF vs. RC Celta de Vigo end in a draw? | No | 1.12 (89¢) | $41,609 | — | ⏳ Pendiente |
 | chubbytoro | Oilers vs. Hurricanes | Hurricanes | 1.49 (67¢) | $25,857 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Texas Tech (-5.5) | Baylor | 2.04 (49¢) | $37,326 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | -$26,553 | ❌ Perdida |
-| ArturitoFilito | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.52 (66¢) | $36,412 | +$18,758 | ✅ Ganada |
