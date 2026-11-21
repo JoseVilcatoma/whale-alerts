@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 19:28:04 (hora de Perú)
+Actualizado: 2026-11-20 19:30:08 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8845**  ($501,712,939 en total)
+- Apuestas registradas: **8849**  ($501,939,753 en total)
 - Resueltas: **8800** — 5371 ganadas / 3429 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 19
 - Apostadores distintos: 741
 
 ### Balance
@@ -25,8 +25,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | Apostador | Ganadas | Perdidas | Pendientes | % Acierto | Total apostado | Balance |
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 621 | 357 | 9 | 63% | $64,426,154 | +$731,600 |
-| Sassy-Bucket | 121 | 121 | 2 | 50% | $16,915,296 | -$1,403,569 |
-| Lakersfan111 | 188 | 108 | 2 | 64% | $15,115,178 | +$260,078 |
+| Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
+| Lakersfan111 | 188 | 108 | 3 | 64% | $15,215,730 | +$260,078 |
 | googleplay | 65 | 58 | 0 | 53% | $13,531,957 | -$762,043 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
@@ -71,6 +71,10 @@ _(mostrando los 40 de mayor monto, de 741 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Sassy-Bucket | Clemson vs. Duke: O/U 43.5 | Over 43.5 | 2.22 (45¢) | $25,562 | — | ⏳ Pendiente |
+| yabanci | Clemson vs. Duke: O/U 41.5 | Under 41.5 | 2.04 (49¢) | $54,880 | — | ⏳ Pendiente |
+| yabanci | Clemson vs. Duke | Duke | 1.27 (79¢) | $45,820 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Magic vs. Nets | Magic | 1.43 (70¢) | $100,552 | — | ⏳ Pendiente |
 | 999585 | Iowa State vs. UCF | UCF | 1.15 (87¢) | $46,538 | — | ⏳ Pendiente |
 | 999585 | Iowa State vs. UCF | UCF | 1.10 (91¢) | $28,346 | — | ⏳ Pendiente |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Champaign: Lui Maxted vs Shunsuke Mitsui | Shunsuke Mitsui | 1.22 (82¢) | $26,438 | — | ⏳ Pendiente |
@@ -127,7 +131,3 @@ _(mostrando los 40 de mayor monto, de 741 en total)_
 | mooseborzoi | Spread: Suns (-7.5) | Kings | 1.92 (52¢) | $27,350 | -$27,350 | ❌ Perdida |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Avalanche vs. Utah | Avalanche | 2.00 (50¢) | $35,899 | -$35,899 | ❌ Perdida |
 | keeptheblueflagflyinghigh | Grizzlies vs. Cavaliers | Grizzlies | 1.18 (85¢) | $42,911 | +$7,573 | ✅ Ganada |
-| MD14 | 76ers vs. Magic: O/U 233.5 | Over 233.5 | 1.16 (86¢) | $102,342 | +$16,660 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Warriors vs. Mavericks | Warriors | 2.86 (35¢) | $35,000 | -$35,000 | ❌ Perdida |
-| Donkey14 | Warriors vs. Mavericks | Warriors | 2.78 (36¢) | $30,000 | -$30,000 | ❌ Perdida |
-| Multicoloured-Serf | Warriors vs. Mavericks: O/U 223.5 | Under 223.5 | 2.00 (50¢) | $32,594 | +$32,594 | ✅ Ganada |
