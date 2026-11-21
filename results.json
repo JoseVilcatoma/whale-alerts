@@ -133342,5 +133342,20 @@
     "status": "pending",
     "ultimo_fill": 1795230815,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17941,
+    "timestamp": 1795231937,
+    "username": "8893cc",
+    "wallet": "0xa19c2b5c845d9938e0bcfa98196b533a2701b181",
+    "slug": "nba-hou-den-2026-11-20",
+    "title": "Rockets vs. Nuggets",
+    "outcome": "Nuggets",
+    "side": "BUY",
+    "usd": 71021.74930000001,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1795231937,
+    "fills": 1
   }
 ]

@@ -1,15 +1,15 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 22:30:16 (hora de Perú)
+Actualizado: 2026-11-20 22:32:22 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8872**  ($503,182,600 en total)
+- Apuestas registradas: **8873**  ($503,253,622 en total)
 - Resueltas: **8812** — 5379 ganadas / 3433 perdidas (**61%** de acierto)
-- Pendientes: 30
-- Apostadores distintos: 742
+- Pendientes: 31
+- Apostadores distintos: 743
 
 ### Balance
 
@@ -65,12 +65,13 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | RJW1 | 19 | 25 | 0 | 43% | $2,597,958 | -$529,444 |
 | sainttroplay | 19 | 5 | 0 | 79% | $2,588,637 | +$2,196,606 |
 
-_(mostrando los 40 de mayor monto, de 742 en total)_
+_(mostrando los 40 de mayor monto, de 743 en total)_
 
 ## Detalle de las últimas 60 apuestas
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| 8893cc | Rockets vs. Nuggets | Nuggets | 2.04 (49¢) | $71,022 | — | ⏳ Pendiente |
 | yabanci | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $27,180 | — | ⏳ Pendiente |
 | surfandturf | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $26,000 | — | ⏳ Pendiente |
 | 0F62 | Pelicans vs. Thunder | Thunder | 1.18 (85¢) | $25,316 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 742 en total)_
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Spurs (-16.5) | Spurs | 2.13 (47¢) | $135,882 | -$135,882 | ❌ Perdida |
 | mooseborzoi | Spread: Grizzlies (-5.5) | Warriors | 2.00 (50¢) | $124,999 | -$124,999 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Grizzlies (-5.5) | Grizzlies | 2.00 (50¢) | $74,260 | +$74,260 | ✅ Ganada |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Timberwolves (-1.5) | Knicks | 1.89 (53¢) | $48,665 | +$43,156 | ✅ Ganada |
