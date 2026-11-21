@@ -132922,5 +132922,20 @@
     "status": "pending",
     "ultimo_fill": 1795220059,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17901,
+    "timestamp": 1795220208,
+    "username": "999585",
+    "wallet": "0x88a6c8e00c4752a8c70d24025fa781fa046a7e77",
+    "slug": "cfb-iowast-ucf-2026-11-20",
+    "title": "Iowa State vs. UCF",
+    "outcome": "UCF",
+    "side": "BUY",
+    "usd": 46537.561499999996,
+    "odds_at_bet": 87,
+    "status": "pending",
+    "ultimo_fill": 1795220208,
+    "fills": 1
   }
 ]
