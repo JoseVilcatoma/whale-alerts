@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:57:17 (hora de Perú)
+Actualizado: 2026-11-21 12:59:18 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8886**  ($503,790,006 en total)
-- Resueltas: **8841** — 5394 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Resueltas: **8842** — 5394 ganadas / 3448 perdidas (**61%** de acierto)
+- Pendientes: 14
 - Apostadores distintos: 745
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,792,036** sobre $501,908,069 apostados (ROI **-1.4%**)
-- Copiando $100 fijo en cada una: **-$10,350** sobre $872,400 (ROI **-1.2%**)
+- **Resultado de los apostadores: -$6,826,746** sobre $501,942,779 apostados (ROI **-1.4%**)
+- Copiando $100 fijo en cada una: **-$10,450** sobre $872,500 (ROI **-1.2%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -83,7 +83,7 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | Multicoloured-Serf | Spread: Texas Tech (-5.5) | Baylor | 2.00 (50¢) | $34,782 | — | ⏳ Pendiente |
 | streajjkti888 | Will Chelsea FC win on 2026-11-21? | No | 1.89 (53¢) | $31,800 | +$28,200 | ✅ Ganada |
 | AML | UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card) | Kevin Vallejos | 1.82 (55¢) | $42,569 | — | ⏳ Pendiente |
-| Kyn008 | Will Rayo Vallecano de Madrid win on 2026-11-21? | Yes | 2.00 (50¢) | $34,709 | — | ⏳ Pendiente |
+| Kyn008 | Will Rayo Vallecano de Madrid win on 2026-11-21? | Yes | 2.00 (50¢) | $34,709 | -$34,709 | ❌ Perdida |
 | 8893cc | Rockets vs. Nuggets | Nuggets | 2.04 (49¢) | $71,022 | +$73,921 | ✅ Ganada |
 | yabanci | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $27,180 | -$27,180 | ❌ Perdida |
 | surfandturf | Rockets vs. Nuggets | Rockets | 1.92 (52¢) | $26,000 | -$26,000 | ❌ Perdida |
