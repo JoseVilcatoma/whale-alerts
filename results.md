@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:16:20 (hora de Perú)
+Actualizado: 2026-11-21 12:18:23 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8876**  ($503,362,700 en total)
+- Apuestas registradas: **8877**  ($503,397,482 en total)
 - Resueltas: **8840** — 5393 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 6
+- Pendientes: 7
 - Apostadores distintos: 744
 
 ### Balance
@@ -57,7 +57,7 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Multicoloured-Serf | 33 | 36 | 1 | 48% | $3,238,283 | -$728,427 |
+| Multicoloured-Serf | 33 | 36 | 2 | 48% | $3,273,065 | -$728,427 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
 | S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 744 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Multicoloured-Serf | Spread: Texas Tech (-5.5) | Baylor | 2.00 (50¢) | $34,782 | — | ⏳ Pendiente |
 | streajjkti888 | Will Chelsea FC win on 2026-11-21? | No | 1.89 (53¢) | $31,800 | — | ⏳ Pendiente |
 | AML | UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card) | Kevin Vallejos | 1.82 (55¢) | $42,569 | — | ⏳ Pendiente |
 | Kyn008 | Will Rayo Vallecano de Madrid win on 2026-11-21? | Yes | 2.00 (50¢) | $34,709 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 744 en total)_
 | mentionmarket | Clippers vs. Spurs | Clippers | 3.33 (30¢) | $62,106 | -$62,106 | ❌ Perdida |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Ducks vs. Avalanche | Ducks | 2.17 (46¢) | $57,496 | -$57,496 | ❌ Perdida |
 | ethanaz | Colts vs. Texans | Texans | 1.35 (74¢) | $70,372 | +$24,725 | ✅ Ganada |
-| Donkey14 | Spread: Spurs (-15.5) | Clippers | 2.00 (50¢) | $30,000 | +$30,000 | ✅ Ganada |
