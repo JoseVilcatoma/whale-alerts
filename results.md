@@ -1,20 +1,20 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-20 22:40:44 (hora de Perú)
+Actualizado: 2026-11-20 22:42:53 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
 - Apuestas registradas: **8873**  ($503,253,622 en total)
-- Resueltas: **8812** — 5379 ganadas / 3433 perdidas (**61%** de acierto)
-- Pendientes: 31
+- Resueltas: **8816** — 5381 ganadas / 3435 perdidas (**61%** de acierto)
+- Pendientes: 27
 - Apostadores distintos: 743
 
 ### Balance
 
-- **Resultado de los apostadores: -$6,438,135** sobre $500,408,867 apostados (ROI **-1.3%**)
-- Copiando $100 fijo en cada una: **-$9,975** sobre $869,500 (ROI **-1.1%**)
+- **Resultado de los apostadores: -$6,443,678** sobre $500,541,076 apostados (ROI **-1.3%**)
+- Copiando $100 fijo en cada una: **-$9,930** sobre $869,900 (ROI **-1.1%**)
 
 > Acertar seguido no es lo mismo que ganar plata: se puede tener alto porcentaje de acierto y balance negativo si las ganadas pagan poco y las perdidas son grandes.
 
@@ -26,8 +26,8 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 |---|---|---|---|---|---|---|
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 622 | 357 | 9 | 64% | $64,452,095 | +$737,403 |
 | Sassy-Bucket | 121 | 121 | 3 | 50% | $16,940,858 | -$1,403,569 |
-| Lakersfan111 | 189 | 108 | 5 | 64% | $15,399,571 | +$303,171 |
-| googleplay | 65 | 58 | 2 | 53% | $13,631,614 | -$762,043 |
+| Lakersfan111 | 189 | 109 | 4 | 63% | $15,399,571 | +$276,619 |
+| googleplay | 65 | 59 | 1 | 52% | $13,631,614 | -$810,700 |
 | mooseborzoii | 107 | 58 | 1 | 65% | $9,498,318 | +$1,255,006 |
 | ferrariChampions2026 | 137 | 68 | 0 | 67% | $8,814,739 | +$609,006 |
 | totoro3miyazaki | 38 | 30 | 1 | 56% | $8,597,784 | -$1,103,867 |
@@ -92,9 +92,9 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | surfandturf | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $28,282 | — | ⏳ Pendiente |
 | ax2026 | Pelicans vs. Thunder | Thunder | 1.23 (81¢) | $61,265 | — | ⏳ Pendiente |
 | Moneymethod | Wizards vs. Bulls: O/U 237.5 | Over 237.5 | 1.92 (52¢) | $40,887 | — | ⏳ Pendiente |
-| googleplay | Wizards vs. Bulls | Bulls | 1.82 (55¢) | $48,657 | — | ⏳ Pendiente |
-| Donkey14 | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $30,000 | — | ⏳ Pendiente |
-| TheOpportunist | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $27,000 | — | ⏳ Pendiente |
+| googleplay | Wizards vs. Bulls | Bulls | 1.82 (55¢) | $48,657 | -$48,657 | ❌ Perdida |
+| Donkey14 | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $30,000 | +$36,667 | ✅ Ganada |
+| TheOpportunist | Wizards vs. Bulls | Wizards | 2.22 (45¢) | $27,000 | +$33,000 | ✅ Ganada |
 | Sassy-Bucket | Clemson vs. Duke: O/U 43.5 | Over 43.5 | 2.22 (45¢) | $25,562 | — | ⏳ Pendiente |
 | yabanci | Clemson vs. Duke: O/U 41.5 | Under 41.5 | 2.04 (49¢) | $54,880 | — | ⏳ Pendiente |
 | yabanci | Clemson vs. Duke | Duke | 1.27 (79¢) | $45,820 | — | ⏳ Pendiente |
@@ -120,7 +120,7 @@ _(mostrando los 40 de mayor monto, de 743 en total)_
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Metz: Sascha Gueymard-Wayenburg vs Luca Nardi | Sascha Gueymard-Wayenburg | 1.33 (75¢) | $28,099 | +$9,366 | ✅ Ganada |
 | Thunderous-Authoritarian-Snarl | Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs | Sinners | 1.49 (67¢) | $26,800 | +$13,200 | ✅ Ganada |
 | dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
-| robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | — | ⏳ Pendiente |
+| robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | -$26,553 | ❌ Perdida |
 | ArturitoFilito | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.52 (66¢) | $36,412 | +$18,758 | ✅ Ganada |
 | Moneymethod | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.47 (68¢) | $30,370 | +$14,292 | ✅ Ganada |
 | 0x6db5…e279 | Knicks vs. Timberwolves | Knicks | 1.10 (91¢) | $28,420 | +$2,811 | ✅ Ganada |
