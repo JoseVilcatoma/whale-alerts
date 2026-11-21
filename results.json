@@ -133522,5 +133522,20 @@
     "status": "pending",
     "ultimo_fill": 1795283008,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17984,
+    "timestamp": 1795283278,
+    "username": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
+    "wallet": "0x492442eab586f242b53bda933fd5de859c8a3782",
+    "slug": "nhl-edm-car-2026-11-21-spread-home-1pt5",
+    "title": "Spread: Hurricanes (-1.5)",
+    "outcome": "Hurricanes",
+    "side": "BUY",
+    "usd": 43436.5115,
+    "odds_at_bet": 45,
+    "status": "pending",
+    "ultimo_fill": 1795283278,
+    "fills": 1
   }
 ]
