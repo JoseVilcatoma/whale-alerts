@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 13:05:20 (hora de Perú)
+Actualizado: 2026-11-21 13:07:26 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8887**  ($503,959,121 en total)
+- Apuestas registradas: **8888**  ($503,985,282 en total)
 - Resueltas: **8842** — 5394 ganadas / 3448 perdidas (**61%** de acierto)
-- Pendientes: 15
+- Pendientes: 16
 - Apostadores distintos: 745
 
 ### Balance
@@ -71,6 +71,7 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| Gumayusi98 | Will Arsenal FC win on 2026-11-21? | Yes | 1.19 (84¢) | $26,161 | — | ⏳ Pendiente |
 | 999585 | BYU vs. Kansas | BYU | 1.54 (65¢) | $169,115 | — | ⏳ Pendiente |
 | robloxgamblemaster-2008-10-18 | Oilers vs. Hurricanes | Hurricanes | 1.45 (69¢) | $28,659 | — | ⏳ Pendiente |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Spread: Hurricanes (-1.5) | Hurricanes | 2.22 (45¢) | $43,437 | — | ⏳ Pendiente |
@@ -130,4 +131,3 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | robloxgamblemaster-2008-10-18 | Suns vs. Jazz | Suns | 1.61 (62¢) | $37,841 | +$23,193 | ✅ Ganada |
 | Multicoloured-Serf | Suns vs. Jazz: O/U 225.5 | Under 225.5 | 1.96 (51¢) | $27,086 | +$26,024 | ✅ Ganada |
 | VPenguin | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | OG | 2.56 (39¢) | $28,479 | -$28,479 | ❌ Perdida |
-| Moneymethod | Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A | Natus Vincere | 1.67 (60¢) | $28,910 | +$19,273 | ✅ Ganada |

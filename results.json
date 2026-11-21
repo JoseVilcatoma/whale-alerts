@@ -133567,5 +133567,20 @@
     "status": "pending",
     "ultimo_fill": 1795284060,
     "fills": 3
+  },
+  {
+    "telegram_msg_id": 17988,
+    "timestamp": 1795284340,
+    "username": "Gumayusi98",
+    "wallet": "0x5bc68aaadcd547a6e2047dfbd1d12593591beff4",
+    "slug": "epl-new-ars-2026-11-21-ars",
+    "title": "Will Arsenal FC win on 2026-11-21?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "usd": 26160.669998999998,
+    "odds_at_bet": 84,
+    "status": "pending",
+    "ultimo_fill": 1795284340,
+    "fills": 1
   }
 ]
