@@ -133057,5 +133057,20 @@
     "status": "pending",
     "ultimo_fill": 1795221879,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17910,
+    "timestamp": 1795222883,
+    "username": "ax2026",
+    "wallet": "0xaa6c296af0ceea224b56fb7ee1e9cab1ccabe2d0",
+    "slug": "nba-nop-okc-2026-11-20",
+    "title": "Pelicans vs. Thunder",
+    "outcome": "Thunder",
+    "side": "BUY",
+    "usd": 61264.82999700001,
+    "odds_at_bet": 81,
+    "status": "pending",
+    "ultimo_fill": 1795222883,
+    "fills": 1
   }
 ]
