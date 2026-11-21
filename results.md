@@ -1,14 +1,14 @@
 # Apuestas fuertes en Polymarket
 
-Actualizado: 2026-11-21 12:28:44 (hora de Perú)
+Actualizado: 2026-11-21 12:30:48 (hora de Perú)
 
 Seguimos **toda** apuesta de $25,000 o más, de cualquier apostador.
 
 ## Totales
 
-- Apuestas registradas: **8879**  ($503,540,256 en total)
+- Apuestas registradas: **8882**  ($503,645,048 en total)
 - Resueltas: **8840** — 5393 ganadas / 3447 perdidas (**61%** de acierto)
-- Pendientes: 9
+- Pendientes: 12
 - Apostadores distintos: 745
 
 ### Balance
@@ -55,11 +55,11 @@ _Menos de 8 apuestas resueltas no es muestra confiable — se marca con ⚠️._
 | raybanman | 17 | 15 | 0 | 53% | $3,455,244 | +$67,575 |
 | 0F62 | 42 | 8 | 0 | 84% | $3,362,459 | -$326,071 |
 | TAIWANNUMBERONE | 63 | 26 | 0 | 71% | $3,357,153 | -$94,077 |
+| Multicoloured-Serf | 33 | 36 | 3 | 48% | $3,310,391 | -$728,427 |
 | fantasy7788 | 39 | 23 | 0 | 63% | $3,288,242 | +$701,869 |
 | 111111111115 | 38 | 22 | 0 | 63% | $3,285,100 | +$1,128,308 |
-| Multicoloured-Serf | 33 | 36 | 2 | 48% | $3,273,065 | -$728,427 |
 | juice-fruit | 31 | 20 | 0 | 61% | $2,958,990 | +$238,282 |
-| S-Works | 21 | 9 | 1 | 70% | $2,887,465 | -$224,035 |
+| S-Works | 21 | 9 | 2 | 70% | $2,929,074 | -$224,035 |
 | ndb1 | 32 | 15 | 0 | 68% | $2,852,365 | +$506,403 |
 | 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | 24 | 19 | 0 | 56% | $2,684,993 | +$233,766 |
 | RJW1 | 19 | 25 | 0 | 43% | $2,597,958 | -$529,444 |
@@ -71,6 +71,9 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 
 | Apostador | Mercado | Apostó a | Cuota | Apostó | Ganó/Perdió | Resultado |
 |---|---|---|---|---|---|---|
+| S-Works | Will Real Madrid CF vs. RC Celta de Vigo end in a draw? | No | 1.12 (89¢) | $41,609 | — | ⏳ Pendiente |
+| chubbytoro | Oilers vs. Hurricanes | Hurricanes | 1.49 (67¢) | $25,857 | — | ⏳ Pendiente |
+| Multicoloured-Serf | Spread: Texas Tech (-5.5) | Baylor | 2.04 (49¢) | $37,326 | — | ⏳ Pendiente |
 | JudgeLance | Spread: Texas Tech (-5.5) | Texas Tech | 1.96 (51¢) | $81,638 | — | ⏳ Pendiente |
 | 999585 | Ohio State vs. Nebraska | Ohio State | 1.28 (78¢) | $61,136 | — | ⏳ Pendiente |
 | Multicoloured-Serf | Spread: Texas Tech (-5.5) | Baylor | 2.00 (50¢) | $34,782 | — | ⏳ Pendiente |
@@ -128,6 +131,3 @@ _(mostrando los 40 de mayor monto, de 745 en total)_
 | dumpybadger1368 | Helsinki: Edas Butvilas vs Nishesh Basavareddy | Nishesh Basavareddy | 1.06 (94¢) | $221,168 | +$14,117 | ✅ Ganada |
 | robloxgamblemaster-2008-10-18 | Wizards vs. Bulls | Bulls | 1.75 (57¢) | $26,553 | -$26,553 | ❌ Perdida |
 | ArturitoFilito | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.52 (66¢) | $36,412 | +$18,758 | ✅ Ganada |
-| Moneymethod | Metz: Soon-Woo Kwon vs Dino Prizmic | Soon-Woo Kwon | 1.47 (68¢) | $30,370 | +$14,292 | ✅ Ganada |
-| 0x6db5…e279 | Knicks vs. Timberwolves | Knicks | 1.10 (91¢) | $28,420 | +$2,811 | ✅ Ganada |
-| mentionmarket | Clippers vs. Spurs | Clippers | 3.33 (30¢) | $62,106 | -$62,106 | ❌ Perdida |

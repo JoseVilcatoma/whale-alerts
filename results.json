@@ -133447,5 +133447,50 @@
     "status": "pending",
     "ultimo_fill": 1795281992,
     "fills": 1
+  },
+  {
+    "telegram_msg_id": 17978,
+    "timestamp": 1795282195,
+    "username": "Multicoloured-Serf",
+    "wallet": "0x958bdb8aa30b8e5bd1fe4ee071f309c84e97f826",
+    "slug": "cfb-txtech-bayl-2026-11-21-spread-away-5pt5",
+    "title": "Spread: Texas Tech (-5.5)",
+    "outcome": "Baylor",
+    "side": "BUY",
+    "usd": 37325.999899999995,
+    "odds_at_bet": 49,
+    "status": "pending",
+    "ultimo_fill": 1795282195,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17979,
+    "timestamp": 1795282237,
+    "username": "chubbytoro",
+    "wallet": "0xe4a57385a34b0b32fd86be72efd25cda41003cad",
+    "slug": "nhl-edm-car-2026-11-21",
+    "title": "Oilers vs. Hurricanes",
+    "outcome": "Hurricanes",
+    "side": "BUY",
+    "usd": 25856.9013,
+    "odds_at_bet": 67,
+    "status": "pending",
+    "ultimo_fill": 1795282237,
+    "fills": 1
+  },
+  {
+    "telegram_msg_id": 17980,
+    "timestamp": 1795282239,
+    "username": "S-Works",
+    "wallet": "0xee00ba338c59557141789b127927a55f5cc5cea1",
+    "slug": "lal-rea-cel-2026-11-21-draw",
+    "title": "Will Real Madrid CF vs. RC Celta de Vigo end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "usd": 41609.102000000006,
+    "odds_at_bet": 89,
+    "status": "pending",
+    "ultimo_fill": 1795282239,
+    "fills": 1
   }
 ]
